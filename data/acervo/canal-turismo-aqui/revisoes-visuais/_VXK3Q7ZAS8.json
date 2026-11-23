@@ -1,0 +1,184 @@
+{
+  "video_id": "_VXK3Q7ZAS8",
+  "quadros": [
+    {
+      "tempo_ms": 9977,
+      "descricao": "Emanuel Júlio está à beira d'água, diante da vegetação, ao lado de um letreiro de agradecimento pelos 5 mil inscritos.",
+      "local": "",
+      "confianca": "não identificado",
+      "contexto": "O apresentador agradece a marca de inscritos e retoma os primeiros meses de produção do canal.",
+      "marcas": [
+        7,
+        15
+      ]
+    },
+    {
+      "tempo_ms": 50317,
+      "descricao": "Três visitantes seguem por uma trilha com folhas no chão e mata fechada dos dois lados. O letreiro identifica a Floresta Nacional do Tapajós.",
+      "local": "Floresta Nacional do Tapajós (PA)",
+      "confianca": "confirmado",
+      "contexto": "Na retrospectiva, a fala cita a floresta como um dos destinos visitados pelo canal.",
+      "marcas": [
+        46,
+        53
+      ]
+    },
+    {
+      "tempo_ms": 56757,
+      "descricao": "Uma canoa de madeira ocupa o primeiro plano em água rasa. Atrás, há pessoas no banco de areia e outros barcos.",
+      "local": "Reserva Extrativista Tapajós–Arapiuns (PA)",
+      "confianca": "confirmado",
+      "contexto": "O letreiro e a locução identificam a reserva durante a retrospectiva das visitas à margem esquerda do Tapajós.",
+      "marcas": [
+        53,
+        61
+      ]
+    },
+    {
+      "tempo_ms": 62195,
+      "descricao": "Três pessoas avançam a pé por um trecho de água rasa diante de bancos de areia e vegetação de margem.",
+      "local": "Reserva Extrativista Tapajós–Arapiuns (PA)",
+      "confianca": "confirmado",
+      "contexto": "A locução comenta as comunidades visitadas e o turismo de experiência na reserva.",
+      "marcas": [
+        53,
+        61,
+        68
+      ]
+    },
+    {
+      "tempo_ms": 68035,
+      "descricao": "Uma pessoa repousa numa rede branca presa a uma árvore à sombra, com a praia e o rio ao fundo.",
+      "local": "Reserva Extrativista Tapajós–Arapiuns (PA)",
+      "confianca": "confirmado",
+      "contexto": "A imagem integra a sequência sobre as experiências registradas na Reserva Extrativista Tapajós–Arapiuns.",
+      "marcas": [
+        61,
+        68
+      ]
+    },
+    {
+      "tempo_ms": 74074,
+      "descricao": "Uma pessoa de camisa vermelha ocupa a proa de uma canoa verde que avança entre árvores sobre a água escura.",
+      "local": "Floresta Encantada do Caranazal, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O letreiro identifica Caranazal enquanto a locução relembra os passeios por igarapés e igapós.",
+      "marcas": [
+        68,
+        77
+      ]
+    },
+    {
+      "tempo_ms": 80147,
+      "descricao": "A proa verde aponta para uma área alagada aberta, com ramos refletidos na água e construções ao fundo.",
+      "local": "Floresta Encantada do Caranazal, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A sequência continua em Caranazal enquanto o apresentador convida o público a sugerir outros destinos.",
+      "marcas": [
+        77,
+        85
+      ]
+    },
+    {
+      "tempo_ms": 97064,
+      "descricao": "Vista aérea da enseada com barcos dispersos junto às casas da orla e morros arborizados ao fundo.",
+      "local": "Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador explica que o canal começou com reportagens sobre Alter do Chão, identificado no próprio quadro.",
+      "marcas": [
+        92,
+        100
+      ]
+    },
+    {
+      "tempo_ms": 109376,
+      "descricao": "Vista aérea de Santarém com avenidas e edifícios acompanhando a curva da margem do rio.",
+      "local": "Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A fala apresenta Santarém como sede do município e ponto de entrada para os roteiros do Tapajós.",
+      "marcas": [
+        100,
+        107,
+        115
+      ]
+    },
+    {
+      "tempo_ms": 114815,
+      "descricao": "Panorama aéreo dos bairros de Santarém, com um campo gramado cercado de construções e árvores.",
+      "local": "Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O letreiro ainda identifica Santarém quando a narração começa a introduzir Macapá.",
+      "marcas": [
+        107,
+        115
+      ]
+    },
+    {
+      "tempo_ms": 120454,
+      "descricao": "Letreiro vermelho e branco com um coração e o nome Macapá, entre gramado, árvores e um prédio alto.",
+      "local": "Macapá (AP)",
+      "confianca": "confirmado",
+      "contexto": "A montagem passa a Macapá na retrospectiva dos destinos visitados pelo canal.",
+      "marcas": [
+        115,
+        123
+      ]
+    },
+    {
+      "tempo_ms": 126693,
+      "descricao": "Tomada aérea de uma fortaleza cercada por taludes gramados, com a cidade de Macapá ao fundo.",
+      "local": "Fortaleza de São José de Macapá, Macapá (AP)",
+      "confianca": "confirmado",
+      "contexto": "A imagem ainda mostra Macapá, embora a narração já tenha começado a mencionar Manaus.",
+      "marcas": [
+        115,
+        123,
+        133
+      ],
+      "fontes": [
+        "https://www.gov.br/iphan/pt-br/centrais-de-conteudo/legislacao/atos-normativos/2021/portaria-gab-iphan-iphan-no-40-de-15-de-setembro-de-2021"
+      ]
+    },
+    {
+      "tempo_ms": 132132,
+      "descricao": "O Relógio Municipal aparece ao centro de um canteiro de Manaus, entre árvores, carros e fachadas históricas.",
+      "local": "Largo da Matriz, Manaus (AM)",
+      "confianca": "confirmado",
+      "contexto": "O quadro com letreiro de Manaus ilustra a passagem do canal pela cidade antes da transição para Belém.",
+      "marcas": [
+        123,
+        133
+      ],
+      "fontes": [
+        "https://www.manaus.am.gov.br/wp-content/uploads/2020/09/PMC-MANAUS-18-12.pdf"
+      ]
+    },
+    {
+      "tempo_ms": 144444,
+      "descricao": "Canhões e muralhas baixas do forte aparecem diante da orla de Belém, com barcos e prédios ao fundo.",
+      "local": "Forte do Presépio, Belém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A montagem de Belém acompanha a fala sobre a história da cidade e os atrativos que o canal visitou.",
+      "marcas": [
+        133,
+        142,
+        149
+      ],
+      "fontes": [
+        "https://www.secult.pa.gov.br/projeto/24/espacos-secult/"
+      ]
+    },
+    {
+      "tempo_ms": 150283,
+      "descricao": "Um mirante de madeira se abre para uma extensa vegetação aquática que se estende até a margem.",
+      "local": "Belém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O letreiro situa a imagem em Belém no momento em que o apresentador comenta os atrativos ligados ao ecoturismo.",
+      "marcas": [
+        142,
+        149,
+        157
+      ]
+    }
+  ]
+}

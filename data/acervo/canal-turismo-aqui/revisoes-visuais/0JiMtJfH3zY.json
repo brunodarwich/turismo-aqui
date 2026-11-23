@@ -1,0 +1,126 @@
+{
+  "video_id": "0JiMtJfH3zY",
+  "motivo": "",
+  "quadros": [
+    {
+      "descricao": "Emanuel Júlio no banco do passageiro com dois companheiros de viagem no carro e edificações urbanas visíveis pela janela.",
+      "local": "",
+      "confianca": "não identificado",
+      "contexto": "Na abertura, o apresentador apresenta a equipe que o convidou a conhecer Santarém Miri. O trajeto urbano em que a cena foi gravada não é nomeado.",
+      "marcas": [
+        0,
+        10
+      ],
+      "tempo_ms": 19086
+    },
+    {
+      "descricao": "Estrada de terra avermelhada entre casas, árvores e postes, vista de dentro do carro em movimento.",
+      "local": "Acesso a Santarém Miri, Santarém (PA)",
+      "confianca": "provável",
+      "contexto": "O deslocamento aparece entre a apresentação da equipe e o relato sobre a estrutura da comunidade. O trecho da estrada não é nomeado.",
+      "marcas": [
+        10,
+        103
+      ],
+      "tempo_ms": 56456
+    },
+    {
+      "descricao": "Emanuel Júlio e dois acompanhantes em uma varanda coberta, junto a uma via sem pavimentação e a materiais de construção.",
+      "local": "Santarém Miri, Santarém (PA)",
+      "confianca": "provável",
+      "contexto": "A imagem antecede a apresentação da comunidade e a fala sobre seus serviços. O imóvel da cena não é identificado.",
+      "marcas": [
+        103,
+        110
+      ],
+      "tempo_ms": 93627
+    },
+    {
+      "descricao": "Vista aérea de Santarém Miri com casas e quintais arborizados dos dois lados de uma rua de terra e uma extensão de água ao fundo.",
+      "local": "Santarém Miri, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O entrevistado menciona o lago em frente à comunidade, a tranquilidade e o acesso a um igarapé.",
+      "marcas": [
+        118,
+        124,
+        129,
+        135
+      ],
+      "tempo_ms": 130197
+    },
+    {
+      "descricao": "Tomada aérea acima da vegetação e das vias de terra, com uma clareira e uma ampla extensão de água no horizonte.",
+      "local": "Entorno de Santarém Miri, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "As vistas aéreas dão continuidade à apresentação de Santarém Miri, durante a qual o entrevistado descreve seus igarapés e o lago em frente à comunidade.",
+      "marcas": [
+        124,
+        171
+      ],
+      "tempo_ms": 204137
+    },
+    {
+      "descricao": "Mesa de madeira posta para o almoço, com pratos, talheres verdes, travessas de comida e uma jarra de bebida.",
+      "local": "Santarém Miri, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O vídeo registra a refeição na visita a uma família da comunidade. Na conversa posterior, o grupo recorda o almoço como parte da experiência gastronômica.",
+      "marcas": [
+        259,
+        261,
+        265,
+        350,
+        354
+      ],
+      "tempo_ms": 241475
+    },
+    {
+      "descricao": "Um morador entrevistado à mesa usa camisa branca com gola verde e microfone, diante de uma parede de madeira.",
+      "local": "Santarém Miri, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O entrevistado fala sobre receber pessoas em casa e sobre o orgulho de apresentar Santarém Miri a quem está conhecendo a comunidade.",
+      "marcas": [
+        265,
+        274,
+        280,
+        287
+      ],
+      "tempo_ms": 278044
+    },
+    {
+      "descricao": "Dois visitantes descansam em redes vermelhas com acabamento rendado, sob abrigo aberto de piso arenoso.",
+      "local": "Santarém Miri, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A montagem mostra o descanso após a conversa sobre hospitalidade, em um trecho que a transcrição registra como sem áudio audível.",
+      "marcas": [
+        287,
+        294
+      ],
+      "tempo_ms": 315015
+    },
+    {
+      "descricao": "Um integrante do grupo fala à mesa ao lado de outro homem, com cadeiras de madeira e vegetação no fundo.",
+      "local": "Santarém Miri, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "No balanço da visita, o grupo recomenda conhecer a comunidade e comenta o acolhimento dos moradores.",
+      "marcas": [
+        374,
+        379,
+        387,
+        389
+      ],
+      "tempo_ms": 388755
+    },
+    {
+      "descricao": "Emanuel Júlio fala atrás de um notebook, sob o letreiro amarelo Me Convida, em uma cena de encerramento gravada em ambiente interno.",
+      "local": "",
+      "confianca": "não identificado",
+      "contexto": "O apresentador encerra o episódio e explica que a série apresenta a cultura e as características das comunidades visitadas. O local de gravação desse encerramento não é informado.",
+      "marcas": [
+        416,
+        424,
+        431
+      ],
+      "tempo_ms": 426326
+    }
+  ]
+}

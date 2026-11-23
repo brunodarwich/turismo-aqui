@@ -1,0 +1,156 @@
+{
+  "video_id": "8Y5fjEmsw0Y",
+  "motivo": "",
+  "quadros": [
+    {
+      "tempo_ms": 87720,
+      "descricao": "Sol baixo reflete no Tapajós ao lado de uma construção com varanda e cobertura de telhas.",
+      "local": "Rio Tapajós, Parque Nacional da Amazônia, Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "Na abertura, o grupo começa o dia no parque e mostra a margem do rio antes das atividades.",
+      "marcas": [
+        75,
+        83,
+        91
+      ],
+      "fontes": [
+        "https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/unidade-de-conservacao/unidades-de-biomas/amazonia/lista-de-ucs/parna-da-amazonia/informacoes-sobre-visitacao-parna-da-amazonia"
+      ]
+    },
+    {
+      "tempo_ms": 157080,
+      "descricao": "Visitantes formam um círculo numa clareira para se preparar para a caminhada.",
+      "local": "Parque Nacional da Amazônia, Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "A equipe conduz exercícios leves de mobilidade antes da saída.",
+      "marcas": [
+        142,
+        152,
+        160
+      ]
+    },
+    {
+      "tempo_ms": 191840,
+      "descricao": "Visitantes observam o Tapajós de um mirante de madeira com guarda-corpo.",
+      "local": "Base do Uruá, Parque Nacional da Amazônia, Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador identifica o mirante da base e comenta o nível do rio no momento da visita.",
+      "marcas": [
+        177,
+        187,
+        194
+      ],
+      "fontes": [
+        "https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/unidade-de-conservacao/unidades-de-biomas/amazonia/lista-de-ucs/parna-da-amazonia/arquivos/pup_formatacao_allan-cleaned.pdf"
+      ]
+    },
+    {
+      "tempo_ms": 226600,
+      "descricao": "Paulo Amorim, identificado pela legenda do vídeo, fala no mirante com a mata ao fundo.",
+      "local": "Base do Uruá, Parque Nacional da Amazônia, Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "A conversa à beira do mirante traz a perspectiva de um participante sobre a paisagem, a conservação e o turismo.",
+      "marcas": [
+        218,
+        232
+      ]
+    },
+    {
+      "tempo_ms": 331520,
+      "descricao": "Condutor de visitantes fala em frente à placa da Trilha da Gameleira, na mata.",
+      "local": "Trilha da Gameleira, Parque Nacional da Amazônia, Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "A equipe apresenta uma das trilhas do parque e comenta a possibilidade de voltar para percorrê-la.",
+      "marcas": [
+        323,
+        331,
+        340
+      ],
+      "fontes": [
+        "https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/unidade-de-conservacao/unidades-de-biomas/amazonia/lista-de-ucs/parna-da-amazonia/arquivos/pup_formatacao_allan-cleaned.pdf"
+      ]
+    },
+    {
+      "tempo_ms": 470360,
+      "descricao": "Caminhantes descem entre árvores e folhas secas, com um bastão de apoio visível.",
+      "local": "Parque Nacional da Amazônia, Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "O grupo comenta os cuidados no percurso acidentado e o uso do bastão para apoiar a caminhada.",
+      "marcas": [
+        460,
+        468,
+        478
+      ]
+    },
+    {
+      "tempo_ms": 574960,
+      "descricao": "Participante de camiseta escura e óculos fala na trilha, com o grupo entre as árvores.",
+      "local": "Parque Nacional da Amazônia, Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "A conversa sobre a Rota Tapajônica destaca a importância de vivenciar o caminho durante a preparação do roteiro.",
+      "marcas": [
+        565,
+        574,
+        581
+      ]
+    },
+    {
+      "tempo_ms": 713760,
+      "descricao": "Visitante segura o celular ao lado das pedras da margem do Tapajós.",
+      "local": "Rio Tapajós, Parque Nacional da Amazônia, Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "Os caminhantes param para fotografar as pedras e procuram por onde seguir.",
+      "marcas": [
+        707,
+        715,
+        722
+      ]
+    },
+    {
+      "tempo_ms": 782880,
+      "descricao": "Água branca rompe entre lajes escuras e bancos de pedra do Tapajós.",
+      "local": "Rio Tapajós, Parque Nacional da Amazônia, Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador observa que visitantes costumam fotografar o rio e as águas correntes nesse ponto.",
+      "marcas": [
+        767,
+        776,
+        784
+      ]
+    },
+    {
+      "tempo_ms": 852600,
+      "descricao": "Caminhantes se abaixam para passar sob um tronco tombado no caminho de mata.",
+      "local": "Parque Nacional da Amazônia, Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "Nesse trecho, o grupo comenta os marimbondos e a necessidade de seguir com cuidado e em silêncio.",
+      "marcas": [
+        841,
+        848
+      ]
+    },
+    {
+      "tempo_ms": 921920,
+      "descricao": "Visitantes espalhados pela praia de areia, com o Tapajós aberto ao fundo.",
+      "local": "Rio Tapajós, Parque Nacional da Amazônia, Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "Ao chegar a um trecho aberto da margem, o apresentador volta a destacar a paisagem.",
+      "marcas": [
+        923
+      ]
+    },
+    {
+      "tempo_ms": 991480,
+      "descricao": "Pegadas na areia entre pessoas que examinam o chão na praia do Tapajós.",
+      "local": "Rio Tapajós, Parque Nacional da Amazônia, Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "A equipe comenta o tamanho das pegadas e lembra que os visitantes estão no ambiente dos animais do parque.",
+      "marcas": [
+        977,
+        986,
+        994,
+        1001
+      ]
+    }
+  ]
+}

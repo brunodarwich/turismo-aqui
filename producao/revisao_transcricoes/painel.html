@@ -1,0 +1,614 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Acervo de transcrições | Turismo Aqui</title>
+<style>
+:root {
+  --ink:#15392e; --muted:#52675d; --green:#135141; --deep:#092f29;
+  --paper:#f4f7f1; --plain:#fff; --line:#d5e1d8; --gold:#f4d275;
+  --local:#176653; --comida:#a34c14; --pessoa:#6b4d98; --tema:#255d96;
+  --font:system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+* { box-sizing:border-box }
+[hidden] { display:none!important }
+html { scroll-behavior:smooth }
+body { margin:0; background:var(--paper); color:var(--ink); font:1rem/1.52 var(--font) }
+button, input, select { font:inherit; color:inherit }
+button, select { cursor:pointer }
+a { color:var(--green); text-underline-offset:.19em }
+:focus-visible { outline:3px solid #237e64; outline-offset:3px }
+.masthead :focus-visible { outline-color:var(--gold) }
+.skip { position:absolute; left:1rem; top:-6rem; z-index:5; padding:.75rem; background:white }
+.skip:focus { top:.5rem }
+.wrap { width:min(1260px,calc(100% - 72px)); margin-inline:auto }
+.masthead { background:var(--deep); color:#fff }
+.nav { min-height:70px; display:flex; align-items:center; justify-content:space-between; gap:1rem; border-bottom:1px solid #ffffff2c }
+.brand { font-size:1rem; letter-spacing:.09em; font-weight:800; color:#fff; text-decoration:none }
+.brand span { color:var(--gold) }
+.nav nav { display:flex; flex-wrap:wrap; gap:clamp(.65rem,3vw,2rem) }
+.nav nav a { color:#e0eee7; font-size:.9rem; font-weight:600; text-decoration:none }
+.nav nav a:hover { color:var(--gold) }
+.hero { padding:44px 0 46px; display:grid; grid-template-columns:minmax(0,1fr) auto; align-items:end; gap:1rem }
+h1, h2, h3, p { margin:0 }
+h1, h2 { font-family:Georgia,serif; line-height:1.08; letter-spacing:-.038em }
+h1 { font-size:clamp(2.55rem,5.9vw,5rem); color:#fff }
+h2 { font-size:clamp(2rem,3.35vw,3.1rem) }
+h3 { font-size:1.12rem; line-height:1.29 }
+.hero p { margin-top:1rem; color:#d5e9e0; max-width:38rem }
+.period { color:var(--gold); font-size:.9rem; white-space:nowrap; font-weight:700; padding-bottom:.3rem }
+main { padding-bottom:2rem }
+.section { margin-top:2.25rem; scroll-margin:1rem }
+.section-head { display:flex; justify-content:space-between; align-items:end; flex-wrap:wrap; gap:1rem; margin-bottom:1.15rem }
+.card, .filters { background:var(--plain); border:1px solid var(--line); border-radius:16px }
+.filters { padding:1rem 1.2rem; margin:0 0 1rem }
+.form-grid { display:grid; grid-template-columns:minmax(210px,2.15fr) minmax(110px,.75fr) minmax(110px,.75fr) minmax(155px,1.2fr) minmax(180px,1.6fr); gap:.65rem }
+label { display:grid; align-content:start; min-width:0; gap:.28rem; font-size:.875rem; font-weight:700 }
+input, select { min-height:43px; width:100%; padding:.45rem .65rem; border:1px solid #bdcdc2; border-radius:7px; background:#fff; font-size:.93rem }
+select { appearance:none; padding-right:1.55rem; background-image:linear-gradient(45deg,transparent 50%,#43645a 50%),linear-gradient(135deg,#43645a 50%,transparent 50%); background-size:5px 5px; background-position:calc(100% - 15px) 52%,calc(100% - 10px) 52%; background-repeat:no-repeat; text-overflow:ellipsis }
+.filter-state { display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:.5rem; margin-top:.75rem }
+.filter-actions { display:flex; flex-wrap:wrap; align-items:center; gap:.5rem 1rem }
+.check-filter { display:flex; align-items:center; gap:.4rem; min-height:32px; cursor:pointer }
+.check-filter input { width:1rem; height:1rem; min-height:0; margin:0; accent-color:var(--green) }
+.note, .filter-state { color:var(--muted); font-size:.875rem }
+.plain-button { border:0; background:transparent; padding:.15rem .2rem; color:var(--green); font-size:.875rem; font-weight:750; text-decoration:underline; text-underline-offset:.2em }
+.plain-button:disabled { color:#63776a; cursor:default; text-decoration:none }
+#selected { display:flex; flex-wrap:wrap; gap:.35rem; margin-top:.6rem }
+#selected:empty { display:none }
+.metrics { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:.8rem }
+.metric { padding:.85rem 1.15rem 1rem; min-height:100px; display:grid; align-content:center }
+.metric span { display:block; color:var(--muted); font-size:.9rem }
+.metric strong { display:block; font:700 clamp(1.85rem,3vw,2.6rem)/1.13 Georgia,serif; font-variant-numeric:tabular-nums }
+.columns { display:grid; gap:1rem; grid-template-columns:repeat(2,minmax(0,1fr)); align-items:start }
+.chart { padding:1.2rem; min-width:0 }
+.chart h3 + .note { margin:.3rem 0 .9rem }
+.bars, .categories { list-style:none; padding:0; margin:.7rem 0 0; display:grid; gap:.32rem }
+.bars button, .categories button { background:none; padding:.38rem 0; border:0; display:grid; grid-template-columns:minmax(103px,1.15fr) minmax(45px,1fr) minmax(32px,auto); text-align:left; width:100%; gap:.55rem; align-items:center; font-size:.9rem }
+.bars button:hover .tag-title, .categories button:hover .tag-title { text-decoration:underline; text-underline-offset:.15em }
+.tag-title { overflow-wrap:anywhere }
+.count { text-align:right; color:var(--muted); font-variant-numeric:tabular-nums; font-size:.875rem }
+.track { background:#e9f0eb; border-radius:6px; height:8px; display:block; overflow:hidden }
+.track i { display:block; height:100%; border-radius:6px; background:var(--tone,var(--local)) }
+[data-group="Local"] { --tone:var(--local); --dim:#e5f1eb }
+[data-group="Comida"] { --tone:var(--comida); --dim:#fbefe4 }
+[data-group="Pessoa"] { --tone:var(--pessoa); --dim:#f1eaf8 }
+[data-group="Tema"] { --tone:var(--tema); --dim:#e7eff9 }
+.ranking { margin-top:1rem }
+.card-head { display:flex; justify-content:space-between; align-items:center; gap:.65rem; flex-wrap:wrap }
+.card-head select { width:auto; max-width:100% }
+.legend { display:flex; gap:.85rem; align-items:center; flex-wrap:wrap; color:var(--muted); font-size:.875rem }
+.legend span { display:flex; align-items:center; gap:.3rem }
+.dot { display:inline-block; width:.64rem; height:.64rem; background:var(--tone); border-radius:50%; flex:none }
+.graph-card { margin-bottom:1rem }
+.graph-controls { display:grid; grid-template-columns:minmax(0,1.6fr) minmax(0,1fr) minmax(7rem,.55fr); gap:.65rem; align-items:end; margin-bottom:.85rem }
+.graph-stage { position:relative; min-height:0; height:clamp(460px,65vh,780px); border-radius:12px; background:#0c302a; overflow:hidden; color:#f4faf5 }
+.network-plot { display:block; width:100%; height:100%; cursor:grab; touch-action:none; background:radial-gradient(#9ec7b72c 1px,transparent 1px) 0 0 / 24px 24px }
+.network-plot:focus-visible { outline-color:var(--gold); outline-offset:-4px }
+.network-plot[data-cursor="node"] { cursor:pointer }
+.network-plot[data-cursor="drag"] { cursor:grabbing }
+.graph-stage:fullscreen, .graph-stage.expanded { width:100%; height:100%; border-radius:0 }
+.graph-stage.expanded { position:fixed; inset:0; z-index:20 }
+.graph-empty { pointer-events:none; position:absolute; inset:0; display:grid; place-items:center; padding:1rem; text-align:center; color:#e0eee7 }
+.graph-tools { position:absolute; right:.65rem; bottom:.65rem; display:flex; flex-wrap:wrap; justify-content:end; gap:.35rem }
+.graph-tools .button { min-height:40px; min-width:40px; padding:.35rem .6rem; background:#123c33; color:#f4faf5; border-color:#7eaa99 }
+.graph-tools .button:hover { background:#255747 }
+.graph-tools .button:focus-visible { outline-color:var(--gold) }
+.graph-tooltip { pointer-events:none; position:absolute; width:max-content; max-width:min(16rem,calc(100% - 1rem)); z-index:1; padding:.35rem .55rem; border:1px solid #8cb3a2; border-radius:6px; color:#fff; background:#123c33; font-size:.875rem }
+.graph-meta { display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:.4rem 1rem; margin-top:.6rem }
+.graph-details { margin-top:.7rem; padding:.65rem 0 0; border-top:1px solid var(--line) }
+.graph-details .card-head { margin-top:.65rem }
+.button { display:inline-flex; align-items:center; justify-content:center; min-height:41px; padding:.42rem .7rem; color:var(--green); background:#f2f7f3; border:1px solid #a9c3b5; border-radius:7px; text-decoration:none; font-size:.875rem; font-weight:700 }
+.button:hover { background:#e5f2e9 }
+.button:disabled { opacity:.55; cursor:default }
+.related { margin:.55rem 0 0; padding:.2rem; display:grid; grid-template-columns:repeat(auto-fit,minmax(min(100%,13rem),1fr)); gap:.35rem; list-style:none; max-height:14rem; overflow:auto }
+.related button { display:flex; justify-content:space-between; align-items:center; gap:.4rem; width:100%; min-height:37px; padding:.3rem .55rem; background:var(--dim); color:var(--tone); border:1px solid transparent; border-radius:6px; text-align:left; font-size:.875rem }
+.related button:hover { border-color:var(--tone) }
+.timeline { margin:1rem 0 0; display:grid; grid-template-columns:repeat(auto-fit,minmax(56px,1fr)); gap:.4rem }
+.timeline button { background:none; border:0; min-width:0; display:grid; grid-template-rows:85px auto; gap:.25rem; place-items:end center; padding:.2rem; border-radius:7px; font-size:.83rem; color:var(--muted) }
+.timeline button:hover, .timeline button[aria-pressed="true"] { background:#e4efe8 }
+.tower { height:100%; width:100%; display:flex; flex-direction:column; justify-content:end; align-items:center; gap:.15rem }
+.tower em { font-style:normal; font-variant-numeric:tabular-nums }
+.tower span { display:block; border-radius:4px 4px 0 0; background:var(--local); width:min(65%,38px) }
+.catalog { display:grid; gap:.75rem; padding:0; list-style:none; margin:0 }
+.video { padding:.95rem 1.1rem; display:grid; grid-template-columns:minmax(0,1fr) auto; gap:.5rem .8rem }
+.video h3 { margin:.2rem 0 .5rem; overflow-wrap:anywhere; font-size:1.14rem }
+.metadata { display:flex; flex-wrap:wrap; gap:.25rem .6rem; color:var(--muted); font-size:.875rem }
+.status { font-weight:700 }
+.status[data-state="audio"], .status[data-state="editorial"] { color:#195f49 }
+.status[data-state="silencio"], .status[data-state="sem-fala"], .status[data-state="pendente"] { color:#8b450f }
+.chips { display:flex; flex-wrap:wrap; gap:.3rem }
+.chip { padding:.18rem .5rem; border:1px solid transparent; border-radius:5px; color:var(--tone); background:var(--dim); font-size:.81rem; font-weight:650 }
+.chip:hover, .chip[aria-pressed="true"] { border-color:var(--tone) }
+.actions { display:flex; gap:.4rem; align-items:start; flex-wrap:wrap }
+.pagination { display:flex; align-items:center; justify-content:center; flex-wrap:wrap; margin:1rem 0; gap:.7rem }
+.empty { padding:1.2rem; border:1px dashed #a9c0b2; color:var(--muted); border-radius:10px }
+details { padding:.8rem 1rem }
+summary { cursor:pointer; font-weight:750 }
+details p { margin-top:.7rem; max-width:73ch }
+footer { background:var(--deep); color:#d5e9e0; padding:1.1rem 0; font-size:.875rem }
+footer .wrap { display:flex; align-items:center; justify-content:space-between; gap:1rem; flex-wrap:wrap }
+footer a { color:var(--gold) }
+@media (max-width:900px) {
+  .wrap { width:calc(100% - 40px) }
+  .form-grid { grid-template-columns:repeat(2,minmax(0,1fr)) }
+  .form-grid label:first-child { grid-column:1/-1 }
+  .columns { grid-template-columns:1fr }
+}
+@media (max-width:560px) {
+  .wrap { width:calc(100% - 28px) }
+  .nav { align-items:start; justify-content:center; flex-direction:column; padding:.75rem 0; gap:.4rem }
+  .hero { display:block; padding:32px 0 }
+  .period { display:block; margin-top:.75rem }
+  .metric { padding:.55rem .7rem; min-height:78px }
+  .metrics { grid-template-columns:repeat(2,minmax(0,1fr)) }
+  .chart,.filters,.video { padding:.8rem }
+  .video { grid-template-columns:minmax(0,1fr) }
+  .timeline { grid-template-columns:repeat(5,minmax(0,1fr)) }
+  .graph-controls { grid-template-columns:minmax(0,1fr) minmax(0,1fr) }
+  .graph-controls label:first-child { grid-column:1/-1 }
+  .graph-stage { height:450px }
+}
+@media (prefers-reduced-motion:reduce) { html { scroll-behavior:auto } }
+</style>
+</head>
+<body>
+<a class="skip" href="#conteudo">Ir para o conteúdo</a>
+<header class="masthead" id="inicio">
+  <div class="wrap nav">
+    <a class="brand" href="#inicio">TURISMO <span>AQUI</span></a>
+    <nav aria-label="Seções do painel">
+      <a href="#visao">Visão geral</a><a href="#tags">Gráficos e grafo</a><a href="#publicacoes">Catálogo</a>
+    </nav>
+  </div>
+  <div class="wrap hero">
+    <div><h1>Acervo de transcrições</h1><p>Explore os vídeos e as lives do canal pelos lugares, comidas, pessoas e temas que aparecem nas publicações.</p></div>
+    <span class="period" id="period"></span>
+  </div>
+</header>
+<main class="wrap" id="conteudo">
+  <section class="section" id="visao" aria-labelledby="overview-title">
+    <div class="section-head"><h2 id="overview-title">Visão geral</h2></div>
+    <form class="filters" id="filters" role="search" aria-label="Filtros do acervo">
+      <div class="form-grid">
+        <label>Buscar por título ou tag<input id="search" type="search" placeholder="Ex.: Alter do Chão" autocomplete="off"></label>
+        <label>Ano<select id="year"><option value="">Todos</option></select></label>
+        <label>Tipo<select id="type"><option value="">Todos</option><option>Vídeo</option><option>Live</option></select></label>
+        <label>Situação do texto<select id="status"><option value="">Todas</option></select></label>
+        <label>Adicionar tag<select id="tag"><option value="">Selecione uma tag</option></select></label>
+      </div>
+      <div id="selected" aria-label="Tags selecionadas"></div>
+      <div class="filter-state">
+        <span id="match" role="status"></span>
+        <div class="filter-actions">
+          <label class="check-filter"><input id="only-uncertain" type="checkbox"> Com trechos incertos</label>
+          <button id="clear-filters" type="button" class="plain-button">Limpar filtros</button>
+        </div>
+      </div>
+    </form>
+    <div class="metrics">
+      <div class="card metric"><strong id="video-count"></strong><span>publicações</span></div>
+      <div class="card metric"><strong id="speech-count"></strong><span>transcrições com fala</span></div>
+      <div class="card metric"><strong id="tag-count"></strong><span>tags utilizadas</span></div>
+      <div class="card metric"><strong id="link-count"></strong><span>associações de tags</span></div>
+    </div>
+  </section>
+
+  <section class="section" id="tags" aria-labelledby="tags-title">
+    <div class="section-head"><h2 id="tags-title">Gráficos e grafo</h2></div>
+    <article class="card chart graph-card" aria-labelledby="graph-title">
+      <h3 id="graph-title">Grafo de coocorrência</h3>
+      <p class="note" id="graph-instructions">Quanto mais conexões visíveis uma tag tem, maior é seu nó. Arraste o fundo para navegar ou um nó para movê-lo. Use a roda do mouse, a pinça ou os botões para dar zoom. Selecione uma tag para ver suas conexões e as contagens em comum.</p>
+      <div class="graph-controls">
+        <label>Localizar tag<select id="focus"></select></label>
+        <label>Visualização<select id="graph-mode"><option value="all">Rede completa</option><option value="near">Vizinhança da tag</option></select></label>
+        <label>Mínimo em comum<input type="number" id="graph-min" value="1" min="1" step="1"></label>
+      </div>
+      <div class="graph-stage" id="network">
+        <canvas class="network-plot" id="graph-canvas" tabindex="0" aria-label="Rede de tags interativa" aria-describedby="graph-instructions graph-summary" aria-keyshortcuts="ArrowUp ArrowDown ArrowLeft ArrowRight + - Home Escape">Use o campo Localizar tag para consultar as conexões do grafo.</canvas>
+        <p class="graph-empty" id="graph-empty" hidden>Nenhuma tag neste recorte.</p>
+        <div class="graph-tooltip" id="graph-tooltip" hidden></div>
+        <div class="graph-tools" aria-label="Controles de visualização">
+          <button type="button" class="button" id="zoom-out" aria-label="Diminuir zoom">−</button>
+          <button type="button" class="button" id="zoom-in" aria-label="Aumentar zoom">+</button>
+          <button type="button" class="button" id="graph-fit">Enquadrar</button>
+          <button type="button" class="button" id="graph-fullscreen" aria-expanded="false">Tela cheia</button>
+        </div>
+      </div>
+      <div class="graph-meta">
+        <p class="note" id="graph-summary" role="status"></p>
+        <div class="legend" aria-label="Categorias"><span data-group="Local"><i class="dot"></i>Local</span><span data-group="Comida"><i class="dot"></i>Comida</span><span data-group="Pessoa"><i class="dot"></i>Pessoa</span><span data-group="Tema"><i class="dot"></i>Tema</span></div>
+      </div>
+      <details class="graph-details" id="graph-details" hidden>
+        <summary id="graph-details-title"></summary>
+        <div class="card-head">
+          <p class="note" id="graph-details-count"></p>
+          <button id="filter-focus" class="button" type="button">Filtrar publicações pela tag</button>
+        </div>
+        <p class="note" id="graph-no-links" hidden>Nenhuma conexão com esse mínimo.</p>
+        <ul class="related" id="related" aria-label="Conexões da tag selecionada"></ul>
+      </details>
+    </article>
+    <div class="columns">
+      <article class="card chart">
+        <h3>Cobertura por categoria</h3>
+        <p class="note">Publicações com pelo menos uma tag da categoria.</p>
+        <ul class="categories" id="categories"></ul>
+      </article>
+      <article class="card chart">
+        <div class="card-head"><h3>Tags mais presentes</h3>
+          <select id="group" aria-label="Categoria do ranking"><option value="">Todas as categorias</option><option>Local</option><option>Comida</option><option>Pessoa</option><option>Tema</option></select>
+        </div>
+        <p class="note">Clique em uma tag para filtrar o acervo.</p>
+        <ul class="bars" id="bars"></ul>
+      </article>
+    </div>
+    <article class="card chart ranking">
+      <h3>Publicações por ano</h3>
+      <p class="note">Clique no ano para aplicar ou remover o filtro.</p>
+      <div class="timeline" id="timeline"></div>
+    </article>
+  </section>
+
+  <section class="section" id="publicacoes" aria-labelledby="videos-title">
+    <div class="section-head"><h2 id="videos-title">Catálogo</h2><span class="note" id="range"></span></div>
+    <ul class="catalog" id="videos"></ul>
+    <div class="pagination" id="pagination" aria-label="Paginação do catálogo">
+      <button type="button" class="button" id="previous">Página anterior</button>
+      <span class="note" id="page"></span>
+      <button type="button" class="button" id="next">Próxima página</button>
+    </div>
+  </section>
+
+  <details class="card section">
+    <summary>Como os textos e as tags foram organizados</summary>
+    <p>A edição em lote removeu os tempos e as indicações sonoras, restaurou pontuação e parágrafos e corrigiu grafias e erros recorrentes de reconhecimento. Os textos seguem a sequência das falas. Parte do acervo recebeu edição individual. Nos casos sinalizados, o catálogo dá acesso à legenda original para comparação.</p>
+    <p>As tags usam um vocabulário comum com variantes de grafia. Vêm dos títulos e do conteúdo transcrito. Uma publicação pode ter várias tags, mas conta uma única vez para cada tag e para cada combinação do grafo. Quando várias tags estão selecionadas, os resultados incluem publicações que têm todas elas.</p>
+  </details>
+  <noscript><p class="empty">Ative o JavaScript no navegador para usar os gráficos e os filtros. Os TXTs estão na pasta <code>txt</code>.</p></noscript>
+</main>
+<footer><div class="wrap"><span>Turismo Aqui · Acervo editorial</span><a href="#inicio">Voltar ao início</a></div></footer>
+
+<script type="application/json" id="data"><!-- BASE DO ACERVO --></script>
+<script>
+/* CÓDIGO DO GRAFO */
+</script>
+<script>
+'use strict';
+const data = JSON.parse(document.getElementById('data').textContent);
+const $ = (id) => document.getElementById(id);
+const labels = new Map(data.tags.map((tag) => [tag.id, tag]));
+const groups = ['Local', 'Comida', 'Pessoa', 'Tema'];
+const speechStates = new Set(['lote', 'editorial', 'audio']);
+const years = Array.from(new Set(data.videos.map((video) => video.data.slice(0, 4)))).sort();
+const formatter = new Intl.NumberFormat('pt-BR');
+const formatsDate = new Intl.DateTimeFormat('pt-BR', { timeZone:'UTC' });
+const norm = (value) => value.normalize('NFD').replace(/\p{Diacritic}/gu, '').toLowerCase().replace(/[^\p{L}\p{N}]+/gu, ' ').trim();
+const byName = (a, b) => a.nome.localeCompare(b.nome, 'pt-BR');
+const perPage = 16;
+const selected = new Set();
+const indexed = data.videos.map((video) => ({
+  ...video,
+  year: video.data.slice(0, 4),
+  lookup: new Set(video.tags.map(({ id }) => id)),
+  search: norm([video.titulo, video.id, ...video.tags.map(({ id }) => labels.get(id).nome)].join(' ')),
+}));
+let filtered = indexed;
+let ranking = [];
+let page = 0;
+let focus = '';
+const graph = new TagGraph($('graph-canvas'), $('graph-tooltip'), (id) => selectFocus(id));
+
+function el(tag, properties = {}, children = []) {
+  const node = document.createElement(tag);
+  Object.assign(node, properties);
+  node.append(...children);
+  return node;
+}
+
+function options(select, tags, empty) {
+  const choices = empty === undefined ? [] : [new Option(empty, '')];
+  for (const group of groups) {
+    const entries = tags.filter((tag) => tag.grupo === group).sort(byName);
+    if (!entries.length) continue;
+    const optgroup = el('optgroup', { label:group });
+    optgroup.append(...entries.map((tag) => new Option(tag.nome, tag.id)));
+    choices.push(optgroup);
+  }
+  select.replaceChildren(...choices);
+}
+
+function toggleTag(id, goToFilters = false) {
+  if (selected.has(id)) selected.delete(id);
+  else selected.add(id);
+  render();
+  if (goToFilters) {
+    $('visao').scrollIntoView({ block:'start' });
+    $('tag').focus({ preventScroll:true });
+  }
+}
+
+function chip(id, remove = false) {
+  const tag = labels.get(id);
+  const button = el('button', {
+    type:'button', className:'chip', textContent:tag.nome + (remove ? ' ×' : ''),
+    title:remove ? 'Remover filtro de ' + tag.nome : tag.grupo + ' · ' + tag.nome,
+  });
+  button.dataset.group = tag.grupo;
+  if (remove) button.setAttribute('aria-label', 'Remover filtro de ' + tag.nome);
+  else button.setAttribute('aria-pressed', String(selected.has(id)));
+  button.addEventListener('click', () => {
+    toggleTag(id, !remove);
+    if (remove) $('tag').focus({ preventScroll:true });
+  });
+  return button;
+}
+
+function chartRow(label, group, value, maximum, action, active) {
+  const track = el('span', { className:'track' }, [el('i')]);
+  track.firstChild.style.width = (maximum ? 100 * value / maximum : 0) + '%';
+  track.setAttribute('aria-hidden', 'true');
+  const button = el('button', { type:'button' }, [
+    el('span', { className:'tag-title', textContent:label }), track,
+    el('span', { className:'count', textContent:formatter.format(value) }),
+  ]);
+  button.dataset.group = group;
+  button.setAttribute('aria-pressed', String(active));
+  button.addEventListener('click', action);
+  return el('li', {}, [button]);
+}
+
+function renderRanking() {
+  const group = $('group').value;
+  const top = ranking.filter((tag) => !group || tag.grupo === group).slice(0, 10);
+  $('bars').replaceChildren(...top.map((tag) => chartRow(tag.nome, tag.grupo, tag.count, top[0].count,
+    () => toggleTag(tag.id, true), selected.has(tag.id))));
+  if (!top.length) $('bars').append(el('li', { className:'note', textContent:'Nenhuma tag neste recorte.' }));
+}
+
+function renderCharts() {
+  const volumes = new Map();
+  const coverage = Object.fromEntries(groups.map((group) => [group, 0]));
+  for (const video of filtered) {
+    const present = new Set();
+    for (const { id } of video.tags) {
+      volumes.set(id, (volumes.get(id) || 0) + 1);
+      present.add(labels.get(id).grupo);
+    }
+    for (const group of present) coverage[group]++;
+  }
+  ranking = Array.from(volumes, ([id, count]) => ({ ...labels.get(id), count }))
+    .sort((a, b) => b.count - a.count || byName(a, b));
+  $('video-count').textContent = formatter.format(filtered.length);
+  $('speech-count').textContent = formatter.format(filtered.filter((v) => speechStates.has(v.estado)).length);
+  $('tag-count').textContent = formatter.format(volumes.size);
+  $('link-count').textContent = formatter.format(Array.from(volumes.values()).reduce((sum, n) => sum + n, 0));
+  $('categories').replaceChildren(...groups.map((group) => chartRow(group, group, coverage[group], filtered.length,
+    () => {
+      $('group').value = $('group').value === group ? '' : group;
+      renderCharts();
+      $('group').focus({ preventScroll:true });
+    }, $('group').value === group)));
+  renderRanking();
+  renderTimeline();
+  options($('focus'), ranking, 'Selecione uma tag');
+  if (!volumes.has(focus)) focus = '';
+  $('focus').value = focus;
+  renderGraph({ changedData:graph.setData(filtered, ranking) });
+}
+
+function renderTimeline() {
+  const totals = Object.fromEntries(years.map((year) => [year, 0]));
+  for (const video of indexed) if (matches(video, false)) totals[video.year]++;
+  const maximum = Math.max(1, ...Object.values(totals));
+  $('timeline').replaceChildren(...years.map((year) => {
+    const tall = el('span');
+    tall.style.height = (totals[year] ? Math.max(3, 62 * totals[year] / maximum) : 0) + 'px';
+    const button = el('button', { type:'button' }, [
+      el('span', { className:'tower' }, [el('em', { textContent:formatter.format(totals[year]) }), tall]),
+      el('span', { textContent:year }),
+    ]);
+    button.setAttribute('aria-label', year + ', ' + totals[year] + ' publicações');
+    button.setAttribute('aria-pressed', String($('year').value === year));
+    button.addEventListener('click', () => {
+      $('year').value = $('year').value === year ? '' : year;
+      render();
+      $('timeline').children[years.indexOf(year)].focus({ preventScroll:true });
+    });
+    return button;
+  }));
+}
+
+function quantity(number, singular, plural) {
+  return formatter.format(number) + ' ' + (number === 1 ? singular : plural);
+}
+
+function renderGraph({ changedData = false, center = false } = {}) {
+  const mode = $('graph-mode');
+  mode.options[1].disabled = !focus;
+  if (!focus) mode.value = 'all';
+  const input = $('graph-min');
+  const minimum = Math.max(1, Math.floor(Number(input.value) || 1));
+  input.value = String(minimum);
+  graph.setView(focus, mode.value, minimum, changedData, center);
+  const nodeCount = graph.visible.nodes.length;
+  const edgeCount = graph.visible.edges.length;
+  $('graph-summary').textContent = quantity(nodeCount, 'tag', 'tags') + ' · ' + quantity(edgeCount, 'conexão', 'conexões');
+  $('graph-empty').hidden = Boolean(nodeCount);
+  $('focus').disabled = !ranking.length;
+  for (const id of ['zoom-in', 'zoom-out', 'graph-fit']) $(id).disabled = !nodeCount;
+  $('graph-details').hidden = !focus;
+  $('filter-focus').disabled = !focus || selected.has(focus);
+  $('related').replaceChildren();
+  if (!focus) return;
+  const node = graph.byId.get(focus);
+  const neighbors = graph.connections(focus).sort((a, b) => b.count - a.count || byName(a.node, b.node));
+  $('graph-details-title').textContent = 'Conexões de ' + node.nome + ' (' + formatter.format(neighbors.length) + ')';
+  $('graph-details-count').textContent = quantity(node.count, 'publicação com esta tag', 'publicações com esta tag') +
+    ' · contagem de publicações em comum por conexão';
+  $('graph-no-links').hidden = Boolean(neighbors.length);
+  $('related').append(...neighbors.map(({ node:neighbor, count }) => {
+    const button = el('button', { type:'button' }, [
+      el('span', { textContent:neighbor.nome }),
+      el('strong', { textContent:formatter.format(count) }),
+    ]);
+    button.dataset.group = neighbor.grupo;
+    button.setAttribute('aria-label', neighbor.nome + ', ' + quantity(count, 'publicação em comum', 'publicações em comum'));
+    button.addEventListener('click', () => {
+      selectFocus(neighbor.id, true);
+      $('focus').focus({ preventScroll:true });
+      $('network').scrollIntoView({ block:'nearest' });
+    });
+    return el('li', {}, [button]);
+  }));
+}
+
+function selectFocus(id, center = false) {
+  focus = id;
+  $('focus').value = id;
+  $('graph-details').open = Boolean(id);
+  renderGraph({ center });
+}
+
+function updateFullscreen() {
+  const stage = $('network');
+  const button = $('graph-fullscreen');
+  const expanded = document.fullscreenElement === stage || stage.classList.contains('expanded');
+  button.textContent = expanded ? 'Sair da tela cheia' : 'Tela cheia';
+  button.setAttribute('aria-expanded', String(expanded));
+  if (expanded) $('graph-canvas').focus({ preventScroll:true });
+}
+
+async function toggleFullscreen() {
+  const stage = $('network');
+  if (document.fullscreenElement === stage) {
+    await document.exitFullscreen();
+  } else if (stage.classList.contains('expanded')) {
+    stage.classList.remove('expanded');
+  } else {
+    try {
+      await stage.requestFullscreen();
+    } catch {
+      stage.classList.add('expanded');
+    }
+  }
+  updateFullscreen();
+}
+
+function renderCatalog() {
+  const start = page * perPage;
+  const end = Math.min(start + perPage, filtered.length);
+  const rows = filtered.slice(start, end).map((video) => {
+    const status = el('span', { className:'status', textContent:data.estados[video.estado] });
+    status.dataset.state = video.estado;
+    const meta = el('div', { className:'metadata' }, [
+      el('span', { textContent:video.tipo }),
+      el('time', { dateTime:video.data, textContent:formatsDate.format(new Date(video.data)) }),
+      el('span', { textContent:video.duracao }), status,
+    ]);
+    if (video.trechosIncertos) meta.append(el('span', {
+      textContent:video.trechosIncertos + (video.trechosIncertos === 1 ? ' trecho incerto' : ' trechos incertos'),
+    }));
+    const badges = el('div', { className:'chips' }, video.tags.map(({ id, evidencia }) => {
+      const button = chip(id);
+      button.title += ' · ' + evidencia;
+      return button;
+    }));
+    const txt = el('a', { className:'button', href:'txt/' + encodeURIComponent(video.txt), textContent:'Abrir TXT', target:'_blank', rel:'noopener' });
+    const source = el('a', { className:'button', href:'https://www.youtube.com/watch?v=' + encodeURIComponent(video.id), textContent:'YouTube', target:'_blank', rel:'noopener' });
+    const actions = el('div', { className:'actions' }, [txt, source]);
+    if (video.trechosIncertos) {
+      actions.append(el('a', {
+        className:'button', href:'../../data/acervo/canal-turismo-aqui/transcricoes/' + encodeURIComponent(video.arquivoOriginal),
+        textContent:'Legenda original', target:'_blank', rel:'noopener',
+      }));
+    }
+    return el('li', { className:'card video' }, [
+      el('div', {}, [meta, el('h3', { textContent:video.titulo }), badges]),
+      actions,
+    ]);
+  });
+  if (!rows.length) rows.push(el('li', { className:'empty', textContent:'Nenhuma publicação corresponde aos filtros.' }));
+  $('videos').replaceChildren(...rows);
+  $('range').textContent = filtered.length ? (start + 1) + '–' + end + ' de ' + formatter.format(filtered.length) : '0 publicações';
+  const pages = Math.ceil(filtered.length / perPage);
+  $('pagination').hidden = pages <= 1;
+  $('page').textContent = 'Página ' + (page + 1) + ' de ' + pages;
+  $('previous').disabled = !page;
+  $('next').disabled = page >= pages - 1;
+}
+
+function matches(video, useYear) {
+  const year = $('year').value;
+  const type = $('type').value;
+  const status = $('status').value;
+  const query = norm($('search').value);
+  return (!useYear || !year || video.year === year) &&
+    (!type || video.tipo === type) && (!status || video.estado === status) &&
+    (!$('only-uncertain').checked || video.trechosIncertos > 0) &&
+    (!query || query.split(' ').every((word) => video.search.includes(word))) &&
+    Array.from(selected).every((id) => video.lookup.has(id));
+}
+
+function render() {
+  page = 0;
+  filtered = indexed.filter((video) => matches(video, true));
+  $('match').textContent = formatter.format(filtered.length) + ' de ' + formatter.format(indexed.length) + ' publicações';
+  $('clear-filters').disabled = !selected.size && !$('only-uncertain').checked &&
+    ['search','year','type','status'].every((id) => !$(id).value);
+  $('selected').replaceChildren(...Array.from(selected, (id) => chip(id, true)));
+  renderCharts();
+  renderCatalog();
+}
+
+$('period').textContent = years[0] + '–' + years.at(-1);
+$('year').append(...years.slice().reverse().map((year) => new Option(year, year)));
+const available = new Set(indexed.map((video) => video.estado));
+$('status').append(...Object.entries(data.estados).filter(([state]) => available.has(state)).map(([state, text]) => new Option(text, state)));
+options($('tag'), data.tags, 'Selecione uma tag');
+$('filters').addEventListener('submit', (event) => event.preventDefault());
+$('search').addEventListener('input', render);
+['year','type','status','only-uncertain'].forEach((id) => $(id).addEventListener('change', render));
+$('group').addEventListener('change', renderCharts);
+$('focus').addEventListener('change', (event) => selectFocus(event.target.value, true));
+$('graph-mode').addEventListener('change', () => renderGraph());
+$('graph-min').addEventListener('change', () => renderGraph());
+$('zoom-in').addEventListener('click', () => graph.zoom(1.3));
+$('zoom-out').addEventListener('click', () => graph.zoom(1 / 1.3));
+$('graph-fit').addEventListener('click', () => graph.fit());
+$('graph-fullscreen').addEventListener('click', toggleFullscreen);
+document.addEventListener('fullscreenchange', updateFullscreen);
+document.addEventListener('keydown', (event) => {
+  if (event.key === 'Escape' && $('network').classList.contains('expanded')) {
+    $('network').classList.remove('expanded');
+    updateFullscreen();
+    $('graph-fullscreen').focus();
+  }
+});
+$('filter-focus').addEventListener('click', () => toggleTag(focus, true));
+$('tag').addEventListener('change', (event) => {
+  if (!event.target.value) return;
+  selected.add(event.target.value);
+  event.target.value = '';
+  render();
+});
+$('clear-filters').addEventListener('click', () => {
+  $('filters').reset();
+  selected.clear();
+  focus = '';
+  $('group').value = '';
+  render();
+  $('search').focus();
+});
+for (const [id, delta] of [['previous',-1],['next',1]]) {
+  $(id).addEventListener('click', () => {
+    page += delta;
+    renderCatalog();
+    $('videos-title').setAttribute('tabindex', '-1');
+    $('videos-title').focus();
+  });
+}
+render();
+</script>
+</body>
+</html>

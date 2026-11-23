@@ -1,0 +1,101 @@
+{
+  "video_id": "uw-fpBGCwmQ",
+  "quadros": [
+    {
+      "tempo_ms": 94800,
+      "descricao": "Uma praia larga de areia clara se abre para o rio, com uma lancha perto da margem e árvores à direita.",
+      "local": "Maripá, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O vídeo começa em Maripá, na margem esquerda do Tapajós, antes da saída para Vila Franca.",
+      "marcas": [87, 94, 102, 109]
+    },
+    {
+      "tempo_ms": 170400,
+      "descricao": "Um homem de boné azul ocupa o posto de pilotagem de uma lancha, com a margem distante sob um céu encoberto.",
+      "local": "Rio Tapajós, trecho entre Maripá e Vila Franca, Santarém (PA)",
+      "confianca": "provável",
+      "contexto": "A conversa a bordo passa do deslocamento do dia anterior à saída de Maripá em direção a Vila Franca.",
+      "marcas": [157, 167, 174, 181]
+    },
+    {
+      "tempo_ms": 207400,
+      "descricao": "Vista da margem com areia, vegetação rasteira em tufos e o Tapajós à esquerda.",
+      "local": "Vila Franca, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Na chegada a Vila Franca, o apresentador indica onde a lancha fica atracada e introduz a conversa com um morador nascido na comunidade.",
+      "marcas": [190, 202, 210]
+    },
+    {
+      "tempo_ms": 433600,
+      "descricao": "Um morador estende o braço para indicar construções ao lado de um caminho de terra entre as casas da vila.",
+      "local": "Vila Franca, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Durante o passeio, o morador indica a área onde, segundo seu relato, funcionava a antiga Câmara Municipal.",
+      "marcas": [420, 430]
+    },
+    {
+      "tempo_ms": 470800,
+      "descricao": "Restos de uma parede de pedra e um muro baixo aparecem entre o gramado, troncos caídos e árvores.",
+      "local": "Vila Franca, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A visita passa pela área que o morador associa à antiga senzala. A conversa aborda a escravidão e sua abolição no Brasil.",
+      "marcas": [450, 457, 467, 473]
+    },
+    {
+      "tempo_ms": 583400,
+      "descricao": "Vista do alto da margem para o rio, com uma faixa de areia entre a água e a vegetação em primeiro plano.",
+      "local": "Vila Franca, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Diante do rio, os participantes comentam a posição estratégica desse trecho do Tapajós durante o período colonial.",
+      "marcas": [572, 581, 591]
+    },
+    {
+      "tempo_ms": 809433,
+      "descricao": "Uma cerca de madeira acompanha o caminho de terra sob a sombra das árvores, com pessoas caminhando ao fundo.",
+      "local": "Vila Franca, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador explica que o grupo segue a pé para conhecer uma artesã que produz biojoias de látex.",
+      "marcas": [804, 811, 819]
+    },
+    {
+      "tempo_ms": 960000,
+      "descricao": "Peças coloridas em formato de folha e cordões de várias cores estão expostos sobre uma mesa.",
+      "local": "Vila Franca, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A artesã Celina apresenta suas biojoias e explica que compra o látex já preparado para tingir e fabricar as peças.",
+      "marcas": [954, 963, 970]
+    },
+    {
+      "tempo_ms": 1034567,
+      "descricao": "Sob a cobertura de palha, uma artesã mostra as peças da bancada enquanto dois visitantes acompanham a demonstração.",
+      "local": "Vila Franca, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A artesã mostra um modelo de bolsa e explica a aplicação do látex sobre o tecido para confeccionar as peças.",
+      "marcas": [1028, 1036, 1041]
+    },
+    {
+      "tempo_ms": 1072400,
+      "descricao": "Um homem de chapéu de palha aparece sob a cobertura do espaço de trabalho, com uma lona escura ao fundo.",
+      "local": "Vila Franca, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O seringueiro descreve a retirada do látex de manhã e o fornecimento da matéria-prima para a artesã local.",
+      "marcas": [1050, 1057, 1069, 1077]
+    },
+    {
+      "tempo_ms": 1109767,
+      "descricao": "Placa do Ecoforte sob o telhado de palha, com informações sobre agroecologia, extrativismo e proteção da biodiversidade.",
+      "local": "Vila Franca, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador lê a placa do projeto e menciona a unidade de Vila Franca na reserva extrativista.",
+      "marcas": [1095, 1104, 1113]
+    },
+    {
+      "tempo_ms": 1298400,
+      "descricao": "Duas pessoas atravessam a área de terra batida ao lado de uma construção azul com escada externa e cobertura aberta.",
+      "local": "Vila Franca, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "No fim da visita, o grupo deixa Vila Franca e o apresentador comenta o tempo estimado de retorno à sede de Santarém.",
+      "marcas": [1286, 1295, 1303]
+    }
+  ]
+}

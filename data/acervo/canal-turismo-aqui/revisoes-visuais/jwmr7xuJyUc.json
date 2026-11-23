@@ -1,0 +1,136 @@
+{
+  "video_id": "jwmr7xuJyUc",
+  "motivo": "",
+  "quadros": [
+    {
+      "tempo_ms": 8242,
+      "descricao": "Cartela verde do Turismo Aqui sugere fazer algo diferente no Dia das Crianças.",
+      "contexto": "A abertura propõe um programa de feriado com as crianças e a família.",
+      "marcas": [
+        0,
+        7
+      ],
+      "local": "",
+      "confianca": "não identificado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 10043,
+      "descricao": "Vista da faixa de areia tomada por quiosques e árvores, com embarcações diante da vila e morro ao fundo.",
+      "contexto": "A abertura usa a Ilha do Amor como exemplo de passeio de praia. A faixa de areia e o morro aparecem em outros registros identificados do canal.",
+      "marcas": [
+        7
+      ],
+      "local": "Ilha do Amor, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": [
+        "https://www.youtube.com/watch?v=pcdSgCIfEUw&t=337s"
+      ]
+    },
+    {
+      "tempo_ms": 11445,
+      "descricao": "Ondas batem em uma faixa de areia com guarda-sóis coloridos e formações rochosas na extremidade.",
+      "contexto": "A cena ilustra passeios de praia. A mesma praia rochosa aparece em trecho associado a Ponta de Pedras no vídeo sobre os roteiros de Alter do Chão.",
+      "marcas": [
+        7
+      ],
+      "local": "Praia de Ponta de Pedras, Santarém (PA)",
+      "confianca": "provável",
+      "fontes": [
+        "https://turismo.santarem.pa.gov.br/noticias/turismo/praia-de-ponta-de-pedras-se-prepara-para-o-xxi-festival-do-charutinho-e-deve-receber-mais-de-15-mil-visitantes-entre-14-e-16-de-novembro-fwgqmc",
+        "https://www.youtube.com/watch?v=_zcnkw7MjYo&t=25s"
+      ]
+    },
+    {
+      "tempo_ms": 14848,
+      "descricao": "Curva de um curso de água raso atravessa bancos de areia clara e vegetação à margem.",
+      "contexto": "A montagem ilustra os igarapés citados como opção de passeio.",
+      "marcas": [
+        7
+      ],
+      "local": "",
+      "confianca": "não identificado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 17651,
+      "descricao": "Duas pessoas entram na água calma com a outra margem coberta de árvores ao fundo.",
+      "contexto": "O narrador inclui os lagos entre as opções de passeio de feriado.",
+      "marcas": [
+        7
+      ],
+      "local": "",
+      "confianca": "não identificado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 23857,
+      "descricao": "Vista do banco da frente de um carro para uma estrada de terra cercada por vegetação baixa.",
+      "contexto": "O narrador sugere pegar a estrada e a trilha musical acompanha a transição para o trajeto.",
+      "marcas": [
+        20,
+        22
+      ],
+      "local": "",
+      "confianca": "não identificado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 27661,
+      "descricao": "Fileira de quiosques de palha na praia, com bancos sob as coberturas e o horizonte amplo do rio.",
+      "contexto": "O narrador incentiva passar mais tempo ao ar livre com pessoas próximas.",
+      "marcas": [
+        25
+      ],
+      "local": "",
+      "confianca": "não identificado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 30664,
+      "descricao": "Faixa de areia em luz quente, com quiosques, cadeiras e pessoas perto da água, diante de uma margem arborizada.",
+      "contexto": "A cena de praia acompanha a sugestão de passar o feriado ao ar livre ou visitar alguém fora da cidade.",
+      "marcas": [
+        25
+      ],
+      "local": "",
+      "confianca": "não identificado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 35269,
+      "descricao": "Mulher em silhueta sob uma cobertura, com dois carros e pequenas embarcações junto à margem do rio atrás dela.",
+      "contexto": "A montagem ilustra a sugestão de visitar alguém que tem uma casa fora da cidade.",
+      "marcas": [
+        25,
+        34
+      ],
+      "local": "",
+      "confianca": "não identificado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 42075,
+      "descricao": "Banhistas junto a uma pequena plataforma em um corpo d’água verde cercado de vegetação e terra vermelha.",
+      "contexto": "O narrador fecha a sugestão de aproveitar o feriado com as crianças. A descrição se apoia no trecho revisado e na imagem.",
+      "marcas": [
+        34,
+        42
+      ],
+      "local": "",
+      "confianca": "não identificado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 52886,
+      "descricao": "Grupo de pessoas espalhado por uma praia de areia clara sob árvores e céu escuro.",
+      "contexto": "O plano final retoma o convívio ao ar livre que o narrador recomenda para o feriado.",
+      "marcas": [
+        42
+      ],
+      "local": "",
+      "confianca": "não identificado",
+      "fontes": []
+    }
+  ]
+}

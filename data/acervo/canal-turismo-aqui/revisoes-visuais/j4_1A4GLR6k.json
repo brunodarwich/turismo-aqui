@@ -1,0 +1,141 @@
+{
+  "video_id": "j4_1A4GLR6k",
+  "quadros": [
+    {
+      "tempo_ms": 88840,
+      "descricao": "Um caminhão vem pela pista oposta em uma reta de asfalto, com gotas no para-brisa e vegetação dos dois lados.",
+      "local": "BR-163 entre Santarém e Rurópolis (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador situa a primeira parte do trajeto em direção a Rurópolis, antes de seguir para Itaituba.",
+      "marcas": [
+        85,
+        94,
+        98
+      ]
+    },
+    {
+      "tempo_ms": 264120,
+      "descricao": "A pista molhada faz uma curva suave entre a mata e um barranco de terra vermelha, com guard-rail e placas de curva.",
+      "local": "BR-163 entre Santarém e Rurópolis (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração comenta a pavimentação nas proximidades das pontes entre Santarém e Rurópolis.",
+      "marcas": [
+        253,
+        260,
+        268,
+        277
+      ]
+    },
+    {
+      "tempo_ms": 405040,
+      "descricao": "Uma via larga de terra avermelhada passa por prédios baixos e um ônibus estacionado junto ao cruzamento.",
+      "local": "Saída de Rurópolis (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador indica as direções de Altamira e Itaituba e comenta os trechos sucessivos de asfalto após Rurópolis.",
+      "marcas": [
+        395,
+        404,
+        414
+      ]
+    },
+    {
+      "tempo_ms": 615880,
+      "descricao": "Vista da estrada de terra vermelha molhada entre faixas de vegetação. Os limpadores atravessam o para-brisa.",
+      "local": "Transamazônica, trecho entre Rurópolis e Campo Verde (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração explica que a chuva mudou as condições da estrada e a previsão de chegada a Itaituba.",
+      "marcas": [
+        576,
+        587,
+        612,
+        622
+      ]
+    },
+    {
+      "tempo_ms": 756440,
+      "descricao": "O apresentador aparece com cinto de segurança, sentado dentro do carro parado.",
+      "local": "Transamazônica, trecho entre Rurópolis e Campo Verde (PA)",
+      "confianca": "confirmado",
+      "contexto": "Durante a espera no trecho de terra, ele comenta a fila de veículos que começa a se formar atrás do carro.",
+      "marcas": [
+        747,
+        755,
+        764
+      ]
+    },
+    {
+      "tempo_ms": 791760,
+      "descricao": "Dois homens caminham por um trecho enlameado junto a uma carreta com lona laranja.",
+      "local": "Transamazônica, trecho entre Rurópolis e Campo Verde (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração relata a dificuldade para passar pela carreta e informa que o carro conseguiu seguir viagem.",
+      "marcas": [
+        779,
+        794,
+        803
+      ]
+    },
+    {
+      "tempo_ms": 896480,
+      "descricao": "Uma motocicleta passa por comércios baixos e uma placa à beira da pista molhada, vista pelo para-brisa.",
+      "local": "Campo Verde, Itaituba (PA)",
+      "confianca": "provável",
+      "contexto": "O apresentador identifica a passagem como possivelmente Campo Verde e comenta o encontro das rodovias no município de Itaituba.",
+      "marcas": [
+        888,
+        897,
+        906
+      ]
+    },
+    {
+      "tempo_ms": 1037040,
+      "descricao": "Visto de dentro do carro, o motorista segura o volante com a rampa da balsa e o rio logo à frente.",
+      "local": "Embarque em Miritituba, Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "O grupo inicia a travessia do Tapajós e comenta o nível do rio e o embarque entre Miritituba e Itaituba.",
+      "marcas": [
+        1025,
+        1035,
+        1043
+      ]
+    },
+    {
+      "tempo_ms": 1072880,
+      "descricao": "Carros e caminhões ocupam o convés molhado da balsa, com uma grade azul e amarela à direita.",
+      "local": "Travessia do Rio Tapajós entre Miritituba e Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "Os viajantes observam as condições para a travessia antes de chegar a Itaituba.",
+      "marcas": [
+        1060,
+        1067,
+        1074,
+        1083
+      ]
+    },
+    {
+      "tempo_ms": 1143120,
+      "descricao": "Uma viga azul da balsa aponta para a orla urbana de Itaituba, do outro lado da água marrom do Tapajós.",
+      "local": "Travessia do Rio Tapajós entre Miritituba e Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração indica o ponto de desembarque na cidade e comenta o procedimento de chegada da balsa.",
+      "marcas": [
+        1131,
+        1139,
+        1147,
+        1153
+      ]
+    },
+    {
+      "tempo_ms": 1248200,
+      "descricao": "O carro passa por uma rua comercial com veículos estacionados, fachadas próximas da pista e gotas no para-brisa.",
+      "local": "Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "Já na cidade, o apresentador encerra a viagem e situa Itaituba no sudoeste do Pará.",
+      "marcas": [
+        1244,
+        1249,
+        1257
+      ]
+    }
+  ]
+}

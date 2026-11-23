@@ -1,0 +1,117 @@
+{
+  "video_id": "b3urBZcsvTg",
+  "motivo": "",
+  "quadros": [
+    {
+      "tempo_ms": 26400,
+      "descricao": "Detalhe do calçadão da orla, com faixas geométricas em tons de vermelho e cinza no piso e guarda-corpo colorido junto à água.",
+      "local": "Orla de Santarém, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A câmera se ergue do piso em direção ao rio na primeira live do canal em Santarém. A faixa de áudio é silenciosa.",
+      "marcas": [
+        0
+      ]
+    },
+    {
+      "tempo_ms": 31367,
+      "descricao": "Vista rente ao calçadão, com o desenho do piso, o guarda-corpo azul e amarelo e a fileira de postes junto ao rio.",
+      "local": "Orla de Santarém, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O movimento inicial da câmera revela o passeio à beira d’água. A faixa de áudio é silenciosa.",
+      "marcas": [
+        0
+      ]
+    },
+    {
+      "tempo_ms": 37433,
+      "descricao": "Pedestres caminham pelo calçadão à beira do rio, vistos de um ponto elevado junto a um poste decorativo.",
+      "local": "Orla de Santarém, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A câmera sobe sobre a orla e passa a mostrar a circulação de pedestres. A faixa de áudio é silenciosa.",
+      "marcas": [
+        0
+      ]
+    },
+    {
+      "tempo_ms": 75600,
+      "descricao": "Vista aérea do trecho curvo da orla, com rio à esquerda, canteiros junto ao passeio e carros e fachadas à direita.",
+      "local": "Orla de Santarém, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A câmera percorre o calçadão e abre o enquadramento para incluir o trecho urbano à margem do rio. A faixa de áudio é silenciosa.",
+      "marcas": [
+        0
+      ]
+    },
+    {
+      "tempo_ms": 81167,
+      "descricao": "Duas embarcações, uma vermelha e outra branca e escura, aparecem em águas abertas sob um céu encoberto.",
+      "local": "Em frente à orla de Santarém, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A câmera vira da orla para o rio. A continuidade do plano situa a tomada diante da cidade. A faixa de áudio é silenciosa.",
+      "marcas": [
+        0
+      ]
+    },
+    {
+      "tempo_ms": 87367,
+      "descricao": "Vista aérea de embarcações de vários conveses atracadas junto a uma passarela metálica, com outros barcos mais adiante.",
+      "local": "Trecho portuário da orla de Santarém, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A panorâmica sobre o rio chega ao trecho de atracação, em frente à área urbana. A faixa de áudio é silenciosa.",
+      "marcas": [
+        0
+      ]
+    },
+    {
+      "tempo_ms": 126000,
+      "descricao": "Plano aberto da avenida da orla, com tráfego, pedestres no passeio, escadaria e barcos atracados à direita.",
+      "local": "Orla de Santarém, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Na passagem aérea pelo trecho portuário, o enquadramento se desloca dos barcos para a avenida e o casario. A faixa de áudio é silenciosa.",
+      "marcas": [
+        0
+      ]
+    },
+    {
+      "tempo_ms": 137333,
+      "descricao": "Catedral de Nossa Senhora da Conceição em vista aérea, com o coreto e fileiras de barracas de cobertura azul na Praça da Matriz.",
+      "local": "Catedral de Nossa Senhora da Conceição e Praça da Matriz, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O plano aéreo se volta para o centro histórico. A fachada azul de duas torres e o coreto identificam a Praça da Matriz. A faixa de áudio é silenciosa.",
+      "marcas": [
+        0
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/gerais/museu-de-historia-e-arte-sacra-da-diocese-de-santarem-fe-e-cultura-em-um-unico-lugar-330317bb51c5-a277-4ea3-a74f-a6ee6bd4449e",
+        "https://santarem.pa.gov.br/noticias/cultura/por-do-sol-no-coreto-resgata-tradicao-e-encanta-santarenos-na-praca-da-matriz-ls2opn"
+      ]
+    },
+    {
+      "tempo_ms": 154000,
+      "descricao": "Avenida em frente à Praça da Matriz, com carros, motocicleta e ciclista em primeiro plano e a catedral azul atrás das barracas.",
+      "local": "Praça da Matriz, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A câmera desce diante da praça e passa a enquadrar o tráfego junto ao conjunto da catedral. A faixa de áudio é silenciosa.",
+      "marcas": [
+        0
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/gerais/museu-de-historia-e-arte-sacra-da-diocese-de-santarem-fe-e-cultura-em-um-unico-lugar-330317bb51c5-a277-4ea3-a74f-a6ee6bd4449e",
+        "https://santarem.pa.gov.br/noticias/cultura/por-do-sol-no-coreto-resgata-tradicao-e-encanta-santarenos-na-praca-da-matriz-ls2opn"
+      ]
+    },
+    {
+      "tempo_ms": 170667,
+      "descricao": "Dois homens na área pavimentada da orla, um com controle remoto nas mãos e outro segurando um aparelho, com as barracas da Praça da Matriz ao fundo.",
+      "local": "Orla em frente à Praça da Matriz, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Na parte final da gravação, a câmera desce até os homens em frente à praça. A faixa de áudio é silenciosa.",
+      "marcas": [
+        0
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/cultura/por-do-sol-no-coreto-resgata-tradicao-e-encanta-santarenos-na-praca-da-matriz-ls2opn"
+      ]
+    }
+  ]
+}

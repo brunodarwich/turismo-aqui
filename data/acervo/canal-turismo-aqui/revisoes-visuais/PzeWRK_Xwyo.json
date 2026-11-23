@@ -1,0 +1,149 @@
+{
+  "video_id": "PzeWRK_Xwyo",
+  "motivo": "",
+  "quadros": [
+    {
+      "tempo_ms": 49833,
+      "descricao": "Pequena embarcação parada em uma praia de areia clara, diante do rio aberto.",
+      "local": "Tucumã, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração situa a chegada a Tucumã após a saída de Santarém.",
+      "marcas": [
+        34,
+        42,
+        50
+      ]
+    },
+    {
+      "tempo_ms": 181067,
+      "descricao": "Interior do redário, com balcão de madeira, mesas e cobertura de palha voltada para o rio.",
+      "local": "Tucumã, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador explica que o redário também recebe uma exposição de artesanato.",
+      "marcas": [
+        172,
+        180,
+        184
+      ]
+    },
+    {
+      "tempo_ms": 279933,
+      "descricao": "Artesã sentada à sombra trabalha uma tira de palha à beira do rio.",
+      "local": "Tucumã, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O trecho apresenta o tessume, técnica de trançado que ajuda a gerar renda na comunidade.",
+      "marcas": [
+        276,
+        283
+      ]
+    },
+    {
+      "tempo_ms": 345533,
+      "descricao": "Descansos trançados com desenhos geométricos aparecem em close sobre a mesa.",
+      "local": "Tucumã, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração apresenta as peças do grupo Trançados do Arapiuns.",
+      "marcas": [
+        333,
+        338,
+        344
+      ]
+    },
+    {
+      "tempo_ms": 377967,
+      "descricao": "Duas artesãs trançam peças em uma mesa do redário, rodeadas de cestas e discos de palha.",
+      "local": "Tucumã, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A conversa descreve o trabalho diário das artesãs e o preparo de peças para as visitas.",
+      "marcas": [
+        364,
+        369,
+        377
+      ]
+    },
+    {
+      "tempo_ms": 410967,
+      "descricao": "Mesa com o café da tarde servido sob árvores, perto da margem do rio.",
+      "local": "Tucumã, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A equipe anuncia a pausa para o café à beira da praia antes de seguir pela comunidade.",
+      "marcas": [
+        398,
+        405,
+        412
+      ]
+    },
+    {
+      "tempo_ms": 476800,
+      "descricao": "Duas pessoas caminham por uma trilha de areia entre áreas de vegetação e árvores.",
+      "local": "Tucumã, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O grupo atravessa a comunidade em direção a um lago para retornar ao Arapiuns.",
+      "marcas": [
+        467,
+        475
+      ]
+    },
+    {
+      "tempo_ms": 641133,
+      "descricao": "Casa de madeira azul à beira do caminho de areia percorrido pelos visitantes.",
+      "local": "Tucumã, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador identifica a parte mais tradicional da comunidade e comenta as casas de madeira.",
+      "marcas": [
+        635,
+        642
+      ]
+    },
+    {
+      "tempo_ms": 838000,
+      "descricao": "Passageiros seguem em uma canoa enquanto um deles rema perto da proa.",
+      "local": "Tucumã, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A conversa explica que o grupo precisa ajudar com o remo no início do percurso.",
+      "marcas": [
+        831,
+        833,
+        845
+      ]
+    },
+    {
+      "tempo_ms": 870567,
+      "descricao": "Vista aérea da ponta arenosa de Tucumã, entre o espelho d’água e a vegetação da comunidade.",
+      "local": "Ponta do Tucumã, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração aponta a praia e o centro da comunidade a partir da panorâmica aérea.",
+      "marcas": [
+        857,
+        865,
+        875,
+        887
+      ]
+    },
+    {
+      "tempo_ms": 902933,
+      "descricao": "Praia de areia clara ao entardecer, com um abrigo de palha à esquerda e a linha do rio ao fundo.",
+      "local": "Ponta do Tucumã, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador identifica a ponta do Tucumã e mostra a paisagem antes da cena da piracaia.",
+      "marcas": [
+        887,
+        896,
+        901,
+        906
+      ]
+    },
+    {
+      "tempo_ms": 1100033,
+      "descricao": "Mesa posta para o café da manhã, vista de cima, com frutas, quitutes e peças trançadas.",
+      "local": "Tucumã, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A equipe conta que passou a noite no redário e mostra o café da manhã de frente para o rio.",
+      "marcas": [
+        1086,
+        1093,
+        1101
+      ]
+    }
+  ]
+}

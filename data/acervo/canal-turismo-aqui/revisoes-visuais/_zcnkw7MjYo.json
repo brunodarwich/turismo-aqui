@@ -1,0 +1,129 @@
+{
+  "video_id": "_zcnkw7MjYo",
+  "motivo": "",
+  "quadros": [
+    {
+      "tempo_ms": 1335,
+      "descricao": "Emanuel Júlio aparece junto à grade da orla, com o indicador levantado e barcos pequenos atrás dele.",
+      "contexto": "O apresentador abre o convite para a estreia da série turística do canal.",
+      "marcas": [
+        0
+      ],
+      "local": "Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 7524,
+      "descricao": "O título da série Os Caminhos de Alter do Chão aparece sobre o plano do apresentador em frente à praia fluvial.",
+      "contexto": "A cartela identifica a série que o apresentador anuncia na abertura.",
+      "marcas": [
+        0,
+        8
+      ],
+      "local": "Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 11478,
+      "descricao": "Rua em declive entre uma cerca branca e a fachada da Pousada Belas Praias. O canal e pequenos barcos aparecem ao fundo.",
+      "contexto": "A montagem mostra a vila enquanto o narrador apresenta Alter do Chão como ponto de partida dos roteiros.",
+      "marcas": [
+        8,
+        15
+      ],
+      "local": "Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 14765,
+      "descricao": "Vista elevada da faixa de areia com árvores e quiosques. Uma embarcação está encostada perto da ponta.",
+      "contexto": "A paisagem aparece na apresentação dos passeios que podem começar em Alter do Chão.",
+      "marcas": [
+        8,
+        15
+      ],
+      "local": "Ilha do Amor, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 19319,
+      "descricao": "Banhistas e frequentadores sob quiosques de palha junto ao rio, enquanto uma lancha coberta passa ao fundo.",
+      "contexto": "A montagem exemplifica as opções de praia e passeio fluvial citadas pelo apresentador.",
+      "marcas": [
+        15
+      ],
+      "local": "Alter do Chão, Santarém (PA)",
+      "confianca": "provável",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 24508,
+      "descricao": "Vista da água para um trecho de praia com grandes pedras à esquerda e guarda-sóis na faixa de areia.",
+      "contexto": "A trilha cobre o plano. Logo depois, o visitante menciona uma parada em Ponta de Pedras.",
+      "marcas": [
+        22,
+        31
+      ],
+      "local": "Praia de Ponta de Pedras, Santarém (PA)",
+      "confianca": "provável",
+      "fontes": [
+        "https://turismo.santarem.pa.gov.br/noticias/turismo/praia-de-ponta-de-pedras-se-prepara-para-o-xxi-festival-do-charutinho-e-deve-receber-mais-de-15-mil-visitantes-entre-14-e-16-de-novembro-fwgqmc"
+      ]
+    },
+    {
+      "tempo_ms": 25959,
+      "descricao": "Ondas pequenas chegam ao banco de areia, com pedras grandes e cadeiras coloridas junto à água.",
+      "contexto": "A montagem aproxima a câmera da praia rochosa durante o trecho musical.",
+      "marcas": [
+        22,
+        31
+      ],
+      "local": "Praia de Ponta de Pedras, Santarém (PA)",
+      "confianca": "provável",
+      "fontes": [
+        "https://turismo.santarem.pa.gov.br/noticias/turismo/praia-de-ponta-de-pedras-se-prepara-para-o-xxi-festival-do-charutinho-e-deve-receber-mais-de-15-mil-visitantes-entre-14-e-16-de-novembro-fwgqmc"
+      ]
+    },
+    {
+      "tempo_ms": 29062,
+      "descricao": "Sol baixo reflete sobre a água. Duas pessoas estão na areia ao lado de uma estrutura elevada com telhado de palha.",
+      "contexto": "O plano do entardecer vem antes do relato do visitante sobre ter visto o pôr do sol no roteiro.",
+      "marcas": [
+        22,
+        31
+      ],
+      "local": "Ponta do Cururu, Alter do Chão, Santarém (PA)",
+      "confianca": "provável",
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/gerais/praia-ponta-do-cururu-tem-areia-branca-revoada-de-gaivotas-e-por-do-sol-fascinante-1369f88bf153-84a1-4abe-91b0-a5b97b2eba69"
+      ]
+    },
+    {
+      "tempo_ms": 33800,
+      "descricao": "Alan Assrany, identificado no letreiro como turista mineiro, fala com um braço estendido em uma rua arborizada.",
+      "contexto": "O visitante relata o passeio fluvial, uma parada em praia e o pôr do sol.",
+      "marcas": [
+        31
+      ],
+      "local": "Alter do Chão, Santarém (PA)",
+      "confianca": "provável",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 42492,
+      "descricao": "Alan Assrany gesticula com as duas mãos à frente do peito enquanto fala. Ao fundo, há palmeiras e muros baixos.",
+      "contexto": "O visitante cita Alter do Chão como ponto de partida que reúne vários roteiros.",
+      "marcas": [
+        31,
+        41
+      ],
+      "local": "Alter do Chão, Santarém (PA)",
+      "confianca": "provável",
+      "fontes": []
+    }
+  ]
+}

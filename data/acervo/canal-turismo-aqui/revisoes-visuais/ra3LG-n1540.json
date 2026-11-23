@@ -1,0 +1,174 @@
+{
+  "video_id": "ra3LG-n1540",
+  "quadros": [
+    {
+      "tempo_ms": 3504,
+      "descricao": "Vista aérea da Ilha do Amor com barracas, árvores, guarda-sóis e visitantes na faixa de areia.",
+      "local": "Ilha do Amor, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A sequência de abertura mostra a praia ao som de música. A apresentação logo em seguida situa a pousada em Alter do Chão.",
+      "marcas": [
+        1,
+        18,
+        24
+      ]
+    },
+    {
+      "tempo_ms": 9510,
+      "descricao": "Uma enseada de água azul aparece entre uma faixa de areia e a margem arborizada da vila, com barcos perto da praia.",
+      "local": "Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A tomada faz parte da apresentação visual de Alter do Chão, antes da fala sobre a pousada.",
+      "marcas": [
+        1,
+        18,
+        24
+      ]
+    },
+    {
+      "tempo_ms": 21088,
+      "descricao": "Uma mulher de polo branca com gola verde apresenta a hospedagem na orla. O letreiro a identifica como Aureane.",
+      "local": "Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A empresária se apresenta como integrante da equipe Coração Verde e situa a hospedagem na vila balneária de Alter do Chão.",
+      "marcas": [
+        18,
+        24
+      ]
+    },
+    {
+      "tempo_ms": 49883,
+      "descricao": "A calçada acompanha o muro branco e verde da Coração Verde, com letreiros da pousada, do hostel e da agência de turismo.",
+      "local": "Pousada Coração Verde, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração apresenta os serviços de hospedagem e a agência de turismo.",
+      "marcas": [
+        47,
+        56
+      ]
+    },
+    {
+      "tempo_ms": 56290,
+      "descricao": "Suíte com cama de casal, almofadas verdes, toalhas dobradas e espelho sobre uma parede verde.",
+      "local": "Pousada Coração Verde, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A apresentação descreve os equipamentos das suítes e menciona o café da manhã.",
+      "marcas": [
+        56,
+        63
+      ]
+    },
+    {
+      "tempo_ms": 67467,
+      "descricao": "Visitantes tomam café nas mesas com toalhas verdes. A sala tem piso vermelho, cobertura de telha e uma parede decorada.",
+      "local": "Pousada Coração Verde, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração encerra a apresentação das suítes com referência ao café da manhã, que aparece na montagem.",
+      "marcas": [
+        63,
+        71
+      ]
+    },
+    {
+      "tempo_ms": 85252,
+      "descricao": "Área comum coberta com banco de madeira, cerca de ripas coloridas e utensílios pendurados como decoração.",
+      "local": "Pousada Coração Verde, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A locução introduz o hostel da Coração Verde como uma opção econômica de hospedagem.",
+      "marcas": [
+        81,
+        90
+      ]
+    },
+    {
+      "tempo_ms": 91058,
+      "descricao": "Dormitório com duas camas de solteiro e um beliche. A parede é azul e há uma cortina estampada.",
+      "local": "Pousada Coração Verde, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A montagem do hostel mostra as opções de acomodação depois que a narradora apresenta essa modalidade.",
+      "marcas": [
+        81,
+        90
+      ]
+    },
+    {
+      "tempo_ms": 107841,
+      "descricao": "A apresentadora entra numa cozinha comum com bancada, pia, armários e fogão de alvenaria.",
+      "local": "Pousada Coração Verde, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração enumera a cozinha e a área de convivência entre os espaços disponíveis aos hóspedes.",
+      "marcas": [
+        101,
+        109
+      ]
+    },
+    {
+      "tempo_ms": 131231,
+      "descricao": "Barcos deixam rastros na água azul em um canal entre faixas de areia. O letreiro identifica Alter do Chão.",
+      "local": "Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A montagem mostra os destinos da região durante a apresentação dos passeios organizados pela agência.",
+      "marcas": [
+        128,
+        138
+      ]
+    },
+    {
+      "tempo_ms": 136803,
+      "descricao": "Tomada aérea de uma praia com barracas de palha e guarda-sóis junto à água. O letreiro identifica Ponta de Pedras.",
+      "local": "Ponta de Pedras, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A praia aparece identificada na montagem musical sobre os passeios disponíveis na região.",
+      "marcas": [
+        128,
+        138
+      ]
+    },
+    {
+      "tempo_ms": 143210,
+      "descricao": "Vista aérea de mata contínua atrás de uma praia de areia clara e de um canal escuro. O letreiro identifica a Floresta Nacional do Tapajós.",
+      "local": "Floresta Nacional do Tapajós (PA)",
+      "confianca": "confirmado",
+      "contexto": "A floresta é apresentada como destino de passeio na sequência musical.",
+      "marcas": [
+        128,
+        138
+      ]
+    },
+    {
+      "tempo_ms": 149016,
+      "descricao": "Casa branca com contornos escuros, jardim, palmeiras e muro baixo. O letreiro identifica Belterra.",
+      "local": "Belterra (PA)",
+      "confianca": "confirmado",
+      "contexto": "A cidade aparece entre os destinos apresentados na montagem de passeios.",
+      "marcas": [
+        128,
+        138,
+        152
+      ]
+    },
+    {
+      "tempo_ms": 172005,
+      "descricao": "Um funcionário recebe uma passageira de vestido vermelho à saída do desembarque, sob a placa amarela do terminal.",
+      "local": "Aeroporto de Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A agência apresenta o serviço de traslado a partir do aeroporto de Santarém.",
+      "marcas": [
+        170,
+        178
+      ]
+    },
+    {
+      "tempo_ms": 189589,
+      "descricao": "Uma visitante observa o rio junto a uma área gramada com árvores, bancos e uma passagem pavimentada.",
+      "local": "Orla de Alter do Chão, Santarém (PA)",
+      "confianca": "provável",
+      "contexto": "A montagem liga a chegada à vila ao convite para se hospedar na Coração Verde.",
+      "marcas": [
+        184,
+        189,
+        194
+      ]
+    }
+  ]
+}

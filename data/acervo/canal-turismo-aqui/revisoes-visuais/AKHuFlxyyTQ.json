@@ -1,0 +1,132 @@
+{
+  "video_id": "AKHuFlxyyTQ",
+  "quadros": [
+    {
+      "tempo_ms": 3971,
+      "descricao": "Emanuel Júlio aparece de camisa vermelha em uma sala, com armários e um quadro ao fundo.",
+      "local": "",
+      "confianca": "não identificado",
+      "contexto": "Ele apresenta o episódio sobre o avanço da maré em Belém e Salinópolis em março de 2019.",
+      "marcas": [
+        0,
+        5,
+        12
+      ]
+    },
+    {
+      "tempo_ms": 29496,
+      "descricao": "Avenida e calçada junto às coberturas brancas das bancas, com pedestres e um ônibus na margem da imagem.",
+      "local": "Mercado Ver-o-Peso, Belém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A fala e o letreiro identificam o Mercado Ver-o-Peso na introdução sobre a orla de Belém.",
+      "marcas": [
+        26,
+        33
+      ]
+    },
+    {
+      "tempo_ms": 35636,
+      "descricao": "Corredor interno do mercado com bancas nas duas laterais, compradores e uma sequência de coberturas claras.",
+      "local": "Mercado Ver-o-Peso, Belém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A montagem ainda mostra o Ver-o-Peso enquanto o apresentador introduz a vizinha Estação das Docas.",
+      "marcas": [
+        26,
+        33,
+        38
+      ]
+    },
+    {
+      "tempo_ms": 41975,
+      "descricao": "Vista da embarcação para a Estação das Docas, com antigos guindastes amarelos, galpões e a orla ao fundo.",
+      "local": "Estação das Docas, Belém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador identifica o complexo turístico e explica que ocupa parte do antigo porto, diante da Baía de Guajará.",
+      "marcas": [
+        38,
+        44
+      ]
+    },
+    {
+      "tempo_ms": 61361,
+      "descricao": "Água turva cobre parte do piso da margem, com o terminal ao fundo. A legenda da imagem indica que o registro veio da internet.",
+      "local": "Estação das Docas, Belém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A fala relata que a maré atingiu a Estação das Docas na segunda quinzena de março de 2019.",
+      "marcas": [
+        52,
+        60
+      ]
+    },
+    {
+      "tempo_ms": 73607,
+      "descricao": "Vista alta da costa ocupada por casas e estruturas próximas à água, com ondas chegando à margem.",
+      "local": "Salinópolis (PA)",
+      "confianca": "confirmado",
+      "contexto": "O episódio muda para Salinópolis. O vídeo identifica este material como imagens de internet.",
+      "marcas": [
+        67,
+        76
+      ]
+    },
+    {
+      "tempo_ms": 98932,
+      "descricao": "Ondas brancas atingem de frente os muros de imóveis, abaixo de jardins, casas e terraços.",
+      "local": "Orla de Salinópolis (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador relata os danos materiais que motivaram preocupação da Defesa Civil.",
+      "marcas": [
+        90,
+        99,
+        107
+      ]
+    },
+    {
+      "tempo_ms": 105639,
+      "descricao": "Tomada aérea oblíqua da costa cercada de vegetação, com construções de telhado vermelho junto à sequência de ondas.",
+      "local": "Orla de Salinópolis (PA)",
+      "confianca": "confirmado",
+      "contexto": "A fala descreve a água atingindo estabelecimentos da orla durante a maré alta.",
+      "marcas": [
+        99,
+        107,
+        114
+      ]
+    },
+    {
+      "tempo_ms": 137304,
+      "descricao": "A costa se estende ao fundo sob céu cinza. A espuma se aproxima de uma estrutura à beira-mar, parcialmente coberta por toldos brancos.",
+      "local": "Orla de Salinópolis (PA)",
+      "confianca": "confirmado",
+      "contexto": "A reportagem retoma as orientações aos moradores para o período das águas de março de 2019.",
+      "marcas": [
+        131,
+        139,
+        148
+      ]
+    },
+    {
+      "tempo_ms": 181615,
+      "descricao": "Faixas de espuma chegam a uma fileira de imóveis. Um prédio branco e um gramado ficam imediatamente atrás do muro da margem.",
+      "local": "Orla de Salinópolis (PA)",
+      "confianca": "confirmado",
+      "contexto": "A fala aborda a importância do turismo e da pesca para a cidade enquanto a montagem mostra os imóveis expostos ao avanço das ondas.",
+      "marcas": [
+        169,
+        178,
+        186
+      ]
+    },
+    {
+      "tempo_ms": 193660,
+      "descricao": "Plano amplo de um trecho menos edificado da costa, com casas isoladas em frente à mata e ondas sucessivas.",
+      "local": "Orla de Salinópolis (PA)",
+      "confianca": "confirmado",
+      "contexto": "O plano aparece na sequência musical que encerra a reportagem, mantendo no vídeo a indicação de imagens de internet.",
+      "marcas": [
+        178,
+        186
+      ]
+    }
+  ]
+}

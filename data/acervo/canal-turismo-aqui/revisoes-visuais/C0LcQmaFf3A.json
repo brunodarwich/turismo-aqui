@@ -1,0 +1,169 @@
+{
+  "video_id": "C0LcQmaFf3A",
+  "motivo": "",
+  "quadros": [
+    {
+      "tempo_ms": 18033,
+      "descricao": "Vista da proa da lancha durante a navegação, com vegetação baixa no horizonte.",
+      "local": "Rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração situa o percurso no rio Arapiuns e relembra a parada anterior em Tucumã.",
+      "marcas": [
+        0,
+        8,
+        16
+      ]
+    },
+    {
+      "tempo_ms": 86400,
+      "descricao": "Água rasa e transparente, com o fundo de areia e reflexos de sol visíveis.",
+      "local": "Comunidade de São Marcos, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Na chegada a São Marcos, o apresentador chama atenção para a transparência da água do Arapiuns.",
+      "marcas": [
+        72,
+        82,
+        89
+      ]
+    },
+    {
+      "tempo_ms": 154500,
+      "descricao": "Estruturas de madeira cobertas de palha vistas de frente, além de uma ampla faixa de areia.",
+      "local": "Comunidade de São Marcos, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A visita apresenta a loja de artesanato e cita a casa de farinha e o redário no mesmo espaço comunitário.",
+      "marcas": [
+        144,
+        150,
+        157
+      ]
+    },
+    {
+      "tempo_ms": 222600,
+      "descricao": "Morador aponta para uma construção aberta com cobertura de palha.",
+      "local": "Comunidade de São Marcos, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A conversa passa pela cozinha comunitária e menciona outra estrutura de apoio em construção.",
+      "marcas": [
+        203,
+        211,
+        220
+      ]
+    },
+    {
+      "tempo_ms": 631433,
+      "descricao": "Canoa segue entre árvores com os troncos dentro d’água, no igapó.",
+      "local": "Igapó da comunidade de São Marcos, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador descreve o trecho de igapó como lugar de contemplação.",
+      "marcas": [
+        623,
+        629,
+        638
+      ]
+    },
+    {
+      "tempo_ms": 664800,
+      "descricao": "Troncos e galhos se projetam sobre a água transparente na margem do igapó.",
+      "local": "Igapó da comunidade de São Marcos, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Durante a passagem da canoa, a conversa chama atenção para as árvores e os galhos no caminho.",
+      "marcas": [
+        638,
+        645,
+        665
+      ]
+    },
+    {
+      "tempo_ms": 767633,
+      "descricao": "Duas pessoas tomam banho em água rasa ao lado de troncos caídos.",
+      "local": "Igapó da comunidade de São Marcos, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O grupo faz uma parada para mergulhar e comenta a água fria e transparente.",
+      "marcas": [
+        752,
+        759,
+        761
+      ]
+    },
+    {
+      "tempo_ms": 801067,
+      "descricao": "Mulher apresenta o peixe assado junto a pratos e travessas sobre uma mesa de madeira.",
+      "local": "Comunidade de São Marcos, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Na hora do almoço na comunidade, a fala apresenta tambaqui assado e os acompanhamentos.",
+      "marcas": [
+        790,
+        796,
+        805
+      ]
+    },
+    {
+      "tempo_ms": 835800,
+      "descricao": "Farofa amarela e vinagrete aparecem em destaque sobre a mesa.",
+      "local": "Comunidade de São Marcos, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A explicação liga a farofa à farinha produzida na própria comunidade.",
+      "marcas": [
+        831,
+        834,
+        841
+      ]
+    },
+    {
+      "tempo_ms": 903700,
+      "descricao": "Mãos erguem uma peça trançada diante de colares e outros itens expostos.",
+      "local": "Comunidade de São Marcos, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A visita à exposição apresenta bijuterias e outros produtos feitos na comunidade.",
+      "marcas": [
+        887,
+        893,
+        907
+      ]
+    },
+    {
+      "tempo_ms": 971800,
+      "descricao": "Peças redondas de palha trançada com motivos geométricos sobre uma mesa.",
+      "local": "Comunidade de São Marcos, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador mostra o trançado e confirma com o morador que as peças são de produção local.",
+      "marcas": [
+        960,
+        962,
+        970
+      ]
+    },
+    {
+      "tempo_ms": 1107800,
+      "descricao": "Vista aérea de uma ponta larga de areia clara cercada pelo rio, com a mata ao fundo.",
+      "local": "Ponta do Caracaraí, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração apresenta a Ponta do Caracaraí e a situa perto da comunidade de São Marcos.",
+      "marcas": [
+        1097,
+        1106,
+        1113
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/turismo/press-trip-percorre-sao-marcos-tucuma-e-vila-coroca-e-apresenta-experiencias-de-turismo-de-base-comunitaria-no-rio-arapiuns-afqnum"
+      ]
+    },
+    {
+      "tempo_ms": 1210200,
+      "descricao": "Vista aérea de embarcações junto à ponta de areia entre áreas de água azul e esverdeada.",
+      "local": "Ponta Grande, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A sequência fecha com a Ponta Grande e destaca os tons da água do rio Arapiuns.",
+      "marcas": [
+        1162,
+        1197,
+        1210,
+        1219
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/turismo/press-trip-percorre-sao-marcos-tucuma-e-vila-coroca-e-apresenta-experiencias-de-turismo-de-base-comunitaria-no-rio-arapiuns-afqnum"
+      ]
+    }
+  ]
+}

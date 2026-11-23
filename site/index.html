@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Conheça Alter do Chão, Santarém e as comunidades do oeste do Pará com o Turismo Aqui.">
+  <title>Turismo Aqui | Conheça a Amazônia</title>
+  <link rel="icon" type="image/png" href="../design-system/assets/icone-turismo-aqui.png">
+  <link rel="stylesheet" href="../design-system/tokens.css">
+  <link rel="stylesheet" href="../design-system/components.css">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="landing.css">
+  <script type="module" src="home.js"></script>
+</head>
+<body class="ta">
+  <a class="skip ta-button ta-button--primary" href="#conteudo">Pular para o conteúdo</a>
+  <header class="site-header" id="inicio">
+    <div class="wrap site-nav site-nav--products">
+      <a class="brand" href="./" aria-label="Turismo Aqui, início">
+        <img src="../design-system/assets/turismo-aqui.svg" alt="Turismo Aqui" width="96" height="104">
+      </a>
+      <nav aria-label="Navegação principal">
+        <a class="nav-link" href="./" aria-current="page">Site</a>
+        <a class="nav-link" href="blog.html">Revista</a>
+        <a class="nav-link" href="../app/">Destinos</a>
+        <a class="ta-button ta-button--secondary" href="../">Central</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="conteudo">
+    <section class="hub-hero hub-hero--site" id="destino" aria-labelledby="hero-title">
+      <div class="wrap hub-hero-content">
+        <h1 id="hero-title">A Amazônia <em>começa aqui.</em></h1>
+        <div class="section-actions">
+          <a class="ta-button ta-button--accent" href="../app/">Explorar destinos</a>
+          <a class="ta-button ta-button--inverse" href="blog.html">Ler a revista</a>
+        </div>
+      </div>
+      <figure class="hub-hero-media" data-asset="quadro-alter-ilha-aerea">
+        <img src="../entregaveis/catalogo-visual/imagens/IwLYaCVu5BI/000048080.jpg"
+             alt="Vista aérea da Ilha do Amor, com uma faixa de areia entre dois trechos de água" width="1920" height="1080" fetchpriority="high">
+        <figcaption>
+          <a href="https://www.youtube.com/watch?v=IwLYaCVu5BI&amp;t=48s"><span data-photo-title>Ilha do Amor, Alter do Chão</span> · <span data-photo-credit>Turismo Aqui, 0:48</span></a>
+        </figcaption>
+      </figure>
+    </section>
+
+    <section id="revista" class="hub-section wrap" aria-labelledby="revista-titulo">
+      <header class="section-heading">
+        <h2 id="revista-titulo">Da revista</h2>
+        <a class="ta-button ta-button--secondary" href="blog.html">Ver todas as matérias</a>
+      </header>
+      <p id="spotlight-status" class="journal-status" role="status"></p>
+      <div class="hub-grid" id="spotlight"></div>
+      <template id="spotlight-card">
+        <a class="ta-card hub-card spotlight-card">
+          <img alt="" width="1920" height="1080" decoding="async">
+          <h3></h3>
+          <span class="hub-card-meta"></span>
+        </a>
+      </template>
+    </section>
+
+    <section id="historia" class="destination" aria-labelledby="historia-titulo">
+      <div class="wrap split-section">
+        <figure class="landing-figure" data-asset="quadro-emanuel-orla-santarem">
+          <img src="../entregaveis/catalogo-visual/imagens/BH4RW20oZdg/000014300.jpg"
+               alt="Emanuel Júlio em frente ao rio na orla de Santarém" width="1920" height="1080" loading="lazy" decoding="async">
+          <figcaption>
+            <span data-photo-title>Emanuel Júlio na orla de Santarém</span> · <a href="https://www.youtube.com/watch?v=BH4RW20oZdg&amp;t=14s" data-photo-credit>Turismo Aqui, 0:14</a>
+          </figcaption>
+        </figure>
+        <div class="section-copy">
+          <p class="eyebrow">Sobre o canal</p>
+          <h2 id="historia-titulo">Turismo Aqui, com Emanuel Júlio</h2>
+          <div class="section-actions">
+            <a class="ta-button ta-button--primary" href="https://www.youtube.com/@TurismoAqui">Assistir ao canal</a>
+            <a class="ta-button ta-button--secondary" href="https://www.youtube.com/watch?v=pcdSgCIfEUw">História do projeto</a>
+          </div>
+          <details class="hub-details">
+            <summary>Mais sobre o canal</summary>
+            <ul class="resource-links" id="about-links">
+              <li><a href="https://www.jesocarneiro.com.br/artigos/turismo-aqui-um-novo-canal-no-youtube-sobre-turismo-na-regiao.html">Lançamento do canal</a></li>
+              <li><a href="https://www.youtube.com/watch?v=LhfExbCSfQY">Primeiro episódio de Os Caminhos de Alter do Chão</a></li>
+            </ul>
+          </details>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap landing-footer">
+      <span>Turismo Aqui</span>
+      <nav aria-label="Materiais e acervo">
+        <a href="../entregaveis/guia-alter-do-chao-prototipo.pdf">Guia em PDF</a>
+        <a href="../entregaveis/catalogo-visual/">Biblioteca de imagens</a>
+        <a href="../">Central do projeto</a>
+      </nav>
+    </div>
+  </footer>
+</body>
+</html>

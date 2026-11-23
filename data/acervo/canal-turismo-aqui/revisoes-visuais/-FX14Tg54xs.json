@@ -1,0 +1,276 @@
+{
+  "video_id": "-FX14Tg54xs",
+  "motivo": "",
+  "quadros": [
+    {
+      "tempo_ms": 30160,
+      "descricao": "Vista do convés da balsa sobre uma fileira de carros, um caminhão e máquinas. Atrás, aparecem a orla e barcos atracados.",
+      "contexto": "O apresentador inicia o trajeto de Santarém a Macapá pela travessia de balsa.",
+      "marcas": [
+        18,
+        25,
+        32,
+        39
+      ],
+      "local": "Orla de Santarém, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 147280,
+      "descricao": "A balsa, carregada de veículos, se aproxima de uma rampa na margem arborizada.",
+      "contexto": "O narrador registra a chegada da linha regular a Santana do Tapará e comenta o nível baixo do rio.",
+      "marcas": [
+        144,
+        151,
+        161
+      ],
+      "local": "Porto de Santana do Tapará (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 206120,
+      "descricao": "A estrada de acesso é vista pelo para-brisa ao sair do porto, com uma área de espera à direita.",
+      "contexto": "O apresentador anuncia o começo da viagem por terra após o desembarque em Santana do Tapará.",
+      "marcas": [
+        180,
+        186,
+        194,
+        203,
+        211
+      ],
+      "local": "Santana do Tapará (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 382320,
+      "descricao": "Curva de rodovia asfaltada, com faixas amarelas e casas baixas ao lado do acostamento.",
+      "contexto": "O grupo situa o deslocamento pela PA-423 e fala do entroncamento que leva ao município de Prainha.",
+      "marcas": [
+        360,
+        367,
+        386,
+        393
+      ],
+      "local": "PA-423, Pará",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 499840,
+      "descricao": "Homem de camisa laranja sob a entrada de um estabelecimento à margem da estrada, com um carro e uma pilha de tijolos atrás.",
+      "contexto": "O grupo faz uma pausa na lanchonete e se prepara para continuar na direção do rio Paru.",
+      "marcas": [
+        487,
+        494,
+        503
+      ],
+      "local": "Trajeto até o rio Paru (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 616760,
+      "descricao": "Emanuel Júlio, de óculos, comenta a viagem ao volante. Pela janela, aparecem casas e árvores da margem da estrada.",
+      "contexto": "O apresentador informa o tempo de condução desde o porto e situa a passagem pela comunidade Bom Futuro.",
+      "marcas": [
+        602,
+        610,
+        619,
+        626
+      ],
+      "local": "Comunidade Bom Futuro (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 734560,
+      "descricao": "Família almoça à mesa no interior de uma embarcação com piso vermelho e colunas brancas.",
+      "contexto": "Os viajantes usam um espaço cedido pela embarcação para almoçar durante a travessia do rio Paru.",
+      "marcas": [
+        722,
+        730,
+        739,
+        745
+      ],
+      "local": "Travessia do rio Paru (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 793200,
+      "descricao": "Guarda-corpo vermelho da balsa em primeiro plano, diante da água e da margem de floresta densa.",
+      "contexto": "A balsa completa a travessia do Paru pouco antes de o grupo retomar o trajeto por terra.",
+      "marcas": [
+        797,
+        805
+      ],
+      "local": "Travessia do rio Paru (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 910080,
+      "descricao": "Estrada estreita de terra atravessa duas fileiras densas de árvores altas e de tronco reto.",
+      "contexto": "O grupo registra a plantação vista no caminho e procura os trilhos próximos ao trecho do projeto Jari.",
+      "marcas": [
+        897,
+        905,
+        915,
+        925
+      ],
+      "local": "Rota para Monte Dourado (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 968520,
+      "descricao": "Homem de camisa laranja indica um ponto na beira de uma estrada de terra, próximo a uma entrada com vegetação baixa.",
+      "contexto": "O guia aponta o lugar onde passa o trilho, encoberto pelo mato, e comenta o uso anterior da ferrovia.",
+      "marcas": [
+        954,
+        962,
+        970,
+        979
+      ],
+      "local": "Entorno de Monte Dourado, Almeirim (PA)",
+      "confianca": "provável",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1086440,
+      "descricao": "Via de terra avermelhada entre taludes e vegetação, com postes e marcas de obra junto à pista.",
+      "contexto": "O apresentador identifica a chegada às imediações de Monte Dourado antes de seguir para o embarque no rio Jari.",
+      "marcas": [
+        1075,
+        1085,
+        1094,
+        1101
+      ],
+      "local": "Entorno de Monte Dourado, Almeirim (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1144520,
+      "descricao": "Veículos ocupam o convés da balsa junto ao rio, com passageiros apoiados na lateral e céu alaranjado atrás.",
+      "contexto": "O grupo inicia a travessia de Monte Dourado para Laranjal do Jari no fim da tarde.",
+      "marcas": [
+        1135,
+        1147,
+        1155
+      ],
+      "local": "Rio Jari, divisa entre Pará e Amapá",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1203640,
+      "descricao": "Passageiros olham a margem de Laranjal do Jari iluminada ao longe, a partir do convés da balsa.",
+      "contexto": "O grupo se aproxima do lado amapaense do rio após sair do Pará.",
+      "marcas": [
+        1190,
+        1200
+      ],
+      "local": "Rio Jari, divisa entre Pará e Amapá",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1262240,
+      "descricao": "Rua comercial ao anoitecer, com ciclistas, carros e fachadas iluminadas. O letreiro indica o fim da etapa até Laranjal do Jari.",
+      "contexto": "O apresentador anuncia a parada em Laranjal do Jari antes de retomar a viagem até Macapá.",
+      "marcas": [
+        1250,
+        1259,
+        1268
+      ],
+      "local": "Laranjal do Jari (AP)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1379400,
+      "descricao": "Pista asfaltada passa por comércio baixo, palmeiras e painéis de sinalização junto ao acostamento.",
+      "contexto": "Após o pernoite, o grupo volta à estrada e comenta a estimativa de deslocamento até Macapá.",
+      "marcas": [
+        1366,
+        1375,
+        1381,
+        1393
+      ],
+      "local": "Laranjal do Jari (AP)",
+      "confianca": "provável",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1497120,
+      "descricao": "Estrada ampla de terra contorna uma encosta e abre a vista para morros e vegetação baixa ao longe.",
+      "contexto": "O apresentador comenta a mudança de paisagem em relação à primeira etapa da viagem.",
+      "marcas": [
+        1483,
+        1490,
+        1498,
+        1505
+      ],
+      "local": "Trajeto entre Laranjal do Jari e Macapá (AP)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1614200,
+      "descricao": "Nuvem de poeira cobre grande parte da estrada, com a vegetação e a pista aparecendo pelas bordas.",
+      "contexto": "O apresentador comenta a visibilidade reduzida nesse trecho sem pavimento e menciona as obras de asfaltamento.",
+      "marcas": [
+        1606,
+        1613,
+        1621,
+        1628
+      ],
+      "local": "BR-156, Amapá",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1731120,
+      "descricao": "Escavadeira e cones aparecem à direita, ao lado da estrada de terra e de uma área revolvida.",
+      "contexto": "O grupo registra as máquinas trabalhando no trecho em obras durante a viagem.",
+      "marcas": [
+        1718,
+        1726,
+        1732
+      ],
+      "local": "BR-156, Amapá",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1907120,
+      "descricao": "Ponte com tabuleiro estreito de madeira, guarda-corpos escuros e árvores dos dois lados.",
+      "contexto": "O grupo consulta o aplicativo de navegação e identifica o curso d’água sob a ponte como rio Matapi.",
+      "marcas": [
+        1892,
+        1906,
+        1912,
+        1918
+      ],
+      "local": "Ponte sobre o rio Matapi, Amapá",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 2025120,
+      "descricao": "Via de chegada a uma área mais urbanizada sob luz de fim de tarde, com postes e construções próximas à pista.",
+      "contexto": "O apresentador anuncia a chegada ao município de Macapá e informa que ainda falta percorrer o trecho até o centro.",
+      "marcas": [
+        2024,
+        2033
+      ],
+      "local": "Macapá (AP)",
+      "confianca": "confirmado",
+      "fontes": []
+    }
+  ]
+}

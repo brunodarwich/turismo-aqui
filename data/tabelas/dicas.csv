@@ -1,0 +1,4 @@
+﻿id,titulo,texto,lugar_id,fonte_ids,data_verificacao,status_revisao,trecho_ids
+confirmar-passeios,Confirme preços e horários de embarque,"Use a Secretaria de Turismo e os prestadores locais para confirmar acesso, horários e condições. Os valores divulgados no vídeo de passeios são de 2019.",alter-do-chao,video_passeios | semtur,,rascunho,transcricao-i3hok4syuZw-6ae104fc1e9663b02bd08f70e9b0390b6bd3877f8d3f1d127092e85dfcd6cdc4-0021
+ilha-condicoes,Confira as condições da Ilha do Amor,A paisagem da Ilha do Amor muda com o nível do rio. Consulte informações locais sobre a travessia e a área de praia antes de sair.,ilha-do-amor,ilha_prefeitura,,rascunho,
+consultar-guia,Use o guia municipal para comparar os atrativos,"O guia turístico de Santarém reúne pontos da região. Depois de escolher o que visitar, confirme como chegar e o tempo de deslocamento.",,guia_santarem,2026-11-21,revisado,

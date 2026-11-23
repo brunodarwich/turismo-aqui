@@ -1,0 +1,36 @@
+name: Publicar no GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v6
+      - name: Configurar o Pages
+        uses: actions/configure-pages@v5
+      - name: Preparar os arquivos estáticos
+        run: python3 producao/preparar_pages.py "${{ runner.temp }}/turismo-aqui-pages"
+      - name: Enviar os arquivos
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ${{ runner.temp }}/turismo-aqui-pages
+      - name: Publicar o site
+        id: deployment
+        uses: actions/deploy-pages@v4

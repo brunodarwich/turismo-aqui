@@ -1,0 +1,147 @@
+{
+  "video_id": "pcdSgCIfEUw",
+  "motivo": "",
+  "quadros": [
+    {
+      "tempo_ms": 35302,
+      "descricao": "Emanuel Júlio, de camiseta preta do Turismo Aqui, aparece na praia, com areia e pequenas embarcações ao fundo. O letreiro indica Alter do Chão e a data da gravação.",
+      "local": "Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador situa a gravação em Alter do Chão no domingo, 17 de novembro de 2019.",
+      "marcas": [
+        23,
+        33,
+        39
+      ]
+    },
+    {
+      "tempo_ms": 62529,
+      "descricao": "Vista aérea do canal entre a vila e a faixa de areia. Barcos se concentram na margem esquerda e há pessoas na água.",
+      "local": "Travessia para a Ilha do Amor, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador explica que a água baixa permite fazer a travessia a pé naquele dia.",
+      "marcas": [
+        46,
+        56,
+        63
+      ]
+    },
+    {
+      "tempo_ms": 76643,
+      "descricao": "Grupos atravessam a água a pé em direção à praia da vila, onde embarcações pequenas estão alinhadas.",
+      "local": "Travessia para a Ilha do Amor, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador diz que usou uma catraia para atravessar com uma criança, enquanto outras pessoas seguiam a pé.",
+      "marcas": [
+        69,
+        75,
+        83
+      ]
+    },
+    {
+      "tempo_ms": 103470,
+      "descricao": "Plano da água rasa com faixa de areia no primeiro plano e árvores e construções baixas na margem oposta.",
+      "local": "Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador passa do registro da travessia para a novidade do canal, o lançamento do site.",
+      "marcas": [
+        90,
+        97,
+        105
+      ]
+    },
+    {
+      "tempo_ms": 145212,
+      "descricao": "Animação mostra uma mão tocando a marca Turismo Aqui na tela de um celular, sobre fundo laranja.",
+      "local": "",
+      "confianca": "não identificado",
+      "contexto": "O apresentador explica que o site permite publicar textos e fotos junto aos vídeos do canal.",
+      "marcas": [
+        137,
+        145,
+        153
+      ]
+    },
+    {
+      "tempo_ms": 186353,
+      "descricao": "Cartela de divulgação do site sobre a imagem de um pôr do sol refletido na água.",
+      "local": "",
+      "confianca": "não identificado",
+      "contexto": "É uma inserção musical de divulgação. A fala logo antes anuncia o vídeo de lançamento do site Turismo Aqui.",
+      "marcas": [
+        170,
+        175
+      ]
+    },
+    {
+      "tempo_ms": 254354,
+      "descricao": "Visto de cima, um grupo cruza a parte rasa do canal entre a praia e a vila. Duas pessoas chegam à margem mais próxima da câmera.",
+      "local": "Travessia para a Ilha do Amor, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador fala da projeção turística de Alter do Chão na época, enquanto o vídeo volta a mostrar a travessia.",
+      "marcas": [
+        240,
+        248,
+        257
+      ]
+    },
+    {
+      "tempo_ms": 282182,
+      "descricao": "Vista aérea inclinada da borda arenosa, com barcos encostados junto à água e construções cobertas de palha mais ao fundo.",
+      "local": "Ilha do Amor, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A fala destaca o movimento de visitantes naquele domingo de novembro.",
+      "marcas": [
+        274,
+        282,
+        290
+      ]
+    },
+    {
+      "tempo_ms": 337237,
+      "descricao": "Vista aérea ao longo da faixa de areia, com quiosques entre árvores e fileiras de guarda-sóis junto à água.",
+      "local": "Ilha do Amor, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador identifica o lugar como Ilha do Amor e explica que se trata de uma barra fluvial.",
+      "marcas": [
+        322,
+        331,
+        339
+      ]
+    },
+    {
+      "tempo_ms": 364264,
+      "descricao": "Vista aérea em direção à vila, com a ponta arenosa, grupos de árvores e quiosques entre dois trechos de água.",
+      "local": "Ilha do Amor, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador comenta a procura dos visitantes pela Ilha do Amor e segue com uma panorâmica do lugar.",
+      "marcas": [
+        357,
+        365,
+        373
+      ]
+    },
+    {
+      "tempo_ms": 377978,
+      "descricao": "Telhados de palha em primeiro plano, barcos dispersos no canal e as construções da vila na margem oposta.",
+      "local": "Ilha do Amor, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador convida a observar a paisagem da Ilha do Amor e comenta o céu nublado daquele dia.",
+      "marcas": [
+        373,
+        382
+      ]
+    },
+    {
+      "tempo_ms": 487487,
+      "descricao": "Emanuel Júlio em primeiro plano com uma faixa de areia, guarda-sóis e a água ao fundo.",
+      "local": "Ilha do Amor, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "No encerramento, o apresentador explica como site e canal vão divulgar o turismo na Amazônia.",
+      "marcas": [
+        476,
+        486
+      ]
+    }
+  ]
+}

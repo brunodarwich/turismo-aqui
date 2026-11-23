@@ -1,0 +1,164 @@
+{
+  "video_id": "fHAWqNjsy4U",
+  "quadros": [
+    {
+      "tempo_ms": 9567,
+      "descricao": "Estrada de terra avermelhada faz uma curva sob o céu azul, entre barrancos baixos e árvores.",
+      "local": "PA-257 (Translago), oeste do Pará",
+      "confianca": "provável",
+      "contexto": "Na abertura, o apresentador menciona a Translago como parte do acesso a Arimum, passando pelo distrito de Arapixuna.",
+      "marcas": [
+        0,
+        9,
+        16
+      ]
+    },
+    {
+      "tempo_ms": 45633,
+      "descricao": "O apresentador apresenta um morador de camiseta laranja sob a cobertura de um barracão comunitário aberto.",
+      "local": "Arimum, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A fala identifica o morador como Carlos, que recebe o grupo e vai acompanhá-lo até a praia.",
+      "marcas": [
+        39,
+        47
+      ],
+      "fontes": [
+        "https://turismo.santarem.pa.gov.br/noticias/turismo/semtur-visita-quatro-comunidades-e-prepara-expansao-do-turismo-de-base-comunitaria-em-santarem-libqjc"
+      ]
+    },
+    {
+      "tempo_ms": 153000,
+      "descricao": "Pessoas descem pelo terreno sombreado sob uma árvore grande, com água e bancos de areia já visíveis ao fundo.",
+      "local": "Arimum, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O grupo deixa o barracão e chega ao primeiro ponto de onde se vê a praia antes da descida.",
+      "marcas": [
+        144,
+        152,
+        160
+      ]
+    },
+    {
+      "tempo_ms": 188867,
+      "descricao": "Uma mulher de camisa rosa e chapéu escuro sorri diante da câmera, com a vegetação e a margem do rio ao fundo.",
+      "local": "Arimum, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A convidada Maria comenta a surpresa ao conhecer o lugar e diz que gostaria de retornar com a família.",
+      "marcas": [
+        180,
+        189,
+        196
+      ]
+    },
+    {
+      "tempo_ms": 225133,
+      "descricao": "A vista entre as árvores mostra o rio e as faixas de areia e vegetação baixa junto à margem.",
+      "local": "Praia de Arimum, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Ainda no alto, o grupo observa a extensão da praia e comenta a vontade de voltar.",
+      "marcas": [
+        220,
+        231
+      ]
+    },
+    {
+      "tempo_ms": 279100,
+      "descricao": "Uma visitante de camisa azul aponta para a faixa de areia, com áreas úmidas no primeiro plano e mata ao fundo.",
+      "local": "Praia de Arimum, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A conversa indica a área de banho do outro lado e comenta a cabana construída pelos moradores para receber visitantes.",
+      "marcas": [
+        271,
+        279,
+        287
+      ]
+    },
+    {
+      "tempo_ms": 332500,
+      "descricao": "Uma pessoa atravessa a água rasa a pé, em direção a outras pessoas na faixa de areia.",
+      "local": "Praia de Arimum, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador situa a gravação em setembro de 2024, durante a seca, e aponta o outro lado como área de banho.",
+      "marcas": [
+        322,
+        329,
+        336
+      ]
+    },
+    {
+      "tempo_ms": 350433,
+      "descricao": "A água transparente e rasa desenha um canal entre bancos de areia, com a superfície ondulada visível no primeiro plano.",
+      "local": "Praia de Arimum, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Enquanto cruza a água, o apresentador identifica o rio Arapiuns e volta a mencionar a comunidade de Arimum.",
+      "marcas": [
+        345,
+        355
+      ]
+    },
+    {
+      "tempo_ms": 386700,
+      "descricao": "Uma visitante caminha por uma faixa larga de areia clara. Uma muda isolada projeta sombra e o restante do grupo está à frente.",
+      "local": "Praia de Arimum, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A fala chama atenção para a praia vazia e para a caminhada pela areia exposta.",
+      "marcas": [
+        378,
+        387,
+        398
+      ]
+    },
+    {
+      "tempo_ms": 422533,
+      "descricao": "Pessoas caminham junto à borda da água, em uma faixa estreita de areia úmida à beira do Arapiuns.",
+      "local": "Praia de Arimum, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador destaca a transparência da água e mostra os visitantes registrando o passeio.",
+      "marcas": [
+        412,
+        419,
+        428
+      ]
+    },
+    {
+      "tempo_ms": 494267,
+      "descricao": "Do ponto sombreado por uma cobertura de palha, vê-se uma curva de água rasa e a faixa de areia sob o sol.",
+      "local": "Praia de Arimum, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O grupo faz uma pausa sob a cobertura e comenta a pouca sombra na praia.",
+      "marcas": [
+        489,
+        497,
+        505
+      ]
+    },
+    {
+      "tempo_ms": 548067,
+      "descricao": "Visitantes se reúnem sob a cabana de palha, com bolsas sobre a areia e o rio visível além da sombra.",
+      "local": "Praia de Arimum, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Depois de comentar a comida preparada pelos moradores, o apresentador volta a destacar a paisagem da praia.",
+      "marcas": [
+        543,
+        551,
+        559
+      ]
+    },
+    {
+      "tempo_ms": 637333,
+      "descricao": "Uma tomada aérea mostra o banco de areia clara entre o rio largo e um canal mais escuro, com a mata atrás.",
+      "local": "Praia de Arimum, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O encerramento identifica as imagens aéreas como registros da praia visitada em Arimum.",
+      "marcas": [
+        614,
+        623,
+        631
+      ],
+      "fontes": [
+        "https://turismo.santarem.pa.gov.br/noticias/turismo/semtur-visita-quatro-comunidades-e-prepara-expansao-do-turismo-de-base-comunitaria-em-santarem-libqjc"
+      ]
+    }
+  ]
+}

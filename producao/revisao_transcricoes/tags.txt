@@ -1,0 +1,375 @@
+# Categoria | Nome da tag | Outras formas encontradas em títulos e falas
+Local | Amazônia | região amazônica
+Local | Pará | estado do pará, oeste do pará, interior paraense
+Local | Região Norte do Brasil | região norte
+Local | Amapá | estado do amapá
+Local | Amazonas | estado do amazonas, estado de amazonas, capital do amazonas, municípios do amazonas, no amazonas, manaus amazonas, itacoatiara amazonas, parintins amazonas, nhamundá amazonas, amazonense, amazonenses
+Local | Roraima | estado de roraima
+Local | Rondônia | estado de rondônia
+Local | Acre | estado do acre
+Local | Mato Grosso |
+Local | Maranhão |
+Local | São Paulo |
+Local | Portugal |
+Local | Tocantins (estado) | estado do tocantins
+Local | Nordeste do Pará | nordeste paraense
+Local | Oeste do Pará | oeste paraense, baixo amazonas
+Local | Guiana | guiana inglesa, guiana ex inglesa
+Local | Guiana Francesa | saint georges de l oyapock
+Local | Santarém | santarém pará, orla de santarém
+Local | Alter do Chão | praia de alter do chão, vila de alter do chão
+Local | Ilha do Amor | ilha dos amores, praia do amor
+Local | Lago Verde | lago verde de alter
+Local | Floresta Encantada do Caranazal | floresta encantada do caranazal, floresta encantada caranazal
+Local | Centro Cultural João Fona | museu joão fona, centro cultural joão fona
+Local | Lago dos Botos |
+Local | Serra da Piroca | serra piroca, morro da piroca
+Local | Ponta do Cururu | ponta de cururu, praia do cururu
+Local | Praia do Muretá | ponta do muretá, muretá
+Local | Lago Preto |
+Local | Ponta de Pedras | ponta das pedras, praia de ponta de pedras
+Local | Praia do Piauí | praia piauí
+Local | Praia de Carapanari | carapanari
+Local | Ponte do Mapiri | mapiri
+Local | Orla de Santarém | orla fluvial de santarém
+Local | Praça do Pescador |
+Local | Terminal Fluvial Turístico de Santarém | terminal fluvial turístico, trapiche municipal de santarém
+Local | Igarapé-Açu | passeio no igarapé açu
+Local | Mercadão 2000 | mercado 2000, mercadão dois mil
+Local | Feira do Pescado | feira de pescado
+Local | Mirante do Saubal | serra do saubal, saubal
+Local | Mirante do Tapajós | mirante de santarém
+Local | Lago Grande do Curuai | lago grande santarém, lago grande de curuai, lago grande de santarém, vila curuai, lago grande do curuaí, curuai
+Local | Vila Tabatinga |
+Local | São Marcos | comunidade de são marcos, comunidade ribeirinha de são marcos
+Local | Tucumã | comunidade de tucumã, comunidade ribeirinha tucumã, tucumã uma comunidade
+Local | Comunidade Arimum | ribeirinha arimum, arimum
+Local | Vila Franca |
+Local | Vila Socorro |
+Local | Anã | comunidade de anã, comunidade anã, de anã
+Local | Urucureá | comunidade urucureá
+Local | Coroca | comunidade coroca, vila coroca
+Local | Atodi | comunidade atodi
+Local | Cachoeira do Aruã | cachoeira de aruã, comunidade aruã
+Local | Vila Solimões | comunidade solimões, comunidade de solimões
+Local | Parauá | comunidade de parauá
+Local | Ponta do Cuatá | ponta de cuatá, praia do cuatá
+Local | Santarém Miri | santarém mirim
+Local | Pacoval | comunidade pacoval, comunidade do pacoval
+Local | Belterra |
+Local | Aramanaí | praia de aramanaí, praia do aramanaí
+Local | Pindobal | praia do pindobal, praia de pindobal
+Local | Porto Novo | praia do porto novo
+Local | Cajutuba | praia do cajutuba
+Local | Floresta Nacional do Tapajós | flona tapajós, flona do tapajós, floresta nacional de tapajós
+Local | Reserva Extrativista Tapajós-Arapiuns | resex tapajós arapiuns, resex do tapajós arapiuns, reserva tapajós arapiuns
+Local | Jamaraquá | comunidade jamaraquá
+Local | Maguari | praia do maguari, comunidade maguari
+Local | São Domingos (Flona do Tapajós) | são domingos na flona, são domingos na floresta nacional, comunidade de são domingos, comunidade são domingos
+Local | São Jorge (Flona do Tapajós) | comunidade de são jorge, comunidade são jorge
+Local | Mojuí dos Campos | mojui
+Local | Monte Alegre | parque estadual de monte alegre
+Local | Serra da Lua | serra da lua de monte alegre
+Local | Alenquer |
+Local | Curuá (município) | cidade de curuá, santarém a curuá, conheça curuá, curuá no pará, município de curuá
+Local | Óbidos |
+Local | Oriximiná |
+Local | Porto Trombetas |
+Local | Juruti | juruty
+Local | Juruti Velho |
+Local | Terra Santa |
+Local | Faro (Pará) | faro no pará, saindo de faro, terra santa a faro, faro a nhamundá, cidade de faro, município de faro
+Local | Nhamundá |
+Local | Prainha (Pará) | cidade de prainha, município de prainha, prainha e monte alegre, prainha no pará
+Local | Almeirim |
+Local | Monte Dourado |
+Local | Porto de Santana | porto de santana no amapá, porto de santana no estado do amapá
+Local | Aveiro |
+Local | Fordlândia | fordlandia
+Local | Boim | vila de boim, comunidade de boim
+Local | Brasília Legal |
+Local | Itaituba |
+Local | Parque Nacional da Amazônia | parna amazônia, parna da amazônia
+Local | Rurópolis |
+Local | Placas (Pará) | cidade de placas, município de placas, placas no pará
+Local | Uruará |
+Local | Medicilândia |
+Local | Brasil Novo |
+Local | Vitória do Xingu |
+Local | Altamira |
+Local | Belo Monte | usina de belo monte, hidrelétrica de belo monte
+Local | Anapu |
+Local | Pacajá |
+Local | Novo Repartimento |
+Local | Itupiranga |
+Local | Tucuruí |
+Local | Breu Branco |
+Local | Goianésia do Pará | goianésia
+Local | Marabá |
+Local | Parauapebas |
+Local | Canaã dos Carajás |
+Local | Carajás | serra dos carajás, rota carajás
+Local | Eldorado dos Carajás | eldorado do carajás
+Local | Marajó | ilha de marajó, ilha do marajó, arquipélago do marajó
+Local | Baía do Marajó |
+Local | Soure | cidade de soure
+Local | Salvaterra |
+Local | Joanes | praia de joanes, vila de joanes
+Local | Ponta de Pedras (Marajó) | município de ponta de pedras, ponta de pedras no marajó, ponta de pedras na ilha do marajó
+Local | Cachoeira do Arari |
+Local | Breves | cidade de breves, estreitos de breves, breves no marajó
+Local | Portel |
+Local | Belém | belém do pará
+Local | Icoaraci |
+Local | Mosqueiro | ilha do mosqueiro
+Local | Ilha do Combu | ilha do combú, combu
+Local | Mercado Ver-o-Peso | ver o peso, feira do ver o peso
+Local | Estação das Docas | estação docas
+Local | Mangal das Garças |
+Local | Forte do Presépio |
+Local | Basílica de Nazaré | basílica santuário de nazaré
+Local | Castanhal |
+Local | Curuçá |
+Local | Orla do Abade |
+Local | São João de Pirabas |
+Local | Salinópolis | cidade de salinas, de salinas a, em salinas, para salinas
+Local | Praia do Atalaia | praia de atalaia
+Local | Praia do Maçarico | orla do maçarico
+Local | Bragança | bragança no pará
+Local | Ajuruteua | praia de ajuruteua, praia do ajuruteua
+Local | Capanema |
+Local | Ourém |
+Local | Capitão Poço |
+Local | Colares | cidade de colares, ilha de colares, de colares, a colares
+Local | Vigia de Nazaré | vigia no pará, a vigia no pará
+Local | São Caetano de Odivelas |
+Local | Marudá |
+Local | Algodoal | ilha de algodoal, ilha de maiandeua, maiandeua
+Local | Praia do Crispim |
+Local | Abaetetuba |
+Local | Cametá |
+Local | Barcarena |
+Local | Vila dos Cabanos |
+Local | Moju | cidade de moju, município de moju, a moju
+Local | Igarapé-Miri |
+Local | Tailândia (Pará) | tailândia no pará, município de tailândia, cidade de tailândia
+Local | Tomé-Açu |
+Local | Jacareacanga |
+Local | Novo Progresso |
+Local | Moraes Almeida |
+Local | Castelo de Sonhos |
+Local | Trairão |
+Local | Macapá |
+Local | Santana (Amapá) | santana no amapá, cidade de santana no amapá, porto de santana
+Local | Laranjal do Jari |
+Local | Vitória do Jari |
+Local | Oiapoque |
+Local | Calçoene |
+Local | Amapá (município) | cidade de amapá, município de amapá
+Local | Fortaleza de São José de Macapá | fortaleza são josé de macapá
+Local | Marco Zero do Equador | marco zero de macapá
+Local | Cachoeira de Santo Antônio do Jari | cachoeira do jari, cachoeira de santo antônio no jari
+Local | Manaus |
+Local | Porto de Manaus |
+Local | Teatro Amazonas |
+Local | Museu da Amazônia (MUSA) | museu da amazônia, torre do musa
+Local | Feira Manaus Moderna | feira da manaus moderna, manaus moderna
+Local | Ponta Negra (Manaus) | ponta negra em manaus, praia da ponta negra
+Local | Presidente Figueiredo |
+Local | Cachoeira da Neblina |
+Local | Iranduba |
+Local | Manacapuru |
+Local | Itacoatiara |
+Local | Parintins |
+Local | Maués | cidade de maués
+Local | Barreirinha |
+Local | Urucará |
+Local | São Sebastião do Uatumã |
+Local | Novo Airão |
+Local | Anavilhanas | arquipélago de anavilhanas
+Local | Humaitá |
+Local | Apuí |
+Local | Vila Sucunduri | rio sucunduri, sucunduri
+Local | Boa Vista (Roraima) | boa vista roraima, boa vista em roraima, boa vista no estado de roraima, boa vista a, até boa vista, a boa vista
+Local | Tepequém | serra do tepequém, vila do tepequém
+Local | Lago do Robertinho |
+Local | Cachoeira do Davi |
+Local | Cachoeira do Evandro |
+Local | Cachoeira do Moco Moco | cachoeira de moco moco
+Local | Fazenda Buritizal Grosso | buritizal grosso
+Local | Pacaraima |
+Local | Lethem |
+Local | Caracaraí |
+Local | Porto Velho |
+Local | Rio Branco (Acre) | rio branco acre, rio branco no acre
+Local | Rio Tapajós | tapajós
+Local | Rio Arapiuns | arapiuns
+Local | Rio Amazonas | rio das amazonas
+Local | Rio Negro | encontro do negro e solimões
+Local | Rio Solimões | águas do solimões
+Local | Rio Xingu | águas do xingu, margens do xingu, atravessando o xingu, do tapajós ao xingu, travessia do xingu
+Local | Rio Tocantins | águas do tocantins
+Local | Rio Curuá-Una | curuá una
+Local | Rio Nhamundá |
+Local | Rio Jari |
+Local | Canal do Jari |
+Local | Rio Trombetas |
+Local | Rio Madeira |
+Local | Rio Guamá |
+Local | Rio Mutuacá | mutuacá
+Local | Encontro das Águas | encontro de águas
+Local | Transamazônica (BR-230) | br 230, transamazônica, br dois três zero
+Local | BR-163 | cuiabá santarém, santarém cuiabá, br um seis três
+Local | BR-319 | br três um nove
+Local | BR-174 |
+Local | BR-156 |
+Local | BR-316 |
+Local | PA-370 | rodovia santarém curuá una, pa trezentos e setenta
+Local | PA-457 | estrada de alter do chão
+Local | AM-010 |
+Local | Casa do Saulo | restaurante casa do saulo
+Local | Pousada Coração Verde | pousada coração verde alter do chão
+Local | Bar Mascote |
+Local | Restaurante da Sereia | restaurante sereia
+Local | Restaurante do Natal |
+Local | Restaurante Malokas | restaurante malokas
+Local | Mirante da Ilha | hotel mirante da ilha
+Local | Casa do Barão de Santarém | casa do barão santarém, solar do barão, solar do barão de santarém
+Comida | Açaí | açaís
+Comida | Tacacá |
+Comida | Maniçoba |
+Comida | Pato no tucupi | pato ao tucupi
+Comida | Tucupi |
+Comida | Jambu |
+Comida | Piracuí | farinha de peixe
+Comida | Farinha de mandioca | farinha d água
+Comida | Tapioca | beiju, beijus, tapiocas
+Comida | Mandioca | macaxeira, mandiocas
+Comida | Peixe assado | peixe na brasa, assar peixe, peixes assados
+Comida | Peixe frito | peixes fritos
+Comida | Caldeirada | caldeiradas, caldeirada de peixe
+Comida | Peixada | peixadas
+Comida | Pirarucu | pirarucus
+Comida | Tambaqui | tambaquis
+Comida | Tucunaré | tucunarés, tucunarezinho
+Comida | Surubim | surubins
+Comida | Dourada (peixe) | peixe dourada, dourada assada, dourada filhote, filhote dourada
+Comida | Filhote (peixe) | peixe filhote, posta de filhote, filhote assado, filhote pescada
+Comida | Pescada amarela |
+Comida | Pescada branca |
+Comida | Mapará | peixe mapará, mapará assado
+Comida | Jaraqui | jaraquis
+Comida | Pirapitinga | peixe pirapitinga
+Comida | Pescado | peixe, peixes
+Comida | Camarão | camarões
+Comida | Aviú | camarão aviú
+Comida | Farofa | farofas
+Comida | Caranguejo | caranguejos
+Comida | Ostra | ostras
+Comida | Cacau | cacaueiro
+Comida | Chocolate | chocolates
+Comida | Cupuaçu |
+Comida | Tucumã (fruto) | fruto do tucumã, fruta tucumã, tucumã fruta, x caboquinho
+Comida | Bacuri |
+Comida | Muruci | murici
+Comida | Bacaba |
+Comida | Castanha-do-pará | castanha do brasil, castanha da amazônia
+Comida | Queijo de búfala | queijo do marajó, queijo marajoara
+Comida | Mel | mel de abelha, mel da rodovia
+Comida | Guaraná |
+Comida | Café | cafezinho, pão com café
+Comida | Pão | pães, pão com café
+Comida | Frutas amazônicas | fruta da amazônia, frutas da amazônia, frutas regionais, frutas típicas, frutos amazônicos
+Pessoa | Emanuel Júlio | Emanuel Júlio Leite da Silva, Mano Júlio
+Pessoa | Beth Cheirosinha | Beth do Ver-o-Peso
+Pessoa | João Fona | artista joão fona, artista plástico joão fona, pintor joão fona, obra de joão fona
+Pessoa | Laurimar Leal |
+Pessoa | Felisberto Sussuarana |
+Pessoa | Ubirajara Bentes de Souza | ubirajara bentes de sousa
+Pessoa | Curt Nimuendajú | curt nimuendaju, curt unkel
+Pessoa | Henry Alexander Wickham | henry wickham
+Pessoa | Henry Walter Bates | henry bates
+Pessoa | João Barbosa Rodrigues | botânico barbosa rodrigues
+Pessoa | Guilherme Lisboa |
+Pessoa | Saulo Jennings | chef saulo, saulo jennings
+Pessoa | Cristóvão Sena | pesquisador cristóvão sena, cristóvão cena
+Pessoa | Padre João Felipe Bettendorff | padre bettendorff, padre betendorf, joão felipe bettendorff
+Pessoa | Francisco de Orellana | francisco orellana, de orellana
+Pessoa | Henry Ford | henri ford
+Pessoa | Bruno Gagliasso |
+Pessoa | Dom José I | dom josé primeiro
+Pessoa | Barão de Santarém | barão de santarem, barão santarém, miguel antônio pinto guimarães
+Pessoa | Richard Hennington | richard thomas hennington, richard henington
+Pessoa | Pedro Teixeira | capitão pedro teixeira
+Pessoa | Francisco de Assis Corrêa | francisco de assis corrêa
+Pessoa | Zé Maria (Jacarezinho) | zé maria aqui da comunidade
+Pessoa | Natal (Aramanaí) | restaurante do natal, natal um dos donos
+Pessoa | Idimar (Itaituba) | meu nome é idimar
+Pessoa | Auriane (Coração Verde) | meu nome é auriane
+Pessoa | Caroline (Altamira) | eu me chamo caroline
+Pessoa | Júnior (Parintins) | me chamo júnior estou aqui trabalhando
+Pessoa | As Ribeirinhas da Amazônia | asribeirinhasdaamazonia
+Pessoa | Mestre Chico Malta | chico malta
+Pessoa | Mestre Sebastião Tapajós | sebastião tapajós
+Tema | Praias de rio | praia de rio, praias de rio, praias fluviais, praia fluvial, praias do tapajós
+Tema | Praias de mar | praia de mar, praia de água salgada, praias oceânicas, praias de mar
+Tema | Praias | praia, praias, beira da praia
+Tema | Vida ribeirinha | comunidade ribeirinha, comunidades ribeirinhas, vida ribeirinha, comunidades tradicionais, moradores ribeirinhos
+Tema | Turismo de base comunitária | turismo comunitário, base comunitária, turismo de base local
+Tema | Ecoturismo | turismo ecológico
+Tema | Turismo sustentável | sustentabilidade, turismo de baixo impacto
+Tema | Turismo de aventura | aventura, aventuras, ecoturismo de aventura, turismo aventura
+Tema | Turismo rural | fazenda, agroturismo, hotel fazenda
+Tema | Turismo científico | turismo de pesquisa
+Tema | Turismo de pesca | pesca esportiva, pescaria esportiva
+Tema | Pesca artesanal | pescadores artesanais, pescador artesanal, pesca de tarrafa, pesca tradicional
+Tema | Gastronomia | culinária, boa comida, comer bem, onde comer, gastronomia regional, culinária regional
+Tema | Café da manhã | cafés da manhã, desjejum
+Tema | Restaurantes | restaurante, onde comer
+Tema | Feiras e mercados | feiras, feira, mercados, mercadão, feira livre, mercado municipal, mercado do peixe
+Tema | Hospedagem | hotel, hotéis, pousada, pousadas, hospedar, hospedaria, camping, onde ficar
+Tema | Viagem de barco | viagens de barco, transporte fluvial, barco recreio, embarcação regional, navegação fluvial, viagem fluvial
+Tema | Passeios de barco | passeio de barco, passeios de lancha, passeio de lancha, passeios no rio, passeio pelo rio
+Tema | Travessia de balsa | balsa, balsas, travessia de ferryboat, ferry boat, ferryboat
+Tema | Travessia de catraia | catraia, catraias, catraieiros
+Tema | Viagem de carro | viagem por estrada, viagem rodoviária, viajando de carro, aventura de carro, por via terrestre
+Tema | Estradas e rodovias | estrada, estradas, rodovia, rodovias, asfalto, estrada de chão
+Tema | Condições da estrada | buracos na pista, buracos na estrada, trecho asfaltado, piso molhado, atoleiro, estrada de terra, pavimentação
+Tema | Cachoeiras | cachoeira, cachoeirinha, quedas d água, queda d água
+Tema | Trilhas | trilha, caminhada na floresta, trekking
+Tema | Cavernas | caverna, grutas, gruta, espeleologia
+Tema | Mirantes | mirante
+Tema | Rios e igarapés | igarapé, igarapés, balneário, balneários
+Tema | Florestas e biodiversidade | floresta amazônica, fauna, biodiversidade, flora, floresta, floresta nacional
+Tema | Parques e reservas | parque nacional, parque estadual, floresta nacional, reserva extrativista, unidade de conservação, unidades de conservação, parque zoobotânico
+Tema | Seca e estiagem | seca, seca severa, estiagem, vazante
+Tema | Cheia dos rios | enchente, cheia do rio, cheia do amazonas, inundação, cheias dos rios
+Tema | Queimadas e fumaça | queimadas, queimada, fumaça de queimadas, seca e fumaça, incêndios florestais
+Tema | Chuvas | chuva, período chuvoso, inverno amazônico
+Tema | História local | história da cidade, cidade histórica, histórica, história local, centro histórico, rica história, centro antigo
+Tema | Patrimônio e arquitetura | patrimônio, arquitetura, prédios históricos, patrimônio histórico, tombamento
+Tema | Museus | museu, museus, parque museu
+Tema | Arqueologia | arqueológica, arqueológico, cerâmica tapajônica, sítio arqueológico
+Tema | Artesanato | artesã, artesão, artesanato indígena, artesanato local
+Tema | Cultura indígena | indígena, indígenas, povos originários, aldeia, aldeias
+Tema | Festival de Parintins | festival folclórico de parintins, boi caprichoso, boi garantido
+Tema | Festribal de Juruti | festribal, festival das tribos, festival de juruti, festival folclórico das tribos
+Tema | Festa do Sairé | sairé, çairé, festival dos botos, festa do çairé
+Tema | Círio de Nazaré | círio, círio de belém
+Tema | Festas e eventos | festival, festivais, festa, réveillon, carnaval, festas tradicionais
+Tema | Música e dança | música regional, carimbó, dança, banda musical, dança tradicional
+Tema | Agricultura e produção rural | agricultura, agricultura familiar, lavoura, produção rural, agricultura sustentável
+Tema | Criação de búfalos | bubalinocultura, búfalos, búfala, búfalo
+Tema | Apicultura | criação de abelha, criação de abelhas, meliponicultura, abelhas sem ferrão
+Tema | Mineração | garimpo, garimpos, minério, mineração industrial, exploração mineral
+Tema | Hidrelétricas | usina hidrelétrica, barragem, hidrelétrica
+Tema | Economia regional | economia da amazônia, economia local, economia regional, movimentam a economia, negócios locais
+Tema | Planejamento de viagem | roteiro, dicas de viagem, dicas de passeio, dicas de turismo, programe a sua viagem, planejar a viagem
+Tema | Preços de viagem | preços de serviços, quanto custa, quanto paguei, valor da passagem, preços de passeio
+Tema | Viagem internacional | viagem à guiana, primeira viagem internacional, fronteira internacional
+Tema | Viagens em família | viagem em família, com a sua família, com as crianças
+Tema | Dia das Crianças | feriado do dia das crianças
+Tema | Turismo na pandemia | pandemia, covid, coronavírus, isolamento social
+Tema | Canal Turismo Aqui | site turismo aqui, lançamento do site, aniversário do canal, primeira live do canal, canal turismo aqui
+Tema | Entrevistas | entrevista, entrevistando, sala de entrevista, bate papo, conversa com
+Tema | Transmissões ao vivo | live, lives, ao vivo

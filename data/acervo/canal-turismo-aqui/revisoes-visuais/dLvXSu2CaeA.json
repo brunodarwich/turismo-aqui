@@ -1,0 +1,198 @@
+{
+  "video_id": "dLvXSu2CaeA",
+  "motivo": "",
+  "quadros": [
+    {
+      "descricao": "Caminhonete branca entra pela abertura lateral do navio Bruno, enquanto pessoas e um carrinho de carga ficam no cais.",
+      "local": "Porto do Grego, Santana (AP)",
+      "confianca": "confirmado",
+      "contexto": "A viagem com destino a Santarém começa com o embarque do carro no navio, no porto que atende passageiros e cargas em Santana.",
+      "marcas": [
+        60,
+        67,
+        75,
+        214
+      ],
+      "fontes": [
+        "https://santana.ap.gov.br/em-santana-obras-de-construcao-do-novo-terminal-hidroviario-de-passageiros-seguem-avancando/",
+        "https://sophia.antaq.gov.br/Terminal/Busca/Download?codigoArquivo=39885"
+      ],
+      "tempo_ms": 70967
+    },
+    {
+      "descricao": "Uma passageira observa do convés o cais iluminado e as embarcações vizinhas na partida noturna.",
+      "local": "Porto do Grego, Santana (AP)",
+      "confianca": "confirmado",
+      "contexto": "O narrador identifica o porto e conta que o navio deixou Santana por volta das 19h20 naquela viagem.",
+      "marcas": [
+        214,
+        221,
+        244,
+        251,
+        257
+      ],
+      "fontes": [
+        "https://santana.ap.gov.br/em-santana-obras-de-construcao-do-novo-terminal-hidroviario-de-passageiros-seguem-avancando/"
+      ],
+      "tempo_ms": 258567
+    },
+    {
+      "descricao": "Margem de floresta e rio com visibilidade reduzida, vistos do corredor lateral azul do navio Bruno pela manhã.",
+      "local": "Trecho fluvial entre Santana e Almeirim",
+      "confianca": "confirmado",
+      "contexto": "A imagem aparece antes do café da manhã. O narrador primeiro descreve a névoa como serração e, mais adiante, registra a hipótese de fumaça de queimadas.",
+      "marcas": [
+        352,
+        358,
+        368,
+        585,
+        594
+      ],
+      "tempo_ms": 352967
+    },
+    {
+      "descricao": "Duas passageiras descansam em redes verdes no convés do navio, com coletes salva-vidas armazenados no teto.",
+      "local": "A bordo do navio Bruno, entre Santana e Almeirim",
+      "confianca": "confirmado",
+      "contexto": "O apresentador e as companheiras de viagem conversam sobre a rotina a bordo, a paisagem e a passagem da rota fluvial.",
+      "marcas": [
+        450,
+        457,
+        464,
+        496,
+        519
+      ],
+      "tempo_ms": 493267
+    },
+    {
+      "descricao": "Casario e terminal na orla de Almeirim vistos do rio, com passarelas de acesso, barcos atracados e uma canoa na água.",
+      "local": "Orla de Almeirim (PA)",
+      "confianca": "confirmado",
+      "contexto": "O navio se aproxima de Almeirim para a primeira parada. A narração situa o porto e comenta a história do município.",
+      "marcas": [
+        672,
+        697,
+        704,
+        727,
+        740
+      ],
+      "fontes": [
+        "https://sophia.antaq.gov.br/Terminal/Busca/Download?codigoArquivo=39885"
+      ],
+      "tempo_ms": 727567
+    },
+    {
+      "descricao": "Pessoas seguram sacolas junto à plataforma coberta de atracação, vistas de cima a partir do navio.",
+      "local": "Porto de Almeirim (PA)",
+      "confianca": "confirmado",
+      "contexto": "Na parada em Almeirim, o narrador comenta o embarque e o desembarque e aponta os vendedores de queijo que costumam atender os passageiros.",
+      "marcas": [
+        749,
+        756,
+        765,
+        773
+      ],
+      "fontes": [
+        "https://sophia.antaq.gov.br/Terminal/Busca/Download?codigoArquivo=39885"
+      ],
+      "tempo_ms": 774467
+    },
+    {
+      "descricao": "Passageiras almoçam no refeitório do navio, com pratos e um pote de farinha sobre a mesa.",
+      "local": "A bordo do navio Bruno, entre Almeirim e Prainha",
+      "confianca": "confirmado",
+      "contexto": "Depois da parada em Almeirim, o vídeo mostra a refeição servida a bordo e registra o anúncio de almoço aos passageiros.",
+      "marcas": [
+        942,
+        950,
+        959,
+        969,
+        976
+      ],
+      "tempo_ms": 962033
+    },
+    {
+      "descricao": "Interior da cabine de comando do navio, com janelas voltadas para o rio, monitores e alavancas diante do comandante.",
+      "local": "A bordo do navio Bruno, entre Almeirim e Prainha",
+      "confianca": "confirmado",
+      "contexto": "O comandante comenta as escalas da linha e identifica a Serra da Velha Pobre como referência de navegação nessa parte da viagem.",
+      "marcas": [
+        1014,
+        1022,
+        1030,
+        1047,
+        1055,
+        1071
+      ],
+      "fontes": [
+        "https://sophia.antaq.gov.br/Terminal/Busca/Download?codigoArquivo=39885",
+        "https://almeirim.pa.gov.br/o-municipio/turismo-e-lazer/"
+      ],
+      "tempo_ms": 1056433
+    },
+    {
+      "descricao": "Sol baixo sobre o Rio Amazonas, com reflexo alaranjado na água e uma margem arborizada à direita.",
+      "local": "Rio Amazonas, nas imediações de Prainha (PA)",
+      "confianca": "provável",
+      "contexto": "O plano de fim de tarde antecede o anúncio de aproximação do porto de Prainha. O ponto exato da margem não é nomeado.",
+      "marcas": [
+        1134,
+        1155,
+        1164
+      ],
+      "tempo_ms": 1150067
+    },
+    {
+      "descricao": "Passarela coberta do porto de Prainha em primeiro plano e pessoas jogando bola na faixa de areia deixada pelo nível baixo do rio.",
+      "local": "Porto de Prainha (PA)",
+      "confianca": "confirmado",
+      "contexto": "Durante a atracação, o narrador mostra o campo improvisado da beira do rio e comenta o encontro de jovens no fim da tarde.",
+      "marcas": [
+        1227,
+        1236,
+        1272,
+        1279,
+        1286,
+        1294
+      ],
+      "fontes": [
+        "https://sophia.antaq.gov.br/Terminal/Busca/Download?codigoArquivo=39885"
+      ],
+      "tempo_ms": 1290933
+    },
+    {
+      "descricao": "Embarcação de vários conveses em frente ao cais iluminado de Monte Alegre à noite, com luzes refletidas na água.",
+      "local": "Porto de Monte Alegre (PA)",
+      "confianca": "confirmado",
+      "contexto": "O navio se aproxima do porto de Monte Alegre à noite. A narração comenta o movimento de embarcações e o nível baixo do rio.",
+      "marcas": [
+        1379,
+        1404,
+        1412,
+        1420,
+        1449
+      ],
+      "fontes": [
+        "https://www.agenciapara.com.br/pauta/5615/estado-entrega-reconstrucao-do-terminal-hidroviario-de-monte-alegre"
+      ],
+      "tempo_ms": 1431233
+    },
+    {
+      "descricao": "Vista da área portuária de Santarém, com plataforma flutuante, barco menor e embarcação azul de vários níveis junto à margem.",
+      "local": "Orla portuária de Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A sequência final registra a aproximação do porto na manhã seguinte à escala de Monte Alegre, encerrando a viagem iniciada em Santana.",
+      "marcas": [
+        1550,
+        1556,
+        1571,
+        1581,
+        1646
+      ],
+      "fontes": [
+        "https://sophia.antaq.gov.br/Terminal/Busca/Download?codigoArquivo=39885"
+      ],
+      "tempo_ms": 1665733
+    }
+  ]
+}

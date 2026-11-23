@@ -1,0 +1,151 @@
+{
+  "video_id": "yVGbM0jG2TM",
+  "quadros": [
+    {
+      "tempo_ms": 16720,
+      "descricao": "O apresentador gesticula no banco do passageiro, com o motorista ao lado e o letreiro BR-230 Transamazônica no canto da imagem.",
+      "local": "Uruará (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador introduz a etapa entre Uruará e Medicilândia como parte de uma viagem maior rumo a Parauapebas.",
+      "marcas": [
+        7,
+        13,
+        22
+      ]
+    },
+    {
+      "tempo_ms": 48200,
+      "descricao": "Via asfaltada de Uruará com comércios baixos, postes e uma subida ao fundo, vista pelo para-brisa.",
+      "local": "Uruará (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração comenta Uruará e identifica a rodovia Transamazônica no início do deslocamento.",
+      "marcas": [
+        47,
+        55
+      ]
+    },
+    {
+      "tempo_ms": 142240,
+      "descricao": "Primeiro trecho de terra avermelhada com postes, capim alto e nuvens carregadas.",
+      "local": "BR-230 (Transamazônica), entre Uruará e Medicilândia (PA)",
+      "confianca": "confirmado",
+      "contexto": "O grupo encerra as observações sobre a saída de Uruará e segue pela estrada de terra.",
+      "marcas": [
+        137,
+        146
+      ]
+    },
+    {
+      "tempo_ms": 174080,
+      "descricao": "A estrada de chão passa por um corredor apertado de vegetação alta, com o capô visível na base da imagem.",
+      "local": "BR-230 (Transamazônica), entre Uruará e Medicilândia (PA)",
+      "confianca": "confirmado",
+      "contexto": "Os viajantes comentam o avanço dos primeiros quilômetros e o efeito que uma chuva teria nas condições da estrada.",
+      "marcas": [
+        173,
+        180
+      ]
+    },
+    {
+      "tempo_ms": 204880,
+      "descricao": "A estrada de terra descreve uma curva entre pasto aberto à esquerda e árvores à direita, sob céu encoberto.",
+      "local": "BR-230 (Transamazônica), entre Uruará e Medicilândia (PA)",
+      "confianca": "confirmado",
+      "contexto": "A fala aborda a expectativa de seguir viagem sem chuva, depois de observar as condições do tempo em Uruará.",
+      "marcas": [
+        198,
+        205
+      ]
+    },
+    {
+      "tempo_ms": 424880,
+      "descricao": "Reta de terra desce entre barrancos e vegetação e volta a subir em direção ao horizonte.",
+      "local": "BR-230 (Transamazônica), entre Uruará e Medicilândia (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração retoma a abertura da estrada e a chegada de agricultores de diferentes regiões do Brasil.",
+      "marcas": [
+        419,
+        426
+      ]
+    },
+    {
+      "tempo_ms": 645320,
+      "descricao": "Casas e comércios baixos margeiam uma pista de terra larga. O céu está carregado e há um barranco de vegetação à direita.",
+      "local": "BR-230 (Transamazônica), entre Uruará e Medicilândia (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador comenta a passagem pelo pequeno povoado e diz que desconhece seu nome.",
+      "marcas": [
+        644,
+        652
+      ]
+    },
+    {
+      "tempo_ms": 802680,
+      "descricao": "Trecho de obra viária com terra revolvida, sinalização de curva e sulcos escuros na área de passagem.",
+      "local": "BR-230 (Transamazônica), entre Uruará e Medicilândia (PA)",
+      "confianca": "confirmado",
+      "contexto": "Os viajantes comentam como as intervenções nas proximidades das pontes mudam a rotina do trajeto.",
+      "marcas": [
+        794,
+        803
+      ]
+    },
+    {
+      "tempo_ms": 896240,
+      "descricao": "A rodovia volta a ter asfalto marcado em amarelo. À esquerda, um gramado e construções acompanham a descida.",
+      "local": "Acesso a Medicilândia (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador identifica a retomada do asfalto e anuncia a chegada ao centro de Medicilândia.",
+      "marcas": [
+        892,
+        900
+      ]
+    },
+    {
+      "tempo_ms": 990520,
+      "descricao": "Uma motocicleta passa em sentido contrário na entrada urbana, com postes, estabelecimentos e construções ao fundo.",
+      "local": "Medicilândia (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração situa os primeiros quarteirões da área urbana de Medicilândia.",
+      "marcas": [
+        985,
+        995
+      ]
+    },
+    {
+      "tempo_ms": 1053560,
+      "descricao": "Pórtico na avenida com um fruto de cacau, dois corações e os dizeres Eu amo Medicilândia e Capital do Cacau.",
+      "local": "Medicilândia (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração chama atenção para o pórtico alusivo ao cacau antes de mostrar a cidade do alto.",
+      "marcas": [
+        1031,
+        1049,
+        1058
+      ]
+    },
+    {
+      "tempo_ms": 1085400,
+      "descricao": "Vista aérea oblíqua de Medicilândia com avenida de terra, comércios, casas e um edifício claro de vários andares.",
+      "local": "Medicilândia (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador situa o município junto à Transamazônica e comenta as ligações com Altamira e Brasil Novo.",
+      "marcas": [
+        1076,
+        1085,
+        1093
+      ]
+    },
+    {
+      "tempo_ms": 1116440,
+      "descricao": "Avenida central em perspectiva aérea, com canteiros, veículos, construções e morros arborizados no horizonte.",
+      "local": "Medicilândia (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração de encerramento apresenta a formação da cidade e a chegada de agricultores na década de 1970.",
+      "marcas": [
+        1110,
+        1120
+      ]
+    }
+  ]
+}

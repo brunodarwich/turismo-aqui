@@ -1,0 +1,187 @@
+{
+  "video_id": "egtG2HuKjos",
+  "motivo": "",
+  "quadros": [
+    {
+      "descricao": "Fila de veículos no convés de uma balsa, com uma caminhonete em primeiro plano, água aberta à esquerda e a estrutura da embarcação ao fundo.",
+      "local": "Rio Amazonas, travessia de Santarém para o porto da Vila Aninduba, PA",
+      "confianca": "confirmado",
+      "contexto": "A abertura apresenta a primeira etapa da viagem até Juruti, uma travessia de balsa pelo Amazonas. Em seguida, o apresentador relata a chegada ao porto de Aninduba antes do trecho rodoviário.",
+      "marcas": [
+        0,
+        24,
+        38
+      ],
+      "fontes": [
+        "https://juruti.pa.gov.br/wp-content/uploads/2023/08/PM_APA_JARA_digital_07Maio2023.pdf"
+      ],
+      "tempo_ms": 28200
+    },
+    {
+      "descricao": "Apresentador e motorista de óculos no interior da caminhonete, ambos de cinto, durante a viagem.",
+      "local": "Rota Santarém–Juruti, PA",
+      "confianca": "confirmado",
+      "contexto": "Os dois conversam sobre a Fiat Titano usada no teste feito ao longo do percurso. A imagem registra a conversa a bordo no começo da etapa rodoviária.",
+      "marcas": [
+        72,
+        82,
+        88
+      ],
+      "fontes": [],
+      "tempo_ms": 83920
+    },
+    {
+      "descricao": "Estrada de terra avermelhada vista pelo para-brisa, com postes à esquerda e mata dos dois lados.",
+      "local": "Acesso à Translago após o porto da Vila Aninduba, Santarém, PA",
+      "confianca": "provável",
+      "contexto": "Pouco depois da saída do porto, a tripulação descreve o trecho de terra antes da Translago e comenta pedras e buracos na superfície.",
+      "marcas": [
+        105,
+        112,
+        138,
+        146
+      ],
+      "fontes": [
+        "https://juruti.pa.gov.br/wp-content/uploads/2023/08/PM_APA_JARA_digital_07Maio2023.pdf"
+      ],
+      "tempo_ms": 138840
+    },
+    {
+      "descricao": "Casa de tijolos e telhado inclinado perto da pista, enquadrada pela janela lateral com um retrovisor em primeiro plano.",
+      "local": "Rota Santarém–Juruti, PA",
+      "confianca": "confirmado",
+      "contexto": "O grupo passa por moradias de beira de estrada e menciona Santa Luzia na sequência. A casa registra o trecho rural durante o deslocamento.",
+      "marcas": [
+        352,
+        361
+      ],
+      "fontes": [],
+      "tempo_ms": 359360
+    },
+    {
+      "descricao": "Rebanho ocupa parte da estrada de terra em frente à caminhonete, com poeira suspensa e vegetação dos dois lados.",
+      "local": "Acesso ao centro da Vila de Curuai, Santarém, PA",
+      "confianca": "confirmado",
+      "contexto": "O apresentador chama atenção para a cena na chegada ao centro da Vila de Curuai e comenta o movimento de interior.",
+      "marcas": [
+        571,
+        578,
+        586
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/gerais/prefeito-nelio-solicita-ao-governador-helder-agencia-do-banpara-escritorio-da-emater-e-escola-estadual-para-vila-de-curuai7ff33552-3f0d-4924-a81c-689c6006a67b"
+      ],
+      "tempo_ms": 580200
+    },
+    {
+      "descricao": "Rua com fachadas baixas, comércios e árvores, vista da caminhonete no centro da Vila de Curuai.",
+      "local": "Vila de Curuai, Lago Grande, Santarém, PA",
+      "confianca": "confirmado",
+      "contexto": "Os viajantes comentam a pavimentação registrada na vila e apresentam a área comercial, chamada Rua do Comércio na sequência.",
+      "marcas": [
+        626,
+        634,
+        642
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/gerais/prefeito-nelio-solicita-ao-governador-helder-agencia-do-banpara-escritorio-da-emater-e-escola-estadual-para-vila-de-curuai7ff33552-3f0d-4924-a81c-689c6006a67b"
+      ],
+      "tempo_ms": 635320
+    },
+    {
+      "descricao": "Bandeja de peixe servido à mesa, com massa, pratos e pessoas almoçando sob uma árvore.",
+      "local": "Vila de Curuai, Lago Grande, Santarém, PA",
+      "confianca": "confirmado",
+      "contexto": "Durante a parada combinada na vila, o apresentador identifica a pescada servida ao grupo e comenta a galinha caipira do almoço.",
+      "marcas": [
+        847,
+        854,
+        861
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/gerais/prefeito-nelio-solicita-ao-governador-helder-agencia-do-banpara-escritorio-da-emater-e-escola-estadual-para-vila-de-curuai7ff33552-3f0d-4924-a81c-689c6006a67b"
+      ],
+      "tempo_ms": 855760
+    },
+    {
+      "descricao": "Pessoas, redes e cadeiras à sombra de árvores junto à água, registradas pela janela do passageiro.",
+      "local": "Orla da Vila de Curuai, Lago Grande, Santarém, PA",
+      "confianca": "confirmado",
+      "contexto": "O grupo mostra a orla em uma tarde de domingo. O comentário descreve como as pessoas se reúnem à sombra e preparam comida à beira da água.",
+      "marcas": [
+        965,
+        974,
+        981,
+        1006,
+        1014,
+        1023
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/gerais/prefeito-nelio-solicita-ao-governador-helder-agencia-do-banpara-escritorio-da-emater-e-escola-estadual-para-vila-de-curuai7ff33552-3f0d-4924-a81c-689c6006a67b"
+      ],
+      "tempo_ms": 1020720
+    },
+    {
+      "descricao": "Via estreita do centro da vila com cerca de um lado e casas do outro, vista através do para-brisa.",
+      "local": "Vila de Tabatinga, Juruti, PA",
+      "confianca": "confirmado",
+      "contexto": "A narração apresenta a chegada a Tabatinga e comenta o curso d’água que atravessa a comunidade. O quadro acompanha a circulação pelo centro da vila.",
+      "marcas": [
+        1471,
+        1478,
+        1517,
+        1526,
+        1538
+      ],
+      "fontes": [
+        "https://juruti.pa.gov.br/o-municipio/sobre-o-municipio/"
+      ],
+      "tempo_ms": 1517320
+    },
+    {
+      "descricao": "Praça arborizada com bancos, construções baixas ao fundo e a torre de uma igreja aparecendo à esquerda.",
+      "local": "Vila de Tabatinga, Juruti, PA",
+      "confianca": "confirmado",
+      "contexto": "No centro de Tabatinga, a câmera registra a praça e a igreja durante a passagem da equipe. O narrador situa a comunidade como distrito de Juruti.",
+      "marcas": [
+        1538,
+        1578,
+        1593
+      ],
+      "fontes": [
+        "https://juruti.pa.gov.br/o-municipio/sobre-o-municipio/"
+      ],
+      "tempo_ms": 1572240
+    },
+    {
+      "descricao": "Trecho asfaltado diante da caminhonete, com acostamento de terra, vegetação e uma motocicleta distante.",
+      "local": "Acesso rodoviário à sede de Juruti, PA",
+      "confianca": "confirmado",
+      "contexto": "Já na reta final, os viajantes anunciam que alcançaram o asfalto de acesso à sede do município.",
+      "marcas": [
+        1887,
+        1896,
+        1905
+      ],
+      "fontes": [
+        "https://juruti.pa.gov.br/wp-content/uploads/2023/08/PM_APA_JARA_digital_07Maio2023.pdf"
+      ],
+      "tempo_ms": 1902600
+    },
+    {
+      "descricao": "Vista aérea da avenida da orla de Juruti, com prédios de um lado e barcos junto à margem do Amazonas do outro.",
+      "local": "Orla de Juruti, rio Amazonas, PA",
+      "confianca": "confirmado",
+      "contexto": "A imagem encerra o percurso com a chegada à sede de Juruti. O apresentador fala da cidade ribeirinha e anuncia que voltará a mostrar suas atrações culturais.",
+      "marcas": [
+        1936,
+        1950,
+        1959
+      ],
+      "fontes": [
+        "https://juruti.pa.gov.br/o-municipio/sobre-o-municipio/"
+      ],
+      "tempo_ms": 1957720
+    }
+  ]
+}

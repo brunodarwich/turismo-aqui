@@ -1,0 +1,167 @@
+{
+  "video_id": "q_0Rw6ukO70",
+  "quadros": [
+    {
+      "tempo_ms": 30033,
+      "descricao": "O apresentador aparece a bordo de uma lancha. Ao fundo, o Tapajós está encoberto por nuvens baixas.",
+      "local": "Rio Tapajós, margem esquerda, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Ele situa o passeio na margem esquerda do Tapajós e comenta as condições nubladas para a travessia.",
+      "marcas": [
+        20,
+        30,
+        38
+      ]
+    },
+    {
+      "tempo_ms": 324867,
+      "descricao": "A proa da lancha se aproxima de uma margem rasa com canoas, capim e um homem à espera no barranco.",
+      "local": "Vila de Amorim, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Na chegada, o grupo informa que deixará a lancha ali e identifica a comunidade indígena de Vila de Amorim.",
+      "marcas": [
+        325,
+        332
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/saude/ubs-fluvial-abare-i-realiza-mais-de-4-mil-procedimentos-em-comunidades-do-tapajos-7rfdzp"
+      ]
+    },
+    {
+      "tempo_ms": 442133,
+      "descricao": "Um morador está em pé à sombra de uma árvore. Atrás dele aparecem a área gramada, o banco de madeira e a margem do rio.",
+      "local": "Vila de Amorim, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Ele apresenta o passeio pelo rio Amorim, com passagens por duas aldeias e trechos de paranás e lagos.",
+      "marcas": [
+        433,
+        441,
+        450
+      ]
+    },
+    {
+      "tempo_ms": 853833,
+      "descricao": "Duas pessoas recebem o grupo na área da cozinha, ao lado de uma mesa com toalha estampada e garrafas térmicas.",
+      "local": "Cabeceira do Amorim, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A dona da casa oferece café e dá boas-vindas à comunidade de Cabeceira do Amorim.",
+      "marcas": [
+        843,
+        853,
+        861
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/saude/ubs-fluvial-abare-i-realiza-mais-de-4-mil-procedimentos-em-comunidades-do-tapajos-7rfdzp"
+      ]
+    },
+    {
+      "tempo_ms": 972200,
+      "descricao": "Uma pessoa se serve de uma panela sobre a mesa. Ao lado aparecem outras vasilhas e pratos do almoço.",
+      "local": "Cabeceira do Amorim, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O grupo comenta a refeição e a fartura na região antes de seguir para o próximo ponto do roteiro.",
+      "marcas": [
+        964,
+        971,
+        980
+      ]
+    },
+    {
+      "tempo_ms": 1030767,
+      "descricao": "A proa da lancha aponta para uma passagem larga de água calma entre margens com vegetação e céu fechado.",
+      "local": "Rota para o Lago do Tenente, região do Amorim, Santarém (PA)",
+      "confianca": "provável",
+      "contexto": "O apresentador diz que a lancha segue para o Lago do Tenente e anuncia um relato sobre a origem do nome.",
+      "marcas": [
+        1019,
+        1028,
+        1035
+      ]
+    },
+    {
+      "tempo_ms": 1384067,
+      "descricao": "Dois postes de madeira estão cravados na areia perto da vegetação. Um homem faz um gesto com a mão ao lado de um dos postes.",
+      "local": "Maripá, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Logo após desembarcar em Maripá, o grupo conversa sobre um redário na praia.",
+      "marcas": [
+        1318,
+        1334,
+        1382,
+        1392
+      ]
+    },
+    {
+      "tempo_ms": 1442667,
+      "descricao": "Uma mesa de madeira e um banco ficam no chão de areia sob as árvores. Há peças de fibra trançada junto à vegetação.",
+      "local": "Maripá, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O grupo visita a área de recepção da comunidade e conversa com a esposa do anfitrião.",
+      "marcas": [
+        1435,
+        1448,
+        1455
+      ]
+    },
+    {
+      "tempo_ms": 1677667,
+      "descricao": "Uma praia larga de areia clara acompanha a curva do Tapajós sob uma faixa de nuvens escuras.",
+      "local": "Maripá, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Na caminhada, o grupo comenta histórias de pesca e conta que a visita busca conhecer o cotidiano dos moradores.",
+      "marcas": [
+        1666,
+        1673,
+        1681,
+        1689
+      ]
+    },
+    {
+      "tempo_ms": 1736700,
+      "descricao": "Uma enseada de água escura entra pela faixa de areia, cercada por árvores e nuvens de chuva.",
+      "local": "Maripá, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O grupo identifica a abertura na areia como a boca do lago e explica a ligação com o interior.",
+      "marcas": [
+        1727,
+        1734,
+        1743
+      ]
+    },
+    {
+      "tempo_ms": 1913633,
+      "descricao": "Um homem caminha pela areia em direção a árvores altas e palmeiras, na transição da praia para a mata.",
+      "local": "Maripá, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O grupo chega ao canal e comenta que, naquela manhã, o acesso ainda estava seco.",
+      "marcas": [
+        1903,
+        1912,
+        1918
+      ]
+    },
+    {
+      "tempo_ms": 1972467,
+      "descricao": "Pessoas se aproximam do canal sob a mata. Entre os troncos, a água cobre parte do caminho.",
+      "local": "Maripá, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O grupo avista moradores no canal e comenta a possibilidade de seguir de canoa.",
+      "marcas": [
+        1967,
+        1976,
+        1983
+      ]
+    },
+    {
+      "tempo_ms": 2031367,
+      "descricao": "Passageiros seguem em uma canoa por um igarapé estreito, com vegetação densa nas duas margens.",
+      "local": "Maripá, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Durante o passeio, um morador relata como um temporal teria aberto a passagem de água que se vê hoje.",
+      "marcas": [
+        2020,
+        2028
+      ]
+    }
+  ]
+}

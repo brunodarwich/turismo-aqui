@@ -1,0 +1,186 @@
+{
+  "video_id": "f_HV-KlzwZo",
+  "quadros": [
+    {
+      "tempo_ms": 16350,
+      "descricao": "Vista aérea da avenida da orla, que acompanha o rio Amazonas, com embarcações atracadas e casas cercadas de árvores.",
+      "local": "Orla de Juruti (PA)",
+      "confianca": "confirmado",
+      "contexto": "A abertura situa Juruti no oeste do Pará e anuncia a visita à cidade que recebe o Festribal.",
+      "marcas": [
+        11,
+        18,
+        27
+      ]
+    },
+    {
+      "tempo_ms": 109977,
+      "descricao": "Calçadão com guarda-corpo colorido e um pequeno mirante coberto ao lado do rio, sob céu azul.",
+      "local": "Orla de Juruti (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador passeia pela orla e situa o registro em julho de 2024, às margens do rio Amazonas.",
+      "marcas": [
+        85,
+        99,
+        105,
+        113
+      ]
+    },
+    {
+      "tempo_ms": 233867,
+      "descricao": "Embarcações de madeira em diferentes tamanhos ocupam a margem. Canoas e barcos menores aparecem entre os cascos maiores.",
+      "local": "Porto de Juruti (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador explica que pessoas vindas do interior aproveitam os barcos para repousar ou aguardar o retorno após as compras.",
+      "marcas": [
+        226,
+        235,
+        242
+      ]
+    },
+    {
+      "tempo_ms": 358191,
+      "descricao": "Um flutuante de madeira com cobertura e corrimão azul está preso à margem, abaixo do calçadão.",
+      "local": "Orla de Juruti (PA)",
+      "confianca": "confirmado",
+      "contexto": "Na caminhada, o apresentador aponta uma estrutura antes usada para atender embarcações da rota Santarém–Manaus.",
+      "marcas": [
+        353,
+        361,
+        370
+      ]
+    },
+    {
+      "tempo_ms": 389656,
+      "descricao": "Banco branco diante de uma fileira de comércios e motocicletas. O passeio de concreto segue ao longo do gradil da orla.",
+      "local": "Orla de Juruti (PA)",
+      "confianca": "confirmado",
+      "contexto": "A fala descreve os serviços e o comércio em torno do porto, incluindo mototáxi e carregadores.",
+      "marcas": [
+        384,
+        393
+      ]
+    },
+    {
+      "tempo_ms": 576109,
+      "descricao": "Do alto do terminal, a luz se reflete no rio atrás da área de desembarque. Pedestres e um veículo cruzam o cais.",
+      "local": "Porto de Juruti (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração descreve a vista panorâmica a partir das instalações do porto e a possibilidade de observar a aproximação dos barcos.",
+      "marcas": [
+        565,
+        572,
+        580
+      ]
+    },
+    {
+      "tempo_ms": 606573,
+      "descricao": "Passageiros e trabalhadores se reúnem no cais diante de uma embarcação branca de vários andares.",
+      "local": "Porto de Juruti (PA)",
+      "confianca": "confirmado",
+      "contexto": "A reportagem comenta o movimento no porto entre passageiros, trabalhadores e comerciantes e a importância do transporte fluvial.",
+      "marcas": [
+        587,
+        596,
+        604,
+        612
+      ]
+    },
+    {
+      "tempo_ms": 637637,
+      "descricao": "Uma embarcação fica junto ao porto enquanto o sol se põe sobre o Amazonas, com reflexo alaranjado na água.",
+      "local": "Porto de Juruti (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador indica a chegada de barcos no fim da tarde como um momento para fotografar a orla.",
+      "marcas": [
+        627,
+        636
+      ]
+    },
+    {
+      "tempo_ms": 668735,
+      "descricao": "Salão aberto com mesas e cadeiras de madeira, amplas janelas e vista da margem.",
+      "local": "Centro de Convenções e Turismo Isaías Batista, Juruti (PA)",
+      "confianca": "confirmado",
+      "contexto": "A fala situa a gastronomia no pavimento superior do centro e descreve o espaço como estrutura de apoio aos visitantes do Festribal.",
+      "marcas": [
+        644,
+        661,
+        669,
+        677
+      ],
+      "fontes": [
+        "https://juruti.pa.gov.br/inauguracao-do-centro-de-convencoes-e-turismo-isaias-batista/"
+      ]
+    },
+    {
+      "tempo_ms": 731064,
+      "descricao": "Rua do centro vista de um carro, com casas e pequenas lojas próximas à via, motocicletas e uma árvore larga na calçada.",
+      "local": "Centro de Juruti (PA)",
+      "confianca": "confirmado",
+      "contexto": "A montagem mostra o cotidiano da sede municipal enquanto a fala aproxima o festival de Juruti das tradições culturais vizinhas.",
+      "marcas": [
+        720,
+        728,
+        737
+      ]
+    },
+    {
+      "tempo_ms": 824691,
+      "descricao": "Entrada aberta com pilares azuis, estrutura vermelha e uma subida pavimentada que dá acesso à arena.",
+      "local": "Tribódromo de Juruti (PA)",
+      "confianca": "confirmado",
+      "contexto": "Do lado de fora, o apresentador comenta a movimentação no entorno e a preparação das alegorias.",
+      "marcas": [
+        817,
+        824,
+        830
+      ],
+      "fontes": [
+        "https://juruti.pa.gov.br/guia-juruti/"
+      ]
+    },
+    {
+      "tempo_ms": 855555,
+      "descricao": "Vista interna da arena vazia, cercada por arquibancadas coloridas e guarda-corpos brancos.",
+      "local": "Tribódromo de Juruti (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador mostra o espaço onde acontece o festival e comenta a perspectiva de ampliação diante da procura por lugares.",
+      "marcas": [
+        845,
+        855,
+        864
+      ],
+      "fontes": [
+        "https://juruti.pa.gov.br/guia-juruti/"
+      ]
+    },
+    {
+      "tempo_ms": 948981,
+      "descricao": "O apresentador fala com o piso da arena e as curvas das arquibancadas azul e vermelha ao fundo.",
+      "local": "Tribódromo de Juruti (PA)",
+      "confianca": "confirmado",
+      "contexto": "A fala situa o Festival das Tribos entre os eventos folclóricos de destaque da Amazônia.",
+      "marcas": [
+        941,
+        949,
+        957
+      ],
+      "fontes": [
+        "https://juruti.pa.gov.br/guia-juruti/"
+      ]
+    },
+    {
+      "tempo_ms": 1073306,
+      "descricao": "Vista aérea da cidade com embarcações, prédios baixos e o cais em uma curva da orla.",
+      "local": "Orla de Juruti (PA)",
+      "confianca": "confirmado",
+      "contexto": "O episódio termina com um panorama de Juruti enquanto o apresentador retoma as sugestões de visita.",
+      "marcas": [
+        1066,
+        1074,
+        1081
+      ]
+    }
+  ]
+}

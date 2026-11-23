@@ -1,0 +1,138 @@
+{
+  "video_id": "MMyOaAMpL_E",
+  "motivo": "",
+  "quadros": [
+    {
+      "tempo_ms": 37033,
+      "descricao": "Malocas cobertas de palha, com bancos e vasos de plantas à sombra.",
+      "local": "Vila Coroca, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador identifica Vila Coroca e explica que o grupo parou para almoçar.",
+      "marcas": [
+        28,
+        38
+      ]
+    },
+    {
+      "tempo_ms": 61567,
+      "descricao": "Visitantes servem o almoço em uma mesa azul com travessas de comida e acompanhamentos.",
+      "local": "Vila Coroca, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração cita tambaqui na brasa e galinha caipira no almoço da comunidade.",
+      "marcas": [
+        38,
+        52
+      ]
+    },
+    {
+      "tempo_ms": 158467,
+      "descricao": "Redário com cobertura vermelha e uma rede pendurada à beira do rio.",
+      "local": "Vila Coroca, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador explica que o redário fica perto da água e é usado para descansar depois do almoço.",
+      "marcas": [
+        145,
+        148,
+        157
+      ]
+    },
+    {
+      "tempo_ms": 183133,
+      "descricao": "Estrutura flutuante azul junto à margem arborizada do lago.",
+      "local": "Vila Coroca, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Enquanto a embarcação se afasta da margem, a conversa explica que o local tem duas estruturas flutuantes.",
+      "marcas": [
+        175,
+        184,
+        191
+      ]
+    },
+    {
+      "tempo_ms": 329033,
+      "descricao": "Grupo de quelônios aglomerado à superfície do lago, com vários cascos visíveis.",
+      "local": "Vila Coroca, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A visita mostra os animais do projeto comunitário e explica que parte deles é devolvida à natureza.",
+      "marcas": [
+        313,
+        321,
+        329
+      ]
+    },
+    {
+      "tempo_ms": 450467,
+      "descricao": "Vista da proa em direção à praia e às construções de Tucumã na margem do rio.",
+      "local": "Tucumã, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Na chegada, o apresentador destaca a praia, o redário e o artesanato da comunidade.",
+      "marcas": [
+        431,
+        439,
+        447
+      ]
+    },
+    {
+      "tempo_ms": 499033,
+      "descricao": "Cestos de palha em exposição enquanto visitantes caminham pelo espaço comunitário.",
+      "local": "Tucumã, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador explica que a associação expõe o artesanato da comunidade e também vende peças em outras localidades.",
+      "marcas": [
+        486,
+        495,
+        502
+      ]
+    },
+    {
+      "tempo_ms": 619833,
+      "descricao": "Mulher de regata vermelha conversa com a equipe ao lado de cestos trançados.",
+      "local": "Tucumã, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A conversa coloca o artesanato entre as fontes de renda das famílias da comunidade.",
+      "marcas": [
+        603,
+        610,
+        618
+      ]
+    },
+    {
+      "tempo_ms": 741933,
+      "descricao": "Peças de palha penduradas junto aos pilares de madeira, com visitantes ao fundo.",
+      "local": "Tucumã, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Os visitantes negociam as peças expostas e a conversa menciona a gastronomia oferecida na comunidade.",
+      "marcas": [
+        723,
+        728,
+        737,
+        745
+      ]
+    },
+    {
+      "tempo_ms": 814333,
+      "descricao": "Madeiramento da cobertura de palha visto do andar superior, com a praia aparecendo ao fundo.",
+      "local": "Tucumã, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador sobe a escada do redário, ainda em construção, enquanto o grupo visita o artesanato no térreo.",
+      "marcas": [
+        796,
+        805,
+        813
+      ]
+    },
+    {
+      "tempo_ms": 862667,
+      "descricao": "Visitantes caminham pela faixa de areia perto de uma embarcação na margem.",
+      "local": "Tucumã, rio Arapiuns, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Ao encerrar a visita, a narração comenta as trilhas oferecidas pela comunidade e anuncia a partida.",
+      "marcas": [
+        849,
+        856,
+        864,
+        869
+      ]
+    }
+  ]
+}

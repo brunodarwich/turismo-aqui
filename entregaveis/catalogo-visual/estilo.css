@@ -1,0 +1,46 @@
+:root {
+  color-scheme: light;
+  color: #19342f;
+  background: #f6f4ec;
+  font-family: system-ui, sans-serif;
+  line-height: 1.5;
+  --claro: #fffdf8;
+  --texto-secundario: #485d54;
+  --borda: #d9dfd5;
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; }
+main { max-width: 80rem; padding: clamp(1rem, 4vw, 3.5rem); margin-inline: auto; }
+header { padding: 1.5rem 0 1.75rem; }
+h1, h2 { margin: 0; text-wrap: balance; }
+h1 { font: 600 clamp(2.45rem, 7vw, 4.75rem)/1.05 Georgia, serif; max-width: 24ch; margin-top: .3rem; }
+h2 { font: 600 1.15rem/1.35 Georgia, serif; }
+p { margin: .65rem 0; }
+a { color: #155b4c; text-underline-offset: .19em; }
+a:focus-visible, input:focus-visible, select:focus-visible, button:focus-visible { outline: 3px solid #a64d23; outline-offset: 3px; }
+.marca { color: #294c41; font-weight: 650; text-decoration: none; }
+.resumo { margin: 1rem 0; color: var(--texto-secundario); }
+.exportacoes { display: flex; flex-wrap: wrap; gap: .5rem 1.5rem; }
+#filtros { display: grid; grid-template-columns: 1fr minmax(12rem, 17rem); gap: 1rem; padding: 1rem 0 0; border-top: 1px solid var(--borda); }
+label, .local { font-weight: 650; }
+input, select, button { font: inherit; border: 1px solid #718479; border-radius: .45rem; color: inherit; background: var(--claro); padding: .58rem .75rem; }
+input, select { display: block; width: 100%; margin-top: .3rem; }
+button { cursor: pointer; margin-top: 1.25rem; }
+.origem { font-size: .86rem; color: var(--texto-secundario); }
+.videos, .cenas { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(min(100%, 18rem), 1fr)); padding: 0; margin: 1rem 0; list-style: none; }
+.videos li, .cena { min-width: 0; overflow: hidden; background: var(--claro); border: 1px solid var(--borda); border-radius: .65rem; }
+.video-texto, .cena-texto { padding: .8rem 1rem 1rem; }
+.video-texto h2 a { color: inherit; }
+.local { font-size: .9rem; }
+.capa { display: block; width: 100%; aspect-ratio: 16/9; object-fit: cover; }
+.imagem { display: block; background: #e9ece4; }
+.imagem img { display: block; width: 100%; height: auto; }
+.tempo { font-variant-numeric: tabular-nums; display: inline-block; margin-bottom: .5rem; }
+.nota { padding: .7rem 1rem; border-left: .2rem solid #a64d23; }
+
+@media (max-width: 34rem) {
+  #filtros { grid-template-columns: 1fr; }
+  main:has(.cenas) h1 { font-size: 2rem; }
+  main:has(.cenas) header { padding-bottom: .6rem; }
+}

@@ -1,0 +1,144 @@
+{
+  "video_id": "zCpSF961SEI",
+  "motivo": "",
+  "quadros": [
+    {
+      "tempo_ms": 14920,
+      "descricao": "Apresentador anuncia a viagem à margem da rodovia, com carros e a sinalização da PA-370 ao fundo.",
+      "local": "Santarém (PA), acesso à rodovia PA-370",
+      "confianca": "confirmado",
+      "contexto": "A abertura apresenta o percurso de Santarém a Uruará e diz que a equipe vai percorrê-lo com o asfaltamento concluído.",
+      "marcas": [
+        1,
+        9,
+        17,
+        26
+      ]
+    },
+    {
+      "tempo_ms": 42360,
+      "descricao": "Trecho urbano na saída de Santarém, com carros na pista, postes e comércios às margens.",
+      "local": "Santarém (PA), acesso à rodovia PA-370",
+      "confianca": "confirmado",
+      "contexto": "A narração anuncia o início da viagem e a passagem pela Serra do Piquiatuba.",
+      "marcas": [
+        26,
+        43,
+        48
+      ]
+    },
+    {
+      "tempo_ms": 179400,
+      "descricao": "Placa azul com o nome PA-370 junto ao entroncamento, com um caminhão fazendo a curva.",
+      "local": "Rodovia PA-370, Pará",
+      "confianca": "confirmado",
+      "contexto": "A equipe explica que a conversão à esquerda leva ao trecho novo da rodovia, enquanto em frente fica o acesso à hidrelétrica de Curuá-Una.",
+      "marcas": [
+        163,
+        172,
+        181
+      ],
+      "fontes": [
+        "https://agenciapara.com.br/noticia/46858/equipes-da-setran-executam-obras-em-duas-pontes-na-pa-370-a-rodovia-transuruara"
+      ]
+    },
+    {
+      "tempo_ms": 261440,
+      "descricao": "Caminhão de carga à frente do carro em um trecho asfaltado cercado por vegetação alta.",
+      "local": "Rodovia PA-370, Pará",
+      "confianca": "confirmado",
+      "contexto": "A conversa comenta a floresta com castanheiras e a passagem pela ponte do trecho novo.",
+      "marcas": [
+        252,
+        259,
+        270
+      ]
+    },
+    {
+      "tempo_ms": 288840,
+      "descricao": "Curva asfaltada entre árvores, com defensas metálicas e blocos de concreto pintados de amarelo e preto.",
+      "local": "Rodovia PA-370, Pará",
+      "confianca": "confirmado",
+      "contexto": "A narração menciona o rio Curuá-Una e outras bacias hidrográficas que banham Santarém.",
+      "marcas": [
+        274,
+        281,
+        286
+      ]
+    },
+    {
+      "tempo_ms": 398680,
+      "descricao": "Reta da rodovia em terreno aberto, com postes e árvores ao longo das margens.",
+      "local": "Rodovia PA-370, Pará",
+      "confianca": "confirmado",
+      "contexto": "O grupo comenta a reta do chapadão e a presença de castanheiras próximas à estrada.",
+      "marcas": [
+        387,
+        396
+      ]
+    },
+    {
+      "tempo_ms": 480320,
+      "descricao": "Acesso à ponte com placas azuis, defensas nas laterais e um talude de terra à frente.",
+      "local": "Ponte sobre o rio Tutuí, PA-370, Uruará (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração identifica a travessia do Rio Tutuí e a usa como referência na etapa final até Uruará.",
+      "marcas": [
+        466,
+        474,
+        483
+      ],
+      "fontes": [
+        "https://agenciapara.com.br/noticia/46858/equipes-da-setran-executam-obras-em-duas-pontes-na-pa-370-a-rodovia-transuruara"
+      ]
+    },
+    {
+      "tempo_ms": 727000,
+      "descricao": "A PA-370 sobe em direção ao horizonte entre árvores altas, com faixas amarelas no eixo.",
+      "local": "Rodovia PA-370, Pará",
+      "confianca": "confirmado",
+      "contexto": "Os viajantes comentam as condições do asfalto, o tempo fechado e as paradas no percurso.",
+      "marcas": [
+        711,
+        717,
+        724,
+        732
+      ]
+    },
+    {
+      "tempo_ms": 781840,
+      "descricao": "Reta em descida entre dois grandes taludes avermelhados, com vegetação e serras no horizonte.",
+      "local": "Rodovia PA-370, Pará",
+      "confianca": "confirmado",
+      "contexto": "A conversa relembra a lentidão no trecho antigo e comenta que o destino já se aproxima.",
+      "marcas": [
+        771,
+        776,
+        783
+      ]
+    },
+    {
+      "tempo_ms": 864080,
+      "descricao": "Posto com a inscrição Encontro das Águas e veículos junto à pista na chegada à cidade.",
+      "local": "Uruará (PA)",
+      "confianca": "confirmado",
+      "contexto": "A equipe identifica o estabelecimento e anuncia a chegada a Uruará.",
+      "marcas": [
+        850,
+        863,
+        873
+      ]
+    },
+    {
+      "tempo_ms": 974200,
+      "descricao": "Via urbana ladeada por lojas e marquises na área comercial de Uruará.",
+      "local": "Uruará (PA)",
+      "confianca": "confirmado",
+      "contexto": "O vídeo encerra já na cidade, nas proximidades do hotel onde o grupo pretende ficar.",
+      "marcas": [
+        967,
+        975
+      ]
+    }
+  ]
+}

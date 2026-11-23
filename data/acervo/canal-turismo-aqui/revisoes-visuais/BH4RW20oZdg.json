@@ -1,0 +1,170 @@
+{
+  "video_id": "BH4RW20oZdg",
+  "motivo": "",
+  "quadros": [
+    {
+      "tempo_ms": 14300,
+      "descricao": "Emanuel Júlio, identificado pelo letreiro do vídeo, fala à câmera no calçadão de guarda-corpo azul e amarelo, com o rio atrás.",
+      "local": "Orla de Santarém, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador se identifica e abre o passeio sobre a pesca artesanal na orla.",
+      "marcas": [
+        9,
+        17
+      ]
+    },
+    {
+      "tempo_ms": 93533,
+      "descricao": "Um pescador de costas junto à grade aparece em primeiro plano. Outras pessoas se concentram mais adiante no calçadão, à margem do rio.",
+      "local": "Orla de Santarém, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador comenta a presença de pescadores quando o Tapajós está alto.",
+      "marcas": [
+        87,
+        95,
+        103
+      ]
+    },
+    {
+      "tempo_ms": 120667,
+      "descricao": "A linha entre a água azul-escura em primeiro plano e uma faixa mais barrenta aparece em frente à margem distante.",
+      "local": "Encontro das Águas do Amazonas e do Tapajós, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador aponta para o encontro das águas do Amazonas e do Tapajós em frente a Santarém.",
+      "marcas": [
+        111,
+        121
+      ]
+    },
+    {
+      "tempo_ms": 173167,
+      "descricao": "Fachadas do comércio de rua, carros estacionados e postes ornamentais na via paralela ao calçadão.",
+      "local": "Centro de Santarém, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Ao virar a câmera para a cidade, o apresentador situa o centro comercial nas imediações da Praça do Pescador.",
+      "marcas": [
+        173,
+        180
+      ]
+    },
+    {
+      "tempo_ms": 332633,
+      "descricao": "Um peixe pequeno, de corpo amarelado e manchas escuras, está no piso ao lado de uma bolsa.",
+      "local": "Orla de Santarém, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O pescador relata ter pegado um tucunaré pequeno. O apresentador aproxima a câmera para mostrar o peixe.",
+      "marcas": [
+        325,
+        334
+      ]
+    },
+    {
+      "tempo_ms": 359200,
+      "descricao": "Pescador de boné e camiseta clara segura o equipamento junto ao guarda-corpo, com o rio ocupando a direita do quadro.",
+      "local": "Orla de Santarém, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Durante a conversa, o apresentador pergunta sobre a presença de pescadores à noite e sobre os melhores horários de pesca.",
+      "marcas": [
+        354,
+        356,
+        361,
+        365
+      ]
+    },
+    {
+      "tempo_ms": 465367,
+      "descricao": "Pavilhão de madeira à beira do rio, ao lado do calçadão. Um pescador ocupa o trecho da grade em primeiro plano.",
+      "local": "Terminal Fluvial Turístico, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador identifica o prédio como Terminal Fluvial Turístico e começa a contar sua origem como trapiche municipal.",
+      "marcas": [
+        458,
+        464,
+        469
+      ]
+    },
+    {
+      "tempo_ms": 491733,
+      "descricao": "Entrada de madeira com piso verde, bandeiras brasileiras e enfeites verdes e amarelos suspensos sobre a passagem.",
+      "local": "Terminal Fluvial Turístico, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Ao se aproximar do terminal, o apresentador relata as datas de construção do antigo trapiche municipal no século XIX.",
+      "marcas": [
+        478,
+        486,
+        494
+      ]
+    },
+    {
+      "tempo_ms": 544800,
+      "descricao": "Pessoas estendem toalhas amarelas nas mesas de exposição de um salão com vigas de madeira à vista e luminárias trançadas.",
+      "local": "Terminal Fluvial Turístico, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador explica que o espaço foi reformado para receber exposições de artesãos.",
+      "marcas": [
+        540,
+        548,
+        553
+      ]
+    },
+    {
+      "tempo_ms": 571800,
+      "descricao": "Pequenas casas decoradas pendem de ganchos acima de uma bancada com peças coloridas que os expositores organizam.",
+      "local": "Terminal Fluvial Turístico, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador conversa com o grupo e vê a montagem das bancas antes da abertura da exposição.",
+      "marcas": [
+        561,
+        570,
+        580
+      ]
+    },
+    {
+      "tempo_ms": 624933,
+      "descricao": "Mesas, assentos empilhados e piso de madeira no deque aberto para o rio.",
+      "local": "Terminal Fluvial Turístico, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador recomenda o terminal pela vista da cidade e do encontro das águas.",
+      "marcas": [
+        614,
+        621,
+        630
+      ]
+    },
+    {
+      "tempo_ms": 704800,
+      "descricao": "Árvore grande sombreia um canteiro cercado por grades azuis. O calçamento da praça segue em direção à orla.",
+      "local": "Praça do Pescador, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Ao caminhar do outro lado da rua, o apresentador identifica a Praça do Pescador.",
+      "marcas": [
+        698,
+        706
+      ]
+    },
+    {
+      "tempo_ms": 731300,
+      "descricao": "Rua com sobrados claros e portas em arco, vista a partir do calçamento sombreado da praça.",
+      "local": "Entorno da Praça do Pescador, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador fala sobre o crescimento de Santarém no século XIX e apresenta a casa de Miguel Antônio Pinto Guimarães.",
+      "marcas": [
+        706,
+        714,
+        725
+      ]
+    },
+    {
+      "tempo_ms": 784200,
+      "descricao": "Fachada de três pavimentos com portas verdes, janelas em arco, sacadas de ferro e um frontão na parte superior.",
+      "local": "Solar do Barão de Santarém, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador descreve a arquitetura neoclássica do Solar do Barão e explica que o térreo abrigava um estabelecimento comercial.",
+      "marcas": [
+        768,
+        777,
+        785
+      ]
+    }
+  ]
+}

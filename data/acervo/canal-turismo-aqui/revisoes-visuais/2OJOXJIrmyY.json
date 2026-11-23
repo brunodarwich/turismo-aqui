@@ -1,0 +1,181 @@
+{
+  "video_id": "2OJOXJIrmyY",
+  "quadros": [
+    {
+      "tempo_ms": 23200,
+      "descricao": "Motorista de camisa azul sentado ao volante da caminhonete, com o painel e o câmbio no primeiro plano.",
+      "local": "Juruti (PA)",
+      "confianca": "confirmado",
+      "contexto": "O grupo embarca para iniciar o percurso de Juruti a Juruti Velho e menciona a travessia de balsa no caminho.",
+      "marcas": [
+        15,
+        23,
+        31
+      ]
+    },
+    {
+      "tempo_ms": 155200,
+      "descricao": "Vista de dentro do carro para uma rua estreita com fachadas antigas, pedestres e motocicletas.",
+      "local": "Juruti (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador se despede do centro de Juruti depois de comentar a circulação de tradições culturais entre cidades do rio Amazonas.",
+      "marcas": [
+        145,
+        153,
+        160,
+        167
+      ]
+    },
+    {
+      "tempo_ms": 330800,
+      "descricao": "A estrada passa ao lado de trilhos sobre um leito de pedra, vistos pela janela da caminhonete.",
+      "local": "Estrada de Ferro Juruti, Juruti (PA)",
+      "confianca": "confirmado",
+      "contexto": "A conversa identifica a ferrovia usada para transportar a bauxita da mina ao porto.",
+      "marcas": [
+        327,
+        336
+      ],
+      "fontes": [
+        "https://juruti.pa.gov.br/o-municipio/sobre-o-municipio/"
+      ]
+    },
+    {
+      "tempo_ms": 419400,
+      "descricao": "Uma construção de madeira à direita e um carro prata à esquerda marcam o início de um trecho de terra entre árvores altas.",
+      "local": "Rota entre Juruti e Vila Galileia (PA)",
+      "confianca": "confirmado",
+      "contexto": "O grupo comenta as castanheiras que ladeiam o caminho e anuncia a entrada no trecho sem pavimento.",
+      "marcas": [
+        411,
+        424,
+        431
+      ]
+    },
+    {
+      "tempo_ms": 506600,
+      "descricao": "Cruzamento de terra vermelha com placas, balizas e uma pequena estrutura à margem, sob um céu azul.",
+      "local": "Rota entre Juruti e Vila Galileia (PA)",
+      "confianca": "confirmado",
+      "contexto": "Os ocupantes comentam a sinalização e observam o tráfego antes de seguir pelo cruzamento.",
+      "marcas": [
+        495,
+        504,
+        510,
+        517
+      ]
+    },
+    {
+      "tempo_ms": 551320,
+      "descricao": "Reta de terra vermelha entre vegetação densa e árvores altas, vista acima do capô.",
+      "local": "Rota entre Juruti e Vila Galileia (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador confirma que o grupo segue na direção da Vila Galileia.",
+      "marcas": [
+        540,
+        548,
+        560
+      ],
+      "fontes": [
+        "https://juruti.pa.gov.br/recuperacao-de-estradas-avanca-nas-regioes-rurais-de-juruti/"
+      ]
+    },
+    {
+      "tempo_ms": 814600,
+      "descricao": "Rampa de terra junto à água, com um carro na margem e vegetação alagada à direita.",
+      "local": "Vila Galileia, Juruti (PA)",
+      "confianca": "confirmado",
+      "contexto": "O grupo aguarda a balsa que está na outra margem e comenta o transporte de veículos na travessia.",
+      "marcas": [
+        808,
+        815,
+        821
+      ]
+    },
+    {
+      "tempo_ms": 947080,
+      "descricao": "Uma caminhonete e uma motocicleta aparecem no convés da balsa, com uma pessoa junto ao corrimão sobre a água.",
+      "local": "Travessia de balsa na Vila Galileia, Juruti (PA)",
+      "confianca": "confirmado",
+      "contexto": "A cena registra o embarque durante a travessia, em meio às orientações de posicionamento dos veículos.",
+      "marcas": [
+        955
+      ]
+    },
+    {
+      "tempo_ms": 990600,
+      "descricao": "Vista alta da balsa voltada para a rampa de terra, com uma caminhonete preta e outro veículo carregado sobre o convés.",
+      "local": "Travessia de balsa na Vila Galileia, Juruti (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador conversa com o comandante Mateus e descreve o uso de balsas para ligar comunidades da região.",
+      "marcas": [
+        979,
+        987,
+        994,
+        1000
+      ]
+    },
+    {
+      "tempo_ms": 1079000,
+      "descricao": "A balsa com dois veículos segue pela água azul. A margem de mata se estende ao fundo sob nuvens claras.",
+      "local": "Travessia de balsa na Vila Galileia, Juruti (PA)",
+      "confianca": "confirmado",
+      "contexto": "Durante a travessia, o apresentador conversa com o público sobre o transporte fluvial na Amazônia.",
+      "marcas": [
+        1073,
+        1080,
+        1089
+      ]
+    },
+    {
+      "tempo_ms": 1122600,
+      "descricao": "O apresentador de camisa azul observa o lago debaixo da cobertura da balsa, com o corrimão e a margem atrás.",
+      "local": "Travessia de balsa na Vila Galileia, Juruti (PA)",
+      "confianca": "confirmado",
+      "contexto": "O episódio mostra a vista a bordo na sequência final da travessia.",
+      "marcas": [
+        1112,
+        1113,
+        1118
+      ]
+    },
+    {
+      "tempo_ms": 1299000,
+      "descricao": "Rua comercial de Juruti Velho vista de dentro da caminhonete, com fachadas baixas, postes e poucas pessoas.",
+      "local": "Juruti Velho, Juruti (PA)",
+      "confianca": "confirmado",
+      "contexto": "Já na vila, o apresentador comenta a frente ribeirinha e as praias que aparecem no verão.",
+      "marcas": [
+        1294,
+        1301,
+        1307
+      ]
+    },
+    {
+      "tempo_ms": 1474600,
+      "descricao": "Bancos, árvores e parte do letreiro da vila ficam voltados para a água, com embarcações junto à margem.",
+      "local": "Juruti Velho, Juruti (PA)",
+      "confianca": "confirmado",
+      "contexto": "O grupo passa pela orla e aponta as embarcações e uma pousada próxima.",
+      "marcas": [
+        1471,
+        1481
+      ]
+    },
+    {
+      "tempo_ms": 1563400,
+      "descricao": "Imagem aérea de Juruti Velho: uma embarcação se aproxima da margem e a faixa de casas acompanha a curva do lago.",
+      "local": "Juruti Velho, Juruti (PA)",
+      "confianca": "confirmado",
+      "contexto": "O plano aéreo encerra o roteiro e mostra o conjunto da vila junto ao lago Juruti Velho.",
+      "marcas": [
+        1552,
+        1564,
+        1567
+      ],
+      "fontes": [
+        "https://juruti.pa.gov.br/o-municipio/sobre-o-municipio/"
+      ]
+    }
+  ]
+}

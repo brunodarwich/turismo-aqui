@@ -1,0 +1,275 @@
+{
+  "video_id": "TrcY-Hll_6I",
+  "motivo": "",
+  "quadros": [
+    {
+      "tempo_ms": 27080,
+      "descricao": "Carro branco cruza em sentido contrário numa estrada asfaltada com acostamentos vermelhos e vegetação alta.",
+      "contexto": "O apresentador situa a primeira parte da viagem, de Medicilândia em direção a Altamira.",
+      "marcas": [
+        18,
+        26,
+        36
+      ],
+      "local": "BR-230 (Transamazônica), Pará",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 78240,
+      "descricao": "Emanuel Júlio fala dentro do carro e aponta para Railson, que está ao volante.",
+      "contexto": "O apresentador apresenta o companheiro de viagem e informa que a expedição segue no sentido de Parauapebas.",
+      "marcas": [
+        68,
+        76,
+        84
+      ],
+      "local": "BR-230 (Transamazônica), Pará",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 181720,
+      "descricao": "Uma subida de terra vermelha leva a um veículo visível no alto, com vegetação à esquerda e à direita.",
+      "contexto": "O grupo se aproxima de Brasil Novo e planeja registrar os municípios do roteiro com imagens aéreas.",
+      "marcas": [
+        173,
+        180,
+        187,
+        194
+      ],
+      "local": "BR-230 (Transamazônica), Pará",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 285160,
+      "descricao": "Avenida asfaltada de mão dupla, com uma faixa verde à esquerda e uma placa azul no acostamento.",
+      "contexto": "Já no trecho de Brasil Novo, o apresentador comenta a origem da cidade como centro de serviços para a região agrícola.",
+      "marcas": [
+        275,
+        283,
+        291,
+        298
+      ],
+      "local": "Brasil Novo (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 389240,
+      "descricao": "Rua de comércio com lojas e carros estacionados junto ao meio-fio. Uma árvore sombreia a lateral da via.",
+      "contexto": "O grupo entra nas ruas de Brasil Novo e menciona o ponto de mototáxi próximo à rodovia.",
+      "marcas": [
+        378,
+        385,
+        394
+      ],
+      "local": "Brasil Novo (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 543880,
+      "descricao": "Avenida com canteiro de palmeiras e comércio dos dois lados, vista pelo para-brisa.",
+      "contexto": "O grupo faz uma pausa em Brasil Novo e reorganiza os apontamentos do restante da viagem.",
+      "marcas": [
+        544,
+        551
+      ],
+      "local": "Brasil Novo (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 595840,
+      "descricao": "Emanuel Júlio aparece sentado diante de uma parede amarela com uma inscrição sobre pão.",
+      "contexto": "Na pausa, o apresentador explica por que parou para fazer imagens aéreas mais abrangentes da cidade.",
+      "marcas": [
+        589,
+        597,
+        605
+      ],
+      "local": "Brasil Novo (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 648080,
+      "descricao": "Vista aérea acompanha uma avenida arborizada entre casas e comércios, com áreas verdes no horizonte.",
+      "contexto": "O apresentador situa Brasil Novo em relação a Altamira e à Transamazônica.",
+      "marcas": [
+        636,
+        645,
+        653,
+        661
+      ],
+      "local": "Brasil Novo (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 699560,
+      "descricao": "Vista aérea em outra direção, com edifícios claros no centro e ruas paralelas que seguem até a área verde.",
+      "contexto": "Sobre as imagens de Brasil Novo, o apresentador conta a origem do município como agrópolis planejada pelo Incra.",
+      "marcas": [
+        682,
+        689,
+        697,
+        704,
+        712
+      ],
+      "local": "Brasil Novo (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 751440,
+      "descricao": "Caminhão e motocicleta aparecem no acostamento de um trecho asfaltado cercado por árvores e capim alto.",
+      "contexto": "Depois de sair de Brasil Novo, o grupo avalia o trajeto em direção a Altamira.",
+      "marcas": [
+        737,
+        744,
+        753,
+        760
+      ],
+      "local": "BR-230 (Transamazônica), Pará",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 802960,
+      "descricao": "Pista de mão dupla atravessa colinas verdes sob nuvens abertas. Uma motocicleta aparece ao longe.",
+      "contexto": "O grupo ajusta o roteiro para passar por Vitória do Xingu antes de retornar a Altamira.",
+      "marcas": [
+        789,
+        798,
+        805,
+        813
+      ],
+      "local": "BR-230 (Transamazônica), Pará",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 906440,
+      "descricao": "Os primeiros edifícios aparecem no fim da descida. Um prédio claro de vários andares fica à esquerda da rodovia.",
+      "contexto": "O apresentador anuncia a aproximação de Altamira e comenta o crescimento recente da cidade.",
+      "marcas": [
+        906,
+        915
+      ],
+      "local": "Acesso a Altamira (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 958440,
+      "descricao": "Avenida rodoviária com um posto de combustíveis à esquerda e construções afastadas da pista.",
+      "contexto": "O grupo se prepara para sair da Transamazônica e pegar o acesso em direção a Vitória do Xingu.",
+      "marcas": [
+        949,
+        955,
+        964
+      ],
+      "local": "Entorno de Altamira (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1113000,
+      "descricao": "Pista curva ao lado de uma ilha gramada e de construções baixas, sob nuvens no fim da tarde.",
+      "contexto": "O grupo passa pelo entroncamento que dá acesso a Vitória do Xingu e comenta o rumo alternativo a Anapu.",
+      "marcas": [
+        1103,
+        1111,
+        1122
+      ],
+      "local": "PA-415, acesso a Vitória do Xingu (PA)",
+      "confianca": "confirmado",
+      "fontes": [
+        "https://cmvitoriadoxingu.pa.gov.br/o-municipio/"
+      ]
+    },
+    {
+      "tempo_ms": 1320400,
+      "descricao": "Avenida comercial com canteiro central, árvores e estabelecimentos dos dois lados.",
+      "contexto": "Ao passar pelo setor urbano, o apresentador comenta os atrativos de Vitória do Xingu e cita trilhas e canoagem.",
+      "marcas": [
+        1311,
+        1319,
+        1328,
+        1333
+      ],
+      "local": "Vitória do Xingu (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1423640,
+      "descricao": "Faixa de pedestres atravessa uma rua ao lado de uma área pública arborizada com estrutura coberta.",
+      "contexto": "O apresentador narra a formação e a emancipação de Vitória do Xingu enquanto percorre suas ruas.",
+      "marcas": [
+        1412,
+        1420,
+        1426,
+        1436
+      ],
+      "local": "Vitória do Xingu (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1578640,
+      "descricao": "Grandes embarcações atracadas diante de uma rampa. Uma canoa pequena passa em frente e uma máquina está no convés de um barco.",
+      "contexto": "O apresentador mostra o porto de Vitória do Xingu e comenta seu papel na circulação regional.",
+      "marcas": [
+        1570,
+        1577,
+        1585
+      ],
+      "local": "Porto de Vitória do Xingu (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1630360,
+      "descricao": "Praça pavimentada diante de construções baixas e de uma área coberta, com um cachorro atravessando o espaço.",
+      "contexto": "Ao se afastar do porto, o apresentador conta sobre a abertura de um trajeto terrestre entre Vitória do Xingu e Altamira.",
+      "marcas": [
+        1620,
+        1628,
+        1636
+      ],
+      "local": "Vitória do Xingu (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1734240,
+      "descricao": "Avenida com asfalto molhado, árvores grandes e faixas amarelas de sinalização, vista pelo para-brisa.",
+      "contexto": "A chuva pega o grupo antes da volta para Altamira, alterando a gravação prevista para o fim do dia.",
+      "marcas": [
+        1682,
+        1745
+      ],
+      "local": "Vitória do Xingu (PA)",
+      "confianca": "provável",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1837920,
+      "descricao": "Vista aérea de Altamira à margem de um rio largo. Barcos atracados, um calçadão e ruas arborizadas ocupam o primeiro plano.",
+      "contexto": "O vídeo encerra com uma panorâmica da orla e um breve relato sobre a história de Altamira na região do Xingu.",
+      "marcas": [
+        1825,
+        1832,
+        1840,
+        1846
+      ],
+      "local": "Orla do Xingu, Altamira (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    }
+  ]
+}

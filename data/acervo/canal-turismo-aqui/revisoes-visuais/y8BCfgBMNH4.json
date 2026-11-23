@@ -1,0 +1,160 @@
+{
+  "video_id": "y8BCfgBMNH4",
+  "motivo": "",
+  "quadros": [
+    {
+      "tempo_ms": 6707,
+      "descricao": "Apresentador gesticula diante de um notebook, com as marcas Me Convida e Turismo Aqui na imagem.",
+      "local": "",
+      "confianca": "não identificado",
+      "contexto": "Na abertura, o apresentador lança o quadro Me Convida e pede sugestões de comunidades e experiências.",
+      "marcas": [
+        0,
+        7
+      ]
+    },
+    {
+      "tempo_ms": 56189,
+      "descricao": "Travessas de peixe, caldo e acompanhamentos sobre a mesa de madeira do almoço.",
+      "local": "Santarém Miri, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O vídeo relembra o almoço em Santarém Miri. As travessas, os talheres e os copos aparecem na mesma mesa no episódio da comunidade.",
+      "marcas": [
+        45,
+        53
+      ],
+      "fontes": [
+        "https://www.youtube.com/watch?v=0JiMtJfH3zY&t=241s"
+      ]
+    },
+    {
+      "tempo_ms": 64765,
+      "descricao": "Visitante prova açaí servido em uma tigela, com grãos claros e uma colher verde.",
+      "local": "Pacoval, rio Curuá-Una, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O mesmo visitante e a tigela aparecem na sequência de açaí do episódio dedicado a Pacoval. A montagem começa a introduzir essa comunidade durante o trecho.",
+      "marcas": [
+        61,
+        70
+      ],
+      "fontes": [
+        "https://www.youtube.com/watch?v=zAs3qjAFOP4&t=235s"
+      ]
+    },
+    {
+      "tempo_ms": 74074,
+      "descricao": "Vista aérea de barcos atracados junto a uma curva na rua que acompanha a margem do rio.",
+      "local": "Pacoval, rio Curuá-Una, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração situa Pacoval no rio Curuá-Una e cita a pesca esportiva.",
+      "marcas": [
+        61,
+        70,
+        77
+      ],
+      "fontes": [
+        "https://www.youtube.com/watch?v=zAs3qjAFOP4&t=12s"
+      ]
+    },
+    {
+      "tempo_ms": 81348,
+      "descricao": "Casas, ruas e um grande espaço aberto vistos de cima no centro da comunidade.",
+      "local": "Pacoval, rio Curuá-Una, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A imagem concentra o olhar no núcleo de Pacoval, que também aparece no episódio dedicado à comunidade.",
+      "marcas": [
+        70,
+        77
+      ],
+      "fontes": [
+        "https://www.youtube.com/watch?v=zAs3qjAFOP4&t=56s"
+      ]
+    },
+    {
+      "tempo_ms": 105172,
+      "descricao": "Equipe segue de carro durante o percurso, com apresentador no banco da frente indicando a direção.",
+      "local": "Santarém Miri, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A montagem reaproveita o registro da viagem a Santarém Miri enquanto o convite para novas pautas é retomado.",
+      "marcas": [
+        100,
+        108
+      ],
+      "fontes": [
+        "https://www.youtube.com/watch?v=0JiMtJfH3zY&t=19s"
+      ]
+    },
+    {
+      "tempo_ms": 117184,
+      "descricao": "Pessoas se cumprimentam sob uma varanda, ao lado de um carro estacionado.",
+      "local": "Santarém Miri, Santarém (PA)",
+      "confianca": "provável",
+      "contexto": "A montagem passa da viagem à recepção dos visitantes. O cenário é compatível com a chegada mostrada no episódio de Santarém Miri.",
+      "marcas": [
+        108,
+        117
+      ],
+      "fontes": [
+        "https://www.youtube.com/watch?v=0JiMtJfH3zY&t=93s"
+      ]
+    },
+    {
+      "tempo_ms": 121121,
+      "descricao": "Grupo se reúne para comer sob uma cobertura de palha, com cadeiras de madeira e uma rede vermelha ao lado.",
+      "local": "Santarém Miri, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O episódio da comunidade mostra o mesmo almoço, com a mesa, as cadeiras e a parede verde ao fundo.",
+      "marcas": [
+        53,
+        117,
+        124
+      ],
+      "fontes": [
+        "https://www.youtube.com/watch?v=0JiMtJfH3zY&t=241s"
+      ]
+    },
+    {
+      "tempo_ms": 125258,
+      "descricao": "Apresentador fala à sombra de uma árvore, com pessoas descansando em redes vermelhas.",
+      "local": "Santarém Miri, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "As redes e o quintal também aparecem no episódio de Santarém Miri, onde o grupo descansa após o almoço.",
+      "marcas": [
+        124,
+        132
+      ],
+      "fontes": [
+        "https://www.youtube.com/watch?v=0JiMtJfH3zY&t=315s"
+      ]
+    },
+    {
+      "tempo_ms": 132532,
+      "descricao": "Pessoas nadam num lago cercado por árvores, com um pequeno abrigo de madeira na margem oposta.",
+      "local": "Pacoval, rio Curuá-Una, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O mesmo banho aparece no episódio dedicado a Pacoval, com a margem e o abrigo reconhecíveis.",
+      "marcas": [
+        61,
+        132
+      ],
+      "fontes": [
+        "https://www.youtube.com/watch?v=zAs3qjAFOP4&t=167s"
+      ]
+    },
+    {
+      "tempo_ms": 136870,
+      "descricao": "Barcos, um ancoradouro e o canal aparecem numa panorâmica ampla que atravessa a orla.",
+      "local": "Pacoval, rio Curuá-Una, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A montagem volta ao rio Curuá-Una e à orla vistas no episódio de Pacoval.",
+      "marcas": [
+        70,
+        132,
+        141
+      ],
+      "fontes": [
+        "https://www.youtube.com/watch?v=zAs3qjAFOP4&t=12s"
+      ]
+    }
+  ]
+}

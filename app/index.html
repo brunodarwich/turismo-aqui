@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#134C57">
+  <meta name="description" content="Encontre destinos, mapa e dicas de Alter do Chão.">
+  <title>Guia de Alter do Chão | Turismo Aqui</title>
+  <link rel="icon" type="image/png" href="../design-system/assets/icone-turismo-aqui.png">
+  <link rel="stylesheet" href="../design-system/tokens.css">
+  <link rel="stylesheet" href="../design-system/components.css">
+  <link rel="stylesheet" href="../site/style.css">
+  <link rel="stylesheet" href="../site/landing.css">
+  <link rel="stylesheet" href="style.css">
+  <script type="module" src="app.js"></script>
+</head>
+<body class="ta">
+  <a class="skip ta-button ta-button--primary" href="#conteudo">Pular para o conteúdo</a>
+  <header class="site-header" id="inicio">
+    <div class="wrap site-nav site-nav--products">
+      <a class="brand" href="../site/" aria-label="Site Turismo Aqui">
+        <img src="../design-system/assets/turismo-aqui.svg" alt="Turismo Aqui" width="96" height="104">
+      </a>
+      <nav aria-label="Navegação principal">
+        <a class="nav-link" href="../site/">Site</a>
+        <a class="nav-link" href="../site/blog.html">Revista</a>
+        <a class="nav-link" href="./" aria-current="page">Destinos</a>
+        <a class="ta-button ta-button--secondary" href="../">Central</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="conteudo">
+    <section class="hub-hero hub-hero--guide" aria-labelledby="guide-title">
+      <div class="wrap hub-hero-content">
+        <h1 id="guide-title">Guia de <em>Alter do Chão</em></h1>
+        <div class="section-actions">
+          <a class="ta-button ta-button--accent" href="#lugares">Buscar destinos</a>
+          <a class="ta-button ta-button--inverse" href="#mapa">Abrir mapa</a>
+        </div>
+      </div>
+      <figure class="hub-hero-media" data-asset="quadro-vila-alter-aerea">
+        <img src="../entregaveis/catalogo-visual/imagens/IwLYaCVu5BI/000021360.jpg"
+             alt="Vista aérea da vila de Alter do Chão, com o rio e barcos na margem" width="1920" height="1080" fetchpriority="high">
+        <figcaption><a href="https://www.youtube.com/watch?v=IwLYaCVu5BI&amp;t=21s"><span data-photo-title>Vila de Alter do Chão</span> · <span data-photo-credit>Turismo Aqui, 0:21</span></a></figcaption>
+      </figure>
+    </section>
+
+    <nav class="guide-nav" aria-label="Atalhos do guia">
+      <div class="wrap">
+        <a class="nav-link" href="#lugares">Destinos</a>
+        <a class="nav-link" href="#mapa">Mapa</a>
+        <a class="nav-link" href="#dicas">Dicas</a>
+        <a class="nav-link" href="#videos">Vídeos</a>
+      </div>
+    </nav>
+
+    <section class="hub-section wrap explorer" id="lugares" aria-labelledby="lugares-titulo">
+      <div class="section-heading">
+        <h2 id="lugares-titulo">Destinos</h2>
+        <label class="ta-field guide-search">
+          <span class="sr-only">Buscar lugares e temas</span>
+          <input id="search" type="search" placeholder="Buscar um lugar" aria-controls="places">
+        </label>
+      </div>
+      <p id="load-status" class="journal-status" role="status">Carregando destinos…</p>
+      <noscript><p>Ative o JavaScript para explorar os lugares e as dicas.</p></noscript>
+      <div class="hub-grid" id="places"></div>
+      <p class="ta-notice ta-notice--info" id="empty" role="status" hidden>Nenhum lugar encontrado. Tente outro nome.</p>
+    </section>
+
+    <section id="mapa" class="destination guide-map-section" aria-labelledby="map-title">
+      <div class="wrap split-section">
+        <div class="guide-map-copy">
+          <h2 id="map-title">Mapa</h2>
+          <div id="map-controls" hidden>
+            <label for="map-place">Escolher um lugar</label>
+            <select id="map-place"></select>
+          </div>
+          <p id="map-marker" class="guide-map-note" aria-live="polite">Ainda não há marcadores no catálogo.</p>
+          <a class="ta-button ta-button--secondary" id="map-link" href="https://www.openstreetmap.org/search?query=Alter%20do%20Ch%C3%A3o%2C%20Santar%C3%A9m" target="_blank" rel="noopener noreferrer">Abrir no OpenStreetMap</a>
+          <p class="guide-map-note">O mapa precisa de internet. <a href="#lugares">Voltar aos destinos</a></p>
+        </div>
+        <div class="ta-card guide-map-frame">
+          <p id="map-status" class="ta-notice ta-notice--info" role="status">Mapa indisponível no momento.</p>
+          <iframe id="map-frame" title="Mapa da região de Alter do Chão pelo OpenStreetMap" loading="lazy" hidden></iframe>
+          <div class="map-credit">Mapa © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">OpenStreetMap</a></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="hub-section wrap" id="dicas" aria-labelledby="tips-title">
+      <h2 id="tips-title">Dicas de viagem</h2>
+      <div class="hub-grid" id="tips-list"></div>
+    </section>
+
+    <section class="hub-section wrap" id="videos" aria-labelledby="videos-title">
+      <h2 id="videos-title">Vídeos do canal</h2>
+      <div class="hub-grid" id="videos-list"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap landing-footer">
+      <span>Turismo Aqui</span>
+      <nav aria-label="Materiais e canais">
+        <a href="../">Central</a>
+        <a href="../entregaveis/guia-alter-do-chao-prototipo.pdf">Ebook (PDF)</a>
+        <a href="../entregaveis/guia-alter.webm?v=161e4bc1d53f">Vídeo do guia</a>
+        <a href="https://www.youtube.com/@TurismoAqui">YouTube</a>
+      </nav>
+    </div>
+  </footer>
+</body>
+</html>

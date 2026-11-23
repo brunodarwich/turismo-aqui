@@ -1,0 +1,124 @@
+{
+  "video_id": "9BrSzVOFJU0",
+  "motivo": "A live de 1min39s acompanha um voo contínuo de drone. Foram examinadas 36 amostras na primeira passagem e 72 na segunda. A revisão preservou nove composições distintas, de uma tomada em que os demais intervalos repetem enquadramentos ou mostram apenas água durante a virada da câmera.",
+  "quadros": [
+    {
+      "descricao": "Plano baixo do banco de areia da Ponta do Cururu, com pequenas ondas, visitantes e embarcações junto à margem.",
+      "local": "Ponta do Cururu, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A transmissão começa com a vista da praia e o apresentador situa a visita no feriado de novembro de 2018. Mais adiante, ele identifica a Ponta do Cururu.",
+      "marcas": [
+        0,
+        8,
+        35,
+        91
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/gerais/praia-ponta-do-cururu-tem-areia-branca-revoada-de-gaivotas-e-por-do-sol-fascinante-1369f88bf153-84a1-4abe-91b0-a5b97b2eba69"
+      ],
+      "tempo_ms": 2567
+    },
+    {
+      "tempo_ms": 14400,
+      "descricao": "Vista aérea de conjunto do banco de areia em curva, com a encosta arborizada, o morro isolado no horizonte e embarcações menores distribuídas na margem direita.",
+      "local": "Ponta do Cururu, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Durante a transmissão de 15 de novembro de 2018, a câmera sobe sobre o banco de areia, mostrando como ele se estende até a vegetação. O apresentador compara a faixa exposta naquele dia com a praia menor que havia mostrado no mês anterior.",
+      "marcas": [
+        8,
+        17,
+        26,
+        35
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/gerais/praia-ponta-do-cururu-tem-areia-branca-revoada-de-gaivotas-e-por-do-sol-fascinante-1369f88bf153-84a1-4abe-91b0-a5b97b2eba69"
+      ]
+    },
+    {
+      "descricao": "Vista aérea da faixa de areia entre duas áreas de água, com visitantes no centro e embarcações de passeio junto à margem direita.",
+      "local": "Ponta do Cururu, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador compara a área de areia visível naquele dia com a visita anterior, quando encontrou uma faixa menor.",
+      "marcas": [
+        17,
+        26,
+        35
+      ],
+      "tempo_ms": 32033
+    },
+    {
+      "descricao": "A curva da praia ocupa o lado esquerdo do quadro e um barco pequeno aparece isolado na água, diante da encosta arborizada.",
+      "local": "Ponta do Cururu, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O narrador comenta que a faixa de areia da Ponta do Cururu fica exposta apenas durante parte do ano.",
+      "marcas": [
+        35,
+        43
+      ],
+      "tempo_ms": 45333
+    },
+    {
+      "descricao": "Plano frontal da área mais larga da ponta, com areia clara, pequenas poças rasas e vegetação fechada ao fundo.",
+      "local": "Ponta do Cururu, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A vista aérea ilustra a extensão de praia exposta que o apresentador comenta na transmissão.",
+      "marcas": [
+        43,
+        52
+      ],
+      "tempo_ms": 56133
+    },
+    {
+      "descricao": "Vista oblíqua de poças e canais rasos que desenham curvas na areia perto da água, junto ao trecho arborizado.",
+      "local": "Ponta do Cururu, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Durante a passagem da câmera sobre a formação de areia, a conversa da transmissão segue com um visitante que acompanha o canal.",
+      "marcas": [
+        52,
+        60,
+        68
+      ],
+      "tempo_ms": 66933
+    },
+    {
+      "descricao": "Linha curva da margem vista de lado, com o rio ocupando quase todo o quadro e luz rosada de fim de tarde.",
+      "local": "Ponta do Cururu, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A câmera gira para o horizonte enquanto um visitante conta que conheceu o lugar pelos vídeos do canal.",
+      "marcas": [
+        68,
+        76,
+        84
+      ],
+      "tempo_ms": 75200
+    },
+    {
+      "descricao": "Banco de areia se estende até o horizonte, com barcos em uma das margens e o sol baixo acima do Tapajós.",
+      "local": "Ponta do Cururu, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A tomada abre a vista do pôr do sol que dá tema à transmissão. O apresentador destaca o fim de tarde na Ponta do Cururu.",
+      "marcas": [
+        76,
+        84,
+        91
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/gerais/praia-ponta-do-cururu-tem-areia-branca-revoada-de-gaivotas-e-por-do-sol-fascinante-1369f88bf153-84a1-4abe-91b0-a5b97b2eba69"
+      ],
+      "tempo_ms": 77500
+    },
+    {
+      "descricao": "Aproximação aérea da extremidade da ponta ao pôr do sol, com barcos junto à areia, pessoas e reflexos alaranjados na água.",
+      "local": "Ponta do Cururu, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Ao final da transmissão, o apresentador chama a atenção para a paisagem de fim de tarde na Ponta do Cururu.",
+      "marcas": [
+        91
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/gerais/praia-ponta-do-cururu-tem-areia-branca-revoada-de-gaivotas-e-por-do-sol-fascinante-1369f88bf153-84a1-4abe-91b0-a5b97b2eba69"
+      ],
+      "tempo_ms": 97067
+    }
+  ]
+}

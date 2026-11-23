@@ -1,0 +1,242 @@
+{
+  "video_id": "y-GxnwH7T7M",
+  "quadros": [
+    {
+      "tempo_ms": 28800,
+      "descricao": "Vista aérea de cais e rampas com várias embarcações, ao lado da área urbana de Santarém.",
+      "local": "Porto de Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A abertura apresenta o transporte fluvial como parte da logística de passageiros, cargas e produção agrícola entre cidades amazônicas.",
+      "marcas": [
+        16,
+        24,
+        32,
+        40
+      ]
+    },
+    {
+      "tempo_ms": 139167,
+      "descricao": "Convés aberto em dia de sol, com caminhão à direita e pessoas caminhando na direção da rampa.",
+      "local": "Porto de Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador promete mostrar a embarcação e os detalhes da viagem na saída de Santarém.",
+      "marcas": [
+        124,
+        134,
+        141
+      ]
+    },
+    {
+      "tempo_ms": 194333,
+      "descricao": "Pessoas se acomodam ao lado de caixas empilhadas e mantimentos no convés coberto, com um veículo no fundo.",
+      "local": "Porto de Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador mostra o convés principal reservado ao transporte de carga e veículos.",
+      "marcas": [
+        181,
+        189,
+        196,
+        203
+      ]
+    },
+    {
+      "tempo_ms": 414667,
+      "descricao": "Uma embarcação branca de vários andares e barcos menores aparecem junto ao cais, vistos por cima do corrimão azul.",
+      "local": "Porto de Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O barco do episódio começa a sair de Santarém. A narração comenta o movimento no porto e a duração prevista do trajeto.",
+      "marcas": [
+        388,
+        397,
+        405,
+        412,
+        421
+      ]
+    },
+    {
+      "tempo_ms": 469633,
+      "descricao": "Um pequeno posto flutuante aparece na água, diante da orla de Santarém e do conjunto de prédios da cidade.",
+      "local": "Orla de Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador aponta o posto que abastece embarcações durante a primeira parte da viagem.",
+      "marcas": [
+        463,
+        471,
+        478
+      ]
+    },
+    {
+      "tempo_ms": 525433,
+      "descricao": "Tripulantes observam os instrumentos da cabine de comando, sob uma fileira de janelas inclinadas.",
+      "local": "Rio Amazonas, entre Santarém e Manaus",
+      "confianca": "confirmado",
+      "contexto": "A conversa na cabine identifica o São Bartolomeu I e discute a previsão de duração da viagem com as escalas.",
+      "marcas": [
+        518,
+        526,
+        535
+      ]
+    },
+    {
+      "tempo_ms": 635167,
+      "descricao": "Vista sobre a proa. Uma massa de água escura e outra mais clara se encontram perto de uma faixa de terra.",
+      "local": "Encontro das águas dos rios Tapajós e Amazonas, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador identifica o encontro das águas e comenta a possibilidade de observar a diferença de cores naquele dia ensolarado.",
+      "marcas": [
+        577,
+        630,
+        638
+      ]
+    },
+    {
+      "tempo_ms": 746200,
+      "descricao": "Convés e parte da área de embarque iluminados à noite, com veículos e prédios baixos junto ao cais.",
+      "local": "Porto de Óbidos (PA)",
+      "confianca": "confirmado",
+      "contexto": "O barco faz a escala em Óbidos. A conversa informa que a parada servia principalmente para receber passageiros.",
+      "marcas": [
+        676,
+        698,
+        741,
+        749,
+        758
+      ]
+    },
+    {
+      "tempo_ms": 966233,
+      "descricao": "Pessoas, veículos e barcos ocupam o porto junto a uma rampa amarela, com a faixa urbana de Parintins ao fundo.",
+      "local": "Porto de Parintins (AM)",
+      "confianca": "confirmado",
+      "contexto": "A narração comenta o movimento de pessoas e vendedores ambulantes durante a parada em Parintins.",
+      "marcas": [
+        849,
+        906,
+        913,
+        953,
+        963,
+        972,
+        980
+      ]
+    },
+    {
+      "tempo_ms": 1021433,
+      "descricao": "Uma rampa de ligação cruza a água entre o cais e a área de carga, onde há caminhão, carros e trabalhadores.",
+      "local": "Porto de Parintins (AM)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador observa o descarregamento e compara o movimento desta escala com o de viagens anteriores.",
+      "marcas": [
+        1002,
+        1012,
+        1021,
+        1027
+      ]
+    },
+    {
+      "tempo_ms": 1187633,
+      "descricao": "Um tripulante está sentado diante dos controles da cabine de comando, iluminada pela fileira de janelas.",
+      "local": "Rio Amazonas, entre Parintins e Itacoatiara (AM)",
+      "confianca": "confirmado",
+      "contexto": "O comandante informa uma previsão de chegada a Itacoatiara e explica como a correnteza e a carga afetam o deslocamento.",
+      "marcas": [
+        1175,
+        1183,
+        1193,
+        1200
+      ]
+    },
+    {
+      "tempo_ms": 1297900,
+      "descricao": "O visor do equipamento de navegação mostra a profundidade de 31,4 metros e um traçado colorido.",
+      "local": "Rio Amazonas, entre Santarém e Manaus",
+      "confianca": "confirmado",
+      "contexto": "O apresentador acompanha as mudanças de profundidade do rio no aparelho a bordo.",
+      "marcas": [
+        1285,
+        1293,
+        1301,
+        1310
+      ]
+    },
+    {
+      "tempo_ms": 1408367,
+      "descricao": "Um tripulante de camisa clara conversa ao lado dos comandos, com o rio visível pelas janelas.",
+      "local": "Rio Amazonas, entre Santarém e Manaus",
+      "confianca": "confirmado",
+      "contexto": "A conversa compara profundidades do Amazonas e menciona o trecho em frente a Óbidos como referência, embora o barco já tenha passado pela cidade.",
+      "marcas": [
+        1398,
+        1407,
+        1414,
+        1421
+      ]
+    },
+    {
+      "tempo_ms": 1573633,
+      "descricao": "Passagem externa de piso azul ao lado das portas das cabines, com a margem arborizada do Amazonas do outro lado do corrimão.",
+      "local": "Rio Amazonas, entre Parintins e Itacoatiara (AM)",
+      "confianca": "confirmado",
+      "contexto": "A narração situa o trecho depois de Parintins, com o jantar sendo servido a bordo.",
+      "marcas": [
+        1564,
+        1572,
+        1582
+      ]
+    },
+    {
+      "tempo_ms": 1683767,
+      "descricao": "Caminhões e carga ocupam o convés inferior sob a luz do pôr do sol refletida no Amazonas.",
+      "local": "Rio Amazonas, entre Santarém e Manaus",
+      "confianca": "confirmado",
+      "contexto": "A fala descreve a parte da embarcação destinada aos veículos e os valores cobrados na época da gravação.",
+      "marcas": [
+        1672,
+        1681,
+        1687,
+        1697
+      ]
+    },
+    {
+      "tempo_ms": 1849700,
+      "descricao": "Veículos e pessoas são vistos numa área de embarque iluminada à noite, com reflexos das luzes na água.",
+      "local": "Porto de Itacoatiara (AM)",
+      "confianca": "confirmado",
+      "contexto": "A escala noturna em Itacoatiara é a última antes de Manaus. O apresentador comenta os táxis que atendem quem desembarca.",
+      "marcas": [
+        1748,
+        1755,
+        1813,
+        1837,
+        1843
+      ]
+    },
+    {
+      "tempo_ms": 1904900,
+      "descricao": "A bandeira na proa aparece à frente da ponte sobre o Rio Negro. A imagem vertical foi incorporada ao vídeo com margens laterais.",
+      "local": "Ponte Jornalista Phelippe Daou, rio Negro, Manaus (AM)",
+      "confianca": "confirmado",
+      "contexto": "Na aproximação a Manaus, a narração identifica a ponte visível no horizonte.",
+      "marcas": [
+        1898,
+        1905,
+        1913
+      ],
+      "fontes": [
+        "https://www.manaus.am.gov.br/semcom/fiscalizacao-orientacao-transporte-irregular/"
+      ]
+    },
+    {
+      "tempo_ms": 1959467,
+      "descricao": "Barcos e estruturas de carga ocupam a frente do porto, com a cidade de Manaus atrás. O quadro preserva as margens laterais da gravação.",
+      "local": "Porto de Manaus (AM)",
+      "confianca": "confirmado",
+      "contexto": "O São Bartolomeu I chega ao destino, e o apresentador registra o movimento de embarcações próximo da atracação.",
+      "marcas": [
+        1946,
+        1954,
+        1964,
+        1972
+      ]
+    }
+  ]
+}

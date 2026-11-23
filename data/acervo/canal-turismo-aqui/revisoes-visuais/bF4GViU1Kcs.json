@@ -1,0 +1,156 @@
+{
+  "video_id": "bF4GViU1Kcs",
+  "motivo": "",
+  "quadros": [
+    {
+      "descricao": "Mesas e cadeiras vazias em um deque de madeira da orla, com margem exposta pelo rio baixo e horizonte encoberto.",
+      "local": "Orla de Santarém, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Na abertura, Emanuel Júlio explica que o registro sobre a seca também vai tratar da fumaça das queimadas que atingiu Santarém em 2024.",
+      "marcas": [
+        13,
+        19,
+        27,
+        36
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/meio-ambiente/prefeitura-de-santarem-decreta-emergencia-ambiental-devido-a-crise-na-qualidade-do-ar-causada-por-queimadas-j2kzhw"
+      ],
+      "tempo_ms": 28800
+    },
+    {
+      "descricao": "Emanuel Júlio fala em um deque da orla, com enfeite em forma de coração e a água sob uma camada cinzenta ao fundo.",
+      "local": "Orla de Santarém, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador comenta a situação da cidade e introduz o relato sobre a perda de visibilidade do outro lado do rio.",
+      "marcas": [
+        93,
+        100,
+        109,
+        126
+      ],
+      "tempo_ms": 103867
+    },
+    {
+      "descricao": "Fachada envidraçada do Terminal Hidroviário de Santarém, com carros e área de espera coberta diante da entrada.",
+      "local": "Terminal Hidroviário Joaquim da Costa Pereira, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Emanuel Júlio chega ao terminal de embarque e desembarque para mostrar como estão a orla e a visibilidade do rio.",
+      "marcas": [
+        173,
+        182,
+        189
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/governo-e-administracao/governo-do-estado-garante-ajuda-humanitaria-para-15-municipios-das-regioes-do-baixo-amazonas-e-tapajos-atingidas-pela-estiagem-9ar61w"
+      ],
+      "tempo_ms": 178333
+    },
+    {
+      "descricao": "Saguão do terminal hidroviário, com balcão azul e verde, piso tátil, placas de embarque e assentos ao fundo.",
+      "local": "Terminal Hidroviário Joaquim da Costa Pereira, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador percorre o terminal e relata que havia pouco movimento naquele momento. Ele procura um ponto para mostrar o rio.",
+      "marcas": [
+        229,
+        235,
+        245,
+        252
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/governo-e-administracao/governo-do-estado-garante-ajuda-humanitaria-para-15-municipios-das-regioes-do-baixo-amazonas-e-tapajos-atingidas-pela-estiagem-9ar61w"
+      ],
+      "tempo_ms": 253100
+    },
+    {
+      "descricao": "Embarcações de passageiros e veículos de carga no cais, com a margem distante do rio pouco nítida sob a fumaça.",
+      "local": "Trecho portuário de Santarém, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Na sequência do terminal, o apresentador registra como o ar embaçado dificulta a vista de um ponto usado para observar o rio.",
+      "marcas": [
+        277,
+        286,
+        294,
+        300,
+        308
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/meio-ambiente/prefeitura-de-santarem-decreta-emergencia-ambiental-devido-a-crise-na-qualidade-do-ar-causada-por-queimadas-j2kzhw"
+      ],
+      "tempo_ms": 308467
+    },
+    {
+      "descricao": "Prédios e telhados de Santarém vistos de um ponto elevado, com antenas e uma camada de fumaça sobre o horizonte.",
+      "local": "Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O narrador filma da janela de casa para comparar com a visão da orla e mostrar a fumaça sobre a área urbana.",
+      "marcas": [
+        317,
+        326,
+        334
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/meio-ambiente/prefeitura-de-santarem-decreta-emergencia-ambiental-devido-a-crise-na-qualidade-do-ar-causada-por-queimadas-j2kzhw"
+      ],
+      "tempo_ms": 327500
+    },
+    {
+      "descricao": "Tela de celular exibe o valor 163 no índice de qualidade do ar para a Avenida Borges Leal, em Santarém.",
+      "local": "Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador mostra uma leitura registrada no aplicativo AirVisual durante a gravação, em novembro de 2024.",
+      "marcas": [
+        334,
+        344,
+        382
+      ],
+      "tempo_ms": 346133
+    },
+    {
+      "descricao": "Entrevistada de camisa branca fala sob uma cobertura de madeira, com plantas e parede laranja ao fundo.",
+      "local": "Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "No trecho em Alter do Chão, a entrevistada relata menos fumaça e melhora da visibilidade naquele dia. A conversa segue para o impacto no turismo.",
+      "marcas": [
+        404,
+        412,
+        421,
+        430,
+        439
+      ],
+      "tempo_ms": 420333
+    },
+    {
+      "descricao": "Na orla de Alter do Chão, embarcações estão em águas rasas entre áreas de areia e vegetação expostas, com a Serra da Piroca ao fundo.",
+      "local": "Orla de Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "As imagens acompanham a entrevista sobre a paisagem da vila no período de seca e sobre como a fumaça interfere na experiência dos visitantes.",
+      "marcas": [
+        439,
+        448,
+        457,
+        464
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/gerais/domingo-e-marcado-por-aventura-na-serra-piraoca-em-alter-do-chao-2154caac02f4-f614-43e1-aee4-216663f19356"
+      ],
+      "tempo_ms": 439367
+    },
+    {
+      "descricao": "Panorama do centro de Santarém, com cemitério em primeiro plano, torres, prédios e área fluvial no horizonte.",
+      "local": "Centro de Santarém, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A vista integra a comparação feita na tarde de 28 de novembro de 2024, quando o apresentador relata melhora da visibilidade e do índice exibido no aplicativo.",
+      "marcas": [
+        531,
+        541,
+        550,
+        560
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/meio-ambiente/prefeitura-de-santarem-decreta-emergencia-ambiental-devido-a-crise-na-qualidade-do-ar-causada-por-queimadas-j2kzhw"
+      ],
+      "tempo_ms": 551300
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "video_id": "VH9tZH4sSjQ",
+  "motivo": "",
+  "quadros": [
+    {
+      "tempo_ms": 62033,
+      "descricao": "Carros e motocicletas ocupam a saída da balsa, sob estrutura metálica junto à rampa.",
+      "local": "Porto da Vila Aninduba, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O grupo registra o desembarque e o movimento de motos no início da etapa terrestre.",
+      "marcas": [
+        43,
+        51,
+        60,
+        69
+      ],
+      "fontes": [
+        "https://juruti.pa.gov.br/wp-content/uploads/2023/08/PM_APA_JARA_digital_07Maio2023.pdf"
+      ]
+    },
+    {
+      "tempo_ms": 144533,
+      "descricao": "Poeira cobre parte da pista de terra, com vegetação nos dois lados.",
+      "local": "Roteiro Santarém–Juruti, Pará",
+      "confianca": "confirmado",
+      "contexto": "A equipe apresenta o percurso para a Cachoeira do Aruã e menciona a parada prevista para o almoço.",
+      "marcas": [
+        130,
+        139,
+        148
+      ]
+    },
+    {
+      "tempo_ms": 226433,
+      "descricao": "Motocicleta cruza uma ponte de madeira com guarda-corpos amarelos e pretos.",
+      "local": "Rodovia Translago (PA-257), oeste do Pará",
+      "confianca": "confirmado",
+      "contexto": "O grupo comenta a passagem por duas pontes seguidas nas proximidades da entrada do ramal da Soledade.",
+      "marcas": [
+        215,
+        223,
+        232
+      ]
+    },
+    {
+      "tempo_ms": 307700,
+      "descricao": "Estrada de terra passa por coqueiros e construções na entrada de um ramal.",
+      "local": "Ramal da Soledade, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração identifica a conversão da Translago para o ramal da Soledade, acesso à Cachoeira do Aruã.",
+      "marcas": [
+        293,
+        302,
+        312
+      ]
+    },
+    {
+      "tempo_ms": 512833,
+      "descricao": "A estrada de terra se estreita entre árvores altas e vegetação espessa.",
+      "local": "Ramal da Soledade, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador descreve o percurso pelo ramal como parte da aventura até a cachoeira.",
+      "marcas": [
+        501,
+        509
+      ]
+    },
+    {
+      "tempo_ms": 758567,
+      "descricao": "Trecho largo de terra vermelha com uma caminhonete na lateral e floresta ao fundo.",
+      "local": "Roteiro Santarém–Juruti, Pará",
+      "confianca": "confirmado",
+      "contexto": "A equipe diz que saiu do ramal e tomou outra estrada rumo à Cachoeira do Aruã.",
+      "marcas": [
+        746,
+        754,
+        764
+      ]
+    },
+    {
+      "tempo_ms": 840633,
+      "descricao": "Rua de terra ladeada por casas, cercas e postes na chegada à comunidade.",
+      "local": "Cachoeira do Aruã, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O grupo anuncia a chegada à região da Cachoeira do Aruã e se dirige ao Aconchego do Aruã.",
+      "marcas": [
+        831,
+        843
+      ]
+    },
+    {
+      "tempo_ms": 881633,
+      "descricao": "Água corre entre rochas e vegetação, vista por cima de arbustos altos.",
+      "local": "Cachoeira do Aruã, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A equipe mostra a cachoeira em época de seca, quando há menos água nas corredeiras.",
+      "marcas": [
+        873,
+        882,
+        888
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/turismo/cachoeira-do-arua-avanca-no-turismo-sustentavel-com-capacitacoes-em-culinaria-e-tbc-wyrtfi"
+      ]
+    },
+    {
+      "tempo_ms": 962867,
+      "descricao": "Varanda coberta com mesas vermelhas e vista para o rio, com uma ave em um galho perto do corrimão.",
+      "local": "Aconchego do Aruã, Cachoeira do Aruã, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A visita apresenta o restaurante à beira d’água e menciona a hospedagem no local.",
+      "marcas": [
+        947,
+        955,
+        963,
+        971
+      ]
+    },
+    {
+      "tempo_ms": 1004200,
+      "descricao": "Passarela de madeira sobre a água leva a um abrigo sombreado, com o rio ao redor.",
+      "local": "Aconchego do Aruã, Cachoeira do Aruã, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador desce para mostrar a área à beira do rio durante a parada.",
+      "marcas": [
+        989,
+        998,
+        1008
+      ]
+    },
+    {
+      "tempo_ms": 1331967,
+      "descricao": "Caminhonete branca sobre a rampa de uma pequena balsa encostada na margem arenosa.",
+      "local": "Roteiro Santarém–Juruti, Pará",
+      "confianca": "confirmado",
+      "contexto": "A equipe apresenta esta travessia de balsa como uma etapa do percurso até Juruti.",
+      "marcas": [
+        1324,
+        1333
+      ]
+    },
+    {
+      "tempo_ms": 1454633,
+      "descricao": "Via urbana pavimentada de Juruti, com estabelecimentos dos dois lados e veículos estacionados.",
+      "local": "Juruti (PA)",
+      "confianca": "confirmado",
+      "contexto": "No encerramento, o grupo faz o balanço da viagem pelo eixo da Translago e pela Cachoeira do Aruã.",
+      "marcas": [
+        1445,
+        1453,
+        1460
+      ]
+    }
+  ]
+}

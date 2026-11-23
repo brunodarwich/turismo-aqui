@@ -1,0 +1,60 @@
+{
+  "video_id": "yctrh7lalQ0",
+  "motivo": "O melhor arquivo público disponível tem 428 × 240. A primeira passagem de 36 amostras e a segunda de 72, guiada por cortes, mostram a mesma panorâmica contínua. A revisão preservou as quatro imagens mais legíveis e distintas e descartou os trechos repetidos ou com blocos de compressão que encobrem detalhes.",
+  "quadros": [
+    {
+      "descricao": "Movimento de pessoas e veículos no cais molhado, enquadrado entre os conveses brancos de dois barcos atracados.",
+      "local": "Porto de Parintins (AM)",
+      "confianca": "confirmado",
+      "contexto": "Na abertura da live de 17 de abril de 2018, o apresentador informa que chegou ao porto de Parintins em uma viagem iniciada em Santarém com destino a Manaus.",
+      "marcas": [
+        0,
+        8,
+        16
+      ],
+      "fontes": [
+        "https://www.gov.br/transportes/pt-br/assuntos/noticias/ultimas-noticias/terminal-hidroviario-de-parintins-am-e-reaberto-ao-trafego"
+      ],
+      "tempo_ms": 10067
+    },
+    {
+      "descricao": "Vários barcos de passageiros ocupam a margem do cais, dois com lonas azuis junto aos conveses. Um carro branco aparece à esquerda.",
+      "local": "Porto de Parintins (AM)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador retoma o itinerário fluvial e explica que Parintins é uma parada na viagem entre Santarém e Manaus.",
+      "marcas": [
+        43,
+        52,
+        61
+      ],
+      "tempo_ms": 58233
+    },
+    {
+      "descricao": "Uma embarcação com lonas azuis e equipamento laranja no teto domina o plano, com outros barcos e a margem urbana ao fundo.",
+      "local": "Porto de Parintins (AM)",
+      "confianca": "confirmado",
+      "contexto": "O narrador apresenta o movimento do porto como parte da paisagem cotidiana das cidades ribeirinhas da região.",
+      "marcas": [
+        77,
+        85,
+        92
+      ],
+      "tempo_ms": 88367
+    },
+    {
+      "descricao": "Duas embarcações com lonas azuis aparecem em lados opostos do enquadramento, com o Rio Amazonas e a frente urbana de Parintins entre elas.",
+      "local": "Porto de Parintins (AM)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador identifica o Rio Amazonas enquanto a câmera mantém a vista do cais e da água.",
+      "marcas": [
+        92,
+        98,
+        108
+      ],
+      "fontes": [
+        "https://www.gov.br/transportes/pt-br/assuntos/noticias/ultimas-noticias/terminal-hidroviario-de-parintins-am-e-reaberto-ao-trafego"
+      ],
+      "tempo_ms": 106867
+    }
+  ]
+}

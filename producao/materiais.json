@@ -1,0 +1,348 @@
+{
+  "imagens": {
+    "tapajos": {
+      "arquivo": "producao/ilustracao.png",
+      "credito": "Ilustração conceitual gerada por IA"
+    },
+    "banco-de-areia": {
+      "arquivo": "producao/ilustracao-banco-de-areia.png",
+      "credito": "Ilustração conceitual gerada por IA"
+    },
+    "foto-alter": {
+      "arquivo": "data/acervo/alter-do-chao-rosanetur.jpg",
+      "credito": "Alter do Chão · Rosanetur · CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Alter_do_Ch%C3%A3o_IMG_0682_(49694178436).jpg",
+      "licenca": "https://creativecommons.org/licenses/by/2.0/",
+      "preservar_enquadramento": true
+    },
+    "quadro-emanuel": {
+      "arquivo": "data/acervo/emanuel-julio-pcdSgCIfEUw-0012.png",
+      "credito": "Emanuel Júlio · Turismo Aqui · quadro de 17/11/2019, 0:12",
+      "url": "https://www.youtube.com/watch?v=pcdSgCIfEUw&t=12s",
+      "preservar_enquadramento": true
+    },
+    "quadro-ilha-do-amor": {
+      "arquivo": "data/acervo/ilha-do-amor-i3hok4syuZw-0933.png",
+      "credito": "Ilha do Amor · Turismo Aqui · quadro de 20/09/2019, 9:33",
+      "url": "https://www.youtube.com/watch?v=i3hok4syuZw&t=573s",
+      "preservar_enquadramento": true
+    },
+    "marca": {
+      "arquivo": "data/acervo/avatar-canal-referencia.jpg",
+      "credito": "Marca Turismo Aqui · avatar publicado pelo canal",
+      "url": "https://www.youtube.com/@TurismoAqui",
+      "preservar_enquadramento": true
+    }
+  },
+  "pecas": [
+    {
+      "layout": "abertura",
+      "categoria": "Santarém · Pará",
+      "titulo": "Alter do Chão",
+      "texto": "À beira do Tapajós",
+      "legenda": "Comece pela Praça 7 de Setembro e desça até a orla. Foi por esse caminho, entre a igreja e o comércio de artesanato, que Emanuel Júlio apresentou o centro da vila no episódio sobre passeios.",
+      "imagens": [
+        "quadro-vila-alter-aerea"
+      ],
+      "fontes": [
+        "video_passeios",
+        "guia_santarem"
+      ]
+    },
+    {
+      "layout": "comparacao",
+      "titulo": "A Ilha do Amor\nmuda com o rio",
+      "texto": "A faixa de areia acompanha o nível do Tapajós.",
+      "rotulos": [
+        "Águas altas",
+        "Águas mais baixas"
+      ],
+      "legenda": "Nos registros do canal, o rio alto cobre parte da praia, enquanto no outro quadro a faixa de areia aparece ocupada por barracas e visitantes. Pergunte como está a ilha na semana da sua viagem.",
+      "imagens": [
+        "quadro-ilha-do-amor-cheia",
+        "quadro-ilha-do-amor-0933"
+      ],
+      "fontes": [
+        "video_caminhos",
+        "video_passeios",
+        "ilha_prefeitura"
+      ]
+    },
+    {
+      "layout": "travessia",
+      "categoria": "A travessia a remo",
+      "titulo": "De catraia\nà Ilha do Amor",
+      "texto": "A tradição do remo liga a vila à praia.",
+      "legenda": "Na reportagem de 2025, os catraieiros contam o orgulho de manter a tradição do remo. A catraia liga a orla de Alter do Chão à Ilha do Amor, especialmente quando a água sobe.",
+      "imagens": [
+        "quadro-catraia-travessia"
+      ],
+      "fontes": [
+        "video-catraieiros-ilha-do-amor"
+      ]
+    },
+    {
+      "layout": "checklist",
+      "categoria": "Passeios de barco",
+      "titulo": "Antes de embarcar",
+      "itens": [
+        "Onde embarcar",
+        "Até que horas dá para voltar",
+        "Disponibilidade de coletes",
+        "Preço e forma de pagamento"
+      ],
+      "legenda": "Combine os detalhes da ida e da volta com quem faz a travessia. Os valores citados no vídeo de 2019 são um registro daquela época.",
+      "imagens": [
+        "quadro-navegar-catraias"
+      ],
+      "fontes": [
+        "video_passeios",
+        "video-catraieiros-ilha-do-amor"
+      ]
+    },
+    {
+      "layout": "coluna",
+      "categoria": "Floresta Encantada",
+      "titulo": "Pelo igapó\nde Caranazal",
+      "texto": "Na cheia, a canoa pode passar entre os troncos da floresta.",
+      "legenda": "A paisagem de Caranazal muda com o nível das águas. Quando a mata alaga e o passeio está operando, a canoa percorre o igapó. Combine o percurso com os condutores locais.",
+      "imagens": [
+        "quadro-canoa-caranazal"
+      ],
+      "fontes": [
+        "video-caranazal-aguas",
+        "prefeitura-caranazal"
+      ]
+    },
+    {
+      "layout": "imersao",
+      "categoria": "Alter do Chão",
+      "titulo": "Pôr do sol\nno Cururu",
+      "texto": "Confirme o horário de volta antes de sair.",
+      "legenda": "Em dois momentos da mesma temporada, o Turismo Aqui encontrou faixas de areia de tamanhos diferentes na Ponta do Cururu. Se a ideia é ir para o pôr do sol, confirme o acesso e combine o horário de retorno.",
+      "imagens": [
+        "quadro-ponta-cururu"
+      ],
+      "fontes": [
+        "video-ponta-cururu",
+        "guia_santarem"
+      ]
+    },
+    {
+      "layout": "paisagem",
+      "categoria": "Praias do Tapajós",
+      "titulo": "Ponta de Pedras",
+      "texto": "Areia clara e barracas de palha à beira do rio.",
+      "legenda": "O registro aéreo mostra a fileira de barracas junto à água. Se quiser passar parte do dia na praia, confirme o acesso e a disponibilidade de alimentação para a data.",
+      "imagens": [
+        "quadro-ponta-pedras"
+      ],
+      "fontes": [
+        "video-ponta-pedras",
+        "guia_santarem"
+      ]
+    },
+    {
+      "layout": "diptico",
+      "categoria": "Cultura de Alter do Chão",
+      "titulo": "A Festa do Sairé",
+      "texto": "A busca dos mastros faz parte dos ritos da festa.",
+      "rotulos": [
+        "Busca dos mastros",
+        "Orla da vila"
+      ],
+      "legenda": "O acervo acompanha a sequência da busca dos mastros e o movimento da orla no fim de semana do Sairé. A programação cultural inclui apresentações do Boto Cor-de-Rosa e do Boto Tucuxi. Consulte a programação da edição que você pretende acompanhar.",
+      "imagens": [
+        "quadro-sequencia-mastros",
+        "quadro-orla-saire"
+      ],
+      "fontes": [
+        "video_passeios",
+        "prefeitura-saire-mastros",
+        "prefeitura-saire-botos"
+      ]
+    },
+    {
+      "layout": "linha-do-tempo",
+      "categoria": "Emanuel Júlio",
+      "titulo": "Do canal ao site",
+      "itens": [
+        [
+          "2017",
+          "Estreia da série Os Caminhos de Alter do Chão."
+        ],
+        [
+          "2019",
+          "Emanuel apresenta o site para divulgar o turismo na Amazônia."
+        ]
+      ],
+      "legenda": "A série Os Caminhos de Alter do Chão abriu o Turismo Aqui em 2017. Dois anos depois, numa gravação na praia, Emanuel Júlio explicou por que o canal criou um site.",
+      "imagens": [
+        "quadro-emanuel-alter-0012"
+      ],
+      "fontes": [
+        "canal_2017",
+        "video_caminhos",
+        "video_site"
+      ]
+    },
+    {
+      "layout": "roteiro",
+      "titulo": "Três dias em Alter",
+      "texto": "Ajuste a ordem dos passeios ao nível do rio.",
+      "itens": [
+        [
+          "Vila e Ilha do Amor",
+          "Praça, orla e travessia."
+        ],
+        [
+          "Praias do Tapajós",
+          "Ponta de Pedras ou Cururu."
+        ],
+        [
+          "Floresta Encantada",
+          "Caranazal, conforme as águas."
+        ]
+      ],
+      "legenda": "Use a vila como base. No primeiro dia, conheça a praça e a orla e confira a travessia para a ilha. Reserve o segundo para Ponta de Pedras ou Cururu. No terceiro, consulte o passeio em Caranazal. Com águas altas, vale reorganizar os dias conforme as saídas disponíveis.",
+      "imagens": [
+        "quadro-alter-ilha-aerea",
+        "quadro-ponta-cururu",
+        "quadro-canoa-caranazal"
+      ],
+      "fontes": [
+        "guia_santarem",
+        "video-catraieiros-ilha-do-amor",
+        "prefeitura-caranazal",
+        "video-ponta-cururu",
+        "video-ponta-pedras"
+      ]
+    }
+  ],
+  "video": [
+    {
+      "layout": "abertura",
+      "titulo": "Alter do Chão",
+      "tela": "À beira do Tapajós",
+      "rotulo": "Santarém · Pará",
+      "fala": "Em Alter do Chão, comece pela praça da vila e siga até a orla. É dali que saem os passeios pelo Tapajós.",
+      "imagens": [
+        "quadro-vila-alter-aerea"
+      ],
+      "visual": "A foto aérea ocupa a tela e uma máscara revela o título junto da orla.",
+      "fontes": [
+        "guia_santarem",
+        "video_passeios"
+      ]
+    },
+    {
+      "layout": "aguas",
+      "titulo": "A ilha muda com o rio",
+      "tela": "Ilha do Amor",
+      "rotulos": [
+        "Águas altas",
+        "Águas mais baixas"
+      ],
+      "fala": "Na Ilha do Amor, a areia aparece e some conforme o nível do rio. Confira como está a praia antes de sair.",
+      "imagens": [
+        "quadro-ilha-do-amor-cheia",
+        "quadro-ilha-do-amor-0933"
+      ],
+      "visual": "Dois quadros da Ilha do Amor são revelados lado a lado, com o nível indicado junto de cada imagem.",
+      "fontes": [
+        "ilha_prefeitura",
+        "video_caminhos",
+        "video_passeios"
+      ]
+    },
+    {
+      "layout": "catraia",
+      "titulo": "De catraia\nà Ilha do Amor",
+      "tela": "Confirme embarque, volta e colete.",
+      "rotulo": "Travessia a remo",
+      "fala": "Os catraieiros ligam a vila à Ilha do Amor. Antes de embarcar, confirme o valor, a volta e a disponibilidade de coletes.",
+      "imagens": [
+        "quadro-catraia-travessia"
+      ],
+      "visual": "A foto da catraia abre da direita, com o barco visível ao lado de um painel assimétrico.",
+      "fontes": [
+        "video-catraieiros-ilha-do-amor",
+        "video_passeios"
+      ]
+    },
+    {
+      "layout": "paisagens",
+      "titulo": "Do pôr do sol ao igapó",
+      "tela": "Ponta do Cururu · Floresta Encantada",
+      "rotulos": [
+        "Ponta do Cururu",
+        "Igapó de Caranazal"
+      ],
+      "fala": "No Cururu, o fim da tarde é para ver o pôr do sol. Com águas altas, a canoa pode entrar no igapó de Caranazal.",
+      "imagens": [
+        "quadro-ponta-cururu",
+        "quadro-canoa-caranazal"
+      ],
+      "visual": "O horizonte do Cururu abre na horizontal. Um recorte da canoa entra em seguida, preservando a proa.",
+      "fontes": [
+        "video-ponta-cururu",
+        "video-caranazal-aguas",
+        "prefeitura-caranazal"
+      ]
+    },
+    {
+      "layout": "saire",
+      "titulo": "A Festa do Sairé",
+      "tela": "A busca dos mastros e o Festival dos Botos",
+      "rotulo": "Cultura de Alter do Chão",
+      "fala": "O Sairé muda o ritmo da vila. A festa reúne ritos como a busca dos mastros e apresentações do Festival dos Botos.",
+      "imagens": [
+        "quadro-sequencia-mastros",
+        "quadro-orla-saire"
+      ],
+      "visual": "A foto da busca dos mastros ocupa a maior área. A orla entra em uma segunda janela no painel.",
+      "fontes": [
+        "video_passeios",
+        "prefeitura-saire-mastros",
+        "prefeitura-saire-botos"
+      ]
+    },
+    {
+      "layout": "roteiro",
+      "titulo": "Três dias em Alter",
+      "tela": "Ajuste o roteiro ao nível do rio.",
+      "rotulos": [
+        "Vila e Ilha do Amor",
+        "Praias do Tapajós",
+        "Caranazal"
+      ],
+      "fala": "Comece pela vila e pela ilha. Reserve um dia para Ponta de Pedras ou Cururu e outro para Caranazal, conforme as condições do rio.",
+      "imagens": [
+        "quadro-alter-ilha-aerea",
+        "quadro-ponta-pedras",
+        "quadro-canoa-caranazal"
+      ],
+      "visual": "Três cartões entram em sequência com as fotos integradas às paradas de cada dia.",
+      "fontes": [
+        "guia_santarem",
+        "video-ponta-pedras",
+        "video-ponta-cururu",
+        "prefeitura-caranazal"
+      ]
+    },
+    {
+      "layout": "fecho",
+      "titulo": "Abra o guia de\nAlter do Chão",
+      "tela": "Roteiro, fotos e fontes do Turismo Aqui",
+      "fala": "Na Central Turismo Aqui, abra o guia de Alter do Chão para consultar o roteiro, ver as fotos e encontrar as fontes.",
+      "imagens": [
+        "quadro-alter-ilha-aerea"
+      ],
+      "visual": "A foto aérea da Ilha do Amor é o fundo do encerramento. O título e a marca entram juntos no painel claro.",
+      "fontes": [
+        "guia_santarem",
+        "ilha_prefeitura"
+      ]
+    }
+  ]
+}

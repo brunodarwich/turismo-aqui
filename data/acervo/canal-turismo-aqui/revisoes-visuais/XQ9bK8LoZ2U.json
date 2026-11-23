@@ -1,0 +1,197 @@
+{
+  "video_id": "XQ9bK8LoZ2U",
+  "motivo": "",
+  "quadros": [
+    {
+      "descricao": "Apresentador inicia o roteiro à beira do rio, com barcos atracados ao fundo.",
+      "local": "Orla de Santarém, rio Tapajós (PA)",
+      "confianca": "confirmado",
+      "contexto": "A abertura apresenta um roteiro a pé pela história de Santarém, usando a orla como eixo do percurso.",
+      "marcas": [
+        9,
+        16,
+        31
+      ],
+      "tempo_ms": 21167
+    },
+    {
+      "descricao": "Embarcação branca e azul atracada junto a uma rampa, com o rio aberto ao fundo.",
+      "local": "Orla de Santarém, rio Tapajós (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador aponta o Tapajós em frente à orla e o Amazonas do outro lado.",
+      "marcas": [
+        46,
+        54,
+        61
+      ],
+      "tempo_ms": 61300
+    },
+    {
+      "descricao": "Ruas contornam uma área arborizada com construções antigas na chegada à praça.",
+      "local": "Praça Rodrigues dos Santos, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "No primeiro ponto do roteiro, o apresentador explica a importância arqueológica da Praça Rodrigues dos Santos.",
+      "marcas": [
+        168,
+        175,
+        182,
+        189
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/pautas/santarem-364-anos/santarem-364-anos-prefeitura-promovera-guiamento-cultural-com-aula-publica-e-atracoes-culturais-jvs5yr"
+      ],
+      "tempo_ms": 182200
+    },
+    {
+      "descricao": "Percurso sombreado por árvores junto à faixa de piso exposto da praça.",
+      "local": "Praça Rodrigues dos Santos, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A visita relembra usos históricos do largo onde fica a praça.",
+      "marcas": [
+        207,
+        216,
+        225
+      ],
+      "tempo_ms": 222900
+    },
+    {
+      "descricao": "Catedral azul e branca vista de esquina, com uma das torres voltada para a rua.",
+      "local": "Catedral de Nossa Senhora da Conceição, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração apresenta a construção da igreja e destaca seu lugar entre as primeiras edificações importantes de Santarém.",
+      "marcas": [
+        448,
+        457,
+        466,
+        474
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/pautas/santarem-364-anos/santarem-364-anos-prefeitura-promovera-guiamento-cultural-com-aula-publica-e-atracoes-culturais-jvs5yr"
+      ],
+      "tempo_ms": 464167
+    },
+    {
+      "descricao": "Altar com crucifixo entre dois vitrais e uma mesa branca em primeiro plano.",
+      "local": "Catedral de Nossa Senhora da Conceição, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Dentro da catedral, o apresentador conta a história associada ao crucifixo de madeira.",
+      "marcas": [
+        531,
+        540,
+        549
+      ],
+      "tempo_ms": 544767
+    },
+    {
+      "descricao": "Rua comercial com lojas fechadas, incluindo uma fachada com revestimento geométrico.",
+      "local": "Centro histórico de Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "No caminho pela área comercial, a narração comenta as mudanças de uso dos antigos imóveis do centro.",
+      "marcas": [
+        652,
+        661,
+        669
+      ],
+      "tempo_ms": 665933
+    },
+    {
+      "descricao": "Escultura azul em primeiro plano e árvores sobre a área pavimentada da praça.",
+      "local": "Praça do Pescador, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador identifica a praça, destaca a proximidade do rio e aponta o terminal fluvial e os prédios antigos próximos.",
+      "marcas": [
+        775,
+        783,
+        791
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/pautas/santarem-364-anos/santarem-364-anos-prefeitura-promovera-guiamento-cultural-com-aula-publica-e-atracoes-culturais-jvs5yr"
+      ],
+      "tempo_ms": 786633
+    },
+    {
+      "descricao": "Fachada do Solar do Barão, com portas verdes, vãos em arco e balcões de ferro.",
+      "local": "Solar do Barão de Santarém, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O roteiro apresenta a edificação e conta a história do empresário que a mandou construir.",
+      "marcas": [
+        900,
+        909,
+        917
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/pautas/santarem-364-anos/santarem-364-anos-prefeitura-promovera-guiamento-cultural-com-aula-publica-e-atracoes-culturais-jvs5yr"
+      ],
+      "tempo_ms": 908200
+    },
+    {
+      "descricao": "Pedestres e vendedores ambulantes dividem o passeio movimentado na orla.",
+      "local": "Orla de Santarém, rio Tapajós (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador descreve a movimentação de fim de tarde antes de iniciar a subida ao mirante.",
+      "marcas": [
+        1014,
+        1021,
+        1029
+      ],
+      "tempo_ms": 1029133
+    },
+    {
+      "descricao": "Escadaria pintada de azul com corrimãos paralelos e a palavra Educação nos degraus.",
+      "local": "Escadaria José Miguel Lisboa de Mendonça, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador sobe a escadaria de acesso à Praça do Mirante e comenta seu uso em atividades físicas.",
+      "marcas": [
+        1036,
+        1059,
+        1066
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/urbanismo-e-servicos-publicos/escadaria-da-praca-do-mirante-ganha-novo-visual-mnbcy7"
+      ],
+      "tempo_ms": 1069000
+    },
+    {
+      "descricao": "Passeio no alto do morro, com bancos, árvores e guarda-corpo junto ao declive.",
+      "local": "Praça Fortaleza do Tapajós, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "No alto, a visita explica o uso histórico do local como fortificação.",
+      "marcas": [
+        1178,
+        1187,
+        1196
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/cultura/entrega-da-revitalizacao-da-praca-da-fortaleza-e-marcada-por-programacao-cultural-na-orla-de-santarem-vwhvcp"
+      ],
+      "tempo_ms": 1189900
+    },
+    {
+      "descricao": "Calçadão úmido com guarda-corpo à beira do Tapajós, sob céu nublado.",
+      "local": "Orla de Santarém, rio Tapajós (PA)",
+      "confianca": "confirmado",
+      "contexto": "No dia seguinte, o apresentador volta à orla e explica como ela conecta os pontos do roteiro a pé.",
+      "marcas": [
+        1257,
+        1267,
+        1277
+      ],
+      "tempo_ms": 1270933
+    },
+    {
+      "descricao": "Fachada amarela do Centro Cultural João Fona, com colunas e o acesso frontal.",
+      "local": "Centro Cultural João Fona, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração identifica o prédio e menciona antigos usos administrativos e judiciais.",
+      "marcas": [
+        1300,
+        1308,
+        1314
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/cultura/centro-cultural-joao-fona-celebra-35-anos-como-espaco-vivo-da-memoria-de-santarem-putvsm"
+      ],
+      "tempo_ms": 1310633
+    }
+  ]
+}

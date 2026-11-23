@@ -1,0 +1,282 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#F8F9F4">
+  <meta name="description" content="Ativos da marca, paleta, componentes e interações do Turismo Aqui.">
+  <title>Design system | Turismo Aqui</title>
+  <link rel="icon" href="assets/turismo-aqui.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="tokens.css">
+  <link rel="stylesheet" href="components.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="demo.js" defer></script>
+</head>
+<body class="ta">
+  <svg class="icon-library" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="icon-download" viewBox="0 0 24 24"><path d="M12 3v12m-5-5 5 5 5-5M4 17v4h16v-4"/></symbol>
+    <symbol id="icon-arrow" viewBox="0 0 24 24"><path d="M4 12h15m-6-6 6 6-6 6"/></symbol>
+    <symbol id="icon-left" viewBox="0 0 24 24"><path d="m15 6-6 6 6 6"/></symbol>
+    <symbol id="icon-right" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></symbol>
+    <symbol id="icon-search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="5.5"/><path d="m15 15 4.5 4.5"/></symbol>
+    <symbol id="icon-pin" viewBox="0 0 24 24"><path d="M19 10c0 5-7 11-7 11s-7-6-7-11a7 7 0 0 1 14 0Z"/><circle cx="12" cy="10" r="2.5"/></symbol>
+    <symbol id="icon-heart" viewBox="0 0 24 24"><path d="M20 12c-1.7 2.4-8 7-8 7s-6.3-4.6-8-7C.7 7.3 6.5 2.6 10 6l2 2 2-2c3.5-3.4 9.3 1.3 6 6Z"/></symbol>
+    <symbol id="icon-play" viewBox="0 0 24 24"><path d="m9 5 11 7-11 7Z"/></symbol>
+    <symbol id="icon-close" viewBox="0 0 24 24"><path d="m6 6 12 12M18 6 6 18"/></symbol>
+    <symbol id="icon-check" viewBox="0 0 24 24"><path d="m4 12 5 5L20 6"/></symbol>
+    <symbol id="icon-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 11v5m0-8v.2"/></symbol>
+  </svg>
+
+  <a class="skip-link" href="#conteudo">Ir para o conteúdo</a>
+  <header class="topbar" id="topo">
+    <div class="wrap topbar-inner">
+      <a class="wordmark" href="#topo">
+        <img src="assets/turismo-aqui.svg" alt="" width="32" height="35">
+        <span>Turismo Aqui</span>
+      </a>
+      <nav aria-label="Seções do guia">
+        <a href="#marca">Marca</a>
+        <a href="#paleta">Paleta</a>
+        <a href="#componentes">Componentes</a>
+        <a href="#movimento">Movimento</a>
+      </nav>
+      <a class="ta-button ta-button--secondary topbar-action" href="tokens.css" download>
+        <svg class="ta-icon" aria-hidden="true"><use href="#icon-download"/></svg> <span data-local-label="Ver tokens CSS">Tokens CSS</span>
+      </a>
+    </div>
+  </header>
+
+  <main id="conteudo">
+    <section class="wrap hero" id="marca" aria-labelledby="titulo">
+      <div class="hero-copy">
+        <p class="eyebrow">Identidade visual</p>
+        <h1 id="titulo">Turismo <em>Aqui.</em></h1>
+        <p class="hero-description">Guia de identidade e componentes para o site e o app. Consulte a paleta da marca e experimente os controles, as animações e a navegação por deslize.</p>
+        <div class="actions">
+          <a class="ta-button ta-button--primary" href="assets/turismo-aqui.png" download>
+            <svg class="ta-icon" aria-hidden="true"><use href="#icon-download"/></svg> <span data-local-label="Abrir PNG">Baixar PNG</span>
+          </a>
+          <a class="ta-button ta-button--secondary" href="assets/turismo-aqui.svg" download>
+            <svg class="ta-icon" aria-hidden="true"><use href="#icon-download"/></svg> <span data-local-label="Abrir SVG">Baixar SVG</span>
+          </a>
+        </div>
+        <p class="hero-note">PNG transparente · SVG com contornos editáveis</p>
+      </div>
+      <figure class="logo-figure">
+        <div class="logo-board">
+          <span class="logo-corner logo-corner--start" aria-hidden="true"></span>
+          <span class="logo-corner logo-corner--end" aria-hidden="true"></span>
+          <img src="assets/turismo-aqui.svg" alt="Marca Turismo Aqui, com câmera, marcador e a assinatura manuscrita Aqui" width="545" height="589">
+        </div>
+        <figcaption>Vetorização a partir do <a href="../data/acervo/avatar-canal-referencia.jpg">avatar oficial do canal</a>.</figcaption>
+      </figure>
+    </section>
+
+    <section class="section section--line" id="paleta" aria-labelledby="titulo-paleta">
+      <div class="wrap">
+        <div class="section-heading">
+          <div><p class="eyebrow">Cores</p><h2 id="titulo-paleta">A paleta da marca</h2></div>
+          <p>O azul-petróleo conduz a navegação. O verde-amarelado destaca ações e seleções, acompanhado de texto escuro.</p>
+        </div>
+        <div class="swatches swatches--brand">
+          <div class="swatch swatch--teal">
+            <span>Azul-petróleo</span><code>#217484</code>
+            <small>Marca e ação principal</small>
+          </div>
+          <div class="swatch swatch--lime">
+            <span>Verde-amarelado</span><code>#ABB737</code>
+            <small>Marca e destaque</small>
+          </div>
+        </div>
+        <div class="swatches swatches--neutral" aria-label="Cores de apoio">
+          <div class="swatch swatch--ink"><span>Texto</span><code>#182F31</code></div>
+          <div class="swatch swatch--muted"><span>Texto secundário</span><code>#4C6262</code></div>
+          <div class="swatch swatch--tint"><span>Superfície de apoio</span><code>#EAF2EF</code></div>
+          <div class="swatch swatch--canvas"><span>Fundo</span><code>#F8F9F4</code></div>
+          <div class="swatch swatch--white"><span>Superfície</span><code>#FFFFFF</code></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section foundations" id="fundamentos" aria-labelledby="titulo-fundamentos">
+      <div class="wrap">
+        <div class="section-heading">
+          <div><p class="eyebrow">Fundamentos</p><h2 id="titulo-fundamentos">Tipografia e escala</h2></div>
+          <p>Georgia para títulos editoriais. A fonte do sistema mantém os controles e textos de apoio legíveis em cada dispositivo.</p>
+        </div>
+        <div class="foundation-grid">
+          <div class="surface type-specimen">
+            <p class="type-sample type-sample--display">Caminhos de Alter</p>
+            <div class="type-label"><span>Título editorial</span><code>Georgia · 600</code></div>
+            <p class="type-sample">Descubra os caminhos do Tapajós.</p>
+            <div class="type-label"><span>Texto e interface</span><code>System UI · 400/700</code></div>
+          </div>
+          <div class="surface space-specimen">
+            <h3>Espaçamento</h3>
+            <p>Base de 4 px, com exemplos dos intervalos mais usados.</p>
+            <ul class="space-scale">
+              <li><span style="--sample:var(--ta-space-1)"></span><code>4</code></li>
+              <li><span style="--sample:var(--ta-space-2)"></span><code>8</code></li>
+              <li><span style="--sample:var(--ta-space-3)"></span><code>12</code></li>
+              <li><span style="--sample:var(--ta-space-4)"></span><code>16</code></li>
+              <li><span style="--sample:var(--ta-space-6)"></span><code>24</code></li>
+              <li><span style="--sample:var(--ta-space-8)"></span><code>32</code></li>
+              <li><span style="--sample:var(--ta-space-12)"></span><code>48</code></li>
+            </ul>
+            <p class="small">Cantos de 12 px nos controles e de 20 px nos cartões.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section--line" id="componentes" aria-labelledby="titulo-componentes">
+      <div class="wrap">
+        <div class="section-heading">
+          <div><p class="eyebrow">Interface</p><h2 id="titulo-componentes">Componentes</h2></div>
+          <p>Controles, mensagens e cartões para procurar destinos, ajustar filtros e salvar lugares.</p>
+        </div>
+        <div class="component-grid">
+          <div class="surface">
+            <h3>Botões</h3>
+            <p class="sample-description">Teste o botão principal para abrir os detalhes de Alter do Chão.</p>
+            <div class="actions">
+              <button class="ta-button ta-button--primary" type="button" data-open-destination>Ver destino <svg class="ta-icon" aria-hidden="true"><use href="#icon-arrow"/></svg></button>
+              <a class="ta-button ta-button--secondary" href="#deslize">Ver carrossel</a>
+              <button class="ta-button ta-button--accent" type="button" data-favorite aria-pressed="false" data-name="Alter do Chão">
+                <svg class="ta-icon" aria-hidden="true"><use href="#icon-heart"/></svg> <span>Salvar</span>
+              </button>
+              <button class="ta-button ta-button--primary" type="button" disabled>Indisponível</button>
+            </div>
+          </div>
+          <div class="surface">
+            <h3>Busca e filtros</h3>
+            <form id="filter-demo" class="filter-demo" role="search" aria-label="Busca de exemplo no catálogo" novalidate>
+              <label for="destination-search">Buscar lugar</label>
+              <div class="search-row">
+                <div class="ta-field">
+                  <svg class="ta-icon" aria-hidden="true"><use href="#icon-search"/></svg>
+                  <input type="search" id="destination-search" placeholder="Ex. Ilha do Amor" aria-describedby="search-hint">
+                </div>
+                <button class="ta-button ta-button--primary" type="submit">Buscar</button>
+              </div>
+              <div id="search-hint" class="small">Para pesquisar, digite ao menos 2 caracteres.</div>
+              <div id="search-error" class="field-error small" hidden>Digite ao menos 2 caracteres para pesquisar.</div>
+              <div class="actions filter-chips" role="group" aria-label="Filtrar lugares por tipo">
+                <button class="ta-chip" type="button" data-filter="todos" aria-pressed="true">Todos</button>
+                <button class="ta-chip" type="button" data-filter="praia" aria-pressed="false">Praias</button>
+                <button class="ta-chip" type="button" data-filter="passeio" aria-pressed="false">Passeios</button>
+              </div>
+              <p id="search-result" class="filter-result small" role="status">3 lugares · Alter do Chão, Ilha do Amor, Rio Tapajós</p>
+            </form>
+          </div>
+          <div class="surface feedback">
+            <h3>Mensagens de status</h3>
+            <div class="feedback-grid">
+              <div class="ta-notice ta-notice--success"><svg class="ta-icon" aria-hidden="true"><use href="#icon-check"/></svg><span><strong>Sucesso</strong> Roteiro salvo.</span></div>
+              <div class="ta-notice ta-notice--info"><svg class="ta-icon" aria-hidden="true"><use href="#icon-info"/></svg><span><strong>Informação</strong> Confira os pontos de embarque.</span></div>
+              <div class="ta-notice ta-notice--warning"><svg class="ta-icon" aria-hidden="true"><use href="#icon-info"/></svg><span><strong>Atenção</strong> Confirme o acesso antes da visita.</span></div>
+              <div class="ta-notice ta-notice--error"><svg class="ta-icon" aria-hidden="true"><use href="#icon-close"/></svg><span><strong>Erro</strong> Não foi possível carregar. Tente novamente.</span></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section motion-section" id="movimento" aria-labelledby="titulo-movimento">
+      <div class="wrap">
+        <div class="section-heading">
+          <div><p class="eyebrow">Motion e gestos</p><h2 id="titulo-movimento">Movimento com propósito</h2></div>
+          <p>Use transições curtas para confirmar ações, orientar a entrada de conteúdo e indicar o avanço entre destinos.</p>
+        </div>
+        <div class="motion-grid">
+          <div class="surface motion-specimen">
+            <div class="motion-canvas" aria-hidden="true">
+              <div class="motion-card">
+                <svg class="ta-icon"><use href="#icon-pin"/></svg>
+                <span><b>Alter do Chão</b><small>Santarém, Pará</small></span>
+              </div>
+            </div>
+            <div class="motion-controls">
+              <button class="ta-button ta-button--secondary" type="button" id="play-motion">
+                <svg class="ta-icon" aria-hidden="true"><use href="#icon-play"/></svg> Repetir entrada
+              </button>
+              <span class="small" id="motion-result" role="status">Entrada: 280 ms</span>
+            </div>
+          </div>
+          <div class="surface motion-rules">
+            <dl>
+              <div><dt>Resposta de controle</dt><dd>140 ms</dd></div>
+              <div><dt>Entrada de painel</dt><dd>280 ms</dd></div>
+              <div><dt>Transição de cena</dt><dd>380 ms</dd></div>
+            </dl>
+            <p class="small">Com movimento reduzido ativado no dispositivo, o conteúdo aparece diretamente no estado final.</p>
+          </div>
+        </div>
+
+        <section class="gallery" id="deslize" aria-labelledby="titulo-deslize">
+          <div class="gallery-heading">
+            <div><h3 id="titulo-deslize">Carrossel de destinos</h3><p id="gallery-instructions">Deslize na tela ou use as setas. No teclado, foque a faixa e use ←, →, Home ou End.</p></div>
+            <div class="actions gallery-controls">
+              <button class="ta-button ta-button--secondary ta-button--icon" type="button" id="prev-card" aria-label="Destino anterior" aria-controls="destination-track" disabled><svg class="ta-icon" aria-hidden="true"><use href="#icon-left"/></svg></button>
+              <button class="ta-button ta-button--secondary ta-button--icon" type="button" id="next-card" aria-label="Próximo destino" aria-controls="destination-track"><svg class="ta-icon" aria-hidden="true"><use href="#icon-right"/></svg></button>
+            </div>
+          </div>
+          <div class="ta-track" id="destination-track" role="region" tabindex="0" aria-labelledby="titulo-deslize" aria-describedby="gallery-instructions">
+            <article class="ta-card" aria-labelledby="card-alter">
+              <img src="../data/acervo/alter-do-chao-rosanetur.jpg" alt="Margem do rio com embarcações em Alter do Chão" width="650" height="330" draggable="false" loading="lazy">
+              <div class="ta-card-body"><div><p class="ta-card-kicker">Santarém · Pará</p><h4 id="card-alter">Alter do Chão</h4></div>
+                <button class="ta-button ta-button--secondary ta-button--icon" type="button" aria-label="Salvar Alter do Chão" aria-pressed="false" data-favorite data-name="Alter do Chão"><svg class="ta-icon" aria-hidden="true"><use href="#icon-heart"/></svg></button>
+              </div>
+            </article>
+            <article class="ta-card" aria-labelledby="card-ilha">
+              <img src="../data/acervo/ilha-do-amor-i3hok4syuZw-0933.png" alt="Vista aérea da Ilha do Amor e de suas margens" width="650" height="330" draggable="false" loading="lazy">
+              <div class="ta-card-body"><div><p class="ta-card-kicker">Praia de rio</p><h4 id="card-ilha">Ilha do Amor</h4></div>
+                <button class="ta-button ta-button--secondary ta-button--icon" type="button" aria-label="Salvar Ilha do Amor" aria-pressed="false" data-favorite data-name="Ilha do Amor"><svg class="ta-icon" aria-hidden="true"><use href="#icon-heart"/></svg></button>
+              </div>
+            </article>
+            <article class="ta-card" aria-labelledby="card-tapajos">
+              <img src="../producao/ilustracao.png" alt="Ilustração conceitual de canoa e margem de rio no Tapajós" width="650" height="330" draggable="false" loading="lazy">
+              <div class="ta-card-body"><div><p class="ta-card-kicker">Passeio</p><h4 id="card-tapajos">Rio Tapajós</h4></div>
+                <button class="ta-button ta-button--secondary ta-button--icon" type="button" aria-label="Salvar Rio Tapajós" aria-pressed="false" data-favorite data-name="Rio Tapajós"><svg class="ta-icon" aria-hidden="true"><use href="#icon-heart"/></svg></button>
+              </div>
+            </article>
+          </div>
+          <div class="gallery-footer">
+            <div class="gallery-dots" role="group" aria-label="Escolher destino">
+              <button class="ta-dot" type="button" data-slide="0" aria-label="Ir para Alter do Chão" aria-controls="destination-track" aria-current="true"></button>
+              <button class="ta-dot" type="button" data-slide="1" aria-label="Ir para Ilha do Amor" aria-controls="destination-track"></button>
+              <button class="ta-dot" type="button" data-slide="2" aria-label="Ir para Rio Tapajós" aria-controls="destination-track"></button>
+            </div>
+            <p id="gallery-status" class="small" role="status" aria-atomic="true">1 de 3 · Alter do Chão</p>
+          </div>
+        </section>
+      </div>
+    </section>
+
+    <section class="section download-section" aria-labelledby="titulo-arquivos">
+      <div class="wrap download-panel">
+        <div><h2 id="titulo-arquivos">Arquivos para aplicar</h2><p>Use os tokens e os estilos de componentes no seu fluxo de trabalho.</p></div>
+        <div class="actions">
+          <a class="ta-button ta-button--accent" href="tokens.json" download><svg class="ta-icon" aria-hidden="true"><use href="#icon-download"/></svg> <span data-local-label="Ver tokens JSON">Tokens JSON</span></a>
+          <a class="ta-button ta-button--inverse" href="components.css" download><svg class="ta-icon" aria-hidden="true"><use href="#icon-download"/></svg> <span data-local-label="Ver CSS de componentes">Componentes CSS</span></a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="wrap footer">
+    <span>Turismo Aqui · Guia de design</span>
+    <div><a href="../">Central do projeto</a><a href="../app/index.html">App do projeto</a><a href="../site/index.html">Site do projeto</a><a href="README.md">Uso e créditos</a></div>
+  </footer>
+
+  <dialog class="ta-dialog" id="destination-dialog" aria-labelledby="dialog-title">
+    <div class="dialog-heading">
+      <span class="ta-badge"><svg class="ta-icon" aria-hidden="true"><use href="#icon-pin"/></svg> Santarém · Pará</span>
+      <form method="dialog"><button class="ta-button ta-button--secondary ta-button--icon" type="submit" aria-label="Fechar" autofocus><svg class="ta-icon" aria-hidden="true"><use href="#icon-close"/></svg></button></form>
+    </div>
+    <h2 id="dialog-title">Alter do Chão</h2>
+    <p>Conheça os lugares, vídeos e dicas do guia de Alter do Chão.</p>
+    <a href="../app/index.html" class="ta-button ta-button--primary">Abrir o guia <svg class="ta-icon" aria-hidden="true"><use href="#icon-arrow"/></svg></a>
+  </dialog>
+</body>
+</html>

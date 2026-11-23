@@ -1,0 +1,214 @@
+{
+  "video_id": "maoKJrFO-Wo",
+  "motivo": "",
+  "quadros": [
+    {
+      "tempo_ms": 8025,
+      "descricao": "Lancha de motor de popa amarrada a um píer de madeira, com outras embarcações e prédios ao fundo.",
+      "contexto": "O vídeo anuncia o roteiro que sai de Santarém e vai até o Jardim Vitória Régia no Canal do Jari.",
+      "marcas": [
+        0,
+        7,
+        16
+      ],
+      "local": "Orla de Santarém (PA)",
+      "confianca": "provável",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 38288,
+      "descricao": "Passageiros de colete salva-vidas ocupam os bancos de uma embarcação durante o deslocamento.",
+      "contexto": "O apresentador descreve a travessia de lancha pelo Tapajós antes da entrada no Canal do Jari.",
+      "marcas": [
+        32,
+        40
+      ],
+      "local": "Travessia do rio Tapajós, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 52920,
+      "descricao": "Casas de madeira erguidas sobre estacas aparecem perto da água, entre árvores de margem.",
+      "contexto": "Ao entrar no Canal do Jari, o apresentador comenta como as casas ribeirinhas se adaptam à variação do nível da água.",
+      "marcas": [
+        40,
+        49,
+        56
+      ],
+      "local": "Canal do Jari, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 67951,
+      "descricao": "Folhas arredondadas de vitórias-régias se espalham pela água em frente a uma cerca extensa. Um letreiro identifica o jardim.",
+      "contexto": "A chegada revela o cultivo de vitórias-régias mantido por Dulce Oliveira.",
+      "marcas": [
+        56,
+        66
+      ],
+      "local": "Jardim Vitória Régia, Alto Jari, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/turismo/trilha-das-preguicas-e-jardim-de-vitorias-regias-fortalecem-o-canal-do-jari-como-atrativo-de-turismo-de-base-comunitaria-mjanup"
+      ]
+    },
+    {
+      "tempo_ms": 97014,
+      "descricao": "Lanchas com coberturas branca e verde estão atracadas em frente a casas de madeira entre árvores.",
+      "contexto": "O apresentador explica que embarcações turísticas chegam de Alter do Chão e identifica a associação de transporte fluvial.",
+      "marcas": [
+        83,
+        92,
+        99
+      ],
+      "local": "Jardim Vitória Régia, Alto Jari, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 142092,
+      "descricao": "Placa verde de informações ao visitante ao lado de uma casa de madeira da mesma cor e de uma área alagada.",
+      "contexto": "Na chegada, o apresentador lê as informações de visita do Jardim Vitória Régia exibidas no dia da gravação.",
+      "marcas": [
+        138,
+        148
+      ],
+      "local": "Jardim Vitória Régia, Alto Jari, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 171755,
+      "descricao": "Passarela estreita de tábuas atravessa a água e leva até a casa verde, ao lado de árvores e vasos.",
+      "contexto": "O grupo desembarca e espera o momento da visita enquanto outras lanchas chegam ou partem.",
+      "marcas": [
+        164,
+        172,
+        182
+      ],
+      "local": "Jardim Vitória Régia, Alto Jari, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 186186,
+      "descricao": "Visitantes aguardam em uma varanda de madeira, com cadeiras, plantas e recipientes grandes junto à entrada.",
+      "contexto": "O apresentador aponta os grupos que vieram conhecer o trabalho de Dulce Oliveira.",
+      "marcas": [
+        182,
+        191
+      ],
+      "local": "Jardim Vitória Régia, Alto Jari, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 260544,
+      "descricao": "Rede verde pendurada sob uma varanda de madeira voltada para o rio, com a margem baixa ao fundo.",
+      "contexto": "O apresentador mostra a rede de descanso e segue para o passeio pelo lago do jardim.",
+      "marcas": [
+        254,
+        262,
+        270
+      ],
+      "local": "Jardim Vitória Régia, Alto Jari, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 305238,
+      "descricao": "Plano próximo das bordas altas de folhas circulares de vitórias-régias, com muitas folhas sobre a água ao fundo.",
+      "contexto": "O grupo observa o cultivo de perto durante o deslocamento pelo lago do jardim.",
+      "marcas": [
+        296,
+        303,
+        310
+      ],
+      "local": "Jardim Vitória Régia, Alto Jari, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 349733,
+      "descricao": "Mesa e cadeiras postas à sombra de árvores, com os visitantes se reunindo diante do rio.",
+      "contexto": "O apresentador anuncia o almoço no quintal e associa a visita à culinária ribeirinha do local.",
+      "marcas": [
+        339,
+        348,
+        357
+      ],
+      "local": "Jardim Vitória Régia, Alto Jari, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 393627,
+      "descricao": "Peixe assado inteiro em uma travessa metálica, ao lado de arroz e limão na mesa.",
+      "contexto": "O grupo registra o almoço antes de servir e o apresentador identifica o peixe como tambaqui assado.",
+      "marcas": [
+        366,
+        391,
+        399,
+        407
+      ],
+      "local": "Jardim Vitória Régia, Alto Jari, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 423873,
+      "descricao": "Pessoa serve uma travessa de galinha caipira à mesa, perto de pratos, limão e acompanhamentos.",
+      "contexto": "O apresentador mostra a galinha caipira e menciona a farinha de mandioca servida junto à refeição.",
+      "marcas": [
+        417,
+        425,
+        435
+      ],
+      "local": "Jardim Vitória Régia, Alto Jari, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 452936,
+      "descricao": "Dulce Oliveira, de óculos, fala à câmera em uma varanda com rede de descanso e água ao fundo.",
+      "contexto": "Ao ser perguntada sobre a recepção aos visitantes, Dulce descreve a observação de aves e algumas degustações.",
+      "marcas": [
+        443,
+        451,
+        460
+      ],
+      "local": "Jardim Vitória Régia, Alto Jari, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/turismo/trilha-das-preguicas-e-jardim-de-vitorias-regias-fortalecem-o-canal-do-jari-como-atrativo-de-turismo-de-base-comunitaria-mjanup"
+      ]
+    },
+    {
+      "tempo_ms": 468368,
+      "descricao": "Grupo de aves nada perto da margem arborizada. As ondulações se concentram ao redor do bando.",
+      "contexto": "A montagem mostra as aves que Dulce cita ao explicar o contato com a natureza durante a visita.",
+      "marcas": [
+        451,
+        468,
+        477
+      ],
+      "local": "Jardim Vitória Régia, Alto Jari, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 512262,
+      "descricao": "Proa metálica da lancha aponta para um canal calmo entre margens de vegetação baixa e árvores.",
+      "contexto": "O grupo volta de lancha e o apresentador descreve a paisagem de várzea no oeste do Pará.",
+      "marcas": [
+        507,
+        518
+      ],
+      "local": "Várzea de Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    }
+  ]
+}

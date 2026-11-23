@@ -1,0 +1,199 @@
+{
+  "video_id": "8n9bvG-b3ag",
+  "motivo": "",
+  "quadros": [
+    {
+      "tempo_ms": 79560,
+      "descricao": "Pequenas embarcações junto à margem, com um píer de madeira avançando sobre o Tapajós.",
+      "local": "Orla de Itaituba, rio Tapajós (PA)",
+      "confianca": "confirmado",
+      "contexto": "O grupo para na cidade antes de seguir ao parque e registra o rio em período de vazante.",
+      "marcas": [
+        53,
+        61,
+        69
+      ]
+    },
+    {
+      "tempo_ms": 183360,
+      "descricao": "Vitrine de madeira e vidro com ossos expostos e painéis informativos ao fundo.",
+      "local": "Museu Municipal Aracy Paraguassú, Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "A visita apresenta o acervo e introduz os vestígios arqueológicos conservados no museu.",
+      "marcas": [
+        170,
+        178,
+        184
+      ],
+      "fontes": [
+        "https://cadastro.museus.gov.br/museus/museu-municipal-aracy-paraguassu/"
+      ]
+    },
+    {
+      "tempo_ms": 235760,
+      "descricao": "Sala com vitrines, objetos de cerâmica e artefatos expostos em painéis de parede.",
+      "local": "Museu Municipal Aracy Paraguassú, Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração destaca a tradição indígena da região ao apresentar os objetos do acervo.",
+      "marcas": [
+        226,
+        234,
+        243
+      ],
+      "fontes": [
+        "https://cadastro.museus.gov.br/museus/museu-municipal-aracy-paraguassu/"
+      ]
+    },
+    {
+      "tempo_ms": 392200,
+      "descricao": "Fachada amarela do Paço Municipal Altamiro Raimundo da Silva, com arcos, escadaria e palmeiras.",
+      "local": "Paço Municipal Altamiro Raimundo da Silva, Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "O vídeo destaca o valor histórico e afetivo do prédio para a cidade.",
+      "marcas": [
+        382,
+        391
+      ],
+      "fontes": [
+        "https://www.itaituba.pa.gov.br/noticia/423/turma-de-alunos-munduruku-da-faculdade-do-tapajos-visitam-paco-municipal-altamiro-raimundo-da-silva/"
+      ]
+    },
+    {
+      "tempo_ms": 497000,
+      "descricao": "Artesão fala diante de uma bancada e mostra a área de trabalho da oficina.",
+      "local": "Centro de Artesanato Munduruku, Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "O artesão descreve sua atuação em cerâmica, com peças utilitárias, decorativas e referências arqueológicas.",
+      "marcas": [
+        493,
+        501,
+        507
+      ]
+    },
+    {
+      "tempo_ms": 705680,
+      "descricao": "Escultura de peixe com escamas pintadas e vasos decorados com aves.",
+      "local": "Centro de Artesanato Munduruku, Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "A visita apresenta um pirarucu representado no artesanato e outras peças de barro.",
+      "marcas": [
+        692,
+        701,
+        711
+      ]
+    },
+    {
+      "tempo_ms": 810080,
+      "descricao": "Restaurante aberto com estrutura de madeira, cobertura de palha e luminárias suspensas.",
+      "local": "Orla de Itaituba, rio Tapajós (PA)",
+      "confianca": "confirmado",
+      "contexto": "A equipe comenta a parada para comer num restaurante com vista para o Tapajós.",
+      "marcas": [
+        800,
+        809,
+        816
+      ]
+    },
+    {
+      "tempo_ms": 914960,
+      "descricao": "Construção de telhas vermelhas na chegada à pousada, com o rio visível entre as árvores.",
+      "local": "Pousada Portal do Parque Nacional da Amazônia, Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador identifica a pousada usada na visita ao Parque Nacional da Amazônia.",
+      "marcas": [
+        905,
+        915,
+        922
+      ]
+    },
+    {
+      "tempo_ms": 966520,
+      "descricao": "Vista elevada de uma faixa de areia e rochas junto às águas verdes do Tapajós.",
+      "local": "Rio Tapajós, região do Parque Nacional da Amazônia, Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "A equipe se prepara para sair e explorar o rio a partir da hospedagem.",
+      "marcas": [
+        955,
+        961,
+        969
+      ],
+      "fontes": [
+        "https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/unidade-de-conservacao/unidades-de-biomas/amazonia/lista-de-ucs/parna-da-amazonia/informacoes-sobre-visitacao-parna-da-amazonia"
+      ]
+    },
+    {
+      "tempo_ms": 1070920,
+      "descricao": "Embarcação com visitantes encosta numa margem rochosa entre água verde e mata.",
+      "local": "Rio Tapajós, região do Parque Nacional da Amazônia, Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador anuncia uma parada guiada no percurso pelo Tapajós.",
+      "marcas": [
+        1062,
+        1068,
+        1081
+      ]
+    },
+    {
+      "tempo_ms": 1331960,
+      "descricao": "Visitantes atravessam plataformas naturais de pedra e poças entre as rochas do Tapajós.",
+      "local": "Rio Tapajós, região do Parque Nacional da Amazônia, Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador comenta que o percurso muda com as condições encontradas em cada visita.",
+      "marcas": [
+        1316,
+        1323,
+        1331
+      ]
+    },
+    {
+      "tempo_ms": 1436400,
+      "descricao": "Corredeira passa por rochas expostas, iluminadas pelo sol baixo.",
+      "local": "Rio Tapajós, região do Parque Nacional da Amazônia, Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração descreve o trecho de caminhada feito após o deslocamento de lancha na unidade de conservação.",
+      "marcas": [
+        1422,
+        1428,
+        1436
+      ],
+      "fontes": [
+        "https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/unidade-de-conservacao/unidades-de-biomas/amazonia/lista-de-ucs/parna-da-amazonia/informacoes-sobre-visitacao-parna-da-amazonia"
+      ]
+    },
+    {
+      "tempo_ms": 1540800,
+      "descricao": "Paredão de rocha em camadas visto da embarcação, junto às águas verdes e à mata do Tapajós.",
+      "local": "Rio Tapajós, região do Parque Nacional da Amazônia, Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "A navegação passa por formações rochosas antes de uma parada próxima ao pedral.",
+      "marcas": [
+        1542,
+        1550
+      ]
+    },
+    {
+      "tempo_ms": 1645440,
+      "descricao": "Moradora conversa com a equipe diante de uma casa, no quintal arborizado.",
+      "local": "Região do Parque Nacional da Amazônia, Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "Na visita a dona Ana, ela descreve a trilha curta e os passeios nas cavernas da região.",
+      "marcas": [
+        1634,
+        1642,
+        1650
+      ]
+    },
+    {
+      "tempo_ms": 1749640,
+      "descricao": "Moradora apresenta árvores frutíferas e outras plantas em um quintal.",
+      "local": "Região do Parque Nacional da Amazônia, Itaituba (PA)",
+      "confianca": "confirmado",
+      "contexto": "A visita ao quintal comenta frutíferas, o cuidado diário com as plantas e o galinheiro da propriedade.",
+      "marcas": [
+        1736,
+        1745,
+        1754
+      ]
+    }
+  ]
+}

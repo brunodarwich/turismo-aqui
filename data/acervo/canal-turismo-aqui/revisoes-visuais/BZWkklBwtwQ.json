@@ -1,0 +1,242 @@
+{
+  "video_id": "BZWkklBwtwQ",
+  "motivo": "",
+  "quadros": [
+    {
+      "descricao": "Vista ao nível da rua em Marabá, com ônibus à esquerda e à direita, carros estacionados e céu claro.",
+      "local": "Marabá, PA",
+      "confianca": "confirmado",
+      "contexto": "A equipe se prepara para seguir por estrada até Parauapebas. O apresentador situa o começo da viagem em Marabá, por volta das oito da manhã.",
+      "marcas": [
+        6,
+        14,
+        22,
+        31
+      ],
+      "fontes": [],
+      "tempo_ms": 31880
+    },
+    {
+      "descricao": "Trânsito lento visto pelo para-brisa, com motociclistas entre os carros, fachadas comerciais à direita e área verde à esquerda.",
+      "local": "Nova Marabá, Marabá, PA",
+      "confianca": "confirmado",
+      "contexto": "A equipe mostra a saída pelo núcleo urbano em horário de movimento. O apresentador identifica Nova Marabá mais adiante nessa sequência.",
+      "marcas": [
+        77,
+        84,
+        91,
+        189,
+        214
+      ],
+      "fontes": [],
+      "tempo_ms": 93280
+    },
+    {
+      "descricao": "Curva urbana à frente de fachadas comerciais, com motocicletas, um canteiro gramado e céu aberto.",
+      "local": "Marabá, PA",
+      "confianca": "confirmado",
+      "contexto": "Durante a saída de Marabá, o episódio relaciona o movimento nas ruas à vida econômica da cidade.",
+      "marcas": [
+        393,
+        399,
+        407
+      ],
+      "fontes": [],
+      "tempo_ms": 400040
+    },
+    {
+      "descricao": "Área de parada com carretas estacionadas dos dois lados, em trecho aberto registrado do carro.",
+      "local": "Rota Marabá–Parauapebas, PA",
+      "confianca": "confirmado",
+      "contexto": "No início do trecho rodoviário, a câmera passa por uma concentração de veículos de carga, antes de o apresentador destacar o movimento da BR-155.",
+      "marcas": [
+        512,
+        519,
+        584,
+        591
+      ],
+      "fontes": [
+        "https://parauapebas.pa.gov.br/wp-content/uploads/2023/06/Parauapebas_PMU_Relatorio_P7.1.pdf"
+      ],
+      "tempo_ms": 522160
+    },
+    {
+      "descricao": "Caminhão trafega no sentido oposto em uma rodovia de pista simples. À direita, uma placa amarela alerta para entrada e saída de veículos.",
+      "local": "BR-155, trecho Marabá–Eldorado do Carajás, PA",
+      "confianca": "confirmado",
+      "contexto": "O apresentador anuncia que a equipe está na BR-155 e comenta a intensidade do tráfego na etapa Marabá–Parauapebas.",
+      "marcas": [
+        584,
+        591,
+        599,
+        608
+      ],
+      "fontes": [
+        "https://parauapebas.pa.gov.br/wp-content/uploads/2023/06/Parauapebas_PMU_Relatorio_P7.1.pdf"
+      ],
+      "tempo_ms": 583960
+    },
+    {
+      "descricao": "Caminhão-baú em frente ao carro no trecho que passa entre hotel, oficina de motos e casas comerciais.",
+      "local": "BR-155, trecho Marabá–Eldorado do Carajás, PA",
+      "confianca": "confirmado",
+      "contexto": "Cerca de meia hora após a partida, a equipe atravessa uma localidade de beira de estrada. O apresentador registra o local sem informar o nome da vila naquele momento.",
+      "marcas": [
+        736,
+        743,
+        751,
+        761,
+        783
+      ],
+      "fontes": [
+        "https://parauapebas.pa.gov.br/wp-content/uploads/2023/06/Parauapebas_PMU_Relatorio_P7.1.pdf"
+      ],
+      "tempo_ms": 768320
+    },
+    {
+      "descricao": "Carreta com toras visíveis no alto da carga à frente do carro, enquanto outro veículo de carga passa em sentido contrário.",
+      "local": "Trecho da BR-155 na região da Vila Monte Sinai, Marabá, PA",
+      "confianca": "provável",
+      "contexto": "Pouco depois de ler a placa de Vila Monte Sinai, o grupo comenta o fluxo de carretas na região e identifica a lenha transportada por um dos veículos.",
+      "marcas": [
+        833,
+        873,
+        886,
+        893,
+        901
+      ],
+      "fontes": [
+        "https://ioepa.com.br/pages/2015/2015.06.12.DOE.pdf"
+      ],
+      "tempo_ms": 890960
+    },
+    {
+      "descricao": "Frentista de camisa amarela abastece o carro branco usado na viagem, com a bomba à direita.",
+      "local": "BR-155, trecho Marabá–Eldorado do Carajás, PA",
+      "confianca": "confirmado",
+      "contexto": "A equipe faz uma parada para abastecer e comenta o consumo do carro e a circulação constante de carretas na rodovia.",
+      "marcas": [
+        1053,
+        1061,
+        1071,
+        1079,
+        1092
+      ],
+      "fontes": [
+        "https://parauapebas.pa.gov.br/wp-content/uploads/2023/06/Parauapebas_PMU_Relatorio_P7.1.pdf"
+      ],
+      "tempo_ms": 1075120
+    },
+    {
+      "descricao": "Entroncamento em Eldorado do Carajás, com carretas perto do posto e placa que aponta Curionópolis e Parauapebas à direita.",
+      "local": "Entroncamento BR-155–PA-275, Eldorado do Carajás, PA",
+      "confianca": "confirmado",
+      "contexto": "O carro deixa a BR-155 e toma a PA-275. A placa distingue a saída à direita do eixo que continua em direção a Xinguara.",
+      "marcas": [
+        1295,
+        1310,
+        1317,
+        1325,
+        1332
+      ],
+      "fontes": [
+        "https://parauapebas.pa.gov.br/wp-content/uploads/2023/06/Parauapebas_PMU_Relatorio_P7.1.pdf",
+        "https://www.ibge.gov.br/cidades-e-estados/pa/eldorado-do-carajas.html"
+      ],
+      "tempo_ms": 1320440
+    },
+    {
+      "descricao": "Placa suspensa de boas-vindas a Curionópolis sobre a PA-275, com encostas verdes dos dois lados.",
+      "local": "Entrada de Curionópolis, PA",
+      "confianca": "confirmado",
+      "contexto": "Durante a travessia da área urbana, o apresentador explica a ligação histórica de Curionópolis com Serra Pelada.",
+      "marcas": [
+        1430,
+        1475,
+        1485,
+        1500
+      ],
+      "fontes": [
+        "https://parauapebas.pa.gov.br/destaque/governo-do-para-reinaugura-pa-275-e-anuncia-mais-obras-para-parauapebas/",
+        "https://curionopolis.pa.gov.br/plano-de-acao-do-cmtc/"
+      ],
+      "tempo_ms": 1504640
+    },
+    {
+      "descricao": "Praça com letreiro de Curionópolis, monumento e estruturas azuis, enquadrada pela janela lateral do carro.",
+      "local": "Curionópolis, PA",
+      "confianca": "confirmado",
+      "contexto": "A câmera passa pelo espaço público no centro da cidade, na sequência em que o apresentador comenta a origem do nome do município e sua história regional.",
+      "marcas": [
+        1539,
+        1548,
+        1559,
+        1571
+      ],
+      "fontes": [
+        "https://curionopolis.pa.gov.br/plano-de-acao-do-cmtc/"
+      ],
+      "tempo_ms": 1565880
+    },
+    {
+      "descricao": "Via urbana ladeada por árvores frondosas, canteiros e pequenos comércios, com caminhão à frente.",
+      "local": "Curionópolis, PA",
+      "confianca": "confirmado",
+      "contexto": "O apresentador chama atenção para a arborização da travessia urbana, um dos aspectos que destaca na passagem por Curionópolis.",
+      "marcas": [
+        1680,
+        1687,
+        1696,
+        1704
+      ],
+      "fontes": [],
+      "tempo_ms": 1688640
+    },
+    {
+      "descricao": "Pórtico com a inscrição «Boa viagem» sobre a via, com colinas verdes ao fundo e um caminhão seguindo em frente.",
+      "local": "Saída de Curionópolis, PA pela PA-275",
+      "confianca": "confirmado",
+      "contexto": "O grupo deixa a área urbana e segue pelo trecho da PA-275 que liga Curionópolis a Parauapebas.",
+      "marcas": [
+        1735,
+        1743,
+        1768
+      ],
+      "fontes": [
+        "https://parauapebas.pa.gov.br/destaque/governo-do-para-reinaugura-pa-275-e-anuncia-mais-obras-para-parauapebas/"
+      ],
+      "tempo_ms": 1749360
+    },
+    {
+      "descricao": "Via larga na chegada a Parauapebas, com pista escura, postes, canteiros e áreas construídas ao fundo.",
+      "local": "Parauapebas, PA",
+      "confianca": "confirmado",
+      "contexto": "Depois de entrar no perímetro urbano, o apresentador começa a contextualizar a cidade de Parauapebas na região de Carajás.",
+      "marcas": [
+        1768,
+        1783,
+        1834,
+        1843,
+        1876
+      ],
+      "fontes": [
+        "https://parauapebas.pa.gov.br/wp-content/uploads/2023/06/Parauapebas_PMU_Relatorio_P7.1.pdf"
+      ],
+      "tempo_ms": 1872080
+    },
+    {
+      "descricao": "Roda-gigante e barracas em uma margem de via urbana de Parauapebas, com comércio e carros no restante do quadro.",
+      "local": "Parauapebas, PA",
+      "confianca": "confirmado",
+      "contexto": "O episódio encerra o percurso com imagens das vias urbanas de Parauapebas, enquanto o apresentador se despede e anuncia outras viagens.",
+      "marcas": [
+        2163,
+        2171,
+        2179,
+        2189
+      ],
+      "fontes": [],
+      "tempo_ms": 2178880
+    }
+  ]
+}

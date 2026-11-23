@@ -1,0 +1,167 @@
+{
+  "video_id": "J6Wk63jnpEM",
+  "quadros": [
+    {
+      "tempo_ms": 116074,
+      "descricao": "Um carro segue com luzes traseiras acesas pela pista úmida ainda escura, sob nuvens azuladas e postes de iluminação.",
+      "local": "Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Na saída de Santarém, os viajantes comentam o piso molhado e anunciam a passagem pela região da hidrelétrica de Curuá-Una.",
+      "marcas": [
+        108,
+        117,
+        123
+      ]
+    },
+    {
+      "tempo_ms": 162913,
+      "descricao": "Trecho pavimentado que desce entre árvores altas e névoa, com faixa amarela dupla e sinalização lateral.",
+      "local": "PA-370, proximidades da Usina Curuá-Una, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador comenta o desvio asfaltado que substituiu a passagem pela área da usina.",
+      "marcas": [
+        153,
+        161,
+        168
+      ],
+      "fontes": [
+        "https://agenciapara.com.br/noticia/46858/equipes-da-setran-executam-obras-em-duas-pontes-na-pa-370-a-rodovia-transuruara"
+      ]
+    },
+    {
+      "tempo_ms": 209084,
+      "descricao": "O apresentador e seu companheiro de viagem aparecem diante de um carro parado junto à curva da estrada e à mata.",
+      "local": "PA-370, entre Santarém e Uruará (PA)",
+      "confianca": "confirmado",
+      "contexto": "Os dois apresentam a viagem e dizem que este episódio se concentra nas condições da rota até Uruará.",
+      "marcas": [
+        205,
+        214
+      ]
+    },
+    {
+      "tempo_ms": 485568,
+      "descricao": "Reta asfaltada com árvores altas e isoladas contra o céu, em uma paisagem de vegetação baixa.",
+      "local": "PA-370, entre Santarém e Uruará (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração chama atenção para as castanheiras visíveis ao longo da rodovia.",
+      "marcas": [
+        479,
+        487
+      ]
+    },
+    {
+      "tempo_ms": 716507,
+      "descricao": "Vista aérea do traçado da rodovia entre mata, construções e extensos taludes avermelhados na região da ponte.",
+      "local": "Ponte sobre o rio Tutuí, PA-370 (PA)",
+      "confianca": "confirmado",
+      "contexto": "O grupo levanta o drone perto da ponte sobre o Tutuí e situa o ponto a cerca de 75 quilômetros de Uruará.",
+      "marcas": [
+        663,
+        700,
+        709,
+        718,
+        726
+      ],
+      "fontes": [
+        "https://agenciapara.com.br/noticia/46858/equipes-da-setran-executam-obras-em-duas-pontes-na-pa-370-a-rodovia-transuruara"
+      ]
+    },
+    {
+      "tempo_ms": 762679,
+      "descricao": "Acesso asfaltado à ponte com guardas laterais, placa azul e uma curva em frente a um talude de terra.",
+      "local": "Ponte sobre o rio Tutuí, PA-370 (PA)",
+      "confianca": "confirmado",
+      "contexto": "Depois de mostrar a vista aérea, o grupo cruza a ponte no sentido de Uruará.",
+      "marcas": [
+        749,
+        759,
+        767
+      ],
+      "fontes": [
+        "https://agenciapara.com.br/noticia/46858/equipes-da-setran-executam-obras-em-duas-pontes-na-pa-370-a-rodovia-transuruara"
+      ]
+    },
+    {
+      "tempo_ms": 901859,
+      "descricao": "Estrada de terra vermelha com marcas de pneus, ladeada por árvores altas dos dois lados.",
+      "local": "PA-370, entre Santarém e Uruará (PA)",
+      "confianca": "confirmado",
+      "contexto": "A fala explica que o percurso também serve para medir os trechos que ainda estavam sem pavimentação na gravação.",
+      "marcas": [
+        897,
+        905
+      ]
+    },
+    {
+      "tempo_ms": 1040414,
+      "descricao": "Uma escavadeira trabalha na terra vermelha à direita do veículo, vista pela janela junto ao retrovisor.",
+      "local": "PA-370, entre Santarém e Uruará (PA)",
+      "confianca": "confirmado",
+      "contexto": "Os viajantes apontam a máquina em atividade e comentam as expectativas de continuidade das obras.",
+      "marcas": [
+        1031,
+        1039,
+        1049
+      ]
+    },
+    {
+      "tempo_ms": 1178552,
+      "descricao": "O carro passa por um trecho de terra aberto entre dois taludes altos, com morros ao fundo e céu carregado.",
+      "local": "PA-370, entre Santarém e Uruará (PA)",
+      "confianca": "confirmado",
+      "contexto": "O grupo registra a distância percorrida nos trechos de terra e observa sinais de aproximação da cidade.",
+      "marcas": [
+        1174,
+        1180
+      ]
+    },
+    {
+      "tempo_ms": 1409283,
+      "descricao": "Cruzamento urbano aberto com motocicletas e uma placa de parada, visto do interior do carro.",
+      "local": "Uruará (PA)",
+      "confianca": "confirmado",
+      "contexto": "Na sequência, a narração identifica a entrada no eixo da BR-230 após deixar a PA-370.",
+      "marcas": [
+        1407,
+        1417
+      ]
+    },
+    {
+      "tempo_ms": 1456080,
+      "descricao": "Praça em um cruzamento de Uruará, com uma árvore ampla, jardins e estabelecimentos comerciais ao fundo.",
+      "local": "Uruará (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador fala do tempo de percurso e anuncia uma parada na praça para filmar Uruará de cima.",
+      "marcas": [
+        1449,
+        1456,
+        1464
+      ]
+    },
+    {
+      "tempo_ms": 1548255,
+      "descricao": "Tomada aérea de uma avenida ampla com faixas separadas, casas próximas à pista e vegetação nos arredores da cidade.",
+      "local": "Uruará (PA)",
+      "confianca": "confirmado",
+      "contexto": "O vídeo passa a apresentar a história de Uruará e o desenvolvimento da agricultura no município.",
+      "marcas": [
+        1543,
+        1551,
+        1558
+      ]
+    },
+    {
+      "tempo_ms": 1594635,
+      "descricao": "Vista aérea da avenida de Uruará, com lojas, veículos e um espaço arborizado no primeiro plano.",
+      "local": "Uruará (PA)",
+      "confianca": "confirmado",
+      "contexto": "Durante o panorama final da cidade, a narração comenta a data de fundação do município e relembra o início da ocupação urbana.",
+      "marcas": [
+        1586,
+        1593,
+        1601
+      ]
+    }
+  ]
+}

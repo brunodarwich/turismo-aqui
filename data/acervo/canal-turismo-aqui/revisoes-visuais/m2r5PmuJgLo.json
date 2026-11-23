@@ -1,0 +1,217 @@
+{
+  "video_id": "m2r5PmuJgLo",
+  "quadros": [
+    {
+      "tempo_ms": 81700,
+      "descricao": "O apresentador está sobre um deque de madeira com mesas, estruturas de telha e o rio ao fundo.",
+      "local": "Terminal Fluvial Turístico, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Ele identifica o terminal e sugere observar o rio e o movimento da orla ao longo do dia.",
+      "marcas": [
+        70,
+        78,
+        86,
+        93
+      ]
+    },
+    {
+      "tempo_ms": 147167,
+      "descricao": "Vista aérea da avenida à beira do rio, com o prédio amarelo-ocre do Centro Cultural João Fona em primeiro plano.",
+      "local": "Centro Cultural João Fona, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A paisagem urbana integra a sequência que apresenta Santarém como cidade histórica.",
+      "marcas": [
+        100,
+        110,
+        126,
+        134,
+        158
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/cultura/centro-cultural-joao-fona-celebra-34-anos-de-fundacao-com-programacao-especial-mqngof"
+      ]
+    },
+    {
+      "tempo_ms": 179000,
+      "descricao": "Fachada azul e branca do Museu de História e Arte Sacra, com portas altas e uma placa do museu sobre a calçada.",
+      "local": "Museu de História e Arte Sacra, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A fachada aparece na montagem sobre os marcos históricos da cidade. A placa da própria cena identifica o museu.",
+      "marcas": [
+        158,
+        166
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/turismo/museu-de-historia-e-arte-sacra-preserva-acervo-dos-seculos-xviii-e-xix-e-a-memoria-religiosa-da-regiao-bi2dou"
+      ]
+    },
+    {
+      "tempo_ms": 276917,
+      "descricao": "O apresentador fala no calçadão da orla, com o gradil, o rio e a sequência de postes ao fundo.",
+      "local": "Orla de Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração prepara o percurso histórico pela cidade e menciona a passagem de viajantes estrangeiros pela região.",
+      "marcas": [
+        265,
+        272,
+        279,
+        287
+      ]
+    },
+    {
+      "tempo_ms": 471133,
+      "descricao": "Vista aérea da frente urbana de Santarém, com embarcações grandes atracadas junto a um píer.",
+      "local": "Orla de Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A montagem mostra a orla durante a transição dos aspectos históricos para as opções de passeio no fim do dia.",
+      "marcas": [
+        475,
+        481
+      ]
+    },
+    {
+      "tempo_ms": 536417,
+      "descricao": "O sol alaranjado se põe sobre o rio, em um enquadramento que inclui o cais e o guarda-corpo em primeiro plano.",
+      "local": "Orla de Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador retorna no fim da tarde para mostrar a vista do pôr do sol a partir da cidade.",
+      "marcas": [
+        531,
+        540,
+        547
+      ]
+    },
+    {
+      "tempo_ms": 568667,
+      "descricao": "Pessoas circulam e ocupam mesas dos dois lados do deque de madeira, entre estruturas cobertas na beira do rio.",
+      "local": "Orla de Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A locução descreve a convivência de moradores e visitantes na orla, perto da água, no fim da tarde.",
+      "marcas": [
+        564,
+        573
+      ]
+    },
+    {
+      "tempo_ms": 600667,
+      "descricao": "Pedestres e ciclistas ocupam o calçadão sob um céu de fim de tarde em tons de rosa e laranja.",
+      "local": "Orla de Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A fala destaca as caminhadas e os exercícios à beira do rio como parte da rotina da cidade.",
+      "marcas": [
+        590,
+        599,
+        607
+      ]
+    },
+    {
+      "tempo_ms": 731033,
+      "descricao": "Vista alta das catraias alinhadas junto à margem, com a orla de Alter do Chão, coqueiros e o rio ao redor.",
+      "local": "Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador explica que as catraias fazem a travessia da vila para a Ilha do Amor quando o rio está cheio.",
+      "marcas": [
+        725,
+        731,
+        741
+      ]
+    },
+    {
+      "tempo_ms": 762850,
+      "descricao": "Quarto de pousada com cama de casal, toalhas sobre uma faixa vermelha e cortina vermelha estampada.",
+      "local": "Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração descreve o atendimento familiar da primeira pousada apresentada na sequência de hospedagem.",
+      "marcas": [
+        750,
+        758,
+        765,
+        774
+      ]
+    },
+    {
+      "tempo_ms": 828333,
+      "descricao": "Quarto com uma cama baixa, piso de madeira, janela e prateleiras abertas junto à parede.",
+      "local": "Pousada Coração Verde, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O vídeo mostra a hospedagem enquanto o apresentador comenta o acesso rápido à praia e o acolhimento da pousada.",
+      "marcas": [
+        815,
+        823,
+        831,
+        838
+      ]
+    },
+    {
+      "tempo_ms": 925017,
+      "descricao": "A janela aberta enquadra o rio e a Ilha do Amor ao fundo, além de coqueiros e construções próximas à orla.",
+      "local": "Hotel Mirante da Ilha, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador identifica o hotel e destaca a vista para a Ilha do Amor como característica da hospedagem.",
+      "marcas": [
+        903,
+        910,
+        918,
+        924,
+        931
+      ]
+    },
+    {
+      "tempo_ms": 1022950,
+      "descricao": "Travessa de peixe em caldo com ovos e vegetais, acompanhada de arroz, salada e bebida em uma mesa servida.",
+      "local": "Bairro do Mapiri, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O prato faz parte do segmento que apresenta uma peixaria do Mapiri e comenta a culinária ribeirinha.",
+      "marcas": [
+        1002,
+        1009,
+        1015,
+        1024,
+        1032,
+        1039
+      ]
+    },
+    {
+      "tempo_ms": 1055383,
+      "descricao": "Clientes almoçam numa varanda aberta com toalhas vermelhas. A identificação sobreposta na imagem diz Peixaria Pira Catu.",
+      "local": "Peixaria Pira Catu, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador cita o restaurante pela tradição dos pratos de peixe e pela proximidade do centro.",
+      "marcas": [
+        1050,
+        1058,
+        1065,
+        1072
+      ]
+    },
+    {
+      "tempo_ms": 1120250,
+      "descricao": "Imagem aérea da várzea com barcos, casas e áreas de vegetação entre dois corpos d'água.",
+      "local": "Igarapé-Açu, Santarém (PA)",
+      "confianca": "provável",
+      "contexto": "A imagem aparece durante o segmento sobre a comunidade de várzea e o passeio de lancha até o restaurante Casa do Jacaré.",
+      "marcas": [
+        1091,
+        1100,
+        1106,
+        1113,
+        1122
+      ]
+    },
+    {
+      "tempo_ms": 1152267,
+      "descricao": "Tomada aérea do centro de Santarém, com construções baixas e a Catedral Nossa Senhora da Conceição em destaque.",
+      "local": "Centro Histórico de Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O panorama entra no encerramento do vídeo como imagem de conjunto da cidade.",
+      "marcas": [
+        1147,
+        1154,
+        1156
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/turismo/museu-de-historia-e-arte-sacra-preserva-acervo-dos-seculos-xviii-e-xix-e-a-memoria-religiosa-da-regiao-bi2dou"
+      ]
+    }
+  ]
+}

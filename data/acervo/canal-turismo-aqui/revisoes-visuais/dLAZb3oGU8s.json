@@ -1,0 +1,225 @@
+{
+  "video_id": "dLAZb3oGU8s",
+  "motivo": "",
+  "quadros": [
+    {
+      "tempo_ms": 64480,
+      "descricao": "Emanuel Júlio fala sob uma cobertura metálica, ao lado de um carro branco com portas abertas.",
+      "contexto": "O apresentador abre a viagem rodoviária de Macapá ao Oiapoque e apresenta o percurso.",
+      "marcas": [
+        55,
+        65,
+        74
+      ],
+      "local": "Macapá (AP)",
+      "confianca": "provável",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 274720,
+      "descricao": "Vista pela janela do carro de uma estrutura azul junto ao rio, para além da mureta à margem da pista.",
+      "contexto": "O apresentador identifica a hidrelétrica de Ferreira Gomes e comenta que o nível do rio está baixo.",
+      "marcas": [
+        261,
+        270,
+        277
+      ],
+      "local": "Ferreira Gomes (AP)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 358800,
+      "descricao": "Pista asfaltada de mão dupla passa por lojas e casas baixas, com uma torre metálica à esquerda.",
+      "contexto": "A montagem passa pelo perímetro urbano de Tartarugalzinho e, mais adiante, começa a mostrar os trechos de chão da rota.",
+      "marcas": [
+        330,
+        336,
+        345,
+        354,
+        362
+      ],
+      "local": "BR-156, Amapá",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 443680,
+      "descricao": "Veículo segue em uma estrada de terra vermelha. Há cones e placas perto de um estreitamento cercado de vegetação.",
+      "contexto": "O apresentador menciona obras em uma ponte por volta do km 447 percorrido e descreve a redução de velocidade nesse ponto.",
+      "marcas": [
+        439,
+        444,
+        450
+      ],
+      "local": "BR-156, Amapá",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 528080,
+      "descricao": "O carro se aproxima de uma ponte estreita de piso de madeira e guarda-corpo baixo, entre margens arborizadas.",
+      "contexto": "O apresentador registra a passagem por outra ponte e pede informações sobre o nome do rio.",
+      "marcas": [
+        521,
+        529,
+        537
+      ],
+      "local": "BR-156, Amapá",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 696560,
+      "descricao": "Da rua da orla, vê-se uma área aberta com palmeiras e um marco colorido. O rio e a margem arborizada aparecem ao fundo.",
+      "contexto": "O apresentador identifica o rio Oiapoque e explica que as embarcações cruzam a fronteira com a Guiana Francesa.",
+      "marcas": [
+        690,
+        698,
+        706
+      ],
+      "local": "Orla de Oiapoque, Oiapoque (AP)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 780200,
+      "descricao": "Vista de uma varanda sobre a rua da orla, com barcos pequenos junto à margem e carros na rua.",
+      "contexto": "Da hospedagem de frente para o rio, o apresentador aponta o local de saída das lanchas de travessia.",
+      "marcas": [
+        766,
+        776,
+        784,
+        794
+      ],
+      "local": "Orla de Oiapoque, Oiapoque (AP)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 864480,
+      "descricao": "Condutor de camisa laranja e colete salva-vidas sentado sob a cobertura de uma embarcação amarela.",
+      "contexto": "O grupo combina a travessia para São Jorge e a visita à cachoeira do Maripá.",
+      "marcas": [
+        856,
+        863,
+        869
+      ],
+      "local": "Rio Oiapoque, fronteira entre Amapá e Guiana Francesa",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 949440,
+      "descricao": "Passarela metálica leva da água a um pavilhão aberto de telhado vermelho, onde algumas pessoas esperam.",
+      "contexto": "O apresentador mostra o desembarque em São Jorge e fala de visitantes que atravessam de Oiapoque para passear e fazer compras.",
+      "marcas": [
+        915,
+        922,
+        944,
+        951
+      ],
+      "local": "Saint-Georges-de-l’Oyapock, Guiana Francesa",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1033040,
+      "descricao": "Pedestres circulam por uma praça pavimentada entre prédios baixos e bancas de feira.",
+      "contexto": "O apresentador aponta a pequena feira onde produtores rurais levam seus produtos, perto do ponto de desembarque.",
+      "marcas": [
+        1032,
+        1040,
+        1046
+      ],
+      "local": "Saint-Georges-de-l’Oyapock, Guiana Francesa",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1075640,
+      "descricao": "Pedestres caminham por uma rua estreita à margem do rio. À esquerda, há um guarda-corpo junto à água.",
+      "contexto": "O apresentador explica que alguns passageiros chegam a São Jorge para continuar por via terrestre até Caiena.",
+      "marcas": [
+        1064,
+        1073
+      ],
+      "local": "Saint-Georges-de-l’Oyapock, Guiana Francesa",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1201600,
+      "descricao": "Vista de dentro da embarcação para uma margem com construções baixas, palmeiras e vegetação na beira d’água.",
+      "contexto": "O grupo sai do trecho de Clevelândia do Norte e segue para as proximidades da cachoeira do Maripá.",
+      "marcas": [
+        1170,
+        1177,
+        1194,
+        1204
+      ],
+      "local": "Rio Oiapoque, fronteira entre Amapá e Guiana Francesa",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1328640,
+      "descricao": "Água branca desce entre degraus e blocos de rocha, diante de uma margem arborizada.",
+      "contexto": "O apresentador identifica a cachoeira do Maripá e destaca a visão da água entre as pedras.",
+      "marcas": [
+        1318,
+        1327,
+        1336,
+        1342
+      ],
+      "local": "Cachoeira do Maripá, rio Oiapoque",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1412320,
+      "descricao": "Área de refeições coberta, com mesas, plantas e movimento de visitantes. O rio aparece entre as árvores.",
+      "contexto": "O apresentador descreve o funcionamento do lugar como restaurante e pousada e comenta o movimento no fim de semana.",
+      "marcas": [
+        1403,
+        1408,
+        1418
+      ],
+      "local": "Chácara Du Rona, Oiapoque (AP)",
+      "confianca": "confirmado",
+      "fontes": [
+        "https://sistemas.uft.edu.br/periodicos/index.php/interface/article/download/13109/22268/83439"
+      ]
+    },
+    {
+      "tempo_ms": 1454640,
+      "descricao": "Pavilhão aberto de madeira entre árvores, acessado por uma pequena passarela no chão.",
+      "contexto": "O apresentador identifica a estrutura como o primeiro redário do local.",
+      "marcas": [
+        1444,
+        1452,
+        1460
+      ],
+      "local": "Chácara Du Rona, Oiapoque (AP)",
+      "confianca": "confirmado",
+      "fontes": [
+        "https://sistemas.uft.edu.br/periodicos/index.php/interface/article/download/13109/22268/83439"
+      ]
+    },
+    {
+      "tempo_ms": 1496600,
+      "descricao": "Visitantes caminham por uma trilha sombreada entre árvores e palmeiras, dentro da chácara.",
+      "contexto": "O apresentador encerra a visita comentando o contato com a vegetação da chácara e a curta estadia em Oiapoque.",
+      "marcas": [
+        1486,
+        1497,
+        1503
+      ],
+      "local": "Chácara Du Rona, Oiapoque (AP)",
+      "confianca": "confirmado",
+      "fontes": [
+        "https://sistemas.uft.edu.br/periodicos/index.php/interface/article/download/13109/22268/83439"
+      ]
+    }
+  ]
+}

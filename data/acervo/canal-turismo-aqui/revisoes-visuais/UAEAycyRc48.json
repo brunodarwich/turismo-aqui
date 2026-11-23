@@ -1,0 +1,162 @@
+{
+  "video_id": "UAEAycyRc48",
+  "motivo": "",
+  "quadros": [
+    {
+      "tempo_ms": 3971,
+      "descricao": "Vista aérea da malha urbana, com ruas retas e telhados de cerâmica entre áreas verdes.",
+      "local": "Alenquer (PA)",
+      "confianca": "confirmado",
+      "contexto": "A abertura apresenta Alenquer e lembra o povoado que antecedeu a cidade atual.",
+      "marcas": [
+        0,
+        8
+      ]
+    },
+    {
+      "tempo_ms": 31632,
+      "descricao": "Panorâmica aérea da orla, com embarcações junto à margem e Alenquer em segundo plano.",
+      "local": "Rio Surubiú, Alenquer (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração aborda a história da formação de Alenquer enquanto a câmera percorre a orla.",
+      "marcas": [
+        15,
+        25,
+        32
+      ],
+      "fontes": [
+        "https://www.municipiosverdes.pa.gov.br/wp-content/uploads/2023/04/Bases-III_P3_-Baixo-Amazonas_-Alenquer.pdf"
+      ]
+    },
+    {
+      "tempo_ms": 42676,
+      "descricao": "Rio visto do alto, com um píer comprido à esquerda e reflexos do céu na água.",
+      "local": "Rio Surubiú, Alenquer (PA)",
+      "confianca": "confirmado",
+      "contexto": "A sequência aérea acompanha o relato da passagem de Alenquer à condição de município.",
+      "marcas": [
+        32,
+        40,
+        49
+      ]
+    },
+    {
+      "tempo_ms": 92225,
+      "descricao": "Veículos enfileirados no convés coberto da balsa durante a travessia.",
+      "local": "Rota fluvial de acesso a Alenquer (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração explica que a viagem de carro inclui um trecho feito em embarcação.",
+      "marcas": [
+        65,
+        73,
+        81,
+        95
+      ]
+    },
+    {
+      "tempo_ms": 103070,
+      "descricao": "Via do centro com piso de pedra, edificações antigas e fachadas em tons claros e rosados.",
+      "local": "Centro de Alenquer (PA)",
+      "confianca": "confirmado",
+      "contexto": "A equipe transita pelas ruas do centro enquanto a narração comenta os ciclos econômicos que marcaram a cidade.",
+      "marcas": [
+        95,
+        103
+      ]
+    },
+    {
+      "tempo_ms": 108809,
+      "descricao": "Fachada da Escola Fulgêncio Simões, com frontão, grades e janelas altas.",
+      "local": "Escola Fulgêncio Simões, Alenquer (PA)",
+      "confianca": "confirmado",
+      "contexto": "O prédio aparece no percurso por construções antigas que ajudam a contar a história da cidade.",
+      "marcas": [
+        103,
+        111
+      ]
+    },
+    {
+      "tempo_ms": 124992,
+      "descricao": "Praça com gramado, árvore e canteiros de borda azul junto à via.",
+      "local": "Centro de Alenquer (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração passa da história do comércio para a Igreja de Santo Antônio, na área central.",
+      "marcas": [
+        111,
+        121
+      ]
+    },
+    {
+      "tempo_ms": 130931,
+      "descricao": "Fachada da Igreja de Santo Antônio, com três portas abertas e janelas em arco.",
+      "local": "Igreja de Santo Antônio, Alenquer (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração identifica a igreja e a apresenta como uma das principais construções da cidade.",
+      "marcas": [
+        121,
+        129
+      ]
+    },
+    {
+      "tempo_ms": 147114,
+      "descricao": "Vista interna da igreja, com bancos de madeira, colunas e o corredor em direção ao altar.",
+      "local": "Igreja de Santo Antônio, Alenquer (PA)",
+      "confianca": "confirmado",
+      "contexto": "A equipe entra na igreja enquanto a narração lembra suas origens e a visita de turistas e fiéis.",
+      "marcas": [
+        129,
+        138
+      ]
+    },
+    {
+      "tempo_ms": 152619,
+      "descricao": "Cachoeira de vários degraus vista entre troncos e folhas em primeiro plano.",
+      "local": "Vale do Paraíso, Alenquer (PA)",
+      "confianca": "confirmado",
+      "contexto": "A sequência apresenta o Vale do Paraíso entre os atrativos naturais de Alenquer.",
+      "marcas": [
+        149,
+        157
+      ],
+      "fontes": [
+        "https://www.setur.pa.gov.br/sites/default/files/pdf/iot_alenquer-_final.pdf"
+      ]
+    },
+    {
+      "tempo_ms": 158158,
+      "descricao": "Detalhe da água branca descendo e espirrando sobre rochas escuras.",
+      "local": "Vale do Paraíso, Alenquer (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração comenta como o nível da água influencia a visita à cachoeira.",
+      "marcas": [
+        149,
+        157
+      ]
+    },
+    {
+      "tempo_ms": 169803,
+      "descricao": "Vista frontal da cachoeira em degraus, com a mata junto à queda e o poço à frente.",
+      "local": "Vale do Paraíso, Alenquer (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador descreve a queda como um dos pontos procurados por visitantes e aventureiros.",
+      "marcas": [
+        157,
+        166
+      ],
+      "fontes": [
+        "https://www.setur.pa.gov.br/sites/default/files/pdf/iot_alenquer-_final.pdf"
+      ]
+    },
+    {
+      "tempo_ms": 196863,
+      "descricao": "Prédio verde e branco em uma rua do centro, junto à placa da Prefeitura Municipal.",
+      "local": "Centro de Alenquer (PA)",
+      "confianca": "confirmado",
+      "contexto": "O encerramento volta à área urbana e destaca os atrativos naturais e a história de Alenquer.",
+      "marcas": [
+        187,
+        193
+      ]
+    }
+  ]
+}

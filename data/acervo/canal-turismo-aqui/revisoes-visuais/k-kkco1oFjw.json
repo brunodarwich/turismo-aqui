@@ -1,0 +1,149 @@
+{
+  "video_id": "k-kkco1oFjw",
+  "motivo": "",
+  "transcricao": "k-kkco1oFjw.pt.txt",
+  "quadros": [
+    {
+      "tempo_ms": 9610,
+      "descricao": "Vista aérea da cidade junto ao rio. A avenida da orla corre ao lado de uma fileira de embarcações atracadas.",
+      "local": "Orla de Santarém, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A abertura apresenta a frente fluvial da cidade e a concentração de barcos na margem.",
+      "marcas": []
+    },
+    {
+      "tempo_ms": 100100,
+      "descricao": "Plano aéreo vertical da área de embarque. Barcos grandes ocupam um lado do acesso de terra e pequenas embarcações ficam do outro.",
+      "local": "Orla de Santarém, Santarém (PA)",
+      "confianca": "provável",
+      "contexto": "A montagem apresenta o local de embarque antes de começar a conversa sobre os destinos dos barcos.",
+      "marcas": []
+    },
+    {
+      "tempo_ms": 117718,
+      "descricao": "Homem caminha por uma área de terra entre um carro e rampas de acesso às embarcações.",
+      "local": "Orla de Santarém, Santarém (PA)",
+      "confianca": "provável",
+      "contexto": "Na sequência, ele aborda pessoas no embarque e pergunta para onde sai um dos barcos.",
+      "marcas": [
+        130,
+        133
+      ]
+    },
+    {
+      "tempo_ms": 172339,
+      "descricao": "Apresentador de perfil entre bancas com produtos pendurados e um barco de passageiros com boias laranjas no costado.",
+      "local": "Orla de Santarém, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Ele conversa sobre o comércio de merenda no embarque, com refrigerante, água e bolacha entre os itens citados.",
+      "marcas": [
+        158,
+        162,
+        169,
+        173
+      ]
+    },
+    {
+      "tempo_ms": 208375,
+      "descricao": "Homem de camisa azul percorre o cais entre duas fileiras de barcos. À direita, há pessoas sentadas junto ao ponto de embarque.",
+      "local": "Orla de Santarém, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador descreve a área como ponto de saída e chegada. A montagem mostra o movimento entre as embarcações.",
+      "marcas": [
+        192
+      ]
+    },
+    {
+      "tempo_ms": 261995,
+      "descricao": "Apresentador gesticula junto à grade de um barco. O rio e outras embarcações aparecem ao fundo.",
+      "local": "Orla de Santarém, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Ele explica que as embarcações se agrupam conforme os destinos e que as de comunidades menores tendem a ter menor porte.",
+      "marcas": [
+        241,
+        247,
+        266
+      ]
+    },
+    {
+      "tempo_ms": 297831,
+      "descricao": "Vista aérea da orla iluminada, com o limite entre águas de duas tonalidades e pequenas embarcações junto à cidade.",
+      "local": "Orla de Santarém, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador defende a permanência dos barcos como parte da paisagem da orla de Santarém.",
+      "marcas": [
+        287,
+        292
+      ]
+    },
+    {
+      "tempo_ms": 315849,
+      "descricao": "Píer comprido com pessoas em silhueta e embarcações no horizonte sob um céu dourado e azul.",
+      "local": "",
+      "confianca": "não identificado",
+      "contexto": "A montagem mostra a paisagem fluvial ao entardecer. O cais exato não fica identificado no trecho.",
+      "marcas": []
+    },
+    {
+      "tempo_ms": 334467,
+      "descricao": "Proas de barcos de vários andares e vendedores ao nível do cais. Cartazes na frente de duas embarcações indicam Itaituba e Macapá.",
+      "local": "Orla de Santarém, Santarém (PA)",
+      "confianca": "provável",
+      "contexto": "A cena ilustra os diferentes destinos de embarque. Os cartazes indicam a rota divulgada pelos barcos naquele registro.",
+      "marcas": []
+    },
+    {
+      "tempo_ms": 352485,
+      "descricao": "Embarcação branca de vários conveses no rio ao entardecer, com pessoas no convés superior.",
+      "local": "",
+      "confianca": "não identificado",
+      "contexto": "A montagem acompanha o deslocamento de uma embarcação de passageiros, sem identificar este trecho do rio na imagem.",
+      "marcas": []
+    },
+    {
+      "tempo_ms": 477978,
+      "descricao": "Entrevistado de camiseta azul e óculos escuros com as mãos apoiadas à frente, em uma rua arborizada.",
+      "local": "",
+      "confianca": "não identificado",
+      "contexto": "Na entrevista, ele destaca o custo-benefício do transporte fluvial na região e comenta uma passagem para Santarém.",
+      "marcas": [
+        459,
+        468,
+        477
+      ]
+    },
+    {
+      "tempo_ms": 514614,
+      "descricao": "Redes coloridas pendem em fileiras dentro do convés. Duas pessoas estão junto ao guarda-corpo.",
+      "local": "",
+      "confianca": "não identificado",
+      "contexto": "A montagem intercala o convés com a entrevista sobre a demanda de passageiros e as linhas para Santarém.",
+      "marcas": [
+        499,
+        504,
+        512,
+        518
+      ]
+    },
+    {
+      "tempo_ms": 568435,
+      "descricao": "Estrutura metálica de embarcação com vãos em arco e peças aparentes. À direita, vê-se o rio e a cabine de outro barco.",
+      "local": "",
+      "confianca": "não identificado",
+      "contexto": "O entrevistado menciona a construção regional de ferryboats e compara sua segurança à dos antigos barcos de madeira.",
+      "marcas": [
+        564,
+        571,
+        577
+      ]
+    },
+    {
+      "tempo_ms": 640707,
+      "descricao": "Pneus pendurados protegem os costados de dois barcos. A água iluminada ocupa o vão estreito entre eles.",
+      "local": "",
+      "confianca": "não identificado",
+      "contexto": "A imagem de encerramento aproxima a câmera da parte inferior dos barcos atracados.",
+      "marcas": []
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "capa": {
+    "titulo": "Alter do Chão",
+    "local": "Santarém · Pará",
+    "subtitulo": "Praias de rio, floresta e cultura à beira do Tapajós",
+    "resumo": "Um roteiro de três dias e alternativas para viajar conforme o nível do rio.",
+    "imagem": "ilha-aerea"
+  },
+  "quadros": {
+    "ilha-aerea": ["IwLYaCVu5BI", 48080, "Ilha do Amor vista do alto"],
+    "vila": ["IwLYaCVu5BI", 21360, "A vila de Alter do Chão à beira do Tapajós"],
+    "praca": ["i3hok4syuZw", 96964, "Praça 7 de Setembro, no centro da vila"],
+    "ilha-cheia": ["LhfExbCSfQY", 90958, "Ilha do Amor com águas altas"],
+    "catraia": ["IwLYaCVu5BI", 7760, "Catraia na travessia da vila à Ilha do Amor"],
+    "embarque": ["IwLYaCVu5BI", 330080, "Embarque na orla de Alter do Chão"],
+    "cururu": ["9BrSzVOFJU0", 97067, "Pôr do sol na Ponta do Cururu"],
+    "pedras": ["ra3LG-n1540", 136803, "Barracas de palha na Ponta de Pedras"],
+    "caranazal": ["_VXK3Q7ZAS8", 74074, "Canoa entre as árvores em Caranazal"],
+    "mastros": ["i3hok4syuZw", 80047, "Participantes na sequência sobre a busca dos mastros"],
+    "orla-saire": ["i3hok4syuZw", 132032, "Orla no fim de semana do Sairé"]
+  },
+  "referencias": {
+    "guia_santarem": ["Guia turístico de Santarém", "guia_santarem"],
+    "ilha_prefeitura": ["Ilha do Amor", "ilha_prefeitura"],
+    "LhfExbCSfQY": ["Os Caminhos de Alter do Chão, episódio 1", "video_caminhos"],
+    "video_passeios": ["Passeios e vida na vila, 2019", "video_passeios"],
+    "catraieiros": ["Travessia com os catraieiros, 2025", "video-catraieiros-ilha-do-amor"],
+    "cururu": ["Pôr do sol no Cururu, 2018", "video-ponta-cururu"],
+    "caranazal": ["Caranazal nas cheias e vazantes", "video-caranazal-aguas"],
+    "caranazal_prefeitura": ["Floresta Encantada do Caranazal", "prefeitura-caranazal"],
+    "saire": ["Busca dos mastros e tradição do Sairé", "prefeitura-saire-mastros"],
+    "saire_botos": ["Ritos e Festival dos Botos · Prefeitura", "prefeitura-saire-botos"],
+    "canal_2017": ["O lançamento do Turismo Aqui, 2017", "canal_2017"],
+    "video_site": ["Por que criamos o site, 2019", "video_site"]
+  },
+  "capitulos": [
+    {
+      "id": "vila",
+      "titulo": "A vila à beira do Tapajós",
+      "resumo": "Uma volta a pé pelo centro é uma boa maneira de se situar e descobrir de onde saem os passeios.",
+      "imagens": ["praca", "rosanetur"],
+      "blocos": [
+        ["Comece pela praça", "A Praça 7 de Setembro é um ponto de encontro em Alter do Chão, vila de Santarém, no oeste do Pará. No passeio registrado pelo canal, Emanuel Júlio passa pelo coreto e pela igreja antes de seguir em direção à orla."],
+        ["Desça até a orla", "O mesmo percurso passa pelo comércio de artesanato. Na beira do rio, procure o embarque da Ilha do Amor e pergunte aos prestadores sobre os passeios pelo entorno."],
+        ["Ao chegar por Santarém", "Combine o deslocamento até a vila e o retorno para o dia da partida. Vale confirmar o ponto de partida e o tempo estimado com a sua hospedagem."]
+      ],
+      "fontes": ["video_passeios", "guia_santarem"]
+    },
+    {
+      "id": "aguas",
+      "titulo": "O ritmo das águas",
+      "resumo": "O nível do Tapajós muda o tamanho das praias e o jeito de chegar a elas. Veja como a mesma ilha aparece em dois registros do canal.",
+      "imagens": ["ilha-cheia", "ilha-0933"],
+      "blocos": [
+        ["Águas altas", "A água cobre parte das faixas de areia. Na imagem, copas e coberturas de palha ainda aparecem sobre a água."],
+        ["Águas mais baixas", "Com o rio mais baixo, a areia ganha espaço. O registro aéreo mostra a área de praia ocupada por barracas e visitantes."],
+        ["Confira antes de sair", "Pergunte como está a Ilha do Amor na semana da visita e quais passeios estão saindo. Se a praia estiver reduzida, considere a orla da vila ou um passeio pelo igapó, conforme as condições locais."]
+      ],
+      "fontes": ["ilha_prefeitura", "LhfExbCSfQY", "video_passeios"]
+    },
+    {
+      "id": "travessia",
+      "titulo": "De catraia à Ilha do Amor",
+      "resumo": "Os catraieiros ajudam a contar a história da vila. A reportagem de 2025 acompanha quem mantém a travessia a remo.",
+      "imagens": ["catraia", "embarque"],
+      "blocos": [
+        ["O trabalho dos catraieiros", "A catraia liga a orla à Ilha do Amor e ganha importância quando o nível do rio sobe. Os profissionais entrevistados pelo Turismo Aqui falam do orgulho de manter a tradição do remo e receber visitantes."],
+        ["Combine ida e volta", "Confirme onde embarcar, se há coletes, quanto custa, como pagar e até que horas é possível retornar."]
+      ],
+      "fontes": ["catraieiros"]
+    },
+    {
+      "id": "praias",
+      "titulo": "Praias e passeios pelo rio",
+      "resumo": "Escolha uma parada pelo tipo de passeio que você quer fazer e pelo que estiver acessível no dia.",
+      "imagens": ["cururu", "pedras"],
+      "blocos": [
+        ["Ponta do Cururu", "Uma opção para ver o pôr do sol no Tapajós. Em dois momentos da mesma temporada, o canal encontrou tamanhos diferentes de praia. Combine o retorno antes de embarcar."],
+        ["Ponta de Pedras", "O acervo mostra a praia com barracas de palha à beira do rio. Se a ideia for passar parte do dia ali, pergunte como chegar e se há serviço de alimentação na data."],
+        ["Lago Verde", "Inclua o lago na conversa com quem organiza os passeios. Pergunte pelo trajeto, pelas paradas e pelo tempo de navegação com o nível atual da água."]
+      ],
+      "fontes": ["cururu", "guia_santarem", "video_passeios"]
+    },
+    {
+      "id": "floresta",
+      "titulo": "Pelo igapó de Caranazal",
+      "resumo": "Na cheia, a água entra na mata e muda o caminho do passeio na Floresta Encantada.",
+      "imagens": ["caranazal"],
+      "blocos": [
+        ["Quando a água entra na mata", "O passeio de canoa pode passar entre os troncos quando há água suficiente. É a paisagem que aparece no quadro do acervo, com a proa baixa e as árvores refletidas no igapó."],
+        ["Quando a água baixa", "O relato do canal compara a paisagem do Caranazal em diferentes épocas. Pergunte aos condutores qual percurso está disponível e como funciona o acesso no dia."],
+        ["Reserve tempo para o passeio", "Combine o ponto de encontro e a duração. Siga as orientações do condutor sobre embarque, desembarque e circulação na floresta."]
+      ],
+      "fontes": ["caranazal", "caranazal_prefeitura"]
+    },
+    {
+      "id": "saire",
+      "titulo": "A Festa do Sairé",
+      "resumo": "A festa muda o ritmo da vila. Os registros do canal mostram a preparação do rito e o movimento de visitantes na orla.",
+      "imagens": ["mastros", "orla-saire"],
+      "blocos": [
+        ["A busca dos mastros", "A comunidade vai buscar na mata os troncos usados na celebração. O relato de Emanuel Júlio acompanha a mudança de ritmo da vila na abertura dos festejos, quando começam os ritos religiosos."],
+        ["O Festival dos Botos", "A programação cultural inclui apresentações do Boto Cor-de-Rosa e do Boto Tucuxi. Consulte a programação oficial da edição que você vai acompanhar e siga as orientações da organização durante os ritos."],
+        ["Se a viagem coincidir com a festa", "Confira com antecedência a hospedagem e o transporte de volta depois das atividades da noite."]
+      ],
+      "fontes": ["video_passeios", "saire", "saire_botos"]
+    },
+    {
+      "id": "roteiro",
+      "titulo": "Três dias em Alter",
+      "resumo": "Use a vila como base e ajuste a ordem dos passeios ao nível do rio e à disponibilidade de transporte.",
+      "blocos": [
+        ["Vila e Ilha do Amor", "Passe pela Praça 7 de Setembro e siga para a orla. Se a travessia estiver operando, combine a volta antes de embarcar. Com pouca faixa de areia, aproveite mais tempo na vila."],
+        ["Uma praia no entorno", "Reserve parte do dia para Ponta de Pedras ou escolha o Cururu no fim da tarde. Se o acesso estiver limitado, informe-se sobre um passeio pelo Lago Verde."],
+        ["Floresta Encantada", "Confirme o percurso disponível em Caranazal. Com águas altas e canoas operando, encaixe o igapó neste dia ou antecipe o passeio se o tempo estiver melhor."],
+        ["Antes de reservar", "Confirme embarque, retorno, coletes, valor, forma de pagamento e o que o passeio inclui."]
+      ],
+      "fontes": ["guia_santarem", "catraieiros", "caranazal_prefeitura"]
+    },
+    {
+      "id": "turismo-aqui",
+      "titulo": "Por trás do Turismo Aqui",
+      "resumo": "O guia continua um trabalho de registro da Amazônia feito por Emanuel Júlio a partir de viagens, entrevistas e histórias locais.",
+      "imagens": ["emanuel"],
+      "blocos": [
+        ["2017", "No lançamento do canal, a série Os Caminhos de Alter do Chão apresentou a vila como ponto de partida para conhecer lugares e histórias da região."],
+        ["2019", "Num vídeo gravado na praia, Emanuel Júlio explicou a criação do site Turismo Aqui para ampliar a divulgação do turismo na Amazônia."]
+      ],
+      "fontes": ["canal_2017", "LhfExbCSfQY", "video_site"]
+    }
+  ]
+}

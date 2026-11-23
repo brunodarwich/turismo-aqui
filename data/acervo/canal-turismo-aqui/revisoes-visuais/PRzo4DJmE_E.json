@@ -1,0 +1,166 @@
+{
+  "video_id": "PRzo4DJmE_E",
+  "quadros": [
+    {
+      "tempo_ms": 70404,
+      "descricao": "Escadaria de cores vivas dividida por corrimãos, com as palavras Cooperação e Educação pintadas nos degraus.",
+      "local": "Praça Fortaleza do Tapajós, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador sobe pelo acesso da Rua Adriano Pimentel e comenta o uso da escada para atividade física.",
+      "marcas": [
+        66,
+        74
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/gerais/praca-fortaleza-do-tapajos-um-destino-turistico-que-conta-historia-324949e5eb09-a6c2-4a7f-8bd9-0377743ad8d1"
+      ]
+    },
+    {
+      "tempo_ms": 98056,
+      "descricao": "Patamar arborizado com bancos e um terraço voltado para o rio, visto de cima da escadaria.",
+      "local": "Praça Fortaleza do Tapajós, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Do mirante, o apresentador indica o encontro das águas dos rios Tapajós e Amazonas e aponta as direções de navegação.",
+      "marcas": [
+        91,
+        99,
+        106
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/gerais/praca-fortaleza-do-tapajos-um-destino-turistico-que-conta-historia-324949e5eb09-a6c2-4a7f-8bd9-0377743ad8d1"
+      ]
+    },
+    {
+      "tempo_ms": 152778,
+      "descricao": "Quiosques e mesas fixas ficam sobre o pavimento entre árvores, com o rio ao fundo.",
+      "local": "Praça Fortaleza do Tapajós, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A fala destaca os espaços de convivência, a gastronomia e a proximidade do centro.",
+      "marcas": [
+        145,
+        154,
+        163
+      ]
+    },
+    {
+      "tempo_ms": 181056,
+      "descricao": "Canhões escuros sobre bases de pedra aparecem à sombra das árvores, em frente ao gradil do mirante.",
+      "local": "Praça Fortaleza do Tapajós, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração relaciona os canhões à antiga função defensiva da fortaleza e aponta os locais de descanso na praça.",
+      "marcas": [
+        171,
+        178,
+        185,
+        192
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/gerais/praca-fortaleza-do-tapajos-um-destino-turistico-que-conta-historia-324949e5eb09-a6c2-4a7f-8bd9-0377743ad8d1"
+      ]
+    },
+    {
+      "tempo_ms": 291291,
+      "descricao": "Vista aérea das árvores da praça, telhados do centro e estruturas de embarque à beira do Tapajós.",
+      "local": "Praça Fortaleza do Tapajós, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração retorna à história da construção e comenta o uso turístico atual do espaço.",
+      "marcas": [
+        286,
+        295,
+        303
+      ]
+    },
+    {
+      "tempo_ms": 401943,
+      "descricao": "Via de terra avermelhada junto a muros e construções baixas, com pedestres e vegetação no lado oposto.",
+      "local": "Rota para o Mirante do Saubal, Santarém (PA)",
+      "confianca": "provável",
+      "contexto": "A narração descreve o caminho saindo do centro pela Avenida Sérgio Henn e passando pelo bairro Nova República para alcançar a serra.",
+      "marcas": [
+        393,
+        401,
+        410
+      ]
+    },
+    {
+      "tempo_ms": 485360,
+      "descricao": "Vista da área gramada do alto da serra, com estruturas claras no parque e a cidade no horizonte.",
+      "local": "Mirante do Saubal, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador situa a visita em junho de 2024 e anuncia uma vista panorâmica mais ampla.",
+      "marcas": [
+        477,
+        486,
+        496
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/storage/documents/February2026/bFuTPjDBkOiiLfsytfQ0WWSXUgRgQRj8OCnV6et6.pdf"
+      ]
+    },
+    {
+      "tempo_ms": 678803,
+      "descricao": "Vendedores e visitantes se encontram junto ao guarda-corpo. Um guarda-sol colorido protege um ponto de venda perto dos carros.",
+      "local": "Mirante do Saubal, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador conversa com vendedores sobre os serviços que começaram a atender os visitantes do mirante.",
+      "marcas": [
+        670,
+        677,
+        685
+      ]
+    },
+    {
+      "tempo_ms": 706039,
+      "descricao": "Um vendedor exibe produtos perto do guarda-corpo, com famílias e a área de lazer no nível inferior.",
+      "local": "Mirante do Saubal, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A conversa comenta as bebidas oferecidas aos visitantes e a área em que as crianças se concentram.",
+      "marcas": [
+        699,
+        707,
+        716
+      ]
+    },
+    {
+      "tempo_ms": 844344,
+      "descricao": "Imagem aérea oblíqua do parque, com o caminho de chegada, veículos estacionados e a cidade ao fundo.",
+      "local": "Mirante do Saubal, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A locução conta como a abertura do mirante aumentou o movimento na subida da Serra do Saubal.",
+      "marcas": [
+        840,
+        849,
+        855
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/storage/documents/February2026/bFuTPjDBkOiiLfsytfQ0WWSXUgRgQRj8OCnV6et6.pdf"
+      ]
+    },
+    {
+      "tempo_ms": 871996,
+      "descricao": "Visitantes e ciclistas se reúnem junto ao guarda-corpo para observar Santarém e o rio no fim da tarde.",
+      "local": "Mirante do Saubal, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador aponta o mirante como um lugar para ver a cidade e contemplar o pôr do sol.",
+      "marcas": [
+        864,
+        871,
+        878
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/storage/documents/February2026/bFuTPjDBkOiiLfsytfQ0WWSXUgRgQRj8OCnV6et6.pdf"
+      ]
+    },
+    {
+      "tempo_ms": 899690,
+      "descricao": "Tomada aérea da plataforma do mirante, com a área pavimentada, a torre e a mata da serra ao redor.",
+      "local": "Mirante do Saubal, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração comenta como a vista elevada permite observar a extensão da área urbana e o rio ao longe.",
+      "marcas": [
+        893,
+        903
+      ]
+    }
+  ]
+}

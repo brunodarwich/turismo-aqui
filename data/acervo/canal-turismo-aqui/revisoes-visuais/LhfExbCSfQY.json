@@ -1,0 +1,130 @@
+{
+  "video_id": "LhfExbCSfQY",
+  "motivo": "",
+  "quadros": [
+    {
+      "tempo_ms": 69636,
+      "descricao": "Passeio de acesso à orla com um abrigo de telhado de cerâmica, escadas, pequenas embarcações e um morro ao fundo.",
+      "local": "Orla de Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A montagem com música mostra a chegada à beira d’água após a apresentação de Alter do Chão como ponto de partida para roteiros turísticos.",
+      "marcas": [
+        33,
+        56
+      ]
+    },
+    {
+      "tempo_ms": 80397,
+      "descricao": "Vista da Ilha do Amor a partir da vila, com faixa de areia, árvores, barracas de palha e barcos na água calma.",
+      "local": "Ilha do Amor, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O episódio ilustra a praia apresentada na abertura e identificada mais adiante como Praia do Amor.",
+      "marcas": [
+        33,
+        85,
+        203
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/turismo/alter-do-chao-e-eleita-o-melhor-destino-turistico-nacional-1vit8b"
+      ]
+    },
+    {
+      "tempo_ms": 90958,
+      "descricao": "Barcos diante da Ilha do Amor durante a cheia, com copas de árvores e coberturas de palha ainda visíveis acima da água.",
+      "local": "Ilha do Amor, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A imagem faz parte da montagem musical. O letreiro do próprio vídeo identifica a cena como período de cheia.",
+      "marcas": [
+        85
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/turismo/alter-do-chao-e-eleita-o-melhor-destino-turistico-nacional-1vit8b"
+      ]
+    },
+    {
+      "tempo_ms": 164281,
+      "descricao": "Detalhe da fachada amarelo-ocre da Igreja de Nossa Senhora da Saúde, com três portas verdes emolduradas por arcos brancos.",
+      "local": "Igreja de Nossa Senhora da Saúde, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A montagem mostra a igreja após a narração sobre a antiga missão de Nossa Senhora da Purificação e a adoção do nome Alter do Chão no século XVIII.",
+      "marcas": [
+        134,
+        144,
+        153
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/storage/documents/November2024/9rRNxNRel8zl4I4OQVPhbIn64oxNMdVuQ02wWSE0.pdf"
+      ]
+    },
+    {
+      "tempo_ms": 196546,
+      "descricao": "Emanuel Júlio fala junto ao guarda-corpo azul e amarelo da orla, com barcos e uma faixa de areia ao fundo.",
+      "local": "Orla de Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador explica que os catraieiros fazem a travessia do centro da vila para a Praia do Amor.",
+      "marcas": [
+        188,
+        196,
+        203
+      ]
+    },
+    {
+      "tempo_ms": 228228,
+      "descricao": "Catraias a remo levam passageiros com coletes pela água entre a orla da vila e as barracas de palha da Praia do Amor.",
+      "local": "Travessia para a Ilha do Amor, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A cena ilustra o serviço de transporte apresentado pelo narrador como uma atividade característica de Alter do Chão.",
+      "marcas": [
+        196,
+        203,
+        218
+      ]
+    },
+    {
+      "tempo_ms": 238789,
+      "descricao": "Catraia com passageiros passa perto da areia clara da Ilha do Amor, diante de árvores e barracas com cobertura de palha.",
+      "local": "Ilha do Amor, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Na sequência musical após a explicação sobre a travessia, a edição muda o enquadramento para a margem de chegada.",
+      "marcas": [
+        203,
+        230
+      ]
+    },
+    {
+      "tempo_ms": 259309,
+      "descricao": "César Carmona, identificado na tela como guia de turismo, dá entrevista ao ar livre junto a um muro azul e a um guarda-corpo colorido.",
+      "local": "Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O guia conta que chegou para uma visita e permaneceu na vila, onde passou a trabalhar com artesanato e turismo.",
+      "marcas": [
+        254,
+        262,
+        269
+      ]
+    },
+    {
+      "tempo_ms": 302152,
+      "descricao": "Alexandra, apresentada no vídeo como turista paulista, dá entrevista em um jardim com palmeiras e flores.",
+      "local": "Alter do Chão, Santarém (PA)",
+      "confianca": "provável",
+      "contexto": "A visitante diz que viajou sozinha fora de temporada em busca de tranquilidade, natureza e atividades de aventura. O jardim não é identificado.",
+      "marcas": [
+        288,
+        297,
+        303
+      ]
+    },
+    {
+      "tempo_ms": 333216,
+      "descricao": "Emanuel Júlio aparece no passeio da orla, com palmeiras, guarda-corpo branco e praia ao fundo, junto ao letreiro Turismo Aqui.",
+      "local": "Orla de Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador abre o encerramento do episódio e convida o público a comentar e acompanhar o canal.",
+      "marcas": [
+        327,
+        335
+      ]
+    }
+  ]
+}

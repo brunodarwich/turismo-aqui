@@ -1,0 +1,114 @@
+{
+  "video_id": "giE1W4sPo3s",
+  "motivo": "Foram examinados 36 quadros e uma segunda passagem de 72 candidatos guiada pelos cortes. A chamada reaproveita os mesmos planos por vários segundos. O trecho filmado em movimento pelo para-brisa tem desfoque e reflexos. Oito quadros permaneceram com assunto legível e utilidade distinta.",
+  "quadros": [
+    {
+      "descricao": "Emanuel Júlio abre a chamada diante de um guarda-corpo de madeira na orla, com o rio ao fundo e seu nome na tela.",
+      "local": "Orla de Santarém, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador situa a gravação em Santarém e introduz a cidade como passagem para quem visita Alter do Chão.",
+      "marcas": [
+        0,
+        8
+      ],
+      "tempo_ms": 2302
+    },
+    {
+      "descricao": "Vista aérea do centro de Santarém, com a avenida da orla contornando o rio, o casario e embarcações próximas à margem.",
+      "local": "Centro e orla de Santarém, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A cidade aparece enquanto a narração apresenta sua posição de referência no oeste do Pará.",
+      "marcas": [
+        0,
+        8,
+        17
+      ],
+      "tempo_ms": 7641
+    },
+    {
+      "descricao": "Vista aérea do encontro das águas em Santarém, com o Tapajós escuro à esquerda e o Amazonas barrento à direita, identificados por letreiros.",
+      "local": "Encontro das Águas, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador destaca a confluência dos dois rios em frente à cidade como um dos atrativos de Santarém.",
+      "marcas": [
+        17,
+        24
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/gerais/um-passeio-entre-dois-rios-13134a8eacede-1433-4081-b20d-89c30ac5dbe6"
+      ],
+      "tempo_ms": 25659
+    },
+    {
+      "descricao": "Fotografia de arquivo em preto e branco, com casa de madeira, automóvel antigo e mulheres em frente à varanda envidraçada.",
+      "local": "Belterra (PA)",
+      "confianca": "provável",
+      "contexto": "A edição apresenta a imagem no trecho sobre o projeto de Henry Ford em Belterra. A casa, as pessoas e a data da fotografia não são identificadas.",
+      "marcas": [
+        33,
+        40,
+        48
+      ],
+      "fontes": [
+        "https://belterra.pa.gov.br/municipio.php"
+      ],
+      "tempo_ms": 41108
+    },
+    {
+      "descricao": "Imagem de arquivo em preto e branco com duas edificações baixas e automóveis estacionados junto a uma área aberta.",
+      "local": "Belterra (PA)",
+      "confianca": "provável",
+      "contexto": "A imagem acompanha a narração sobre a vila criada para apoiar o projeto de cultivo de seringueiras da Companhia Ford. A proveniência precisa do plano não aparece.",
+      "marcas": [
+        40,
+        48
+      ],
+      "fontes": [
+        "https://belterra.pa.gov.br/municipio.php"
+      ],
+      "tempo_ms": 43076
+    },
+    {
+      "descricao": "Área arborizada de Belterra, com fileiras de árvores altas, chão claro e uma construção baixa entre os troncos.",
+      "local": "Belterra (PA)",
+      "confianca": "provável",
+      "contexto": "A montagem usa o bosque na passagem sobre as seringueiras e a extração de látex para a produção de borracha. O nome do local não é informado.",
+      "marcas": [
+        40,
+        48,
+        55
+      ],
+      "fontes": [
+        "https://belterra.pa.gov.br/municipio.php"
+      ],
+      "tempo_ms": 48248
+    },
+    {
+      "descricao": "Emanuel Júlio aparece novamente na orla de Santarém, com o título Os Caminhos de Alter do Chão sobre a paisagem fluvial.",
+      "local": "Orla de Santarém, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador fecha a chamada de Belterra e identifica a série à qual pertence o episódio anunciado.",
+      "marcas": [
+        55,
+        64,
+        72
+      ],
+      "tempo_ms": 74574
+    },
+    {
+      "descricao": "Vista aérea sobre uma via reta de Belterra, ladeada por casas claras de telhados vermelhos, jardins e palmeiras.",
+      "local": "Belterra (PA)",
+      "confianca": "confirmado",
+      "contexto": "A montagem musical final mostra a cidade anunciada no episódio. As casas de inspiração norte-americana perduram como referência do projeto histórico.",
+      "marcas": [
+        55,
+        72,
+        79
+      ],
+      "fontes": [
+        "https://belterra.pa.gov.br/municipio.php"
+      ],
+      "tempo_ms": 79112
+    }
+  ]
+}

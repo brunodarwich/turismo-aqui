@@ -1,0 +1,146 @@
+{
+  "video_id": "eT9S3uDtX60",
+  "motivo": "",
+  "quadros": [
+    {
+      "tempo_ms": 1401,
+      "descricao": "Emanuel Júlio, identificado no letreiro, fala à câmera de camisa vinho diante de uma televisão e estantes.",
+      "contexto": "O apresentador convida o público para uma série de viagens pela capital paraense.",
+      "marcas": [
+        0
+      ],
+      "local": "",
+      "confianca": "não identificado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 6173,
+      "descricao": "Via urbana movimentada, com carros, ônibus e fachadas antigas à esquerda, filmada de dentro de um veículo.",
+      "contexto": "A montagem introduz a viagem a Belém com uma cena de circulação no centro da cidade.",
+      "marcas": [
+        0,
+        8
+      ],
+      "local": "Centro de Belém (PA)",
+      "confianca": "provável",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 14748,
+      "descricao": "Passarela de madeira conduz a um portal em arco emoldurado por uma muralha de pedra.",
+      "contexto": "O apresentador anuncia os temas históricos enquanto a montagem mostra a entrada da fortificação.",
+      "marcas": [
+        8
+      ],
+      "local": "Forte do Presépio, Belém (PA)",
+      "confianca": "confirmado",
+      "fontes": [
+        "https://secult.pa.gov.br/espacosecultpag/19/museus-e-memoriais/"
+      ]
+    },
+    {
+      "tempo_ms": 17317,
+      "descricao": "Ciclistas e pessoas em exercício passam por um caminho pavimentado com bicicletários e vegetação baixa.",
+      "contexto": "Ao mencionar a natureza próxima do centro, a montagem mostra um espaço de lazer e circulação ao ar livre.",
+      "marcas": [
+        15
+      ],
+      "local": "Belém (PA)",
+      "confianca": "provável",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 20520,
+      "descricao": "Visitantes em silhueta ficam atrás de um guarda-corpo de madeira enquanto barcos passam diante de uma margem arborizada.",
+      "contexto": "A cena ilustra a proposta de visitar lugares próximos ao centro em que a paisagem fluvial se destaca.",
+      "marcas": [
+        15
+      ],
+      "local": "Belém (PA)",
+      "confianca": "provável",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 25893,
+      "descricao": "Pessoas sentadas junto a um balcão laranja, com atendentes, bancos de madeira e toldos acima.",
+      "contexto": "A montagem alterna a paisagem com cenas de feira. O mesmo balcão aparece identificado no passeio do canal pelo Ver-o-Peso.",
+      "marcas": [
+        23
+      ],
+      "local": "Complexo do Ver-o-Peso, Belém (PA)",
+      "confianca": "confirmado",
+      "fontes": [
+        "https://www.youtube.com/watch?v=F6ACewul5Z4&t=24s"
+      ]
+    },
+    {
+      "tempo_ms": 27060,
+      "descricao": "Banca com cestos, chapéus de palha, colares e enfeites coloridos suspensos sob a cobertura.",
+      "contexto": "A montagem apresenta o artesanato enquanto o narrador anuncia os temas culturais da série.",
+      "marcas": [
+        23
+      ],
+      "local": "Belém (PA)",
+      "confianca": "provável",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 32266,
+      "descricao": "Uma dançarina gira com uma saia amarela numa pista circular vermelha, perto de um músico ao microfone.",
+      "contexto": "Depois de anunciar canto e dança, o vídeo deixa ouvir a música enquanto mostra a apresentação.",
+      "marcas": [
+        23,
+        30
+      ],
+      "local": "Belém (PA)",
+      "confianca": "provável",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 37037,
+      "descricao": "Pessoas usam talheres em uma mesa com pratos, tigelas e molhos.",
+      "contexto": "A sequência de refeições acompanha a promessa de apresentar a gastronomia da cidade.",
+      "marcas": [
+        35
+      ],
+      "local": "Belém (PA)",
+      "confianca": "provável",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 40007,
+      "descricao": "Cumbuca com porções empanadas douradas e um recipiente pequeno de molho no centro.",
+      "contexto": "A montagem aproxima a câmera de um dos pratos da sequência de gastronomia.",
+      "marcas": [
+        35
+      ],
+      "local": "Belém (PA)",
+      "confianca": "provável",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 43176,
+      "descricao": "Tigelas de barro servem arroz, farinha e duas preparações de caldo, uma delas com folhas e pimenta amarela.",
+      "contexto": "O vídeo fecha a sequência de gastronomia com uma seleção de acompanhamentos e preparações locais.",
+      "marcas": [
+        35,
+        43
+      ],
+      "local": "Belém (PA)",
+      "confianca": "provável",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 52753,
+      "descricao": "Baterista toca ao lado de um cantor em uma área coberta, com o letreiro do canal sobreposto na parte inferior.",
+      "contexto": "O convite final volta à apresentação musical, desta vez com foco nos músicos e seus instrumentos.",
+      "marcas": [
+        43,
+        53
+      ],
+      "local": "Belém (PA)",
+      "confianca": "provável",
+      "fontes": []
+    }
+  ]
+}

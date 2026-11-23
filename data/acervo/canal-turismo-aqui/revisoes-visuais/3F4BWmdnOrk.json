@@ -1,0 +1,242 @@
+{
+  "video_id": "3F4BWmdnOrk",
+  "motivo": "",
+  "quadros": [
+    {
+      "tempo_ms": 23924,
+      "descricao": "Mulher atravessa a área pavimentada junto à orla, com barcos à esquerda e o galpão da feira à direita.",
+      "contexto": "O apresentador anuncia a Feira do Pescado como primeira parada, antes de seguir ao Mercadão 2000.",
+      "marcas": [
+        10,
+        19,
+        27
+      ],
+      "local": "Orla de Santarém, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 114181,
+      "descricao": "Fileira de bancas sob telhado de telhas, com vendedores, balcões brancos e letreiro São Pedro no primeiro box.",
+      "contexto": "O apresentador mostra o setor de venda de peixe na Feira do Pescado, à margem do rio.",
+      "marcas": [
+        111,
+        118,
+        126
+      ],
+      "local": "Feira do Pescado, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": [
+        "https://turismo.santarem.pa.gov.br/noticias/turismo/visitas-turisticas-as-feiras-e-mercados-de-santarem-promovem-imersao-sensorial-na-cultura-e-na-culinaria-local-sczexf"
+      ]
+    },
+    {
+      "tempo_ms": 160210,
+      "descricao": "Banca com tomates, pimentões, folhas e garrafas de líquido amarelo. Uma cliente aponta para os produtos.",
+      "contexto": "O grupo para para escolher ingredientes durante o passeio pela feira.",
+      "marcas": [
+        148,
+        162,
+        170
+      ],
+      "local": "Feira do Pescado, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 296480,
+      "descricao": "Rio visto junto ao guarda-corpo, com uma embarcação branca e estruturas de atracação ao fundo.",
+      "contexto": "O apresentador explica como os píeres facilitam a atracação de embarcações que chegam do interior do município.",
+      "marcas": [
+        284,
+        293
+      ],
+      "local": "Rio Tapajós, orla de Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 387337,
+      "descricao": "Boto de tom claro aparece logo abaixo da superfície, perto da margem da feira e de uma linha que toca a água.",
+      "contexto": "O apresentador chama a atenção para a aproximação dos botos junto à feira.",
+      "marcas": [
+        380,
+        389,
+        398
+      ],
+      "local": "Rio Tapajós, junto à Feira do Pescado, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 478194,
+      "descricao": "Bandejas metálicas com pescado aberto e fileiras de peixes prateados com cortes diagonais.",
+      "contexto": "O apresentador observa os peixes já preparados para venda e tenta identificar o pescado exposto.",
+      "marcas": [
+        472,
+        481
+      ],
+      "local": "Feira do Pescado, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 523623,
+      "descricao": "Dois vendedores de avental trabalham atrás de um balcão de peixes, sob um letreiro verde.",
+      "contexto": "O apresentador conversa com os feirantes enquanto percorre as bancas.",
+      "marcas": [
+        517,
+        526,
+        531
+      ],
+      "local": "Feira do Pescado, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 613880,
+      "descricao": "Mãos do feirante cortam o pescado aberto sobre a tábua para retirar o filé.",
+      "contexto": "O feirante explica como separa o filé e deixa ou retira as costelas de acordo com o pedido.",
+      "marcas": [
+        603,
+        615,
+        622
+      ],
+      "local": "Feira do Pescado, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 705138,
+      "descricao": "Emanuel Júlio fala à câmera no calçadão, com a estrutura da feira e a rua atrás dele.",
+      "contexto": "O apresentador encerra a primeira parada e segue ao Mercadão 2000, mencionando a tradição de abastecimento da cidade.",
+      "marcas": [
+        692,
+        699,
+        707
+      ],
+      "local": "Feira do Pescado, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 841407,
+      "descricao": "Cliente entra em um corredor do mercado, ao lado de colunas claras, paredes azuis e plantas.",
+      "contexto": "O grupo chega à área interna do Mercadão 2000, onde o apresentador vai mostrar os boxes.",
+      "marcas": [
+        837,
+        846,
+        852
+      ],
+      "local": "Mercadão 2000, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 887036,
+      "descricao": "Banca de artesanato com vasos de barro, cestos de palha, esteiras e utensílios de madeira.",
+      "contexto": "O apresentador comenta o trabalho em palha nas comunidades do Arapiuns e do Tapajós e aponta o artesanato em barro.",
+      "marcas": [
+        875,
+        883,
+        892,
+        899
+      ],
+      "local": "Mercadão 2000, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1068751,
+      "descricao": "Feirante de avental branco trabalha com peixe em um balcão ao lado de um balde vermelho e uma balança verde.",
+      "contexto": "O passeio ainda mostra a seção de pescado do Mercadão 2000 antes de continuar para outras compras.",
+      "marcas": [
+        1062,
+        1070,
+        1081
+      ],
+      "local": "Mercadão 2000, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1159608,
+      "descricao": "Balcão de hortaliças com repolhos verdes e roxos, pimentões, pepinos e alho.",
+      "contexto": "A conversa passa à escolha dos legumes e verduras para a salada.",
+      "marcas": [
+        1153,
+        1161,
+        1172
+      ],
+      "local": "Mercadão 2000, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1250466,
+      "descricao": "Sacos abertos com farinhas de cores e granulados diferentes, identificados com preços manuscritos.",
+      "contexto": "O apresentador percorre o setor de farinha e comenta a variedade de valores exibidos no dia da gravação.",
+      "marcas": [
+        1245,
+        1254,
+        1262
+      ],
+      "local": "Mercadão 2000, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1341323,
+      "descricao": "Vista ampla da feira coberta, com sacos de produtos ensacados em primeiro plano e bancas de frutas e verduras ao fundo.",
+      "contexto": "O apresentador destaca o volume de produtos e o movimento no horário da visita.",
+      "marcas": [
+        1335,
+        1345
+      ],
+      "local": "Mercadão 2000, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1386552,
+      "descricao": "A placa Banca do Mercadão 2 Mil aparece na entrada de uma seção de frutas, com clientes entrando e saindo.",
+      "contexto": "O passeio chega às frutarias, onde o apresentador chama a atenção para os produtos regionais.",
+      "marcas": [
+        1375,
+        1383,
+        1393
+      ],
+      "local": "Mercadão 2000, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": [
+        "https://turismo.santarem.pa.gov.br/noticias/turismo/visitas-turisticas-as-feiras-e-mercados-de-santarem-promovem-imersao-sensorial-na-cultura-e-na-culinaria-local-sczexf"
+      ]
+    },
+    {
+      "tempo_ms": 1477192,
+      "descricao": "Cachos de banana pendem sobre uma banca cheia de frutas, com a feirante e clientes de cada lado do balcão.",
+      "contexto": "O grupo conversa sobre as bananas e segue escolhendo frutas nessa banca.",
+      "marcas": [
+        1467,
+        1474,
+        1484
+      ],
+      "local": "Mercadão 2000, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1522621,
+      "descricao": "Frutas cítricas verdes e amarelas enchem cestos e sacos de malha diante de melancias inteiras.",
+      "contexto": "O apresentador passa pelas diferentes frutas e comenta tangerinas, laranjas e abacaxis no setor.",
+      "marcas": [
+        1516,
+        1524,
+        1531
+      ],
+      "local": "Mercadão 2000, Santarém (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    }
+  ]
+}

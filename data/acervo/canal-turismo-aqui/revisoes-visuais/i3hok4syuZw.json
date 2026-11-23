@@ -1,0 +1,144 @@
+{
+  "video_id": "i3hok4syuZw",
+  "motivo": "",
+  "quadros": [
+    {
+      "descricao": "Participantes se reúnem em meio à vegetação e registram a atividade com câmeras e celulares durante a sequência do Sairé.",
+      "local": "Entorno de Alter do Chão, Santarém (PA)",
+      "confianca": "provável",
+      "contexto": "A montagem vem logo após a apresentação da busca dos mastros, que abre as atividades do Sairé no relato do vídeo. O ponto da mata não é identificado.",
+      "marcas": [
+        54,
+        62,
+        72,
+        82
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/gerais/busca-dos-mastros-em-alter-do-chao-revive-o-ritual-religioso-131576b1b29-01e1-44f9-8bd8-58ed7c5278c7"
+      ],
+      "tempo_ms": 80047
+    },
+    {
+      "descricao": "Piso aberto e arborizado da Praça 7 de Setembro, com bancos e a fachada ocre de portas verdes da Igreja de Nossa Senhora da Saúde ao fundo.",
+      "local": "Praça 7 de Setembro, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O vídeo mostra a praça em um momento calmo enquanto o narrador comenta a mudança de movimento durante os festejos do Sairé.",
+      "marcas": [
+        85,
+        93,
+        102
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/storage/documents/November2024/9rRNxNRel8zl4I4OQVPhbIn64oxNMdVuQ02wWSE0.pdf",
+        "https://santarem.pa.gov.br/noticias/saire-2026/levantacao-dos-mastros-abre-oficialmente-a-temporada-do-saire-2026-9wgv5p"
+      ],
+      "tempo_ms": 96964
+    },
+    {
+      "descricao": "Sandro Ferreira, identificado na tela como dono de pousada, fala à câmera junto à orla, com a faixa de areia do outro lado da água.",
+      "local": "Orla de Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Sandro comenta o valor cultural e histórico da festa e o movimento que ela traz para a vila.",
+      "marcas": [
+        108,
+        114,
+        120
+      ],
+      "tempo_ms": 115115
+    },
+    {
+      "descricao": "Visitantes posam para fotos junto ao letreiro colorido da orla, com esculturas de botos, bandeirolas e a Ilha do Amor ao fundo.",
+      "local": "Orla de Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O narrador descreve o movimento dos visitantes que chegam durante o fim de semana do Sairé para conhecer a praia e os atrativos do entorno.",
+      "marcas": [
+        129,
+        138
+      ],
+      "tempo_ms": 132032
+    },
+    {
+      "descricao": "Emanuel Júlio passa diante de uma banca com chapéus expostos, roupas coloridas e artigos de praia.",
+      "local": "Corredor de artesanato de Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador percorre o trajeto da praça à orla e aponta a presença de artesãos e comerciantes de produtos regionais.",
+      "marcas": [
+        170,
+        179,
+        187
+      ],
+      "tempo_ms": 185185
+    },
+    {
+      "descricao": "Catraias azuis e brancas, com coletes a bordo, na água junto à escadaria curva de embarque da vila.",
+      "local": "Embarque das catraias, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador mostra onde se organizam as catraias que fazem a travessia até a Ilha do Amor.",
+      "marcas": [
+        260,
+        268,
+        276
+      ],
+      "tempo_ms": 272172
+    },
+    {
+      "descricao": "Catraias a remo cruzam a água com passageiros, diante da areia clara e dos quiosques de palha da Ilha do Amor.",
+      "local": "Travessia para a Ilha do Amor, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A imagem acompanha o depoimento sobre a tradição da travessia de catraia e a importância de manter o serviço.",
+      "marcas": [
+        329,
+        336,
+        344
+      ],
+      "tempo_ms": 342275
+    },
+    {
+      "descricao": "Vista aérea de catraias enfileiradas no primeiro plano e de lanchas espalhadas diante da orla, junto ao ponto com letreiro ATUFA.",
+      "local": "Orla de Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A sequência apresenta a Associação de Turismo Fluvial de Alter do Chão, onde se organizam passeios de barco pelo entorno.",
+      "marcas": [
+        436,
+        444
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/turismo/curso-qualifica-guias-e-condutores-de-turismo-e-instala-sinalizacoes-na-trilha-da-serra-da-piroca-em-alter-do-chao-zqm8xr"
+      ],
+      "tempo_ms": 447580
+    },
+    {
+      "descricao": "Pessoas conversam em um ponto coberto de atendimento à beira d’água, ao lado de lanchas de passeio com capotas.",
+      "local": "Ponto da ATUFA, orla de Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O vídeo mostra o ponto da associação fluvial como opção para quem busca percursos de lancha nos arredores de Alter do Chão.",
+      "marcas": [
+        436,
+        444,
+        452,
+        462
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/turismo/curso-qualifica-guias-e-condutores-de-turismo-e-instala-sinalizacoes-na-trilha-da-serra-da-piroca-em-alter-do-chao-zqm8xr"
+      ],
+      "tempo_ms": 465498
+    },
+    {
+      "descricao": "Vista aérea da Ilha do Amor com areia branca, árvores, barracas de palha, catraias junto à margem e a Serra da Piroca ao fundo.",
+      "local": "Ilha do Amor, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Na sequência final, a narração apresenta a Ilha do Amor como atração da vila e destaca a combinação de areia clara e água azul.",
+      "marcas": [
+        531,
+        538,
+        547,
+        562
+      ],
+      "fontes": [
+        "https://santarem.pa.gov.br/noticias/turismo/alter-do-chao-e-eleita-o-melhor-destino-turistico-nacional-1vit8b",
+        "https://santarem.pa.gov.br/noticias/gerais/domingo-e-marcado-por-aventura-na-serra-piraoca-em-alter-do-chao-2154caac02f4-f614-43e1-aee4-216663f19356"
+      ],
+      "tempo_ms": 535602
+    }
+  ]
+}

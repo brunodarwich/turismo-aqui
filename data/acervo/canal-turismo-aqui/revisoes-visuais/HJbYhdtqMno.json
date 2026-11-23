@@ -1,0 +1,205 @@
+{
+  "video_id": "HJbYhdtqMno",
+  "motivo": "",
+  "quadros": [
+    {
+      "descricao": "Calçada arborizada junto à avenida, com carros e faixas amarelas no asfalto.",
+      "local": "Centro de Parauapebas (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador situa o início do roteiro no centro da cidade e anuncia a visita a dois mirantes.",
+      "marcas": [
+        6,
+        22,
+        30
+      ],
+      "tempo_ms": 25880
+    },
+    {
+      "descricao": "Condutor com crachá e uma participante aparecem junto aos veículos antes da saída.",
+      "local": "Parauapebas (PA)",
+      "confianca": "confirmado",
+      "contexto": "A equipe reúne os participantes do passeio e anuncia o acesso à Floresta Nacional de Carajás.",
+      "marcas": [
+        213,
+        222,
+        231
+      ],
+      "tempo_ms": 226320
+    },
+    {
+      "descricao": "Pista de acesso com cones, faixa de passagem e estrutura de controle à direita.",
+      "local": "Floresta Nacional de Carajás, Parauapebas (PA)",
+      "confianca": "confirmado",
+      "contexto": "O grupo relata que passou pela portaria e inicia o percurso dentro da Floresta Nacional de Carajás.",
+      "marcas": [
+        269,
+        277,
+        285
+      ],
+      "tempo_ms": 277080
+    },
+    {
+      "descricao": "Estrada asfaltada em curva, ladeada por vegetação densa e sinalização amarela.",
+      "local": "Floresta Nacional de Carajás, Parauapebas (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração comenta a subida da serra e anuncia uma passagem pelo aeroporto.",
+      "marcas": [
+        312,
+        322,
+        329
+      ],
+      "tempo_ms": 327240
+    },
+    {
+      "descricao": "Avião exposto sobre o gramado junto à via de acesso ao terminal.",
+      "local": "Aeroporto de Carajás, Parauapebas (PA)",
+      "confianca": "confirmado",
+      "contexto": "O condutor aponta a aeronave e explica sua ligação com a operação aeroportuária de Carajás.",
+      "marcas": [
+        662,
+        671,
+        678,
+        685
+      ],
+      "tempo_ms": 677760
+    },
+    {
+      "descricao": "Estrada atravessa área de terra avermelhada com patamares de mineração e postes de energia.",
+      "local": "Complexo Industrial de Carajás, Parauapebas (PA)",
+      "confianca": "confirmado",
+      "contexto": "O percurso passa pelo complexo industrial, e a conversa destaca a vista de uma mina em atividade.",
+      "marcas": [
+        864,
+        872,
+        881
+      ],
+      "tempo_ms": 878400
+    },
+    {
+      "descricao": "Fileira de ônibus verdes em baias cobertas junto à via de acesso do complexo.",
+      "local": "Complexo Industrial de Carajás, Parauapebas (PA)",
+      "confianca": "confirmado",
+      "contexto": "O condutor descreve o terminal usado no transbordo de trabalhadores da mineração.",
+      "marcas": [
+        920,
+        929,
+        936
+      ],
+      "tempo_ms": 928560
+    },
+    {
+      "descricao": "Placas junto a uma bifurcação de terra marcam a chegada ao primeiro mirante.",
+      "local": "Mirante do Vale do Rio Azul, Floresta Nacional de Carajás (PA)",
+      "confianca": "confirmado",
+      "contexto": "A equipe para na sinalização da Floresta Nacional e lê o nome do Mirante do Vale do Rio Azul.",
+      "marcas": [
+        1019,
+        1025,
+        1032
+      ],
+      "fontes": [
+        "https://parauapebas.pa.gov.br/destaque/flona-carajas-recebe-presentes-em-aniversario-de-26-anos/"
+      ],
+      "tempo_ms": 1028880
+    },
+    {
+      "descricao": "Corrimão de madeira acompanha o caminho entre árvores na chegada ao mirante.",
+      "local": "Mirante do Vale do Rio Azul, Floresta Nacional de Carajás (PA)",
+      "confianca": "confirmado",
+      "contexto": "Os visitantes seguem pelo acesso sombreado e avistam a sinalização do ICMBio.",
+      "marcas": [
+        1123,
+        1129,
+        1139
+      ],
+      "tempo_ms": 1129200
+    },
+    {
+      "descricao": "Condutor com boné e crachá fala aos visitantes num deque de madeira junto à floresta.",
+      "local": "Mirante do Vale do Rio Azul, Floresta Nacional de Carajás (PA)",
+      "confianca": "confirmado",
+      "contexto": "A conversa explica que o Rio Azul corre abaixo do mirante e pode ser ouvido da plataforma.",
+      "marcas": [
+        1225,
+        1231,
+        1240
+      ],
+      "tempo_ms": 1229920
+    },
+    {
+      "descricao": "Deque de madeira e guarda-corpo em primeiro plano diante do vale coberto por floresta.",
+      "local": "Mirante do Vale do Rio Azul, Floresta Nacional de Carajás (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador mostra os três deques e comenta os diferentes níveis de observação do vale.",
+      "marcas": [
+        1264,
+        1271,
+        1279
+      ],
+      "fontes": [
+        "https://www.gov.br/icmbio/pt-br/centrais-de-conteudo/publicacoes/editais-diversos/editais-diversos-2025-1/SEI_022005490_Anexo_F.pdf"
+      ],
+      "tempo_ms": 1279880
+    },
+    {
+      "descricao": "Caminhante segue por caminho pedregoso de terra avermelhada entre arbustos.",
+      "local": "Mirante Flor de Carajás, Floresta Nacional de Carajás (PA)",
+      "confianca": "confirmado",
+      "contexto": "A equipe descreve o piso de rocha ferruginosa no caminho até o mirante.",
+      "marcas": [
+        1520,
+        1528,
+        1537
+      ],
+      "fontes": [
+        "https://www.gov.br/icmbio/pt-br/centrais-de-conteudo/publicacoes/editais-diversos/editais-diversos-2025-1/SEI_022005490_Anexo_F.pdf"
+      ],
+      "tempo_ms": 1531120
+    },
+    {
+      "descricao": "Flores vermelhas em forma de funil aparecem em close entre folhas verdes.",
+      "local": "Mirante Flor de Carajás, Floresta Nacional de Carajás (PA)",
+      "confianca": "confirmado",
+      "contexto": "O grupo faz uma parada para mostrar a flor de Carajás no ambiente de canga.",
+      "marcas": [
+        1537,
+        1566,
+        1575
+      ],
+      "fontes": [
+        "https://proflora.jbrj.gov.br/html/Ipomoea%20cavalcantei_2022.html",
+        "https://www.gov.br/icmbio/pt-br/centrais-de-conteudo/publicacoes/editais-diversos/editais-diversos-2025-1/SEI_022005490_Anexo_F.pdf"
+      ],
+      "tempo_ms": 1580880
+    },
+    {
+      "descricao": "Mirante elevado de madeira com escada e cobertura, visto da trilha de acesso.",
+      "local": "Mirante Flor de Carajás, Floresta Nacional de Carajás (PA)",
+      "confianca": "confirmado",
+      "contexto": "A equipe chega ao segundo mirante e se aproxima para observar a paisagem.",
+      "marcas": [
+        1629,
+        1638
+      ],
+      "fontes": [
+        "https://parauapebas.pa.gov.br/destaque/flona-carajas-recebe-presentes-em-aniversario-de-26-anos/"
+      ],
+      "tempo_ms": 1631000
+    },
+    {
+      "descricao": "Vista ampla do vale coberto de floresta sob nuvens a partir do segundo mirante.",
+      "local": "Mirante Flor de Carajás, Floresta Nacional de Carajás (PA)",
+      "confianca": "confirmado",
+      "contexto": "No final da visita, o apresentador destaca a vista que se abre da estrutura de madeira.",
+      "marcas": [
+        1674,
+        1684,
+        1691
+      ],
+      "fontes": [
+        "https://parauapebas.pa.gov.br/destaque/flona-carajas-recebe-presentes-em-aniversario-de-26-anos/"
+      ],
+      "tempo_ms": 1681640
+    }
+  ]
+}

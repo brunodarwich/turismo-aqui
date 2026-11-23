@@ -1,0 +1,184 @@
+.guide-nav {
+  position: sticky;
+  z-index: 3;
+  top: 0;
+  border-bottom: 1px solid var(--ta-color-line);
+  background: var(--ta-color-white);
+}
+
+.guide-nav .wrap {
+  display: flex;
+  align-items: center;
+  gap: var(--ta-space-5);
+}
+
+.guide-nav a {
+  justify-content: center;
+  min-height: 3.25rem;
+  min-width: var(--ta-layout-target);
+}
+
+#lugares, #mapa, #dicas, #videos, .place { scroll-margin-top: 3.25rem; }
+
+.guide-search {
+  width: min(100%, 22rem);
+  min-width: 0;
+}
+
+.guide-search input { font-size: var(--ta-text-base); }
+
+#empty { margin-block: var(--ta-space-3); }
+
+.ta [hidden] { display: none; }
+
+.place { display: grid; grid-template-rows: auto 1fr auto; }
+
+.place-visual {
+  position: relative;
+  overflow: hidden;
+  aspect-ratio: 2 / 1;
+  background: var(--ta-color-tint);
+}
+
+.place-visual img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.place-visual--marker { display: grid; place-items: center; }
+
+.place-visual--marker img {
+  position: static;
+  width: var(--ta-layout-target);
+  height: auto;
+}
+
+.place-content, .tip { padding: var(--ta-space-5); }
+
+.place-content h3, .tip h3 {
+  font-size: clamp(1.2rem, 2.1vw, 1.55rem);
+  text-wrap: pretty;
+}
+
+.place-category {
+  margin-top: var(--ta-space-1);
+  text-transform: capitalize;
+  color: var(--ta-color-muted);
+  font-size: var(--ta-text-small);
+}
+
+.place-content .ta-button { margin-top: var(--ta-space-2); }
+
+.place-details {
+  padding-inline: var(--ta-space-5);
+  border-top: 1px solid var(--ta-color-line);
+}
+
+.place-details summary, .tip-sources summary {
+  min-height: var(--ta-layout-target);
+  padding-block: var(--ta-space-3);
+  color: var(--ta-color-teal-active);
+  font-size: var(--ta-text-small);
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.tip > p, .place-details p { margin: 0 0 var(--ta-space-3); }
+.tip > h3 { margin-bottom: var(--ta-space-2); }
+.place-details[open] { padding-bottom: var(--ta-space-3); }
+
+.tip > a, .place-details > a {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--ta-layout-target);
+}
+
+.record-sources {
+  margin-block: 0 var(--ta-space-2);
+  padding-left: var(--ta-space-5);
+  overflow-wrap: anywhere;
+}
+
+.record-sources li + li { margin-top: var(--ta-space-2); }
+.ta .record-date { color: var(--ta-color-muted); font-size: var(--ta-text-small); }
+
+.guide-map-section { padding-block: clamp(2.25rem, 5vw, 4rem); }
+.guide-map-copy h2 { margin-bottom: var(--ta-space-4); }
+
+#map-controls label {
+  display: block;
+  margin-bottom: var(--ta-space-2);
+  font-weight: 700;
+}
+
+#map-place {
+  width: min(100%, 20rem);
+  min-height: var(--ta-layout-target);
+  padding: var(--ta-space-2) var(--ta-space-3);
+  border: 1px solid var(--ta-color-input-line);
+  border-radius: var(--ta-radius-control);
+  background: var(--ta-color-white);
+  color: var(--ta-color-ink);
+  font: inherit;
+}
+
+.guide-map-note {
+  margin-block: var(--ta-space-3);
+  color: var(--ta-color-muted);
+  font-size: var(--ta-text-small);
+}
+
+.guide-map-note a {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--ta-layout-target);
+}
+
+.guide-map-frame { box-shadow: var(--ta-shadow-raised); }
+
+.guide-map-frame iframe {
+  display: block;
+  width: 100%;
+  height: clamp(17rem, 32vw, 24rem);
+  border: 0;
+}
+
+.guide-map-frame .ta-notice { border-radius: 0; }
+
+.map-credit {
+  padding: var(--ta-space-2) var(--ta-space-3);
+  color: var(--ta-color-muted);
+  font-size: var(--ta-text-small);
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+@media (max-width: 35rem) {
+  .guide-nav .wrap {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 0;
+  }
+
+  .guide-search { width: 100%; }
+
+  .place {
+    grid-template-columns: min(34%, 8rem) minmax(0, 1fr);
+    grid-template-rows: auto auto;
+  }
+
+  .place-visual { aspect-ratio: auto; min-height: 5.25rem; }
+  .place-content { align-self: center; padding: var(--ta-space-3); }
+  .place-details { grid-column: 1 / -1; padding-inline: var(--ta-space-3); }
+}

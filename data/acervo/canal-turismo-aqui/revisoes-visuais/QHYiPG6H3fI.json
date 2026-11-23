@@ -1,0 +1,135 @@
+{
+  "video_id": "QHYiPG6H3fI",
+  "motivo": "",
+  "quadros": [
+    {
+      "tempo_ms": 8041,
+      "descricao": "Praia com cascalho e pedras na base de uma encosta alta e arborizada.",
+      "local": "Ponta do Cuatá, rio Tapajós, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A abertura retoma a praia visitada no episódio anterior e a situa perto de Ponta de Pedras.",
+      "marcas": [
+        0,
+        8
+      ],
+      "fontes": [
+        "https://www.youtube.com/watch?v=d_ar7-jNwv4"
+      ]
+    },
+    {
+      "tempo_ms": 11979,
+      "descricao": "Rochas escuras e pequenas ondas na beira da faixa de areia clara.",
+      "local": "Ponta do Cuatá, rio Tapajós, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O vídeo retoma a paisagem da Ponta do Cuatá, antes de apresentar a família que recebeu a equipe.",
+      "marcas": [
+        0,
+        8,
+        17
+      ]
+    },
+    {
+      "tempo_ms": 16717,
+      "descricao": "Pessoas conversam em torno de uma mesa com jarra e copos na varanda.",
+      "local": "Ponta do Cuatá, rio Tapajós, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração apresenta a família do Carmo e a história da propriedade.",
+      "marcas": [
+        8,
+        17
+      ]
+    },
+    {
+      "tempo_ms": 21088,
+      "descricao": "Área arborizada com tábuas empilhadas junto aos troncos.",
+      "local": "Ponta do Cuatá, rio Tapajós, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador comenta que a propriedade tem um plantio de seringueiras.",
+      "marcas": [
+        17,
+        22
+      ]
+    },
+    {
+      "tempo_ms": 25626,
+      "descricao": "Entrevistado de camiseta clara aponta para as árvores ao lado de uma construção.",
+      "local": "Ponta do Cuatá, rio Tapajós, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A conversa começa a explicar o plantio de seringueiras feito pelos moradores.",
+      "marcas": [
+        17,
+        22
+      ]
+    },
+    {
+      "tempo_ms": 67167,
+      "descricao": "Entrevistado de óculos fala diante da construção e indica o terreno ao lado.",
+      "local": "Ponta do Cuatá, rio Tapajós, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Ele comenta a existência de seringueiras produtivas e o trabalho com a borracha na região.",
+      "marcas": [
+        50,
+        59,
+        68
+      ]
+    },
+    {
+      "tempo_ms": 75642,
+      "descricao": "Visitantes caminham em fila por uma trilha estreita coberta de folhas.",
+      "local": "Trilha do mirante da Ponta do Cuatá, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração passa da história das seringueiras para a caminhada até o mirante.",
+      "marcas": [
+        68,
+        77
+      ]
+    },
+    {
+      "tempo_ms": 94227,
+      "descricao": "Apresentador de camisa verde caminha de frente para a câmera, com o grupo atrás entre as árvores.",
+      "local": "Trilha do mirante da Ponta do Cuatá, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador explica que a caminhada vai da propriedade até o ponto mais alto da colina.",
+      "marcas": [
+        85,
+        93,
+        101
+      ]
+    },
+    {
+      "tempo_ms": 135369,
+      "descricao": "Grupo chega à estrutura de madeira do mirante entre as árvores.",
+      "local": "Trilha do mirante da Ponta do Cuatá, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A subida anunciada nos minutos anteriores termina no mirante da propriedade.",
+      "marcas": [
+        93,
+        107,
+        126
+      ]
+    },
+    {
+      "tempo_ms": 144244,
+      "descricao": "Visitantes sobem uma escada de madeira em direção à plataforma sob a sombra das árvores.",
+      "local": "Trilha do mirante da Ponta do Cuatá, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O trecho com música mostra o acesso à plataforma do mirante após a trilha.",
+      "marcas": [
+        93,
+        136
+      ]
+    },
+    {
+      "tempo_ms": 158091,
+      "descricao": "Vista elevada da faixa de areia clara e do Tapajós, com a vegetação da ponta no horizonte.",
+      "local": "Mirante da Ponta do Cuatá, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A sequência final mostra a vista sobre o rio do ponto alcançado pela caminhada.",
+      "marcas": [
+        77,
+        93,
+        136
+      ]
+    }
+  ]
+}

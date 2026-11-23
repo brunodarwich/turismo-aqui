@@ -1,0 +1,129 @@
+{
+  "video_id": "F6ACewul5Z4",
+  "motivo": "",
+  "quadros": [
+    {
+      "tempo_ms": 1785,
+      "descricao": "Avenida larga e arborizada com carros estacionados dos dois lados. A legenda em tela anuncia o caminho para o Ver-o-Peso.",
+      "local": "Belém (PA), trajeto para o Ver-o-Peso",
+      "confianca": "confirmado",
+      "contexto": "A viagem até o mercado abre o vídeo com música. O letreiro indica o destino.",
+      "marcas": [
+        0
+      ]
+    },
+    {
+      "tempo_ms": 8208,
+      "descricao": "Pedestres e carrinhos junto à calçada das barracas, sob coberturas brancas em forma de cúpula.",
+      "local": "Complexo do Ver-o-Peso, Belém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A montagem passa do trajeto pela cidade à área externa da feira. A trilha segue sem fala.",
+      "marcas": [
+        0
+      ]
+    },
+    {
+      "tempo_ms": 13814,
+      "descricao": "Corredor de feira sob toldos, com verduras, tomates e frutas verdes em caixas junto aos feirantes.",
+      "local": "Complexo do Ver-o-Peso, Belém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A montagem percorre a feira livre e destaca as bancas de hortaliças. O trecho está sob música.",
+      "marcas": [
+        0
+      ]
+    },
+    {
+      "tempo_ms": 20437,
+      "descricao": "Tigela de açaí ao lado de peixe frito, com colheres coloridas sobre o balcão azulejado.",
+      "local": "Complexo do Ver-o-Peso, Belém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O letreiro em tela identifica o açaí e a montagem destaca a comida servida na feira. O trecho está sob música.",
+      "marcas": [
+        0
+      ]
+    },
+    {
+      "tempo_ms": 24708,
+      "descricao": "Frequentadores sentados em bancos de madeira diante de um balcão de refeições com atendentes atrás.",
+      "local": "Complexo do Ver-o-Peso, Belém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A montagem amplia a vista do setor de refeições depois de mostrar os pratos. O trecho está sob música.",
+      "marcas": [
+        0
+      ]
+    },
+    {
+      "tempo_ms": 29963,
+      "descricao": "Vendedor de camisa branca ao lado de uma balança, atrás de um balcão de pescado no galpão do mercado.",
+      "local": "Complexo do Ver-o-Peso, Belém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O vendedor chama a atenção para dourada, filhote e pescada amarela.",
+      "marcas": [
+        29
+      ]
+    },
+    {
+      "tempo_ms": 32666,
+      "descricao": "Fileira de peixes inteiros com as caudas voltadas para fora do balcão. Atrás, um feirante prepara o pescado.",
+      "local": "Complexo do Ver-o-Peso, Belém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A montagem retoma a música após o pregão de pescados e apresenta a oferta de peixes amazônicos.",
+      "marcas": [
+        29,
+        32
+      ]
+    },
+    {
+      "tempo_ms": 36186,
+      "descricao": "Plano aberto do salão de pescado, com bancas sob um telhado alto de estrutura metálica.",
+      "local": "Complexo do Ver-o-Peso, Belém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A montagem mostra o espaço interno do galpão antes de mudar para a apresentação de Beth Cheirosinha.",
+      "marcas": [
+        32
+      ]
+    },
+    {
+      "tempo_ms": 39289,
+      "descricao": "Beth Cheirosinha fala diante de fios de pequenos frascos coloridos e enfeites pendurados em sua banca.",
+      "local": "Complexo do Ver-o-Peso, Belém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A identificação de Beth aparece em tela. Durante a apresentação, ela situa a fala no Ver-o-Peso, em Belém.",
+      "marcas": [
+        38,
+        41
+      ]
+    },
+    {
+      "tempo_ms": 44912,
+      "descricao": "Garrafas com rótulos brancos pendem de cordões à frente de prateleiras com outros frascos e pacotes.",
+      "local": "Complexo do Ver-o-Peso, Belém (PA)",
+      "confianca": "confirmado",
+      "contexto": "Após a apresentação de Beth Cheirosinha, volta a música sobre imagens das bancas.",
+      "marcas": [
+        41,
+        44
+      ]
+    },
+    {
+      "tempo_ms": 49566,
+      "descricao": "Camarões de tamanhos e tons variados ocupam bandejas brancas com preços escritos à mão.",
+      "local": "Complexo do Ver-o-Peso, Belém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O encerramento musical mostra mais produtos da feira enquanto o texto em tela aponta para o vídeo completo.",
+      "marcas": [
+        44
+      ]
+    },
+    {
+      "tempo_ms": 54838,
+      "descricao": "Balcão de comida com recipientes brancos, jarras metálicas, condimentos e atendentes trabalhando ao fundo.",
+      "local": "Complexo do Ver-o-Peso, Belém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A sequência musical de encerramento retorna ao setor de alimentação.",
+      "marcas": [
+        44
+      ]
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "video_id": "Ysoi1za5Zf4",
+  "motivo": "",
+  "quadros": [
+    {
+      "descricao": "Emanuel Júlio e Railson Rodrigues, identificados pelas legendas, aparecem nos bancos da frente do carro na abertura do vídeo.",
+      "local": "Novo Repartimento, PA",
+      "confianca": "confirmado",
+      "contexto": "Os dois anunciam a saída pela Transamazônica em direção a Marabá, com uma parada em Itupiranga.",
+      "marcas": [
+        0,
+        8,
+        17
+      ],
+      "fontes": [
+        "https://www.gov.br/transportes/pt-br/assuntos/noticias/2021/6/governo-federal-conclui-pavimentacao-de-trecho-paraense-da-transamazonica"
+      ],
+      "tempo_ms": 9560
+    },
+    {
+      "descricao": "Entroncamento visto pelo para-brisa com gotas de chuva, canteiros e estabelecimentos comerciais ao fundo.",
+      "local": "Entroncamento BR-230–BR-422, Novo Repartimento, PA",
+      "confianca": "confirmado",
+      "contexto": "Ao sair de Novo Repartimento, o apresentador descreve o caminho para Tucuruí e a saída que a equipe toma no sentido de Itupiranga e Marabá.",
+      "marcas": [
+        47,
+        56,
+        64,
+        71
+      ],
+      "fontes": [
+        "https://www.gov.br/dnit/pt-br/assuntos/noticias/dnit-conclui-pavimentacao-em-trecho-de-60-quilometros-na-br-422-no-para-1"
+      ],
+      "tempo_ms": 75920
+    },
+    {
+      "descricao": "Limpadores cruzam o para-brisa molhado, com construções baixas e pista asfaltada à frente.",
+      "local": "BR-230 (Transamazônica), saída de Novo Repartimento, PA",
+      "confianca": "confirmado",
+      "contexto": "A equipe segue com chuva enquanto o apresentador recorda a passagem anterior e comenta a situação da pavimentação no trajeto de 2024.",
+      "marcas": [
+        87,
+        95,
+        103,
+        126,
+        135
+      ],
+      "fontes": [
+        "https://www.gov.br/transportes/pt-br/assuntos/noticias/2021/6/governo-federal-conclui-pavimentacao-de-trecho-paraense-da-transamazonica"
+      ],
+      "tempo_ms": 108800
+    },
+    {
+      "descricao": "Curva da rodovia com defensas metálicas, palmeiras e céu azul entre nuvens.",
+      "local": "BR-230 (Transamazônica), trecho Novo Repartimento–Itupiranga, PA",
+      "confianca": "confirmado",
+      "contexto": "Depois do trecho chuvoso, o grupo volta a mostrar o asfalto da Transamazônica e compara a viagem com o percurso do ano anterior.",
+      "marcas": [
+        126,
+        135,
+        144
+      ],
+      "fontes": [
+        "https://www.gov.br/transportes/pt-br/assuntos/noticias/2021/6/governo-federal-conclui-pavimentacao-de-trecho-paraense-da-transamazonica"
+      ],
+      "tempo_ms": 125640
+    },
+    {
+      "descricao": "Carreta de laterais altas na beira do asfalto, diante da passagem entre casas, postes e árvores.",
+      "local": "Distrito de Cajazeiras, Itupiranga, PA",
+      "confianca": "confirmado",
+      "contexto": "O apresentador identifica Cajazeiras, distrito de Itupiranga, durante a passagem pela vila na Transamazônica.",
+      "marcas": [
+        166,
+        173,
+        184,
+        193
+      ],
+      "fontes": [
+        "https://itupiranga.pa.gov.br/o-municipio/historia/"
+      ],
+      "tempo_ms": 175360
+    },
+    {
+      "descricao": "Placa de distâncias na margem da rodovia. Indica Marabá a 46 km, BR-222 a 53 km e São Domingos do Araguaia mais adiante.",
+      "local": "BR-230 (Transamazônica), trecho Novo Repartimento–Itupiranga, PA",
+      "confianca": "confirmado",
+      "contexto": "Ainda na Transamazônica, o apresentador lê a sinalização e confirma que está se aproximando do acesso a Itupiranga.",
+      "marcas": [
+        215,
+        225,
+        253
+      ],
+      "fontes": [
+        "https://itupiranga.pa.gov.br/o-municipio/historia/"
+      ],
+      "tempo_ms": 225280
+    },
+    {
+      "descricao": "Trecho da BR-230 com caminhão à frente e placa azul indicando o perímetro urbano de Marechal Castelo Branco.",
+      "local": "Agrovila Marechal Castelo Branco, Itupiranga, PA",
+      "confianca": "confirmado",
+      "contexto": "Antes da parada na sede de Itupiranga, a equipe passa pela área sinalizada de Marechal Castelo Branco.",
+      "marcas": [
+        225,
+        253,
+        260
+      ],
+      "fontes": [
+        "https://seinfra.pa.gov.br/mapas/nr/NR06c-2018.pdf"
+      ],
+      "tempo_ms": 259160
+    },
+    {
+      "descricao": "Placa verde de boas-vindas a Itupiranga junto ao cruzamento em uma área de vegetação e céu aberto.",
+      "local": "Entroncamento BR-230–PA-268, Itupiranga, PA",
+      "confianca": "confirmado",
+      "contexto": "A equipe deixa a Transamazônica no ramal para a sede de Itupiranga antes de prosseguir para Marabá.",
+      "marcas": [
+        260,
+        270,
+        277,
+        284,
+        291
+      ],
+      "fontes": [
+        "https://itupiranga.pa.gov.br/o-governo/estrutura-organizacional/secretaria-municipal-de-infraestrutura/"
+      ],
+      "tempo_ms": 292440
+    },
+    {
+      "descricao": "Canoas coloridas na margem do Tocantins vistas da calçada da orla, com corrimão verde e vermelho em primeiro plano.",
+      "local": "Orla Municipal de Itupiranga, PA",
+      "confianca": "confirmado",
+      "contexto": "A equipe chega à beira do Tocantins no fim da tarde. O apresentador menciona o encontro dos moradores na orla e comenta a paisagem do rio.",
+      "marcas": [
+        346,
+        354,
+        363,
+        371,
+        378
+      ],
+      "fontes": [
+        "https://itupiranga.pa.gov.br/o-municipio/turismo-e-lazer/"
+      ],
+      "tempo_ms": 375680
+    },
+    {
+      "descricao": "Vista aérea da orla de Itupiranga, com embarcações atracadas, estacionamento e área verde junto ao Tocantins.",
+      "local": "Orla Municipal de Itupiranga, PA",
+      "confianca": "confirmado",
+      "contexto": "O drone sobe a partir da margem para mostrar a área pública às margens do rio.",
+      "marcas": [
+        386,
+        394,
+        401,
+        409
+      ],
+      "fontes": [
+        "https://itupiranga.pa.gov.br/o-municipio/turismo-e-lazer/"
+      ],
+      "tempo_ms": 408960
+    },
+    {
+      "descricao": "Vista aérea de ruas, árvores e casas de telha na área urbana de Itupiranga.",
+      "local": "Itupiranga, PA",
+      "confianca": "confirmado",
+      "contexto": "Enquanto o drone se volta para as quadras da cidade, o apresentador comenta a história municipal e a economia da região.",
+      "marcas": [
+        417,
+        425,
+        434,
+        444
+      ],
+      "fontes": [
+        "https://itupiranga.pa.gov.br/o-municipio/historia/"
+      ],
+      "tempo_ms": 442240
+    },
+    {
+      "descricao": "Panorama aéreo de Itupiranga, com casas e ruas no primeiro plano e o rio Tocantins ao fundo.",
+      "local": "Itupiranga, PA",
+      "confianca": "confirmado",
+      "contexto": "O panorama encerra a parada em Itupiranga antes do retorno à estrada. A narração situa a cidade entre Novo Repartimento e Marabá.",
+      "marcas": [
+        462,
+        469,
+        477,
+        485
+      ],
+      "fontes": [
+        "https://itupiranga.pa.gov.br/o-municipio/historia/",
+        "https://itupiranga.pa.gov.br/o-municipio/turismo-e-lazer/"
+      ],
+      "tempo_ms": 475520
+    },
+    {
+      "descricao": "Avenida de Marabá com canteiro, palmeiras, veículos e fachadas comerciais, registrada na luz do fim da tarde.",
+      "local": "Marabá, PA",
+      "confianca": "confirmado",
+      "contexto": "Após anunciar a chegada, o apresentador comenta a função de Marabá como centro comercial regional.",
+      "marcas": [
+        493,
+        507,
+        525,
+        549,
+        563
+      ],
+      "fontes": [],
+      "tempo_ms": 558120
+    },
+    {
+      "descricao": "Travessia rodoviária urbana com barreiras de concreto pintadas de amarelo, postes e vegetação ao fundo, vista pelo para-brisa.",
+      "local": "Marabá, PA",
+      "confianca": "confirmado",
+      "contexto": "A câmera registra a passagem por uma ponte no fim do trajeto, enquanto o apresentador conclui o relato da formação econômica de Marabá.",
+      "marcas": [
+        563,
+        571,
+        580,
+        588,
+        596
+      ],
+      "fontes": [],
+      "tempo_ms": 591400
+    }
+  ]
+}

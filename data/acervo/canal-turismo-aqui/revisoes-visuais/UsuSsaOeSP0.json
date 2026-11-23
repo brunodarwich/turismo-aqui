@@ -1,0 +1,149 @@
+{
+  "video_id": "UsuSsaOeSP0",
+  "quadros": [
+    {
+      "tempo_ms": 42000,
+      "descricao": "Pequeno grupo segue por uma trilha de terra cercada por capim alto e árvores.",
+      "local": "Acesso à Caverna do Divino, Rurópolis (PA)",
+      "confianca": "confirmado",
+      "contexto": "A trilha aparece após a introdução do passeio. Logo adiante, o guia explica a descida até a caverna.",
+      "marcas": [
+        31,
+        37,
+        67,
+        75
+      ]
+    },
+    {
+      "tempo_ms": 68560,
+      "descricao": "O guia de boné olha para a vegetação à beira da trilha. O letreiro identifica Diego Mota, da ADTUR Itaituba.",
+      "local": "Acesso à Caverna do Divino, Rurópolis (PA)",
+      "confianca": "confirmado",
+      "contexto": "Diego explica o percurso de aproximação e apresenta o local como Caverna do Divino, também chamada de Caverna do Lucas.",
+      "marcas": [
+        60,
+        67,
+        75
+      ]
+    },
+    {
+      "tempo_ms": 122880,
+      "descricao": "O grupo se reúne junto a um paredão úmido com vegetação pendente, na área sombreada que antecede a entrada.",
+      "local": "Caverna do Divino, Rurópolis (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador anuncia a entrada na caverna após a descida pela trilha.",
+      "marcas": [
+        112,
+        122,
+        130
+      ]
+    },
+    {
+      "tempo_ms": 204800,
+      "descricao": "O guia e um visitante com capacete iluminam a parede rochosa com lanternas, junto a uma passagem escura.",
+      "local": "Caverna do Divino, Rurópolis (PA)",
+      "confianca": "confirmado",
+      "contexto": "A conversa aborda os sinais que o grupo observa nas paredes e a relação da terra preta com antigos assentamentos.",
+      "marcas": [
+        203,
+        212
+      ]
+    },
+    {
+      "tempo_ms": 449320,
+      "descricao": "Linhas claras partem de um ponto na superfície escura da rocha, visíveis sob o feixe de luz.",
+      "local": "Caverna do Divino, Rurópolis (PA)",
+      "confianca": "confirmado",
+      "contexto": "Os visitantes comparam o desenho a um sol ou mandala e levantam hipóteses sobre o material dos traços.",
+      "marcas": [
+        445,
+        454
+      ]
+    },
+    {
+      "tempo_ms": 503240,
+      "descricao": "O guia e outros visitantes observam uma área iluminada em uma parede rochosa com faixas ocres e escuras.",
+      "local": "Caverna do Divino, Rurópolis (PA)",
+      "confianca": "confirmado",
+      "contexto": "O grupo é convidado a chegar mais perto para observar marcas que um dos participantes atribui a garras de preguiça.",
+      "marcas": [
+        496,
+        503,
+        511
+      ]
+    },
+    {
+      "tempo_ms": 584960,
+      "descricao": "A boca da caverna se abre sob um teto alto. Visitantes parecem pequenos diante da rocha e da mata iluminada.",
+      "local": "Caverna do Divino, Rurópolis (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador comenta a escala da formação natural durante a saída da primeira caverna.",
+      "marcas": [
+        581,
+        589
+      ]
+    },
+    {
+      "tempo_ms": 694080,
+      "descricao": "O grupo caminha por uma área aberta de chão de terra diante de um paredão parcialmente coberto de mata.",
+      "local": "Caverna da Dorinha, Rurópolis (PA)",
+      "confianca": "confirmado",
+      "contexto": "Na segunda parada, o grupo chega ao complexo da Dorinha e comenta o tamanho da formação.",
+      "marcas": [
+        629,
+        686
+      ],
+      "fontes": [
+        "https://pevpa.fapespa.pa.gov.br/Revistas_2024/TAPAJOS/PEV2024_TAPAJOS_RUR%C3%93POLIS.pdf"
+      ]
+    },
+    {
+      "tempo_ms": 748200,
+      "descricao": "Um paredão com camadas aparentes domina o lado direito da imagem. À esquerda, há árvores e pessoas na base da rocha.",
+      "local": "Caverna da Dorinha, Rurópolis (PA)",
+      "confianca": "confirmado",
+      "contexto": "A equipe observa a extensão do paredão e indica a pequena caverna a ser visitada.",
+      "marcas": [
+        744,
+        752,
+        760
+      ]
+    },
+    {
+      "tempo_ms": 829280,
+      "descricao": "Uma lanterna revela tons rosados e avermelhados nas camadas do teto baixo. O guia observa a rocha de baixo.",
+      "local": "Caverna da Dorinha, Rurópolis (PA)",
+      "confianca": "confirmado",
+      "contexto": "O guia diferencia a cavidade como um abrigo pequeno e comenta as cores da rocha.",
+      "marcas": [
+        827,
+        833,
+        841
+      ]
+    },
+    {
+      "tempo_ms": 911440,
+      "descricao": "Do alto da margem de pedra, vê-se uma piscina natural esverdeada entre árvores e visitantes nas bordas.",
+      "local": "Caverna da Dorinha, Rurópolis (PA)",
+      "confianca": "confirmado",
+      "contexto": "O grupo mostra a área da Dorinha antes da conversa sobre o apoio do Sebrae aos empreendimentos turísticos locais.",
+      "marcas": [
+        900,
+        908,
+        916,
+        923
+      ]
+    },
+    {
+      "tempo_ms": 965560,
+      "descricao": "Rua do centro de Rurópolis com lojas, veículos e postes, vista de dentro do carro. O letreiro indica o fim da visita.",
+      "local": "Centro de Rurópolis (PA)",
+      "confianca": "confirmado",
+      "contexto": "O letreiro muda o cenário para o centro da cidade no encerramento da reportagem. A fala final ainda aborda o apoio aos empreendedores.",
+      "marcas": [
+        956,
+        964
+      ]
+    }
+  ]
+}

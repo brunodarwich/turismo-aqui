@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Acesso ao site, à revista, aos acervos e aos materiais do Turismo Aqui.">
+  <title>Central Turismo Aqui</title>
+  <link rel="icon" type="image/png" href="design-system/assets/icone-turismo-aqui.png">
+  <link rel="stylesheet" href="design-system/tokens.css">
+  <link rel="stylesheet" href="design-system/components.css">
+  <link rel="stylesheet" href="site/style.css">
+  <link rel="stylesheet" href="site/landing.css">
+</head>
+<body class="ta">
+  <a class="skip ta-button ta-button--primary" href="#conteudo">Pular para o conteúdo</a>
+  <header class="site-header">
+    <div class="wrap site-nav">
+      <a class="brand" href="./" aria-label="Central Turismo Aqui">
+        <img src="design-system/assets/turismo-aqui.svg" alt="Turismo Aqui" width="96" height="104">
+      </a>
+      <nav aria-label="Seções da central">
+        <a class="nav-link" href="#produtos">Explore</a>
+        <a class="nav-link" href="#acervo">Acervo</a>
+        <a class="nav-link" href="#materiais">Materiais</a>
+        <a class="nav-link" href="#documentacao">Documentação</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="conteudo">
+    <section class="hub-hero" aria-labelledby="hero-title">
+      <div class="wrap hub-hero-content">
+        <h1 id="hero-title">Central <em>Turismo Aqui</em></h1>
+        <div class="section-actions">
+          <a class="ta-button ta-button--accent" href="site/">Abrir o site</a>
+          <a class="ta-button ta-button--inverse" href="entregaveis/catalogo-visual/">Biblioteca de imagens</a>
+        </div>
+      </div>
+      <figure class="hub-hero-media">
+        <img src="entregaveis/catalogo-visual/imagens/PzeWRK_Xwyo/000870567.jpg"
+             alt="Ponta de areia de Tucumã vista do alto, entre o rio Arapiuns e a vegetação" width="1920" height="1080" fetchpriority="high">
+        <figcaption><a href="https://www.youtube.com/watch?v=PzeWRK_Xwyo&amp;t=870s">Ponta do Tucumã · Turismo Aqui, 14:30</a></figcaption>
+      </figure>
+    </section>
+
+    <section id="produtos" class="hub-section wrap" aria-labelledby="produtos-titulo">
+      <h2 id="produtos-titulo">Explore</h2>
+      <div class="hub-grid">
+        <a class="ta-card hub-card" href="site/">
+          <img src="entregaveis/central/site.webp" alt="" width="640" height="320" decoding="async">
+          <h3>Site Turismo Aqui</h3>
+        </a>
+        <a class="ta-card hub-card" href="site/blog.html">
+          <img src="entregaveis/central/blog.webp" alt="" width="640" height="320" decoding="async">
+          <h3>Blog e revista</h3>
+        </a>
+        <a class="ta-card hub-card" href="app/">
+          <img src="entregaveis/central/app.webp" alt="" width="640" height="320" decoding="async">
+          <h3>App de destinos</h3>
+        </a>
+      </div>
+    </section>
+
+    <section id="acervo" class="hub-section wrap" aria-labelledby="acervo-titulo">
+      <h2 id="acervo-titulo">Acervo editorial</h2>
+      <div class="hub-grid">
+        <a class="ta-card hub-card" href="entregaveis/catalogo-visual/">
+          <img src="entregaveis/central/imagens.webp" alt="" width="640" height="320" loading="lazy" decoding="async">
+          <h3>Biblioteca de imagens</h3>
+        </a>
+        <a class="ta-card hub-card" href="entregaveis/transcricoes-revisadas/painel.html">
+          <img src="entregaveis/central/transcricoes.webp" alt="" width="640" height="320" loading="lazy" decoding="async">
+          <h3>Painel de transcrições</h3>
+        </a>
+        <a class="ta-card hub-card" href="data/acervo/canal-turismo-aqui/catalogo.md">
+          <img src="entregaveis/central/catalogo.webp" alt="" width="640" height="320" loading="lazy" decoding="async">
+          <h3>Catálogo do canal</h3>
+        </a>
+      </div>
+      <details class="hub-details">
+        <summary>Mais arquivos do acervo</summary>
+        <ul class="resource-links">
+          <li><a href="entregaveis/catalogo-visual/quadros.csv">Quadros em CSV</a></li>
+          <li><a href="entregaveis/catalogo-visual/cobertura.csv">Cobertura do catálogo em CSV</a></li>
+          <li><a href="entregaveis/transcricoes-revisadas/txt/">Transcrições em TXT</a></li>
+          <li><a href="producao/revisao_transcricoes/">Arquivos de revisão das transcrições</a></li>
+          <li><a href="data/acervo/canal-turismo-aqui/transcricoes/">Transcrições do canal</a></li>
+          <li><a href="data/acervo/canal-turismo-aqui/links.md">Links das publicações</a></li>
+          <li><a href="data/base.json">Base editorial em JSON</a></li>
+          <li><a href="data/tabelas/">Tabelas da base em CSV</a></li>
+        </ul>
+      </details>
+    </section>
+
+    <section id="materiais" class="hub-section wrap" aria-labelledby="materiais-titulo">
+      <h2 id="materiais-titulo">Materiais</h2>
+      <div class="hub-grid">
+        <a class="ta-card hub-card" href="entregaveis/guia-alter-do-chao-prototipo.pdf">
+          <img src="entregaveis/central/ebook.webp" alt="" width="640" height="320" loading="lazy" decoding="async">
+          <h3>Guia de Alter do Chão</h3>
+          <span class="hub-card-meta">PDF</span>
+        </a>
+        <a class="ta-card hub-card" href="entregaveis/guia-alter.webm?v=161e4bc1d53f">
+          <img src="entregaveis/central/video.webp?v=90009c8536bb" alt="" width="640" height="320" loading="lazy" decoding="async">
+          <h3>Vídeo do guia</h3>
+        </a>
+        <a class="ta-card hub-card" href="entregaveis/redes-sociais/">
+          <img src="entregaveis/central/redes.webp" alt="" width="640" height="320" loading="lazy" decoding="async">
+          <h3>Peças para redes sociais</h3>
+          <span class="hub-card-meta">10 imagens</span>
+        </a>
+        <a id="corte-catraieiros" class="ta-card hub-card" href="entregaveis/corte-turismo-aqui/de-catraia-a-ilha-do-amor-60s.mp4">
+          <img src="entregaveis/central/corte-catraieiros.webp?v=2" alt="" width="640" height="320" loading="lazy" decoding="async">
+          <h3>De catraia à Ilha do Amor</h3>
+          <span class="hub-card-meta">Vídeo · 1 min</span>
+        </a>
+      </div>
+      <details class="hub-details">
+        <summary>Mais vídeos e arquivos originais</summary>
+        <ul class="resource-links">
+          <li><a href="entregaveis/terra-a-noite/terra-a-noite-60s.mp4">A Terra à noite vista do espaço · vídeo de 1 min</a></li>
+          <li><a href="entregaveis/terra-a-noite/roteiro-terra-a-noite.md">Roteiro e créditos do vídeo da Terra à noite</a></li>
+          <li><a href="https://github.com/brunodarwich/turismo-aqui/releases/download/acervo-original/turismo-aqui-IwLYaCVu5BI-original-1080p.mp4">Episódio dos catraieiros · baixar original em MP4</a></li>
+          <li><a href="https://github.com/brunodarwich/turismo-aqui/releases/download/acervo-original/earth-illuminated-original-720p.mov">Earth Illuminated · baixar original em MOV</a></li>
+        </ul>
+      </details>
+      <details class="hub-details">
+        <summary>Arquivos e capturas do piloto</summary>
+        <ul class="resource-links">
+          <li><a href="entregaveis/guia-alter.vtt?v=836ed6c2cc48">Legendas do vídeo em VTT</a></li>
+          <li><a href="producao/roteiro-video.md">Roteiro do vídeo</a></li>
+          <li><a href="entregaveis/corte-turismo-aqui/roteiro-catraieiros.md">Roteiro do corte dos catraieiros</a></li>
+          <li><a href="producao/legendas-redes.md">Legendas das peças sociais</a></li>
+          <li><a href="producao/materiais.json">Manifesto de produção</a></li>
+          <li><a href="entregaveis/video-preview.png?v=2cf9471e1e44">Prévia do vídeo</a></li>
+          <li><a href="entregaveis/revisao-pdf/">Páginas de revisão do ebook</a></li>
+          <li><a href="entregaveis/app-preview.png">App em desktop</a></li>
+          <li><a href="entregaveis/app-mobile.png">App em celular</a></li>
+          <li><a href="entregaveis/site-preview.png">Site em desktop</a></li>
+          <li><a href="entregaveis/site-mobile.png">Site em celular</a></li>
+        </ul>
+      </details>
+    </section>
+
+    <section id="documentacao" class="hub-section wrap" aria-labelledby="documentacao-titulo">
+      <h2 id="documentacao-titulo">Design e documentação</h2>
+      <div class="hub-grid">
+        <a class="ta-card hub-card" href="design-system/">
+          <img src="entregaveis/central/design.webp" alt="" width="640" height="320" loading="lazy" decoding="async">
+          <h3>Design system oficial</h3>
+        </a>
+        <a class="ta-card hub-card" href="docs/OPERACAO_EDITORIAL.md">
+          <img src="entregaveis/central/operacao.webp" alt="" width="640" height="320" loading="lazy" decoding="async">
+          <h3>Operação editorial</h3>
+        </a>
+        <a class="ta-card hub-card" href="data/PESQUISA_E_PROCEDENCIA.md">
+          <img src="entregaveis/central/pesquisa.webp" alt="" width="640" height="320" loading="lazy" decoding="async">
+          <h3>Pesquisa e procedência</h3>
+        </a>
+      </div>
+      <details class="hub-details">
+        <summary>Guias e arquivos da marca</summary>
+        <ul class="resource-links">
+          <li><a href="docs/CADERNO_VISUAL_PROVISORIO.md">Caderno de identidade</a></li>
+          <li><a href="docs/PROJETO_E_RETOMADA.md">Projeto e retomada</a></li>
+          <li><a href="PLANO_TURISMO_AQUI_PROTOTIPO.md">Plano do piloto</a></li>
+          <li><a href="design-system/assets/turismo-aqui.png">Logo em PNG</a></li>
+          <li><a href="design-system/assets/turismo-aqui.svg">Logo em SVG</a></li>
+          <li><a href="design-system/assets/icone-turismo-aqui.png">Ícone em PNG</a></li>
+          <li><a href="design-system/assets/icone-turismo-aqui.ico">Ícone para Windows</a></li>
+          <li><a href="design-system/tokens.json">Tokens em JSON</a></li>
+          <li><a href="README.md">Instruções do projeto</a></li>
+        </ul>
+      </details>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap landing-footer">
+      <span>Turismo Aqui</span>
+      <a href="https://www.youtube.com/@TurismoAqui">Canal no YouTube</a>
+    </div>
+  </footer>
+</body>
+</html>

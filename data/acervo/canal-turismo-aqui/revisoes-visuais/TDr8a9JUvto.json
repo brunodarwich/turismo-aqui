@@ -1,0 +1,243 @@
+{
+  "video_id": "TDr8a9JUvto",
+  "motivo": "",
+  "quadros": [
+    {
+      "tempo_ms": 19200,
+      "descricao": "Emanuel Júlio e Railson aparecem ao lado de um carro branco, com palmeiras e a calçada da orla atrás.",
+      "contexto": "O apresentador anuncia a viagem de Altamira a Novo Repartimento e apresenta Railson, que dirige o carro.",
+      "marcas": [
+        9,
+        19,
+        26,
+        32
+      ],
+      "local": "Orla do Xingu, Altamira (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 54560,
+      "descricao": "Calçada ladeada por palmeiras, com uma estrutura decorativa alta à esquerda e um prédio com varanda à direita.",
+      "contexto": "Antes de pegar a rodovia, o apresentador mostra a orla e comenta as condições do tempo na manhã de saída.",
+      "marcas": [
+        32,
+        49,
+        57,
+        63
+      ],
+      "local": "Orla do Xingu, Altamira (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 126440,
+      "descricao": "Rua asfaltada à margem do rio, com árvores baixas e uma carreta vermelha estacionada no acostamento.",
+      "contexto": "O grupo passa ainda perto do Xingu enquanto segue para fora da área urbana de Altamira.",
+      "marcas": [
+        113,
+        121,
+        128,
+        136
+      ],
+      "local": "Altamira (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 162600,
+      "descricao": "Ilha de rotatória com mureta listrada de amarelo e preto, postes e palmeiras no entorno.",
+      "contexto": "Ao passar pela rotatória, o apresentador indica a aproximação da ponte sobre o rio Altamira.",
+      "marcas": [
+        151,
+        158,
+        167
+      ],
+      "local": "Altamira (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 306800,
+      "descricao": "Pista de mão dupla desce entre margens verdes, com sinalização de curva e morros ao longe.",
+      "contexto": "Na Transamazônica, o apresentador comenta que a hidrelétrica de Belo Monte começa a aparecer ao longe.",
+      "marcas": [
+        297,
+        306,
+        312,
+        318
+      ],
+      "local": "BR-230 (Transamazônica), Pará",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 414040,
+      "descricao": "Estrutura comprida de concreto da Usina de Belo Monte, com módulos alinhados além do guarda-corpo da ponte.",
+      "contexto": "O vídeo mostra de perto a estrutura da hidrelétrica antes de chegar ao local de travessia do rio Xingu.",
+      "marcas": [
+        372,
+        386,
+        412,
+        422
+      ],
+      "local": "Usina Hidrelétrica de Belo Monte, Vitória do Xingu (PA)",
+      "confianca": "confirmado",
+      "fontes": [
+        "https://www.norteenergiasa.com.br/media/gallery/docs/46o-relatorio-bndes-belo-monte-jul-a-set.pdf"
+      ]
+    },
+    {
+      "tempo_ms": 485960,
+      "descricao": "Pelo para-brisa, vê-se a rampa metálica da balsa e veículos já embarcados no convés.",
+      "contexto": "O apresentador registra o embarque para cruzar o Xingu e comenta a ocupação da balsa.",
+      "marcas": [
+        473,
+        482,
+        491
+      ],
+      "local": "Travessia de Belo Monte, rio Xingu, entre Vitória do Xingu e Anapu (PA)",
+      "confianca": "confirmado",
+      "fontes": [
+        "https://www.gov.br/dnit/pt-br/assuntos/noticias/dnit-executa-melhorias-no-acesso-a-balsa-de-belo-monte-na-br-230-pa/"
+      ]
+    },
+    {
+      "tempo_ms": 522560,
+      "descricao": "Acesso pela rampa ao convés, com uma lateral gradeada sob faixa amarela e um caminhão junto à outra borda.",
+      "contexto": "O grupo espera o fim do embarque e comenta a circulação de veículos pela travessia.",
+      "marcas": [
+        513,
+        521,
+        529
+      ],
+      "local": "Travessia de Belo Monte, rio Xingu, entre Vitória do Xingu e Anapu (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 629760,
+      "descricao": "Caminhonete de porta aberta e ônibus ocupam o convés ao lado do corredor coberto de guarda-corpo azul.",
+      "contexto": "Durante a travessia, o apresentador comenta a operação simultânea das balsas e a movimentação de veículos.",
+      "marcas": [
+        620,
+        628,
+        637
+      ],
+      "local": "Travessia de Belo Monte, rio Xingu, entre Vitória do Xingu e Anapu (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 666440,
+      "descricao": "Vista da água para um canteiro junto à margem, com guindaste, máquinas, terra exposta e embarcações de apoio.",
+      "contexto": "O grupo observa as obras iniciais da ponte que ligaria as duas margens na Transamazônica.",
+      "marcas": [
+        637,
+        654,
+        662,
+        669
+      ],
+      "local": "Obras da Ponte do Xingu, BR-230 (PA)",
+      "confianca": "confirmado",
+      "fontes": [
+        "https://www.gov.br/dnit/pt-br/assuntos/noticias/na-transamazonica-dnit-executa-fundacao-da-ponte-do-xingu-na-br-230-pa/"
+      ]
+    },
+    {
+      "tempo_ms": 737600,
+      "descricao": "Carros e ônibus saem da rampa da balsa entre duas estruturas azuis na chegada à margem.",
+      "contexto": "O grupo encerra a travessia e comenta como as balsas conectam as rodovias amazônicas.",
+      "marcas": [
+        726,
+        734,
+        742,
+        750
+      ],
+      "local": "Travessia de Belo Monte, rio Xingu, entre Vitória do Xingu e Anapu (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 882080,
+      "descricao": "Vista aérea de uma via central larga, cercada por casas, com um prédio branco e árvores em primeiro plano.",
+      "contexto": "Em Anapu, a montagem aérea acompanha o relato sobre vilas que cresceram no entorno da abertura da Transamazônica.",
+      "marcas": [
+        807,
+        814,
+        870,
+        877,
+        886
+      ],
+      "local": "Anapu (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 918080,
+      "descricao": "Vista aérea oblíqua de Anapu, com faixa gramada, uma passarela sobre a via e telhados no lado direito.",
+      "contexto": "O apresentador mostra a passarela de Anapu e comenta sua função para quem precisa atravessar a rodovia.",
+      "marcas": [
+        903,
+        929,
+        936,
+        945
+      ],
+      "local": "Anapu (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1025440,
+      "descricao": "Trecho de terra vermelha sobe por uma encosta gramada, emoldurado por vegetação e céu azul.",
+      "contexto": "Depois de Pacajá, o apresentador volta a mostrar um trecho que ainda estava sem pavimentação na época da gravação.",
+      "marcas": [
+        1017,
+        1024,
+        1034
+      ],
+      "local": "BR-230 (Transamazônica), Pará",
+      "confianca": "confirmado",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1133480,
+      "descricao": "Trecho asfaltado em curva, com construções baixas, jardins e um caminhão parado no acostamento.",
+      "contexto": "O grupo registra a passagem pela região de Maracajá, distrito de Novo Repartimento.",
+      "marcas": [
+        1109,
+        1117,
+        1126
+      ],
+      "local": "Maracajá, Novo Repartimento (PA)",
+      "confianca": "provável",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1241640,
+      "descricao": "Rodovia asfaltada sobe entre vegetação e fachadas junto à entrada do município.",
+      "contexto": "O apresentador comenta o asfalto no trecho final, pouco antes de identificar a chegada a Novo Repartimento.",
+      "marcas": [
+        1233,
+        1241,
+        1252
+      ],
+      "local": "Novo Repartimento (PA)",
+      "confianca": "provável",
+      "fontes": []
+    },
+    {
+      "tempo_ms": 1277520,
+      "descricao": "Avenida central arborizada divide um conjunto de construções baixas em uma vista aérea de Novo Repartimento.",
+      "contexto": "O vídeo encerra com vistas da cidade enquanto o apresentador comenta seu crescimento associado à rodovia e à hidrelétrica de Tucuruí.",
+      "marcas": [
+        1268,
+        1276,
+        1283
+      ],
+      "local": "Novo Repartimento (PA)",
+      "confianca": "confirmado",
+      "fontes": []
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+Transcrição auxiliar automática em português
+Vídeo k-kkco1oFjw · Turismo Aqui
+Reconhecimento local do áudio com faster-whisper e o modelo whisper-small (CPU INT8, VAD). As marcas indicam o início dos segmentos, arredondado para baixo ao segundo inteiro. Há palavras e passagens de reconhecimento incerto. Consulte a edição revisada em português para conferir o sentido da fala.
+
+2:10	Boa tarde!
+2:12	Cheguei aqui.
+2:13	Se barco vai para onde são?
+2:17	Não é.
+2:19	E é o outro.
+2:20	E sai amanhã.
+2:21	Sai amanhã.
+2:23	Então, você não sabe para onde é que ele vai, o Samarindo, para a cidade.
+2:26	Porto Trombetas, está, os dias.
+2:35	Boa tarde!
+2:38	Nossa Senhora, pela venda é merenda dos passageiros aqui.
+2:42	Isso é tudo refrigerante, água, bolacha, luz.
+2:49	E vende muito, não muito.
+2:53	Todo dia o senhor vem aqui.
+2:59	E quem compra mais?
+3:00	O pessoal do Tapajós ou do pessoal do Amazonas?
+3:02	O pessoal do Tapajós.
+3:05	Tem mais população maior do Tapajós? Tem mais barcos do Tapajós ou do Amazonas?
+3:12	Isso aqui é um ponto do vai e vem, um ponto de chegada e um ponto de saída.
+3:50	Aqui as coisas acontecem em relação a muitas famílias de toda a região.
+3:55	E aqui é por local, né? Aqui, nesse onde nós estamos, saem aqui os barcos maiores,
+4:01	que vão os municípios de Alenquer, Monte Alegre, Óbidos, Oriximiná, Itaituba,
+4:07	Mas quando a gente vai para as outras comunidades menores, que os barcos são menores, você tem ali a turma do Lago Grande, a turma do Tapajós, a turma do Amazonas, e assim está tudo stratificado aqui, a posição de cada um dentro dessa economia, dentro desse ambiente.
+4:26	E acima de tudo, essa imagem, ela é agradável aos olhos
+4:32	E nunca podemos sair em Santarém com esses barcos longe da frente da cidade
+4:38	Já pensaram até tirar isso tudo daqui pra se transformar em uma copacabana
+4:44	Mas é uma ideia meio extravagante
+4:47	Santarém perderia todo o seu helan, toda a sua beleza
+4:52	Se um dia alguém conseguir tirar esses barcos da frente da honra da cidade
+6:36	Bom, o teu prato e o seu namorado?
+6:39	É, né?
+6:40	Tá voltando aí?
+6:41	Tá, então lá para lá.
+6:46	No meio do semana que não vem, não esconde mandar nem no dia de sábado, saindo de Oriximiná
+7:32	ou saindo de Santarém não existe.
+7:34	Nem para obras, nem para mandar, não sei porquê esse dia.
+7:39	É a minha verdade no transporte mundial, na região, que eu falei a custo pedafísico.
+7:48	É muito barato, para a região, para o transporte total
+7:56	Eu vou tirar, é!
+7:57	Eu vou seguir o passagem daqui para Santarém
+8:13	Fino atento à alimentação gratuita do mundo
+8:19	Hoje a demanda, ela está... Tinha dois navios para o dia
+8:24	Se fizeram acerto, um acordo, tem que ir para dois, não dá porque não tem demanda
+8:32	Isso todo dia, em média são 200, esse vetapassageiro que impute de bloco para Santarém
+8:38	Tem um entreposto, Porto Trombetas, que tem outra linha, outro pessoal que vai viajar direto para o Santarém de Nácio
+8:46	Outro navio de Santarém, Oriximiná
+8:51	É, no Santarém Trombetas, Santarém Óbidos, Santarém, Manaus
+8:56	Oriximiná, Manaus, Rãovesco, Semana, essa é a minha verdade
+9:02	Econômica, simplesmente econômica por ser um transporte que oferece hoje uma estrutura de segurança maior
+9:08	e com custo, bem baixo.
+9:10	É, antes tinha uma...
+9:24	Era construído na própria região, como estão sendo construídos o ferreboite hoje, na própria região.
+9:31	É com capacidades limitadas e barcos de madeira de um sol furão.
+9:37	Na questão do ferreboite, que nos dava na segurança maior a um, mais tão isolado, né?
+10:00	Tem uma sensação de sessão. Você tem a versatilidade de transporte, tanto do passageiro quanto a...

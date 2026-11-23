@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Catálogo visual · Turismo Aqui</title>
+  <link rel="stylesheet" href="estilo.css">
+  <script defer src="catalogo.js"></script>
+  <script defer src="galeria.js"></script>
+</head>
+<body>
+  <main>
+    <header>
+      <a class="marca" href="https://www.youtube.com/@TurismoAqui">Turismo Aqui</a>
+      <h1>Catálogo visual</h1>
+      <p id="resumo" class="resumo" aria-live="polite"></p>
+      <nav class="exportacoes" aria-label="Exportações">
+        <a href="../../#acervo">Central do projeto</a>
+        <a href="quadros.csv">Baixar CSV dos quadros</a>
+        <a href="cobertura.csv">Baixar inventário de publicações</a>
+      </nav>
+    </header>
+    <form id="filtros" role="search">
+      <label>Vídeo ou lugar<input id="busca" type="search" placeholder="Ex.: Santarém" autocomplete="off"></label>
+      <label>Situação<select id="situacao">
+        <option value="com-quadros">Com quadros</option>
+        <option value="todas">Todas as publicações</option>
+        <option>Pendente</option>
+        <option>Seleção abaixo de 10</option>
+        <option>Indisponível</option>
+      </select></label>
+    </form>
+    <p id="resultado" class="origem" aria-live="polite"></p>
+    <ul id="videos" class="videos" aria-label="Publicações"></ul>
+    <button id="mais" type="button" hidden>Mostrar mais publicações</button>
+    <noscript><p>Os arquivos CSV podem ser consultados mesmo com JavaScript desativado.</p></noscript>
+  </main>
+</body>
+</html>

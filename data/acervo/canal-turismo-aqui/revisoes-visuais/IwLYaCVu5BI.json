@@ -1,0 +1,141 @@
+{
+  "video_id": "IwLYaCVu5BI",
+  "quadros": [
+    {
+      "tempo_ms": 7760,
+      "descricao": "Uma catraia azul com três pessoas atravessa o rio diante de barracas de palha e vegetação ribeirinha.",
+      "local": "Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A abertura mostra o cenário da travessia enquanto a narração situa a vila de Alter do Chão.",
+      "marcas": [
+        11,
+        19
+      ]
+    },
+    {
+      "tempo_ms": 21360,
+      "descricao": "Vista aérea da orla e das ruas da vila entre o rio e a mata. Pequenos barcos aparecem junto à margem.",
+      "local": "Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador situa a vila no município de Santarém e descreve como a paisagem muda conforme o nível das águas.",
+      "marcas": [
+        11,
+        19,
+        27
+      ]
+    },
+    {
+      "tempo_ms": 48080,
+      "descricao": "Vista aérea da faixa de areia com fileiras de guarda-sóis coloridos, cercada pela água dos dois lados.",
+      "local": "Ilha do Amor, Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração apresenta a Ilha do Amor como um dos principais atrativos da vila.",
+      "marcas": [
+        27,
+        44
+      ]
+    },
+    {
+      "tempo_ms": 61640,
+      "descricao": "Igreja de fachada amarela com arcos verdes e escadaria. Duas pessoas aparecem diante da entrada.",
+      "local": "Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A montagem passa pelo centro da vila na introdução histórica que precede a apresentação dos catraieiros.",
+      "marcas": [
+        51,
+        58,
+        67
+      ]
+    },
+    {
+      "tempo_ms": 74640,
+      "descricao": "Dois catraieiros de camisa branca e bermuda azul atravessam uma praça pavimentada em direção à orla.",
+      "local": "Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A narração explica que as catraias levam passageiros do centro da vila até a praia, sobretudo na época de águas altas.",
+      "marcas": [
+        67,
+        74
+      ]
+    },
+    {
+      "tempo_ms": 87880,
+      "descricao": "Um catraieiro uniformizado fala sob um telhado de palha, com o rio e canoas ao fundo.",
+      "local": "Orla de Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O entrevistado descreve o orgulho de oferecer o serviço e manter a tradição da travessia.",
+      "marcas": [
+        85,
+        92
+      ]
+    },
+    {
+      "tempo_ms": 114720,
+      "descricao": "Catraias azuis e brancas, algumas com coletes laranja à vista, ficam amarradas junto à grade da orla.",
+      "local": "Orla de Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O catraieiro descreve o transporte a remo como parte da experiência tradicional de visitar Alter do Chão.",
+      "marcas": [
+        108,
+        117
+      ]
+    },
+    {
+      "tempo_ms": 168600,
+      "descricao": "Degraus pintados em cores vivas descem até a água. Uma catraia se aproxima do ponto de embarque.",
+      "local": "Orla de Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A entrevista comenta que a distância até a faixa de areia varia e afeta o trabalho e a renda dos catraieiros.",
+      "marcas": [
+        164,
+        173
+      ]
+    },
+    {
+      "tempo_ms": 209280,
+      "descricao": "Um catraieiro de óculos escuros está junto à grade azul da orla enquanto uma canoa com passageiros passa atrás dele.",
+      "local": "Orla de Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O entrevistado fala da convivência com os visitantes e destaca a travessia de canoa na experiência de conhecer a vila.",
+      "marcas": [
+        203,
+        211
+      ]
+    },
+    {
+      "tempo_ms": 330080,
+      "descricao": "Passageiros com coletes laranja ocupam uma catraia junto aos degraus coloridos da orla.",
+      "local": "Orla de Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O apresentador aponta os coletes salva-vidas e reforça sua importância durante a travessia.",
+      "marcas": [
+        322,
+        330
+      ]
+    },
+    {
+      "tempo_ms": 342880,
+      "descricao": "Catraieiros e cadeiras de plástico sob o abrigo de palha às margens do rio. Um trabalhador aparece de colete no primeiro plano.",
+      "local": "Orla de Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "A apresentação mostra o ponto de apoio dos catraieiros, onde os trabalhadores têm água, café e espaço para lanchar.",
+      "marcas": [
+        330,
+        339,
+        346
+      ]
+    },
+    {
+      "tempo_ms": 450280,
+      "descricao": "Dois catraieiros uniformizados aparecem juntos à beira do rio, diante da escadaria colorida e do gradil azul.",
+      "local": "Orla de Alter do Chão, Santarém (PA)",
+      "confianca": "confirmado",
+      "contexto": "O encerramento comenta a organização da categoria e seu reconhecimento como patrimônio cultural imaterial do município.",
+      "marcas": [
+        442,
+        451,
+        459
+      ]
+    }
+  ]
+}
