@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Roteiros, comunidades e histórias da Amazônia contados pelo Turismo Aqui.">
-  <title>Revista Turismo Aqui | A Amazônia por quem vive aqui</title>
+  <title>Blog Turismo Aqui | A Amazônia por quem vive aqui</title>
   <link rel="icon" type="image/png" href="../design-system/assets/icone-turismo-aqui.png">
   <link rel="stylesheet" href="../design-system/tokens.css">
   <link rel="stylesheet" href="../design-system/components.css">
@@ -21,7 +21,7 @@
       </a>
       <nav aria-label="Navegação principal">
         <a class="nav-link" href="./">Site</a>
-        <a class="nav-link" href="blog.html" aria-current="page">Revista</a>
+        <a class="nav-link" href="blog.html" aria-current="page">Blog</a>
         <a class="nav-link" href="../app/">Destinos</a>
         <a class="ta-button ta-button--secondary" href="../">Central</a>
       </nav>
@@ -31,16 +31,17 @@
   <main id="conteudo">
     <section class="hub-hero hub-hero--journal" aria-labelledby="journal-title">
       <div class="wrap hub-hero-content">
-        <h1 id="journal-title">Revista <em>Turismo Aqui</em></h1>
+        <p class="journal-kicker">Histórias, lugares e pessoas da Amazônia</p>
+        <h1 id="journal-title">Blog <em>Turismo Aqui</em></h1>
+        <p class="journal-intro">Viaje pelo Tapajós com Emanuel Júlio e descubra os caminhos, os sabores e as histórias de quem vive aqui.</p>
         <div class="section-actions">
           <a class="ta-button ta-button--accent" href="#revista">Em destaque</a>
           <a class="ta-button ta-button--inverse" href="#journal-archive">Mais matérias</a>
         </div>
       </div>
-      <figure class="hub-hero-media" data-asset="quadro-orla-pescador">
-        <img src="../entregaveis/catalogo-visual/imagens/BH4RW20oZdg/000093533.jpg"
-             alt="Pescador junto ao guarda-corpo na orla de Santarém" width="1920" height="1080" fetchpriority="high">
-        <figcaption><a href="https://www.youtube.com/watch?v=BH4RW20oZdg&amp;t=93s"><span data-photo-title>Orla de Santarém</span> · <span data-photo-credit>Turismo Aqui, 1:33</span></a></figcaption>
+      <figure class="hub-hero-media">
+        <img src="../entregaveis/catalogo-visual/imagens/PzeWRK_Xwyo/000870567.jpg"
+             alt="Vista aérea da Ponta do Tucumã, às margens do rio Arapiuns" width="1920" height="1080" fetchpriority="high">
       </figure>
     </section>
 
@@ -52,7 +53,7 @@
         <div id="featured-posts" class="hub-grid"></div>
       </section>
       <section id="journal-archive" class="hub-section" aria-labelledby="archive-title" hidden>
-        <h2 id="archive-title">Mais da revista</h2>
+        <h2 id="archive-title">Mais do blog</h2>
         <div id="archive-posts" class="hub-grid"></div>
       </section>
     </div>
@@ -73,7 +74,7 @@
 
   <dialog id="article-dialog" class="ta-dialog article-dialog" aria-labelledby="article-title">
     <div class="article-top">
-      <span class="eyebrow">Revista Turismo Aqui</span>
+      <span class="eyebrow">Blog Turismo Aqui</span>
       <button type="button" id="close-article" class="ta-button ta-button--secondary ta-button--icon" aria-label="Fechar artigo" autofocus>×</button>
     </div>
     <article id="article-content" class="article-content"></article>

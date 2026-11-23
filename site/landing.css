@@ -67,7 +67,26 @@
 .hub-hero h1 em { display: block; color: var(--ta-color-lime-hover); }
 
 .hub-hero--site { --hero-position-mobile: 50% center; }
-.hub-hero--journal { --hero-position: center 46%; --hero-position-mobile: 61% center; }
+.hub-hero--journal {
+  --hero-position: center 53%;
+  --hero-position-mobile: 44% center;
+  min-height: clamp(30rem, 45vw, 39rem);
+}
+.hub-hero--journal .hub-hero-content { padding-block: 4rem 6rem; }
+.journal-kicker {
+  margin: 0 0 1.1rem;
+  color: var(--ta-color-lime-hover);
+  font-size: .875rem;
+  font-weight: 700;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+.journal-intro {
+  max-width: 34rem;
+  margin: 1.25rem 0 1.75rem;
+  font-size: clamp(1.05rem, 1.5vw, 1.3rem);
+  line-height: 1.55;
+}
 .hub-hero--guide { --hero-position: center 56%; --hero-position-mobile: 54% center; }
 
 .hub-hero .ta-button--inverse {
@@ -206,6 +225,11 @@
   }
 
   .hub-hero-content { padding-block: var(--ta-space-8) var(--ta-space-16); }
+  .hub-hero--journal { min-height: 36rem; }
+  .hub-hero--journal .hub-hero-content { padding-block: 3rem 8rem; }
+  .hub-hero--journal .hub-hero-media::after {
+    background: linear-gradient(180deg, rgba(15, 44, 46, .97), rgba(15, 44, 46, .88) 43%, rgba(15, 44, 46, .15) 78%), linear-gradient(0deg, rgba(15, 44, 46, .65), transparent 25%);
+  }
 
   .hub-card {
     grid-template-columns: min(34%, 8rem) minmax(0, 1fr);

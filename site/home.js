@@ -25,15 +25,6 @@ async function renderHome() {
     document.querySelectorAll('[data-asset]').forEach(figure => {
       applyCatalogFigure(figure, assets.get(figure.dataset.asset));
     });
-    const profile = data.fontes?.find(source => source.id === 'semtur');
-    if (profile?.url?.startsWith('https://')) {
-      const item = document.createElement('li');
-      const link = document.createElement('a');
-      link.href = profile.url;
-      link.textContent = 'Perfil de Emanuel Júlio na Semtur';
-      item.append(link);
-      document.querySelector('#about-links').append(item);
-    }
   } catch {
     document.querySelector('#spotlight-status').textContent = 'Não foi possível carregar as matérias em destaque.';
   }
@@ -47,4 +38,16 @@ if (current.searchParams.has('artigo')) {
   location.replace(blog);
 } else {
   renderHome();
+  if ('IntersectionObserver' in window && !matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('is-visible');
+          observer.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.08 });
+    document.documentElement.classList.add('motion-ready');
+    document.querySelectorAll('.reveal').forEach(element => observer.observe(element));
+  }
 }

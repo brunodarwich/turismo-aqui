@@ -3229,325 +3229,246 @@
   ],
   "artigos": [
     {
-      "id": "caminhos",
-      "categoria": "Destinos",
-      "titulo": "Alter do Chão: um convite para começar pelos caminhos",
-      "resumo": "O primeiro episódio da série é um ponto de partida para descobrir as histórias e os lugares da região.",
-      "video_id": "LhfExbCSfQY",
-      "fonte_ids": [
-        "canal_2017",
-        "guia_santarem"
-      ],
-      "data_verificacao": "2026-11-21",
-      "status_revisao": "rascunho",
-      "secoes": [
-        {
-          "titulo": "Um destino, muitas histórias",
-          "texto": "A série Os Caminhos de Alter do Chão é apresentada logo no primeiro episódio. O vídeo propõe usar a vila como ponto de partida para explorar a região. Use o guia turístico de Santarém para identificar os lugares que você gostaria de visitar."
-        },
-        {
-          "titulo": "Da vila aos arredores",
-          "texto": "A Ilha do Amor fica em frente à vila de Alter do Chão. O Lago Verde e a Ponta do Cururu estão entre os atrativos citados no guia municipal. Consulte o mapa do aplicativo e procure orientações locais sobre o acesso a cada lugar."
-        },
-        {
-          "titulo": "Antes de montar seu roteiro",
-          "texto": "Anote os lugares e as histórias que despertarem seu interesse. Confirme os trajetos e os serviços com quem atua no destino antes da viagem, especialmente se estiver consultando uma gravação de anos anteriores."
-        }
-      ],
-      "trecho_ids": [
-        "transcricao-LhfExbCSfQY-74733dbfa1a7db02e9ea8490d1fb18de878b68893272fc2525539a4153a06cb9-0004",
-        "transcricao-LhfExbCSfQY-74733dbfa1a7db02e9ea8490d1fb18de878b68893272fc2525539a4153a06cb9-0006",
-        "transcricao-LhfExbCSfQY-74733dbfa1a7db02e9ea8490d1fb18de878b68893272fc2525539a4153a06cb9-0022"
-      ],
-      "cena_ids": [
-        "caminhos-praca-0105",
-        "caminhos-orla-0325"
-      ],
-      "ativo_ids": [
-        "quadro-caminhos-ilha"
-      ]
-    },
-    {
-      "id": "viagem",
-      "categoria": "Planejamento",
-      "titulo": "Como começar a planejar sua visita a Alter do Chão",
-      "resumo": "Um roteiro de preparação que parte dos vídeos e valoriza informações atuais de quem está no destino.",
-      "video_id": "i3hok4syuZw",
-      "fonte_ids": [
-        "video_passeios",
-        "semtur",
-        "guia_santarem"
-      ],
-      "data_verificacao": "2026-11-21",
-      "status_revisao": "rascunho",
-      "secoes": [
-        {
-          "titulo": "Escolha o que quer conhecer",
-          "texto": "No vídeo de passeios, Emanuel anuncia um roteiro para quem acaba de chegar. Use o guia turístico municipal para fazer sua lista de lugares e reserve tempo para os deslocamentos."
-        },
-        {
-          "titulo": "Atualize as informações práticas",
-          "texto": "A descrição do vídeo de passeios informa que os preços correspondiam a setembro de 2019. Para montar seu orçamento, consulte prestadores locais e confirme valores, horários, condições de acesso e disponibilidade."
-        },
-        {
-          "titulo": "Combine percurso e tempo de visita",
-          "texto": "Confirme o ponto de embarque e o horário de retorno quando houver trecho de barco. Para informações institucionais sobre o destino, consulte a Secretaria Municipal de Turismo de Santarém."
-        }
-      ],
-      "trecho_ids": [
-        "transcricao-i3hok4syuZw-6ae104fc1e9663b02bd08f70e9b0390b6bd3877f8d3f1d127092e85dfcd6cdc4-0021"
-      ],
-      "ativo_ids": [
-        "quadro-viagem-praca"
-      ]
-    },
-    {
-      "id": "navegar",
-      "categoria": "Experiências",
-      "titulo": "Passeios pelas águas: o que observar antes de embarcar",
-      "resumo": "Catraias e lanchas são citadas na descrição do vídeo de passeios. Veja o que confirmar com o prestador.",
-      "video_id": "i3hok4syuZw",
-      "fonte_ids": [
-        "video_passeios",
-        "ilha_prefeitura",
-        "video_caminhos",
-        "guia_santarem"
-      ],
-      "data_verificacao": "2026-11-21",
-      "status_revisao": "rascunho",
-      "secoes": [
-        {
-          "titulo": "Caminhos pela água",
-          "texto": "O primeiro episódio descreve a travessia de catraia do centro da vila em direção à Praia do Amor. O vídeo de 2019 fala também em passeios de lancha. A Ilha do Amor fica em frente à vila, segundo o guia municipal."
-        },
-        {
-          "titulo": "Converse com quem oferece o serviço",
-          "texto": "Pergunte sobre o percurso, a duração, o embarque, o retorno e o que está incluído. Confirme as condições do dia e quais equipamentos e orientações de segurança o prestador oferece."
-        },
-        {
-          "titulo": "Confira o valor antes de sair",
-          "texto": "Os valores que aparecem na descrição são de setembro de 2019. Faça a cotação atual diretamente com o prestador escolhido."
-        }
-      ],
-      "trecho_ids": [
-        "transcricao-i3hok4syuZw-6ae104fc1e9663b02bd08f70e9b0390b6bd3877f8d3f1d127092e85dfcd6cdc4-0030",
-        "transcricao-i3hok4syuZw-6ae104fc1e9663b02bd08f70e9b0390b6bd3877f8d3f1d127092e85dfcd6cdc4-0051",
-        "transcricao-LhfExbCSfQY-74733dbfa1a7db02e9ea8490d1fb18de878b68893272fc2525539a4153a06cb9-0022"
-      ],
-      "cena_ids": [
-        "ilha-do-amor-aerea-0933"
-      ],
-      "ativo_ids": [
-        "quadro-navegar-catraias"
-      ]
-    },
-    {
-      "id": "projeto",
-      "categoria": "Nossa história",
-      "titulo": "Por que contar histórias de turismo na Amazônia?",
-      "resumo": "A ideia do Turismo Aqui é aproximar paisagens, cultura e relatos de quem vive os lugares.",
-      "video_id": "pcdSgCIfEUw",
-      "fonte_ids": [
-        "canal_2017",
-        "video_site"
-      ],
-      "data_verificacao": "2026-11-21",
-      "status_revisao": "rascunho",
-      "secoes": [
-        {
-          "titulo": "Uma ideia que nasceu das histórias",
-          "texto": "Em 2017, Emanuel Júlio apresentou o Turismo Aqui como um canal voltado a contar histórias ligadas ao turismo. A proposta reunia atrações naturais, gastronomia, história e relatos sobre os destinos visitados."
-        },
-        {
-          "titulo": "Um espaço para a região",
-          "texto": "No vídeo de 2019, Emanuel explica que o site daria continuidade à divulgação do turismo na Amazônia. A gravação em Alter do Chão mostra como o canal apresentava o projeto ao público."
-        },
-        {
-          "titulo": "Da apresentação do canal ao guia",
-          "texto": "Este piloto retoma a proposta com matérias, referências e um aplicativo para explorar a região. Volte aos vídeos e às fontes para acompanhar a origem de cada história."
-        }
-      ],
-      "trecho_ids": [
-        "transcricao-pcdSgCIfEUw-e7168f20748131f2e8b74ddf758b0dcc977a8944b1b81c5f167ef5de093b15f3-0018",
-        "transcricao-pcdSgCIfEUw-e7168f20748131f2e8b74ddf758b0dcc977a8944b1b81c5f167ef5de093b15f3-0021",
-        "transcricao-pcdSgCIfEUw-e7168f20748131f2e8b74ddf758b0dcc977a8944b1b81c5f167ef5de093b15f3-0040"
-      ],
-      "cena_ids": [
-        "emanuel-praia-0012",
-        "emanuel-praia-0523"
-      ],
-      "ativo_ids": [
-        "quadro-projeto-emanuel"
-      ]
-    },
-    {
-      "id": "responsavel",
-      "categoria": "Olhar local",
-      "titulo": "Viajar com curiosidade: pessoas também fazem o destino",
-      "resumo": "Uma forma de descobrir a Amazônia prestando atenção nas vozes e experiências locais.",
-      "video_id": "LhfExbCSfQY",
-      "fonte_ids": [
-        "canal_2017",
-        "naea_paisagem_alter"
-      ],
-      "data_verificacao": "2026-11-21",
-      "status_revisao": "rascunho",
-      "secoes": [
-        {
-          "titulo": "As pessoas dão contexto aos lugares",
-          "texto": "Na apresentação do Turismo Aqui, Emanuel Júlio propõe reunir relatos, atrações naturais, gastronomia e história. Uma pesquisa publicada nos Papers do NAEA observou que, nos sites turísticos analisados, a imagem da Ilha do Amor predominava e os aspectos culturais recebiam menos atenção. Ao visitar o destino, reserve tempo para ouvir as pessoas que quiserem compartilhar suas experiências."
-        },
-        {
-          "titulo": "Perguntar é parte da descoberta",
-          "texto": "Ao organizar um passeio, procure orientações atualizadas de prestadores e moradores e respeite os costumes e regras de cada lugar. Peça autorização antes de fotografar alguém ou compartilhar uma conversa."
-        },
-        {
-          "titulo": "Continue explorando",
-          "texto": "O primeiro episódio liga a divulgação do destino à preservação do ambiente. Combine o vídeo com relatos locais e outras referências ao planejar o que quer conhecer."
-        }
-      ],
-      "trecho_ids": [
-        "transcricao-LhfExbCSfQY-74733dbfa1a7db02e9ea8490d1fb18de878b68893272fc2525539a4153a06cb9-0039"
-      ],
-      "ativo_ids": [
-        "quadro-responsavel-guia"
-      ]
-    },
-    {
-      "id": "orla-de-santarem",
-      "categoria": "Roteiros",
-      "local": "Santarém, PA",
-      "titulo": "Orla de Santarém: pesca, história e encontro das águas",
-      "resumo": "Da Praça do Pescador ao encontro do Tapajós com o Amazonas, um roteiro a pé para conhecer a cidade pela beira do rio.",
-      "video_id": "BH4RW20oZdg",
-      "fonte_ids": [
-        "video-orla-de-santarem",
-        "guia_santarem",
-        "solar-barao-santarem",
-        "acervo-txt-orla-de-santarem"
-      ],
-      "data_publicacao": "2026-11-21",
-      "data_verificacao": "2026-11-21",
+      "id": "alter-cheia-seca",
+      "categoria": "Natureza",
+      "titulo": "Alter do Chão na cheia ou na seca: qual é a melhor época para viajar?",
+      "resumo": "A vila muda de paisagem conforme o Tapajós sobe e desce. Entenda o que esperar de cada período e como escolher sua viagem.",
+      "local": "Santarém, Pará",
+      "autor": "Emanuel Júlio",
+      "data_publicacao": "2026-11-23",
       "status_revisao": "revisado",
       "ativo_ids": [
-        "quadro-orla-terminal",
-        "quadro-orla-encontro"
+        "quadro-alter-ilha-aerea",
+        "quadro-caminhos-ilha",
+        "quadro-catraia-travessia",
+        "quadro-ilha-do-amor-cheia"
       ],
-      "cena_ids": [
-        "cena-orla-terminal",
-        "cena-orla-encontro",
-        "passagem-orla-pesca",
-        "passagem-orla-solar"
+      "fonte_ids": [
+        "blog-guia"
       ],
       "secoes": [
         {
-          "titulo": "Comece pela Praça do Pescador",
-          "texto": "Na gravação do Turismo Aqui, Emanuel Júlio caminha pela orla enquanto pescadores se espalham junto ao guarda-corpo. Uns ajeitam o equipamento, outros esperam com a linha na água. Começar o passeio pela Praça do Pescador, no centro de Santarém, dá tempo de observar esse movimento antes de seguir pelo calçadão.\n\nA praça fica em frente ao Terminal Fluvial Turístico, na Avenida Tapajós. Use os dois pontos como referência e caminhe pelo trecho que acompanha o rio. Na volta, atravesse para o lado dos casarões e repare como muda a vista quando você olha para a cidade de costas para a água."
+          "titulo": "Uma vila com muitas paisagens",
+          "texto": "Vamos conhecer Alter do Chão a partir de uma característica que faz toda a diferença na viagem: aqui, o rio dita o ritmo da paisagem. A vila fica em Santarém, no oeste do Pará, e tem na Ilha do Amor um dos seus cartões-postais mais conhecidos. Mas a imagem que você encontra depende do momento em que chega.\n\nAs águas sobem durante meses e depois começam a baixar. Nesse movimento, a faixa de areia aparece, diminui ou fica encoberta. Por isso, quando alguém me pergunta qual é a melhor época para vir, eu gosto de saber primeiro o que essa pessoa quer viver por aqui."
         },
         {
-          "titulo": "Procure o encontro das águas",
-          "texto": "Da orla, olhe para além das embarcações. Em frente à cidade, as águas mais escuras do Tapajós encontram as águas barrentas do Amazonas. A diferença de cor aparece no vídeo por volta dos dois minutos. A visibilidade da faixa depende da luz e das condições do dia. Se ela estiver discreta, experimente olhar de outro trecho do calçadão ou voltar com a luz mais baixa.",
-          "ativo_id": "quadro-orla-encontro"
+          "titulo": "Quando as praias aparecem",
+          "texto": "Na vazante, com a descida das águas, os bancos de areia vão ganhando espaço. É uma fase muito procurada por quem sonha com praia de rio, banho e uma tarde diante do Tapajós. A paisagem continua mudando ao longo da estação, e a extensão da areia não é igual todos os anos.\n\nA Ilha do Amor fica em frente à vila. O acesso e o ponto de chegada variam conforme o nível da água; converse com os catraieiros sobre a travessia e combine também o retorno.",
+          "ativo_id": "quadro-caminhos-ilha"
         },
         {
-          "titulo": "Da pesca ao centro histórico",
-          "texto": "Reserve alguns minutos para observar a pesca artesanal. No episódio, os pescadores mostram seu equipamento e conversam com Emanuel sobre as capturas do dia. Deixe livre o espaço junto às linhas e peça licença antes de fotografar alguém. Se houver abertura para conversar, pergunte como o nível do rio muda a pescaria naquele ponto.\n\nDe volta à praça, procure o Solar do Barão de Santarém. O casarão de três pavimentos pertenceu ao comerciante Miguel Antônio Pinto Guimarães, como registra a cartilha municipal de educação patrimonial. As portas largas no térreo, as janelas em arco e as sacadas ajudam a reconhecer o edifício durante a caminhada."
+          "titulo": "A beleza do período de águas altas",
+          "texto": "Na cheia, parte das praias fica submersa e o visitante encontra outra Alter do Chão. A navegação revela trechos de vegetação alagada e cenários que não aparecem da mesma forma na seca. É uma boa oportunidade para conhecer a relação da vila com o rio e observar a paisagem com mais calma.\n\nCada período tem sua beleza. O que não dá é prometer uma praia ou um passeio específico sem considerar o comportamento das águas e as condições do dia."
         },
         {
-          "titulo": "Monte o passeio em três paradas",
-          "texto": "Comece na Praça do Pescador, siga pela orla para observar os pescadores e o encontro das águas e termine nas imediações do Terminal Fluvial Turístico. O guia municipal também cita exposições de artesanato no terminal. Se a visita coincidir com uma mostra, vale entrar e conversar com os expositores.\n\nDeixar a margem para o fim da tarde é uma opção para quem quer ver o pôr do sol. Se você estiver com crianças ou com alguém que precise fazer pausas, escolha um trecho curto e reserve tempo para ficar na praça. É possível conhecer os três pontos sem embarcar."
+          "titulo": "A travessia também conta uma história",
+          "texto": "A Ilha do Amor está diante da vila, e a maneira de chegar até ela acompanha as mudanças do rio. As catraias, pequenas embarcações conduzidas a remo, fazem parte desse cenário e do trabalho de famílias que atuam na travessia. Ao planejar o passeio, procure o ponto de embarque e converse diretamente com quem presta o serviço.\n\nPergunte onde é o desembarque naquele dia e se o valor informado cobre somente a ida ou também a volta. Se alguém do grupo tem dificuldade de locomoção, vale esclarecer como será o embarque e o acesso à praia. São detalhes que parecem pequenos, mas ajudam a organizar o dia.\n\nMesmo quando o trecho parecer curto, respeite as orientações locais. O nível da água, o vento e as condições de circulação mudam; não suponha que uma travessia feita de um jeito em uma viagem será igual na próxima.",
+          "ativo_id": "quadro-catraia-travessia"
+        },
+        {
+          "titulo": "Além da fotografia",
+          "texto": "É fácil olhar uma imagem da Ilha do Amor e imaginar que toda a viagem vai acontecer naquele mesmo cenário. Mas vale lembrar que a vila tem vida própria, moradores, serviços e uma relação cotidiana com o rio. Ao escolher onde comer, comprar ou contratar um passeio, procure conhecer o trabalho das pessoas que recebem os visitantes.\n\nQuem viaja com poucos dias pode reservar uma manhã ou tarde para a praia e deixar outro momento para caminhar pela vila, conhecer o comércio e organizar um passeio com condutor local. Assim, uma mudança nas condições do tempo não compromete toda a programação.\n\nNa hora de sair, confira a previsão e pergunte sobre as condições atuais. A cheia e a seca fazem parte do ciclo natural, mas o calendário exato não é uma garantia: cada ano tem seu comportamento. O melhor planejamento é aquele que combina expectativa, informação recente e disposição para descobrir o destino como ele está.",
+          "ativo_id": "quadro-ilha-do-amor-cheia"
+        },
+        {
+          "titulo": "Planeje sem perder a espontaneidade",
+          "texto": "Antes de reservar, procure informações recentes com a hospedagem, os catraieiros ou os condutores locais. Pergunte como estão os acessos, quais passeios estão disponíveis e o que está incluído no valor. Leve água, proteção solar e uma bolsa para trazer seus resíduos de volta.\n\nE reserve um tempo para caminhar pela vila, conversar com as pessoas e apreciar o fim de tarde. Alter do Chão é uma paisagem muito especial, mas também é um lugar de histórias e de gente que vive do rio."
         }
       ]
     },
     {
-      "id": "tucuma-no-arapiuns",
-      "categoria": "Comunidades",
-      "local": "Rio Arapiuns, PA",
-      "titulo": "Tucumã: turismo comunitário no rio Arapiuns",
-      "resumo": "Uma visita guiada pelos moradores, entre o trançado de palha, os caminhos da comunidade e o peixe assado à beira do rio.",
-      "video_id": "PzeWRK_Xwyo",
-      "fonte_ids": [
-        "video-tucuma-no-arapiuns",
-        "tucuma-roteiro-semtur",
-        "tucuma-turismo-rural",
-        "acervo-txt-tucuma-no-arapiuns"
+      "id": "roteiro-santarem",
+      "categoria": "Roteiros",
+      "titulo": "O que fazer em Santarém: um roteiro para descobrir a cidade à beira dos rios",
+      "resumo": "Do encontro das águas à vida no centro, uma sugestão de passeio para descobrir a cidade para além da passagem para Alter do Chão.",
+      "local": "Santarém, Pará",
+      "autor": "Emanuel Júlio",
+      "data_publicacao": "2026-11-23",
+      "status_revisao": "revisado",
+      "ativo_ids": [
+        "quadro-orla-encontro",
+        "quadro-orla-terminal",
+        "quadro-orla-pescador",
+        "blog-foto-BH4RW20oZdg-704800"
       ],
-      "data_publicacao": "2026-11-21",
-      "data_verificacao": "2026-11-21",
+      "fonte_ids": [
+        "blog-guia",
+        "blog-portal"
+      ],
+      "secoes": [
+        {
+          "titulo": "Comece pela frente da cidade",
+          "texto": "Vamos fazer um passeio por Santarém? Muita gente chega aqui pensando logo em seguir para Alter do Chão, mas eu convido você a separar um tempo para conhecer a cidade. A orla é um bom começo: de um lado, o movimento do centro; do outro, a imensidão dos rios.\n\nÉ daqui que se pode observar o encontro das águas do Tapajós e do Amazonas, um dos cenários mais marcantes da região. As cores seguem lado a lado por um trecho, e a paisagem ganha outra luz ao longo do dia."
+        },
+        {
+          "titulo": "A orla é lugar de encontro",
+          "texto": "Caminhe sem pressa e repare nas pessoas que usam esse espaço. Tem gente fazendo atividade física, famílias passeando, embarcações em movimento e pescadores que encontram na beira do rio uma forma de lazer e trabalho. Esse cotidiano também conta a história de Santarém.\n\nPela manhã, procure os horários de sol mais ameno. Leve água e calçado confortável; a caminhada fica mais agradável quando você pode parar para observar a paisagem."
+        },
+        {
+          "titulo": "História e sabores pelo centro",
+          "texto": "A partir da orla, organize um passeio pelos espaços culturais e marcos históricos indicados no guia turístico municipal. Confira antes os dias e horários de visitação, porque eles podem mudar. No caminho, faça uma pausa para conhecer a cozinha regional: pergunte pelo peixe do dia, pela farinha e pelos ingredientes usados pela casa.\n\nConversar com comerciantes e moradores ajuda a entender um pouco mais da cidade. Só não tente encaixar tudo em poucas horas: o centro merece ser descoberto com calma."
+        },
+        {
+          "titulo": "Um roteiro possível para o primeiro dia",
+          "texto": "Se esta é sua primeira visita, minha sugestão é dividir o dia em momentos simples. Comece com uma caminhada pela orla, observe o encontro das águas e escolha um lugar para uma pausa. Depois, siga para o centro e consulte a programação dos espaços que pretende conhecer. Ao meio-dia, procure um restaurante local e experimente a comida da região.\n\nNo fim da tarde, a orla volta a ser um belo lugar para encontrar o rio. O roteiro não precisa ser rígido: leve em conta o calor, o tempo disponível e a localização da sua hospedagem. Uma pausa maior pode fazer a diferença para aproveitar a cidade com disposição.\n\nAntes de sair, confira o funcionamento dos atrativos que têm horário de visitação. Se depender de transporte por aplicativo, táxi ou outro serviço, pergunte sobre disponibilidade e combine os deslocamentos necessários.",
+          "ativo_id": "quadro-orla-terminal"
+        },
+        {
+          "titulo": "Olhe para a cidade e para o rio",
+          "texto": "A vista do encontro das águas é uma das grandes atrações, mas não é a única razão para caminhar por aqui. Repare na ligação entre a área central e a margem: gente passando, atividades de lazer, embarcações e o trabalho que acontece perto do rio. Cada uma dessas cenas ajuda a entender a cidade para além do cartão-postal.\n\nAo conversar com moradores ou comerciantes, pergunte por suas recomendações e trate a rotina local com respeito. Fotografar a paisagem é uma lembrança bonita; para retratar pessoas de perto, peça autorização.\n\nSe você pretende visitar Alter do Chão ou comunidades ribeirinhas, evite colocar todos os trajetos no mesmo dia. Verifique as distâncias, os horários e as condições dos transportes, e reserve tempo para imprevistos. Santarém merece entrar no planejamento como parte da viagem, com tempo para ser descoberta.",
+          "ativo_id": "quadro-orla-pescador"
+        },
+        {
+          "titulo": "Um fim de tarde para guardar",
+          "texto": "Se puder, volte à orla no fim da tarde. A luz muda sobre o rio e convida a encerrar o dia sem pressa. Para quem tem mais tempo, a programação pode continuar em Alter do Chão, nas praias ou em comunidades da região, com deslocamentos planejados para outros dias.\n\nConsulte prestadores locais sobre transporte e passeios, confirme preços e acessibilidade, e deixe uma margem para mudanças de tempo. Santarém é muito mais do que uma porta de entrada: é um destino para ser vivido.",
+          "ativo_id": "blog-foto-BH4RW20oZdg-704800"
+        }
+      ]
+    },
+    {
+      "id": "arapiuns-turismo-comunitario",
+      "categoria": "Comunidades",
+      "titulo": "Rio Arapiuns: como viver o turismo de base comunitária com respeito",
+      "resumo": "No Arapiuns, a paisagem encontra os saberes de comunidades que recebem visitantes e compartilham seu trabalho e suas tradições.",
+      "local": "Santarém, Pará",
+      "autor": "Emanuel Júlio",
+      "data_publicacao": "2026-11-23",
       "status_revisao": "revisado",
       "ativo_ids": [
         "quadro-tucuma-trancado",
-        "quadro-tucuma-ponta"
+        "quadro-tucuma-ponta",
+        "blog-foto-C0LcQmaFf3A-971800",
+        "blog-foto-PzeWRK_Xwyo-181067"
       ],
-      "cena_ids": [
-        "cena-tucuma-trancado",
-        "cena-tucuma-ponta",
-        "passagem-tucuma-artesa",
-        "passagem-tucuma-piracaia"
+      "fonte_ids": [
+        "blog-comunidade",
+        "blog-icmbio"
       ],
       "secoes": [
         {
-          "titulo": "Quem recebe dá o ritmo da visita",
-          "texto": "No redário de Tucumã, duas artesãs trabalham à mesa, cercadas de cestos e descansos de palha. Mais adiante no episódio do Turismo Aqui, uma moradora mostra como coloca o nome da artesã na etiqueta de cada peça. É um detalhe que vale procurar ao visitar a exposição: ele permite saber quem trançou o objeto que você leva para casa.\n\nTucumã fica na margem direita do rio Arapiuns, dentro da Reserva Extrativista Tapajós-Arapiuns, em Santarém. A visita começa na conversa com os moradores que organizam a recepção. São eles que podem dizer quais atividades cabem no dia, quem vai acompanhar o grupo e que parte do percurso está acessível."
+          "titulo": "Um encontro com quem vive no rio",
+          "texto": "Vamos seguir para o rio Arapiuns, no interior de Santarém, para conhecer uma forma de viajar que coloca as pessoas no centro da experiência. A paisagem chama a atenção logo na chegada, mas é na conversa com os moradores que a visita ganha outra dimensão.\n\nNa comunidade de Tucumã, por exemplo, o artesanato em fibras e o trabalho das artesãs fazem parte da experiência oferecida aos visitantes. Há saberes, histórias e uma relação com o território que merecem ser conhecidos com respeito e tempo para escutar."
         },
         {
-          "titulo": "A caminhada muda com o rio",
-          "texto": "Na gravação, o grupo deixa o redário e segue por um caminho de areia e vegetação em direção à água. O nível baixo do rio naquela visita impede repetir um passeio de igarapé feito em outra época. O roteiro registrado segue com caminhada e um trecho em embarcação. Ao combinar a visita, pergunte como está o nível da água, quanto se caminha e onde o grupo embarca.\n\nA produção tradicional de farinha também aparece entre as experiências apresentadas pela prefeitura. Se houver uma farinhada programada, pergunte aos anfitriões o que será possível acompanhar e se o grupo pode participar de alguma etapa.",
+          "titulo": "O que é turismo de base comunitária",
+          "texto": "É uma forma de organizar a visita com participação das próprias comunidades nas decisões e nas atividades. Dependendo do lugar e da programação, a experiência pode envolver alimentação, condução, artesanato e momentos de convivência. O importante é que quem vive no território tenha protagonismo e possa se beneficiar da atividade.\n\nNo Arapiuns, as comunidades têm características próprias. Não espere um roteiro idêntico em todas elas: procure saber o que cada uma oferece e quais são suas orientações para receber visitantes.",
+          "ativo_id": "blog-foto-PzeWRK_Xwyo-181067"
+        },
+        {
+          "titulo": "Como organizar a viagem",
+          "texto": "Entre em contato com a comunidade ou procure um operador que trabalhe em parceria com moradores. Pergunte de onde sai a embarcação, quanto tempo está previsto para o percurso, o que está incluído e se é necessário agendar refeições ou outras atividades. Os trajetos dependem da embarcação e das condições de navegação.\n\nSe quiser conhecer o artesanato, pergunte sobre a produção e compre diretamente de quem faz quando possível. Isso aproxima o visitante do trabalho por trás de cada peça e ajuda a renda a circular na comunidade."
+        },
+        {
+          "titulo": "Artesanato que carrega conhecimento",
+          "texto": "Em uma visita a Tucumã ou a outra comunidade do Arapiuns, uma peça trançada pode ser o começo de uma boa conversa. Observe os desenhos, os formatos e o cuidado do trabalho manual. Pergunte, com respeito, sobre os materiais e sobre o tempo necessário para produzir cada peça.\n\nEm Tucumã e em São Marcos, o visitante pode conhecer peças trançadas e o trabalho de quem mantém essa tradição. São comunidades diferentes, cada uma com seus grupos, suas histórias e suas formas de receber. O artesanato não é apenas uma lembrança de viagem: também representa conhecimento e trabalho.\n\nSe decidir comprar, converse sobre o preço e as formas de pagamento antes de fechar a compra. Leve em conta que nem todos os lugares contam com sinal de internet ou pagamento eletrônico. Vale perguntar isso ainda na preparação do passeio.",
+          "ativo_id": "blog-foto-C0LcQmaFf3A-971800"
+        },
+        {
+          "titulo": "Uma visita que começa no planejamento",
+          "texto": "Pense no tempo de viagem e no que você espera conhecer. Algumas experiências exigem organização prévia de transporte, refeição e recepção; outras dependem da estação ou da disponibilidade dos moradores. Quando entrar em contato, diga quantas pessoas vão e se há crianças ou necessidades de acessibilidade.\n\nPergunte como será o percurso, que equipamentos de segurança estarão disponíveis e quais orientações devem ser seguidas na comunidade. Se o passeio incluir pernoite, confirme a estrutura, o que levar e como serão as refeições. Evite tratar essas possibilidades como garantidas sem combinar antes.\n\nNa chegada, observe as orientações dos anfitriões e deixe espaço para que eles apresentem seu próprio lugar. A viagem fica mais rica quando a comunidade não é apenas uma parada no mapa, mas protagonista daquilo que você conhece.",
           "ativo_id": "quadro-tucuma-ponta"
         },
         {
-          "titulo": "Da mesa do café à piracaia",
-          "texto": "O vídeo registra um café da tarde com beiju perto do rio. Ao anoitecer, aparecem os peixes na brasa e a farinha à mesa. É a piracaia, encontro em que o preparo do peixe e a refeição compartilhada fazem parte da visita. No episódio, a cena passa da grelha para a roda de conversa, com gente da comunidade e visitantes comendo juntos.\n\nSe quiser incluir a piracaia, combine a refeição antes de sair e avise sobre restrições alimentares. Para passar a noite, confirme com o receptivo se o redário está disponível e quais itens estão inclusos."
-        },
-        {
-          "titulo": "Combine o transporte antes de sair",
-          "texto": "Alter do Chão é um dos pontos de partida indicados pelo canal. Acerte com o receptivo comunitário e com o barqueiro o local de embarque, o horário de retorno e o que está incluído no valor da visita. Se houver caminhada ou embarque em terreno irregular, informe antes as necessidades do grupo para que os anfitriões possam orientar o percurso.\n\nCom o roteiro combinado, deixe espaço para conversar, ver uma peça ser trançada ou ficar à mesa depois da refeição. São momentos do dia em que o trabalho de quem recebe fica mais visível."
+          "titulo": "Chegue com curiosidade e respeito",
+          "texto": "Antes de fotografar pessoas, casas ou atividades, peça autorização. Respeite os espaços indicados pelos moradores, cuide dos seus resíduos e siga as orientações recebidas. São atitudes simples que fazem diferença para quem visita e para quem recebe.\n\nMinha sugestão é reservar tempo para uma conversa, uma refeição e para observar o lugar sem pressa. No turismo de base comunitária, o encontro é parte essencial da viagem."
         }
       ]
     },
     {
-      "id": "catraieiros-ilha-do-amor",
-      "categoria": "Cultura",
-      "local": "Alter do Chão, PA",
-      "titulo": "Os catraieiros da Ilha do Amor",
-      "resumo": "A travessia de canoa contada por quem rema, com orientações para combinar o embarque e a volta.",
-      "video_id": "IwLYaCVu5BI",
-      "fonte_ids": [
-        "video-catraieiros-ilha-do-amor",
-        "lei-catraieiros-21490",
-        "alter-navegacao-segura",
-        "acervo-txt-catraieiros-ilha-do-amor"
-      ],
-      "data_publicacao": "2026-11-21",
-      "data_verificacao": "2026-11-21",
+      "id": "passeio-barco-tapajos",
+      "categoria": "Passeios",
+      "titulo": "Passeio de barco no Tapajós: o que perguntar antes de embarcar",
+      "resumo": "Da escolha do roteiro ao retorno para a vila, veja o que combinar para aproveitar a navegação com tranquilidade.",
+      "local": "Santarém, Pará",
+      "autor": "Emanuel Júlio",
+      "data_publicacao": "2026-11-23",
       "status_revisao": "revisado",
       "ativo_ids": [
+        "quadro-navegar-catraias",
+        "quadro-ponta-cururu",
         "quadro-catraia-travessia",
         "quadro-catraia-embarque"
       ],
-      "cena_ids": [
-        "cena-catraia-travessia",
-        "cena-catraia-embarque",
-        "passagem-catraia-trabalho",
-        "passagem-catraia-coletes"
+      "fonte_ids": [
+        "blog-guia",
+        "blog-portal"
       ],
       "secoes": [
         {
-          "titulo": "Na escadaria, procure quem rema",
-          "texto": "Na orla de Alter do Chão, uma escadaria colorida desce até a água. No vídeo do Turismo Aqui, ela serve de ponto de embarque para as catraias, canoas que levam passageiros da vila à Ilha do Amor. Os catraieiros recebem quem chega, ajustam os coletes e conduzem a travessia a remo. A posição de embarque pode mudar com o nível da água. Ao chegar, confirme esse ponto com a associação local."
+          "titulo": "O passeio começa antes do embarque",
+          "texto": "Navegar pelo Tapajós é uma maneira especial de conhecer nossa região. À medida que a embarcação se afasta, a vista da margem muda, o rio se abre e cada parada pode revelar uma praia, uma comunidade ou outro jeito de viver a Amazônia.\n\nMas, antes de sair, vale uma conversa com quem organiza o passeio. Um roteiro bem combinado deixa mais tempo para aproveitar e evita aquela dúvida no meio do caminho sobre o que estava incluído.\n\nA conversa com a tripulação também ajuda você a entender as características de cada trajeto."
         },
         {
-          "titulo": "O trabalho acompanha a cheia e a vazante",
-          "texto": "Os catraieiros entrevistados por Emanuel Júlio explicam como o rio interfere no trabalho. Com a água mais alta, a faixa de areia disponível pode ficar menor e o desembarque pode acontecer mais longe. Em outras épocas, a procura muda e parte dos trabalhadores complementa a renda em outras atividades. Na prática, vale perguntar ao condutor como está a travessia naquele dia e onde a canoa consegue encostar.\n\nA Lei Municipal nº 21.490, de março de 2022, reconhece os catraieiros da vila como patrimônio histórico-cultural imaterial de Santarém. O reconhecimento recai sobre os trabalhadores e o ofício que preservam. No episódio, eles também explicam como posicionam o corpo e mantêm as outras canoas no campo de visão durante a remada.",
+          "titulo": "Pergunte sobre o caminho",
+          "texto": "Confirme o local e o horário de embarque, os atrativos previstos, o tempo de permanência em cada parada e o ponto de retorno. Pergunte também se alimentação, taxas e outros deslocamentos fazem parte do valor. Os roteiros podem mudar de acordo com o nível do rio, o clima e a disponibilidade dos serviços.\n\nSe estiver com crianças, idosos ou alguém com mobilidade reduzida, explique o que o grupo precisa. Assim o prestador pode orientar sobre acesso à embarcação, paradas e estrutura disponível."
+        },
+        {
+          "titulo": "Segurança é parte da experiência",
+          "texto": "Escolha prestadores regulares e verifique se há coletes adequados para todas as pessoas a bordo, inclusive para as crianças. Ouça as orientações da tripulação e pergunte como o passeio será ajustado se houver chuva, vento ou mudança nas condições do rio.\n\nCombine também o que acontece em caso de cancelamento ou alteração do roteiro. Ter essas informações antes de pagar ajuda todo mundo a viajar com mais tranquilidade."
+        },
+        {
+          "titulo": "Escolha o passeio para o seu grupo",
+          "texto": "Nem toda embarcação faz o mesmo tipo de percurso. Uma travessia curta de catraia e um passeio de lancha por diferentes paradas têm propostas, duração e custos distintos. Antes de reservar, explique se você prefere passar mais tempo em um só lugar ou conhecer mais pontos ao longo do dia.\n\nPergunte quantas pessoas estarão a bordo, se o passeio é compartilhado ou privativo e se há tempo previsto para refeições e banho. Confirme também de onde parte a embarcação: sair de Santarém ou de Alter do Chão pode mudar a logística do seu dia.\n\nPara a travessia da vila à Ilha do Amor, converse com os catraieiros sobre os pontos de embarque e desembarque, que podem variar conforme as águas. Combine a volta antes de sair, especialmente se quiser retornar em um horário específico.",
+          "ativo_id": "quadro-catraia-travessia"
+        },
+        {
+          "titulo": "No rio, flexibilidade faz diferença",
+          "texto": "Uma programação pode precisar de ajustes por causa do tempo, do vento, do nível da água ou das condições de alguma parada. Ao conversar com o prestador, pergunte quais alternativas são possíveis e como você será informado se o passeio precisar mudar. Evite assumir que todos os atrativos estarão acessíveis durante o ano inteiro.\n\nSe o roteiro incluir uma comunidade, combine previamente o que está previsto e respeite o tempo e as orientações dos moradores. Pergunte antes de fotografar pessoas, comprar peças ou entrar em espaços de uso comunitário. A recepção depende de quem vive ali e merece ser valorizada.\n\nNa volta, se puder, deixe um intervalo antes do próximo compromisso. Navegar é uma experiência para ser apreciada com atenção às condições do rio e sem transformar cada minuto em uma obrigação. Com boas informações e uma equipe responsável, fica mais fácil curtir o caminho.",
           "ativo_id": "quadro-catraia-embarque"
         },
         {
-          "titulo": "Combine ida e volta antes do embarque",
-          "texto": "Pergunte ao catraieiro qual é o valor do dia, se ele cobre os dois trechos e em que ponto você deve esperar para voltar. Informe se o grupo tem crianças ou pessoas que precisem de auxílio para entrar e sair da canoa. Vista e ajuste o colete antes de sair da margem e siga as orientações do condutor ao embarcar, atravessar e desembarcar.\n\nEm julho de 2026, a Prefeitura de Santarém divulgou orientações da Capitania Fluvial para o tráfego de embarcações no acesso à Ilha do Amor e ao Lago Verde. Use a referência ao final da matéria para consultar as orientações e confirme com a equipe local se as condições do dia permitem a travessia."
+          "titulo": "O que levar e como cuidar do lugar",
+          "texto": "Água, chapéu, proteção solar e uma embalagem para proteger objetos pessoais são companheiros úteis. Leve apenas o necessário e traga seus resíduos de volta. Nas comunidades, peça autorização antes de fotografar pessoas e respeite as orientações locais.\n\nE uma última dica: não transforme o passeio numa corrida para contar paradas. Deixe espaço para observar o rio, conversar com quem conduz a embarcação e apreciar o caminho. O trajeto também faz parte da viagem.",
+          "ativo_id": "quadro-ponta-cururu"
+        }
+      ]
+    },
+    {
+      "id": "sabores-santarem",
+      "categoria": "Gastronomia",
+      "titulo": "Sabores de Santarém: como conhecer a região também pela mesa",
+      "resumo": "Dos peixes à farinha de mandioca, descubra como os ingredientes e as pessoas revelam um pouco da identidade da região.",
+      "local": "Santarém, Pará",
+      "autor": "Emanuel Júlio",
+      "data_publicacao": "2026-11-23",
+      "status_revisao": "revisado",
+      "ativo_ids": [
+        "blog-foto-maoKJrFO-Wo-393627",
+        "quadro-orla-pescador",
+        "blog-foto-3F4BWmdnOrk-1250466",
+        "blog-foto-C0LcQmaFf3A-801067",
+        "blog-foto-PzeWRK_Xwyo-410967"
+      ],
+      "fonte_ids": [
+        "blog-guia"
+      ],
+      "secoes": [
+        {
+          "titulo": "A viagem também passa pela mesa",
+          "texto": "Para conhecer Santarém, eu convido você a prestar atenção ao que chega ao prato. Os rios, a mandioca e o trabalho de quem pesca, planta e cozinha fazem parte da nossa identidade. Uma refeição por aqui pode ser também uma boa oportunidade para conhecer as histórias do lugar.\n\nNão precisa começar com um roteiro complicado: escolha um estabelecimento local, pergunte o que está sendo preparado naquele dia e converse sobre os ingredientes. É uma forma simples e saborosa de se aproximar da região."
         },
         {
-          "titulo": "Reserve tempo para a volta",
-          "texto": "Na ilha, guarde o ponto de retorno assim que desembarcar. Se pretende ficar até o fim da tarde, confirme antes a disponibilidade da volta com o catraieiro. Na chegada à vila, vale observar a escadaria por alguns minutos. Ali, os condutores revezam o atendimento, ajudam passageiros a vestir os coletes e preparam a canoa para a próxima travessia."
+          "titulo": "Peixe, farinha e saberes locais",
+          "texto": "Os peixes e a farinha de mandioca aparecem em diferentes preparos da cozinha regional. Cada casa tem suas escolhas, e a oferta pode variar conforme a época e os fornecedores. Pergunte qual peixe está disponível, como é preparado e quais acompanhamentos vêm à mesa.\n\nA farinha também merece atenção: além de acompanhar refeições, ela carrega o trabalho de famílias produtoras e uma tradição ligada ao cultivo e ao processamento da mandioca. Experimente com curiosidade e pergunte sobre a origem quando tiver oportunidade.",
+          "ativo_id": "blog-foto-PzeWRK_Xwyo-410967"
+        },
+        {
+          "titulo": "Experimente sem pressa",
+          "texto": "Mercados e estabelecimentos da cidade ajudam a descobrir ingredientes da região. Ao encontrar algo desconhecido, peça uma explicação sobre o sabor e o preparo; quem trabalha com o alimento costuma ser uma ótima fonte para orientar sua escolha. Se você tem alergias ou restrições alimentares, confirme os ingredientes e a forma de preparo antes de pedir.\n\nEm passeios para comunidades, pergunte antecipadamente se há refeições disponíveis e se precisam ser reservadas. Isso ajuda quem recebe a se organizar e torna a experiência mais tranquila para todos."
+        },
+        {
+          "titulo": "No mercado, uma aula de ingredientes",
+          "texto": "Uma visita ao mercado pode ajudar a entender a variedade de produtos que chega às mesas de Santarém. No Mercadão 2000, por exemplo, o acervo do Turismo Aqui registra bancas com farinhas de diferentes cores e granulometrias. Olhe com atenção, pergunte como são usadas e quais combinações os vendedores recomendam.\n\nNão é preciso conhecer todos os nomes antes de chegar. O mais interessante é aproveitar a conversa para aprender a distinguir sabores e preparos, respeitando o tempo de quem está trabalhando. Se quiser fotografar uma pessoa ou sua banca de perto, peça autorização.\n\nPara levar algum produto, pergunte sobre embalagem, conservação e transporte. Quem vai viajar de avião deve consultar também as regras aplicáveis da companhia e do destino. São cuidados simples para que a lembrança chegue bem em casa.",
+          "ativo_id": "blog-foto-3F4BWmdnOrk-1250466"
+        },
+        {
+          "titulo": "A refeição como encontro",
+          "texto": "No Arapiuns, a comida também pode fazer parte da recepção nas comunidades. Uma mesa com peixe e acompanhamentos ou um café servido perto do rio reúne ingredientes e trabalho de quem preparou cada detalhe. A oferta varia entre comunidades e conforme a programação, então é importante combinar a refeição com antecedência.\n\nPergunte se o valor do passeio inclui alimentação, o que será servido, em qual horário e se é possível atender restrições alimentares. Para grupos, informe o número de pessoas antes da visita; assim, os anfitriões podem planejar a compra dos ingredientes e o preparo.\n\nAo sentar à mesa, aproveite para conhecer a história daquela comida e das pessoas que a fazem. É uma maneira de valorizar a produção local e perceber como uma receita pode reunir paisagem, trabalho e convivência. E, se a experiência despertar curiosidade, converse sobre outros sabores que você pode conhecer em uma próxima visita.",
+          "ativo_id": "blog-foto-C0LcQmaFf3A-801067"
+        },
+        {
+          "titulo": "Valorize quem faz",
+          "texto": "Uma boa refeição envolve muito mais do que a receita. Há pescadores, agricultores, comerciantes e cozinheiros por trás de cada etapa. Sempre que possível, compre de produtores locais e procure conhecer o trabalho de quem preparou aquilo que você está provando.\n\nMinha dica é reservar tempo para sentar, experimentar e conversar. Quando a gente conhece as pessoas e os ingredientes, leva da viagem uma lembrança que vai além do sabor."
         }
       ]
     }
@@ -4002,7 +3923,8 @@
       "fonte_ids": [
         "video_caminhos"
       ],
-      "video_id": "LhfExbCSfQY"
+      "video_id": "LhfExbCSfQY",
+      "descricao_alt": "Barcos diante da Ilha do Amor com árvores e coberturas de palha acima da água durante a cheia."
     },
     {
       "id": "quadro-canoa-caranazal",
@@ -4050,6 +3972,110 @@
         "video_passeios"
       ],
       "video_id": "i3hok4syuZw"
+    },
+    {
+      "id": "blog-foto-C0LcQmaFf3A-631433",
+      "titulo": "Igapó da comunidade de São Marcos, Santarém (PA)",
+      "tipo": "quadro de vídeo",
+      "caminho": "entregaveis/catalogo-visual/imagens/C0LcQmaFf3A/000631433.jpg",
+      "autor": "Turismo Aqui",
+      "video_id": "C0LcQmaFf3A",
+      "inicio_ms": 631433,
+      "url": "https://www.youtube.com/watch?v=C0LcQmaFf3A&t=631s",
+      "descricao_alt": "Canoa segue entre árvores com os troncos dentro d’água, no igapó.",
+      "largura": 1920,
+      "altura": 1080
+    },
+    {
+      "id": "blog-foto-C0LcQmaFf3A-801067",
+      "titulo": "Comunidade de São Marcos, rio Arapiuns, Santarém (PA)",
+      "tipo": "quadro de vídeo",
+      "caminho": "entregaveis/catalogo-visual/imagens/C0LcQmaFf3A/000801067.jpg",
+      "autor": "Turismo Aqui",
+      "video_id": "C0LcQmaFf3A",
+      "inicio_ms": 801067,
+      "url": "https://www.youtube.com/watch?v=C0LcQmaFf3A&t=801s",
+      "descricao_alt": "Mulher apresenta o peixe assado junto a pratos e travessas sobre uma mesa de madeira.",
+      "largura": 1920,
+      "altura": 1080
+    },
+    {
+      "id": "blog-foto-C0LcQmaFf3A-971800",
+      "titulo": "Comunidade de São Marcos, rio Arapiuns, Santarém (PA)",
+      "tipo": "quadro de vídeo",
+      "caminho": "entregaveis/catalogo-visual/imagens/C0LcQmaFf3A/000971800.jpg",
+      "autor": "Turismo Aqui",
+      "video_id": "C0LcQmaFf3A",
+      "inicio_ms": 971800,
+      "url": "https://www.youtube.com/watch?v=C0LcQmaFf3A&t=971s",
+      "descricao_alt": "Peças redondas de palha trançada com motivos geométricos sobre uma mesa.",
+      "largura": 1920,
+      "altura": 1080
+    },
+    {
+      "id": "blog-foto-PzeWRK_Xwyo-410967",
+      "titulo": "Tucumã, rio Arapiuns, Santarém (PA)",
+      "tipo": "quadro de vídeo",
+      "caminho": "entregaveis/catalogo-visual/imagens/PzeWRK_Xwyo/000410967.jpg",
+      "autor": "Turismo Aqui",
+      "video_id": "PzeWRK_Xwyo",
+      "inicio_ms": 410967,
+      "url": "https://www.youtube.com/watch?v=PzeWRK_Xwyo&t=410s",
+      "descricao_alt": "Mesa com o café da tarde servido sob árvores, perto da margem do rio.",
+      "largura": 1920,
+      "altura": 1080
+    },
+    {
+      "id": "blog-foto-3F4BWmdnOrk-1250466",
+      "titulo": "Mercadão 2000, Santarém (PA)",
+      "tipo": "quadro de vídeo",
+      "caminho": "entregaveis/catalogo-visual/imagens/3F4BWmdnOrk/001250466.jpg",
+      "autor": "Turismo Aqui",
+      "video_id": "3F4BWmdnOrk",
+      "inicio_ms": 1250466,
+      "url": "https://www.youtube.com/watch?v=3F4BWmdnOrk&t=1250s",
+      "descricao_alt": "Sacos abertos com farinhas de cores e granulados diferentes, identificados com preços manuscritos.",
+      "largura": 1920,
+      "altura": 1080
+    },
+    {
+      "id": "blog-foto-maoKJrFO-Wo-393627",
+      "titulo": "Jardim Vitória Régia, Alto Jari, Santarém (PA)",
+      "tipo": "quadro de vídeo",
+      "caminho": "entregaveis/catalogo-visual/imagens/maoKJrFO-Wo/000393627.jpg",
+      "autor": "Turismo Aqui",
+      "video_id": "maoKJrFO-Wo",
+      "inicio_ms": 393627,
+      "url": "https://www.youtube.com/watch?v=maoKJrFO-Wo&t=393s",
+      "descricao_alt": "Peixe assado inteiro em uma travessa metálica, ao lado de arroz e limão na mesa.",
+      "largura": 1920,
+      "altura": 1080
+    },
+    {
+      "id": "blog-foto-BH4RW20oZdg-704800",
+      "titulo": "Praça do Pescador, Santarém (PA)",
+      "tipo": "quadro de vídeo",
+      "caminho": "entregaveis/catalogo-visual/imagens/BH4RW20oZdg/000704800.jpg",
+      "autor": "Turismo Aqui",
+      "video_id": "BH4RW20oZdg",
+      "inicio_ms": 704800,
+      "url": "https://www.youtube.com/watch?v=BH4RW20oZdg&t=704s",
+      "descricao_alt": "Árvore grande sombreia um canteiro cercado por grades azuis. O calçamento da praça segue em direção à orla.",
+      "largura": 1920,
+      "altura": 1080
+    },
+    {
+      "id": "blog-foto-PzeWRK_Xwyo-181067",
+      "titulo": "Tucumã, rio Arapiuns, Santarém (PA)",
+      "tipo": "quadro de vídeo",
+      "caminho": "entregaveis/catalogo-visual/imagens/PzeWRK_Xwyo/000181067.jpg",
+      "autor": "Turismo Aqui",
+      "video_id": "PzeWRK_Xwyo",
+      "inicio_ms": 181067,
+      "url": "https://www.youtube.com/watch?v=PzeWRK_Xwyo&t=181s",
+      "descricao_alt": "Interior do redário, com balcão de madeira, mesas e cobertura de palha voltada para o rio.",
+      "largura": 1920,
+      "altura": 1080
     }
   ],
   "produtos": [
@@ -4533,6 +4559,26 @@
       "url": "https://www.youtube.com/watch?v=_VXK3Q7ZAS8",
       "tipo": "vídeo do Turismo Aqui",
       "data_publicacao": "2018-08-12"
+    },
+    {
+      "id": "blog-guia",
+      "titulo": "Guia turístico de Santarém — Prefeitura de Santarém",
+      "url": "https://santarem.pa.gov.br/storage/documents/February2026/bFuTPjDBkOiiLfsytfQ0WWSXUgRgQRj8OCnV6et6.pdf"
+    },
+    {
+      "id": "blog-comunidade",
+      "titulo": "Turismo de base comunitária no Arapiuns — Prefeitura de Santarém",
+      "url": "https://santarem.pa.gov.br/noticias/turismo/press-trip-percorre-sao-marcos-tucuma-e-vila-coroca-e-apresenta-experiencias-de-turismo-de-base-comunitaria-no-rio-arapiuns-afqnum"
+    },
+    {
+      "id": "blog-icmbio",
+      "titulo": "Plano de uso público da Resex Tapajós-Arapiuns — ICMBio",
+      "url": "https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/unidade-de-conservacao/unidades-de-biomas/amazonia/lista-de-ucs/resex-tapajos-arapiuns/1_Plano_de_Uso_Publico_RESEX_TA.pdf"
+    },
+    {
+      "id": "blog-portal",
+      "titulo": "Portal do Turismo de Santarém",
+      "url": "https://turismo.santarem.pa.gov.br/"
     }
   ],
   "organizacoes": [

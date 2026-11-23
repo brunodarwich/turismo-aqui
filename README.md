@@ -1,6 +1,6 @@
 # Turismo Aqui — piloto de Alter do Chão
 
-Vídeos do canal alimentam uma base editorial compartilhada pela Revista Turismo Aqui, pelo aplicativo de destinos e pelos materiais para redes sociais, leitura e vídeo. A revista reúne oito matérias, com três novas reportagens ilustradas pelo acervo do canal.
+Vídeos do canal alimentam uma base editorial compartilhada pela Revista Turismo Aqui, pelo aplicativo de destinos e pelos materiais para redes sociais, leitura e vídeo. O blog reúne cinco artigos originais sobre turismo na região de Santarém, ilustrados pelo acervo do canal.
 
 ## Acessar a publicação
 

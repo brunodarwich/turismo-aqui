@@ -16,53 +16,21 @@
 </head>
 <body class="ta">
   <a class="skip ta-button ta-button--primary" href="#conteudo">Pular para o conteúdo</a>
-  <header class="site-header" id="inicio">
-    <div class="wrap site-nav site-nav--products">
-      <a class="brand" href="../site/" aria-label="Site Turismo Aqui">
-        <img src="../design-system/assets/turismo-aqui.svg" alt="Turismo Aqui" width="96" height="104">
-      </a>
-      <nav aria-label="Navegação principal">
-        <a class="nav-link" href="../site/">Site</a>
-        <a class="nav-link" href="../site/blog.html">Revista</a>
-        <a class="nav-link" href="./" aria-current="page">Destinos</a>
-        <a class="ta-button ta-button--secondary" href="../">Central</a>
-      </nav>
-    </div>
-  </header>
-
+  <header class="app-header" id="inicio"><div class="app-header-inner wrap">
+    <a class="app-brand" href="#inicio" aria-label="Turismo Aqui, início"><img src="../design-system/assets/turismo-aqui.svg" alt="Turismo Aqui" width="96" height="104"></a>
+    <nav class="guide-nav" aria-label="Navegação do guia"><a href="#lugares"><svg class="ta-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 10c0 5-8 11-8 11S4 15 4 10a8 8 0 1 1 16 0Z"/><circle cx="12" cy="10" r="2.5"/></svg><span>Destinos</span></a><a href="#mapa"><svg class="ta-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m3 6 6-3 6 3 6-3v15l-6 3-6-3-6 3zM9 3v15m6-12v15"/></svg><span>Mapa</span></a><a href="#dicas"><svg class="ta-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 18h6m-5 3h4M8 14c-1.4-1.2-2-2.8-2-4a6 6 0 1 1 12 0c0 1.2-.6 2.8-2 4-.7.6-1 1.2-1 2H9c0-.8-.3-1.4-1-2z"/></svg><span>Dicas</span></a><a href="#videos"><svg class="ta-icon" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m10 9 5 3-5 3z"/></svg><span>Vídeos</span></a></nav>
+    <a class="app-header-link" href="../site/">Conheça o projeto</a>
+  </div></header>
   <main id="conteudo">
-    <section class="hub-hero hub-hero--guide" aria-labelledby="guide-title">
-      <div class="wrap hub-hero-content">
-        <h1 id="guide-title">Guia de <em>Alter do Chão</em></h1>
-        <div class="section-actions">
-          <a class="ta-button ta-button--accent" href="#lugares">Buscar destinos</a>
-          <a class="ta-button ta-button--inverse" href="#mapa">Abrir mapa</a>
-        </div>
+    <section class="app-welcome wrap" aria-labelledby="guide-title">
+      <figure class="app-welcome-media" data-asset="quadro-vila-alter-aerea"><img src="../entregaveis/catalogo-visual/imagens/IwLYaCVu5BI/000021360.jpg" alt="Vista aérea da vila de Alter do Chão, com o rio e barcos na margem" width="1920" height="1080" fetchpriority="high"></figure>
+      <div class="app-welcome-copy"><span class="app-eyebrow">ALTER DO CHÃO, PARÁ</span><h1 id="guide-title">Explore Alter do Chão</h1>
+        <label class="ta-field guide-search"><svg class="ta-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m16 16 4 4"/></svg><span class="sr-only">Buscar lugares e temas</span><input id="search" type="search" placeholder="Buscar lugares ou experiências" aria-controls="places"></label>
       </div>
-      <figure class="hub-hero-media" data-asset="quadro-vila-alter-aerea">
-        <img src="../entregaveis/catalogo-visual/imagens/IwLYaCVu5BI/000021360.jpg"
-             alt="Vista aérea da vila de Alter do Chão, com o rio e barcos na margem" width="1920" height="1080" fetchpriority="high">
-        <figcaption><a href="https://www.youtube.com/watch?v=IwLYaCVu5BI&amp;t=21s"><span data-photo-title>Vila de Alter do Chão</span> · <span data-photo-credit>Turismo Aqui, 0:21</span></a></figcaption>
-      </figure>
     </section>
-
-    <nav class="guide-nav" aria-label="Atalhos do guia">
-      <div class="wrap">
-        <a class="nav-link" href="#lugares">Destinos</a>
-        <a class="nav-link" href="#mapa">Mapa</a>
-        <a class="nav-link" href="#dicas">Dicas</a>
-        <a class="nav-link" href="#videos">Vídeos</a>
-      </div>
-    </nav>
-
-    <section class="hub-section wrap explorer" id="lugares" aria-labelledby="lugares-titulo">
-      <div class="section-heading">
-        <h2 id="lugares-titulo">Destinos</h2>
-        <label class="ta-field guide-search">
-          <span class="sr-only">Buscar lugares e temas</span>
-          <input id="search" type="search" placeholder="Buscar um lugar" aria-controls="places">
-        </label>
-      </div>
+    <div class="app-explore-layout wrap">
+    <section class="hub-section explorer" id="lugares" aria-labelledby="lugares-titulo">
+      <div class="section-heading"><div><h2 id="lugares-titulo">Destinos</h2></div></div>
       <p id="load-status" class="journal-status" role="status">Carregando destinos…</p>
       <noscript><p>Ative o JavaScript para explorar os lugares e as dicas.</p></noscript>
       <div class="hub-grid" id="places"></div>
@@ -70,25 +38,22 @@
     </section>
 
     <section id="mapa" class="destination guide-map-section" aria-labelledby="map-title">
-      <div class="wrap split-section">
+      <div class="guide-map-layout">
         <div class="guide-map-copy">
           <h2 id="map-title">Mapa</h2>
           <div id="map-controls" hidden>
             <label for="map-place">Escolher um lugar</label>
             <select id="map-place"></select>
           </div>
-          <p id="map-marker" class="guide-map-note" aria-live="polite">Ainda não há marcadores no catálogo.</p>
-          <a class="ta-button ta-button--secondary" id="map-link" href="https://www.openstreetmap.org/search?query=Alter%20do%20Ch%C3%A3o%2C%20Santar%C3%A9m" target="_blank" rel="noopener noreferrer">Abrir no OpenStreetMap</a>
-          <p class="guide-map-note">O mapa precisa de internet. <a href="#lugares">Voltar aos destinos</a></p>
         </div>
         <div class="ta-card guide-map-frame">
           <p id="map-status" class="ta-notice ta-notice--info" role="status">Mapa indisponível no momento.</p>
           <iframe id="map-frame" title="Mapa da região de Alter do Chão pelo OpenStreetMap" loading="lazy" hidden></iframe>
-          <div class="map-credit">Mapa © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">OpenStreetMap</a></div>
         </div>
       </div>
     </section>
 
+    </div>
     <section class="hub-section wrap" id="dicas" aria-labelledby="tips-title">
       <h2 id="tips-title">Dicas de viagem</h2>
       <div class="hub-grid" id="tips-list"></div>
@@ -102,7 +67,7 @@
 
   <footer class="site-footer">
     <div class="wrap landing-footer">
-      <span>Turismo Aqui</span>
+      <a class="app-footer-brand" href="#inicio" aria-label="Turismo Aqui, voltar ao início"><img src="../design-system/assets/turismo-aqui.svg" alt="Turismo Aqui" width="96" height="104"></a>
       <nav aria-label="Materiais e canais">
         <a href="../">Central</a>
         <a href="../entregaveis/guia-alter-do-chao-prototipo.pdf">Ebook (PDF)</a>

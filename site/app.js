@@ -1,4 +1,4 @@
-import { applyCatalogFigure, featuredArticles, loadBase, projectFile } from './catalogo.js';
+import { featuredArticles, loadBase, projectFile } from './catalogo.js';
 
 const postList = document.querySelector('#post-list');
 const journalNotice = document.querySelector('#journal-status');
@@ -176,7 +176,7 @@ function appendReferences(parent, article, video) {
   }
   if (list.childElementCount) {
     const section = element('section', 'article-references');
-    section.append(element('h3', null, 'Fontes e vídeos'), list);
+    section.append(element('h3', null, 'Fontes consultadas'), list);
     parent.append(section);
   }
 }
@@ -204,6 +204,8 @@ function renderArticle(article) {
     title,
     element('p', 'article-deck', article.resumo)
   );
+
+  if (article.autor) articleContent.append(element('p', 'article-byline', 'Por ' + article.autor));
 
   const date = article.data_publicacao
     ? dateLine(article.data_publicacao, 'Publicado em ')
@@ -290,8 +292,6 @@ async function loadCatalog() {
     scenes = data.cenas ?? [];
     assets = data.ativos ?? [];
     renderPostList();
-    const cover = document.querySelector('[data-asset]');
-    applyCatalogFigure(cover, assets.find(asset => asset.id === cover.dataset.asset));
     window.addEventListener('popstate', syncArticle);
     syncArticle();
   } catch {

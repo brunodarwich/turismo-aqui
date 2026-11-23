@@ -1,4 +1,4 @@
-import { applyCatalogFigure, loadBase, projectFile, setCatalogImage } from '../site/catalogo.js';
+import { loadBase, projectFile, setCatalogImage } from '../site/catalogo.js';
 
 const placeList = document.querySelector('#places');
 const videoList = document.querySelector('#videos-list');
@@ -8,8 +8,6 @@ const emptySearch = document.querySelector('#empty');
 const search = document.querySelector('#search');
 
 const mapFrame = document.querySelector('#map-frame');
-const mapLink = document.querySelector('#map-link');
-const markerNote = document.querySelector('#map-marker');
 const mapStatus = document.querySelector('#map-status');
 const mapSelector = document.querySelector('#map-place');
 const mapControls = document.querySelector('#map-controls');
@@ -75,20 +73,13 @@ function mapLinks(place) {
   embed.searchParams.set('layer', 'mapnik');
   embed.searchParams.set('marker', latitude + ',' + longitude);
 
-  const full = new URL('https://www.openstreetmap.org/');
-  full.searchParams.set('mlat', String(latitude));
-  full.searchParams.set('mlon', String(longitude));
-  full.hash = 'map=13/' + latitude + '/' + longitude;
-  return { embed, full };
+  return { embed };
 }
 
 function selectMapPlace(place) {
   const links = mapLinks(place);
   mapSelector.value = place.id;
-  mapLink.href = links.full.href;
-  mapLink.textContent = 'Ver ' + place.nome + ' no OpenStreetMap';
   mapFrame.title = 'Mapa com marcador de ' + place.nome;
-  markerNote.textContent = place.localizacao_nota || 'Marcador: ' + place.nome + '.';
   mapStatus.hidden = navigator.onLine;
   mapFrame.hidden = !navigator.onLine;
   if (navigator.onLine && mapFrame.src !== links.embed.href) mapFrame.src = links.embed.href;
@@ -131,16 +122,16 @@ function renderPlace(place) {
     art.append(marker);
   }
 
-  body.append(
-    element('h3', null, place.nome),
-    element('p', 'place-category', place.categoria || 'Lugar')
-  );
-  details.append(element('summary', null, 'Sobre o lugar'), element('p', null, place.descricao));
+  const category = element('span', 'place-category', place.categoria || 'Lugar');
+  art.append(category);
+  body.append(element('h3', null, place.nome));
+  details.append(element('summary', null, 'Ver detalhes'), element('p', null, place.descricao));
   if (place.localizacao_nota) details.append(element('p', null, place.localizacao_nota));
 
   if (mapPlaces.includes(place)) {
-    const showMap = element('a', 'ta-button ta-button--secondary', 'Ver no mapa');
+    const showMap = element('a', 'ta-button ta-button--primary place-map-action', 'Mapa');
     showMap.href = '#mapa';
+    showMap.setAttribute('aria-label', 'Ver ' + place.nome + ' no mapa');
     showMap.addEventListener('click', () => selectMapPlace(place));
     body.append(showMap);
   } else {
@@ -184,41 +175,81 @@ function renderVideos(videos, articles) {
     const card = externalLink('', video.url);
     if (!card) continue;
     const article = articles.find(item => item.video_id === video.id && item.ativo_ids?.length);
-    const photo = catalogPhoto(assets.get(article?.ativo_ids[0]), '');
-    card.className = 'ta-card hub-card video-card';
-    if (photo) card.append(photo);
-    card.append(element('h3', null, video.titulo));
+    const fallback = catalogPhoto(assets.get(article?.ativo_ids[0]), '');
+    const image = element('img');
+    image.alt = '';
+    image.loading = 'lazy';
+    image.decoding = 'async';
+    image.src = 'https://i.ytimg.com/vi/' + encodeURIComponent(video.id) + '/hqdefault.jpg';
+    image.addEventListener('error', () => {
+      if (fallback) image.replaceWith(fallback);
+      else card.classList.add('video-card--unavailable');
+    }, { once: true });
+    card.className = 'ta-card video-card';
+    card.setAttribute('aria-label', 'Assistir: ' + video.titulo);
+    card.append(image);
+    const play = element('span', 'video-play');
+    play.setAttribute('aria-hidden', 'true');
+    card.append(play);
     videoList.append(card);
   }
 }
 
+const tipArtwork = {
+  'confirmar-passeios': 'dica-embarque.svg',
+  'ilha-condicoes': 'dica-ilha.svg',
+  'consultar-guia': 'dica-guia.svg'
+};
 function renderTips(tips) {
   for (const tip of tips) {
     const card = element('article', 'ta-card tip');
-    card.append(element('h3', null, tip.titulo), element('p', null, tip.texto));
-    if (tip.status_revisao !== 'revisado') card.append(element('p', 'record-date', 'Em revisão editorial'));
-    appendDate(card, tip.data_verificacao, 'Verificado em ');
+    const illustration = element('img', 'tip-art');
+    illustration.src = 'assets/' + (tipArtwork[tip.id] || 'dica-guia.svg');
+    illustration.alt = '';
+    illustration.loading = 'lazy';
+    const content = element('div', 'tip-content');
+    content.append(element('h3', null, tip.titulo));
+    const details = element('details', 'tip-details');
+    details.append(element('summary', null, 'Ver dica'), element('p', null, tip.texto));
+    if (tip.status_revisao !== 'revisado') details.append(element('p', 'record-date', 'Em revisão editorial'));
+    appendDate(details, tip.data_verificacao, 'Verificado em ');
     const place = places.find(item => item.id === tip.lugar_id);
     if (place) {
       const link = element('a', 'text-link', 'Explorar ' + place.nome);
       link.href = '#lugar-' + place.id;
       link.addEventListener('click', () => {
-        if (search.value) {
-          search.value = '';
-          renderPlaces();
-        }
+        if (search.value) { search.value = ''; renderPlaces(); }
       });
-      card.append(link);
+      details.append(link);
     }
     const references = sourceList(tip.fonte_ids);
     if (references.childElementCount) {
-      const details = element('details', 'tip-sources');
-      details.append(element('summary', null, 'Fontes'), references);
-      card.append(details);
+      const sourcesDetails = element('details', 'tip-sources');
+      sourcesDetails.append(element('summary', null, 'Fontes'), references);
+      details.append(sourcesDetails);
     }
+    content.append(details);
+    card.append(illustration, content);
     tipList.append(card);
   }
   if (!tips.length) tipList.append(element('p', null, 'Ainda não há dicas no catálogo.'));
+}
+
+const guideLinks = [...document.querySelectorAll('.guide-nav a')];
+function markGuideSection(id) {
+  for (const link of guideLinks) {
+    if (link.hash === '#' + id) link.setAttribute('aria-current', 'location');
+    else link.removeAttribute('aria-current');
+  }
+}
+markGuideSection('lugares');
+for (const link of guideLinks) link.addEventListener('click', () => markGuideSection(link.hash.slice(1)));
+if ('IntersectionObserver' in window) {
+  const observer = new IntersectionObserver(entries => {
+    const visible = entries.filter(entry => entry.isIntersecting).sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top);
+    if (visible.length) markGuideSection(visible[0].target.id);
+  }, { rootMargin: '-15% 0px -65% 0px', threshold: 0 });
+  for (const id of ['lugares', 'mapa', 'dicas', 'videos']) observer.observe(document.getElementById(id));
 }
 
 search.addEventListener('input', renderPlaces);
@@ -249,7 +280,9 @@ async function loadCatalog() {
     sources = data.fontes ?? [];
     assets = new Map((data.ativos ?? []).map(asset => [asset.id, asset]));
     const cover = document.querySelector('[data-asset]');
-    applyCatalogFigure(cover, assets.get(cover.dataset.asset));
+    const coverAsset = assets.get(cover.dataset.asset);
+    const coverPath = projectFile(coverAsset?.caminho);
+    if (coverPath) setCatalogImage(cover.querySelector('img'), coverAsset, coverPath);
     renderMap();
     renderPlaces();
     renderVideos(data.videos ?? [], data.artigos ?? []);

@@ -33,20 +33,20 @@ async function verify() {
     await page.locator('#spotlight a.spotlight-card').first().click();
     await page.locator('#article-dialog[open] #article-title').waitFor();
     assert.match(page.url(), /\/site\/blog\.html\?artigo=/);
-    await page.goto(origin + '/site/?artigo=caminhos');
+    await page.goto(origin + '/site/?artigo=roteiro-santarem');
     await page.locator('#article-dialog[open] #article-title').waitFor();
-    assert.match(page.url(), /\/site\/blog\.html\?artigo=caminhos$/);
+    assert.match(page.url(), /\/site\/blog\.html\?artigo=roteiro-santarem$/);
 
     await page.goto(origin + '/site/blog.html');
     const posts = page.locator('#post-list [data-post]');
     await posts.first().waitFor();
-    assert.equal(await posts.count(), 8);
+    assert.equal(await posts.count(), 5);
     const articleLinks = await posts.evaluateAll(links => links.map(link => link.href));
-    assert.equal(new Set(articleLinks).size, 8);
+    assert.equal(new Set(articleLinks).size, 5);
     assert.equal(await page.locator('#featured-posts .card').count(), 3);
-    assert.equal(await page.locator('#archive-posts .card').count(), 5);
+    assert.equal(await page.locator('#archive-posts .card').count(), 2);
     const coverImages = page.locator('#post-list .card-image img');
-    assert.equal(await coverImages.count(), 8);
+    assert.equal(await coverImages.count(), 5);
     for (const image of await coverImages.all()) {
       await image.scrollIntoViewIfNeeded();
       await image.evaluate(node => node.decode());
@@ -64,18 +64,17 @@ async function verify() {
       await page.goto(href);
       await page.locator('#article-dialog[open] #article-title').waitFor();
       assert.ok(await page.locator('#article-content ul a[href^="http"]').count() >= 1);
-      assert.ok(await page.locator('#article-content a[href*="youtube.com/watch"][href*="&t="]').count() >= 1);
       await page.keyboard.press('Escape');
       await page.waitForURL(url => !url.searchParams.has('artigo'));
     }
 
-    for (const href of articleLinks.slice(0, 3)) {
+    for (const href of articleLinks) {
       await page.goto(href);
       const article = page.locator('#article-dialog[open] #article-content');
       await article.waitFor();
-      assert.equal(await article.locator('.article-prose > section:not(.article-references)').count(), 4);
+      assert.equal(await article.locator('.article-prose > section:not(.article-references)').count(), 6);
       const figures = article.locator('figure');
-      assert.equal(await figures.count(), 2);
+      assert.equal(await figures.count(), 4);
       for (const figure of await figures.all()) {
         const image = figure.locator('img[alt]:not([alt=""])');
         await image.scrollIntoViewIfNeeded();
@@ -121,22 +120,6 @@ async function verify() {
     assert.match(await page.locator('#map-frame').getAttribute('title'), /Ilha do Amor/);
     assert.equal(await page.locator('#mapa a[href="#lugares"]').first().isVisible(), true);
     assert.ok(await places.count() > 1);
-
-    await page.route('**/data/base.json', async route => {
-      const response = await route.fetch();
-      const data = await response.json();
-      const videoId = data.artigos[0].video_id;
-      data.trechos = [...(data.trechos ?? []), { id: 'trecho-validacao', inicio_ms: 12000, video_id: videoId }];
-      data.artigos[0].trecho_ids = ['trecho-validacao'];
-      await route.fulfill({ response, json: data });
-    });
-    const legacyLink = articleLinks.find(href => new URL(href).searchParams.get('artigo') === 'caminhos');
-    await page.goto(legacyLink);
-    await page.locator('#article-dialog[open] #article-title').waitFor();
-    const excerpt = page.locator('#article-content a[href*="t=12"]');
-    await excerpt.waitFor();
-    assert.match(await excerpt.textContent(), /0:12/);
-    await page.unroute('**/data/base.json');
 
     await page.route('**/data/base.json', route => route.abort());
     await page.goto(origin + '/site/blog.html');
