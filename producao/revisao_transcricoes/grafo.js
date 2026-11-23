@@ -88,7 +88,7 @@ class TagGraph {
   }
 
   setView(focus, mode, minimum, changedData, center) {
-    const changedScope = this.mode !== mode || (mode === 'near' && (this.focus !== focus || this.minimum !== minimum));
+    const changedScope = this.mode !== mode || this.minimum !== minimum || (mode === 'near' && this.focus !== focus);
     this.focus = focus;
     this.mode = mode;
     this.minimum = minimum;
@@ -106,7 +106,9 @@ class TagGraph {
       degrees.set(edge.b, (degrees.get(edge.b) || 0) + 1);
     }
     this.visible = { nodes, edges, bands, degrees, maxDegree:Math.max(1, ...degrees.values()) };
-    if (changedData) {
+    if (changedData || changedScope) {
+      for (const node of nodes) { node.pinned = false; node.vx = node.vy = 0; }
+      if (subset) { central.x = central.y = 0; }
       const warmup = this.reducedMotion.matches ? 80 : 27;
       for (let i = 0; i < warmup; i++) this.step();
       this.steps = this.reducedMotion.matches ? 0 : 68;
@@ -146,8 +148,16 @@ class TagGraph {
     const maximum = nodes.length > 1 ? 1.8 : 1.15;
     const scale = Math.max(.025, Math.min(maximum,
       (this.width - pad) / Math.max(1, (right - left) * this.stretch), (this.height - 93) / Math.max(1, bottom - top)));
-    this.camera = { x:this.width / 2 - (left + right) * this.stretch * scale / 2,
-      y:(this.height - 25) / 2 - (top + bottom) * scale / 2, scale };
+    if (this.mode === 'near' && this.byId.has(this.focus)) {
+      const center = this.byId.get(this.focus);
+      const extentX = Math.max(1, ...nodes.map(node => Math.abs(node.x - center.x) * this.stretch));
+      const extentY = Math.max(1, ...nodes.map(node => Math.abs(node.y - center.y)));
+      const focusedScale = Math.max(.025, Math.min(maximum, (this.width - pad) / (2 * extentX), (this.height - 93) / (2 * extentY)));
+      this.camera = { x:this.width / 2 - center.x * this.stretch * focusedScale, y:this.height / 2 - center.y * focusedScale, scale:focusedScale };
+    } else {
+      this.camera = { x:this.width / 2 - (left + right) * this.stretch * scale / 2,
+        y:(this.height - 25) / 2 - (top + bottom) * scale / 2, scale };
+    }
     this.autoFit = true;
     this.clearHover();
     this.schedule();
@@ -171,7 +181,8 @@ class TagGraph {
   }
 
   step() {
-    const nodes = this.nodes;
+    const nodes = this.visible.nodes;
+    const central = this.mode === 'near' ? this.byId.get(this.focus) : null;
     for (let i = 0; i < nodes.length; i++) {
       const a = nodes[i];
       for (let j = i + 1; j < nodes.length; j++) {
@@ -186,7 +197,7 @@ class TagGraph {
         b.vy += dy * force;
       }
     }
-    for (const { a, b, length, pull } of this.edges) {
+    for (const { a, b, length, pull } of this.visible.edges) {
       const dx = b.x - a.x;
       const dy = b.y - a.y;
       const distance = Math.hypot(dx, dy) || 1;
@@ -201,6 +212,7 @@ class TagGraph {
         node.vx = node.vy = 0;
         continue;
       }
+      if (node === central) { node.x = node.y = node.vx = node.vy = 0; continue; }
       node.vx = Math.max(-21, Math.min(21, (node.vx - node.x * .008) * .72));
       node.vy = Math.max(-21, Math.min(21, (node.vy - node.y * .008) * .72));
       node.x += node.vx;
@@ -423,6 +435,7 @@ class TagGraph {
       drag.node.pinned = true;
       drag.node.x = (point.x + drag.dx - x) / (scale * this.stretch);
       drag.node.y = (point.y + drag.dy - y) / scale;
+      this.steps = Math.max(40, this.steps);
     } else {
       const origin = drag.moved ? previous : drag.start;
       this.camera.x += point.x - origin.x;
@@ -438,11 +451,14 @@ class TagGraph {
     const drag = this.gesture;
     this.gesture = null;
     this.clearHover();
-    if (cancelled || !drag) return;
+    if (drag?.node) drag.node.pinned = false;
+    if (cancelled || !drag) { this.schedule(); return; }
     if (!drag.moved) {
       this.onSelect(drag.node?.id || '');
-    } else if (drag.node && !this.reducedMotion.matches) {
-      this.steps = Math.max(26, this.steps);
+    } else if (drag.node) {
+      if (this.reducedMotion.matches) { for (let i = 0; i < 80; i++) this.step(); this.steps = 0; }
+      else this.steps = Math.max(80, this.steps);
+      if (this.mode === 'near') this.autoFit = true;
       this.schedule();
     }
   }
