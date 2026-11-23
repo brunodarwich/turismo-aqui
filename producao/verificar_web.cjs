@@ -87,7 +87,7 @@ async function verify() {
     }
 
     const ebook = await page.locator('footer a[href$=".pdf"]').getAttribute('href');
-    const video = await page.locator('footer a[href$=".webm"]').getAttribute('href');
+    const video = await page.locator('footer a:is([href$=".webm"], [href*=".webm?"])').getAttribute('href');
     for (const asset of [ebook, video]) {
       assert.equal((await page.request.head(new URL(asset, page.url()).href)).ok(), true);
     }
