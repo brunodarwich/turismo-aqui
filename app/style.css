@@ -195,13 +195,13 @@ body.ta { background: var(--ta-color-canvas); }
 .guide-nav a { display: inline-flex; align-items: center; gap: var(--ta-space-2); min-height: var(--ta-layout-target); padding: .6rem .85rem; border-radius: var(--ta-radius-pill); color: var(--ta-color-teal-active); font-size: var(--ta-text-small); font-weight: 700; text-decoration: none; }
 .guide-nav a:hover, .guide-nav a:focus-visible, .guide-nav a[aria-current="location"] { background: var(--ta-color-tint); }
 .guide-nav a[aria-current="location"] { box-shadow: inset 0 -3px var(--ta-color-lime); }
-.app-welcome { position: relative; overflow: hidden; min-height: 400px; margin-top: var(--ta-space-6); border-radius: var(--ta-radius-panel); background: var(--ta-color-teal-active); color: var(--ta-color-white); }
+.app-welcome { position: relative; overflow: hidden; min-height: 0; margin-top: var(--ta-space-6); border-radius: var(--ta-radius-panel); background: var(--ta-color-teal-active); color: var(--ta-color-white); }
 .app-welcome-media, .app-welcome-media img { position: absolute; inset: 0; width: 100%; height: 100%; }
 .app-welcome-media img { object-fit: cover; }
 .app-welcome-media::after { content: ''; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(19,76,87,.95), rgba(19,76,87,.65) 48%, rgba(19,76,87,.12)); }
 .app-welcome-media figcaption { position: absolute; z-index: 2; bottom: var(--ta-space-3); right: var(--ta-space-4); max-width: 65%; text-align: right; font-size: var(--ta-text-small); text-shadow: 0 1px 4px #000; }
 .app-welcome-media figcaption a { color: var(--ta-color-white); }
-.app-welcome-copy { position: relative; z-index: 1; max-width: 42rem; padding: clamp(2rem, 6vw, 4.5rem); }
+.app-welcome-copy { position: relative; z-index: 1; max-width: 42rem; padding: clamp(1.75rem, 3vw, 2.5rem) clamp(2rem, 6vw, 4.5rem); }
 .app-eyebrow, .app-section-label { display: block; font-size: var(--ta-text-small); font-weight: 750; letter-spacing: .08em; }
 .app-eyebrow { color: var(--ta-color-white); }
 .app-section-label { color: var(--ta-color-teal-active); }
@@ -230,8 +230,8 @@ body.ta { background: var(--ta-color-canvas); }
   .guide-nav a .ta-icon { width: 1.4rem; height: 1.4rem; }
   .guide-nav a:hover, .guide-nav a:focus-visible, .guide-nav a[aria-current="location"] { background: var(--ta-color-teal); color: var(--ta-color-white); }
   .guide-nav a:focus-visible { outline-color: var(--ta-color-white); outline-offset: -3px; }
-  .app-welcome { min-height: 340px; margin-top: var(--ta-space-4); border-radius: var(--ta-radius-card); }
-  .app-welcome-copy { padding: var(--ta-space-8) var(--ta-space-6) var(--ta-space-12); }
+  .app-welcome { min-height: 0; margin-top: var(--ta-space-4); border-radius: var(--ta-radius-card); }
+  .app-welcome-copy { padding: var(--ta-space-6); }
   .app-welcome h1 { max-width: 10ch; }
   .app-welcome-media::after { background: linear-gradient(90deg, rgba(19,76,87,.95), rgba(19,76,87,.58)); }
   .app-explore-layout { display: block; }
@@ -242,7 +242,6 @@ body.ta { background: var(--ta-color-canvas); }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
 @media (max-width: 35rem) {
   .place-visual { aspect-ratio: auto; min-width: 0; }
-  .app-welcome-copy { padding-bottom: 5rem; }
 }
 
 /* Dicas e vídeos: conteúdo essencial primeiro. */
