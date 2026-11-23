@@ -10,6 +10,7 @@
   <link rel="stylesheet" href="design-system/components.css">
   <link rel="stylesheet" href="site/style.css">
   <link rel="stylesheet" href="site/landing.css">
+  <link rel="stylesheet" href="site/central.css">
 </head>
 <body class="ta">
   <a class="skip ta-button ta-button--primary" href="#conteudo">Pular para o conteúdo</a>
@@ -30,7 +31,9 @@
   <main id="conteudo">
     <section class="hub-hero" aria-labelledby="hero-title">
       <div class="wrap hub-hero-content">
+        <p class="hub-kicker">Tudo em um só lugar</p>
         <h1 id="hero-title">Central <em>Turismo Aqui</em></h1>
+        <p class="hub-intro">Explore destinos, histórias e materiais do Turismo Aqui.</p>
         <div class="section-actions">
           <a class="ta-button ta-button--accent" href="site/">Abrir o site</a>
           <a class="ta-button ta-button--inverse" href="entregaveis/catalogo-visual/">Biblioteca de imagens</a>
@@ -39,24 +42,23 @@
       <figure class="hub-hero-media">
         <img src="entregaveis/catalogo-visual/imagens/PzeWRK_Xwyo/000870567.jpg"
              alt="Ponta de areia de Tucumã vista do alto, entre o rio Arapiuns e a vegetação" width="1920" height="1080" fetchpriority="high">
-        <figcaption><a href="https://www.youtube.com/watch?v=PzeWRK_Xwyo&amp;t=870s">Ponta do Tucumã · Turismo Aqui, 14:30</a></figcaption>
       </figure>
     </section>
 
     <section id="produtos" class="hub-section wrap" aria-labelledby="produtos-titulo">
-      <h2 id="produtos-titulo">Explore</h2>
+      <h2 id="produtos-titulo">Por onde começar</h2>
       <div class="hub-grid">
         <a class="ta-card hub-card" href="site/">
-          <img src="entregaveis/central/site.webp" alt="" width="640" height="320" decoding="async">
-          <h3>Site Turismo Aqui</h3>
+          <img class="hub-icon" src="design-system/assets/central-site.svg" alt="" width="48" height="48">
+          <div class="hub-card-copy"><h3>Site Turismo Aqui</h3><span class="hub-card-description">Conheça o projeto e seus destinos.</span></div>
         </a>
         <a class="ta-card hub-card" href="site/blog.html">
-          <img src="entregaveis/central/blog.webp" alt="" width="640" height="320" decoding="async">
-          <h3>Blog</h3>
+          <img class="hub-icon" src="design-system/assets/central-blog.svg" alt="" width="48" height="48">
+          <div class="hub-card-copy"><h3>Blog</h3><span class="hub-card-description">Leia histórias e dicas da região.</span></div>
         </a>
         <a class="ta-card hub-card" href="app/">
-          <img src="entregaveis/central/app.webp" alt="" width="640" height="320" decoding="async">
-          <h3>App de destinos</h3>
+          <img class="hub-icon" src="design-system/assets/central-mapa.svg" alt="" width="48" height="48">
+          <div class="hub-card-copy"><h3>App de destinos</h3><span class="hub-card-description">Encontre lugares para visitar.</span></div>
         </a>
       </div>
     </section>
@@ -65,16 +67,16 @@
       <h2 id="acervo-titulo">Acervo editorial</h2>
       <div class="hub-grid">
         <a class="ta-card hub-card" href="entregaveis/catalogo-visual/">
-          <img src="entregaveis/central/imagens.webp" alt="" width="640" height="320" loading="lazy" decoding="async">
-          <h3>Biblioteca de imagens</h3>
+          <img class="hub-icon" src="design-system/assets/central-imagem.svg" alt="" width="48" height="48">
+          <div class="hub-card-copy"><h3>Biblioteca de imagens</h3><span class="hub-card-description">Busque fotos e quadros dos vídeos.</span></div>
         </a>
         <a class="ta-card hub-card" href="entregaveis/transcricoes-revisadas/painel.html">
-          <img src="entregaveis/central/transcricoes.webp" alt="" width="640" height="320" loading="lazy" decoding="async">
-          <h3>Painel de transcrições</h3>
+          <img class="hub-icon" src="design-system/assets/central-texto.svg" alt="" width="48" height="48">
+          <div class="hub-card-copy"><h3>Painel de transcrições</h3><span class="hub-card-description">Pesquise falas e temas do canal.</span></div>
         </a>
         <a class="ta-card hub-card" href="data/acervo/canal-turismo-aqui/catalogo.md">
-          <img src="entregaveis/central/catalogo.webp" alt="" width="640" height="320" loading="lazy" decoding="async">
-          <h3>Catálogo do canal</h3>
+          <img class="hub-icon" src="design-system/assets/central-video.svg" alt="" width="48" height="48">
+          <div class="hub-card-copy"><h3>Catálogo do canal</h3><span class="hub-card-description">Consulte os vídeos e suas informações.</span></div>
         </a>
       </div>
       <details class="hub-details">
@@ -96,22 +98,22 @@
       <h2 id="materiais-titulo">Materiais</h2>
       <div class="hub-grid">
         <a class="ta-card hub-card" href="entregaveis/guia-alter-do-chao-prototipo.pdf">
-          <img src="entregaveis/central/ebook.webp" alt="" width="640" height="320" loading="lazy" decoding="async">
-          <h3>Guia de Alter do Chão</h3>
+          <img class="hub-icon" src="design-system/assets/central-guia.svg" alt="" width="48" height="48">
+          <div class="hub-card-copy"><h3>Guia de Alter do Chão</h3><span class="hub-card-description">Planeje sua visita com o guia em PDF.</span></div>
           <span class="hub-card-meta">PDF</span>
         </a>
         <a class="ta-card hub-card" href="entregaveis/guia-alter.webm?v=161e4bc1d53f">
-          <img src="entregaveis/central/video.webp?v=90009c8536bb" alt="" width="640" height="320" loading="lazy" decoding="async">
-          <h3>Vídeo do guia</h3>
+          <img class="hub-icon" src="design-system/assets/central-video.svg" alt="" width="48" height="48">
+          <div class="hub-card-copy"><h3>Vídeo do guia</h3><span class="hub-card-description">Assista ao guia em vídeo.</span></div>
         </a>
         <a class="ta-card hub-card" href="entregaveis/redes-sociais/">
-          <img src="entregaveis/central/redes.webp" alt="" width="640" height="320" loading="lazy" decoding="async">
-          <h3>Peças para redes sociais</h3>
+          <img class="hub-icon" src="design-system/assets/central-imagem.svg" alt="" width="48" height="48">
+          <div class="hub-card-copy"><h3>Peças para redes sociais</h3><span class="hub-card-description">Acesse as peças prontas para compartilhar.</span></div>
           <span class="hub-card-meta">10 imagens</span>
         </a>
         <a id="corte-catraieiros" class="ta-card hub-card" href="entregaveis/corte-turismo-aqui/de-catraia-a-ilha-do-amor-60s.mp4">
-          <img src="entregaveis/central/corte-catraieiros.webp?v=2" alt="" width="640" height="320" loading="lazy" decoding="async">
-          <h3>De catraia à Ilha do Amor</h3>
+          <img class="hub-icon" src="design-system/assets/central-video.svg" alt="" width="48" height="48">
+          <div class="hub-card-copy"><h3>De catraia à Ilha do Amor</h3><span class="hub-card-description">Conheça a travessia até a Ilha do Amor.</span></div>
           <span class="hub-card-meta">Vídeo · 1 min</span>
         </a>
       </div>
@@ -146,16 +148,16 @@
       <h2 id="documentacao-titulo">Design e documentação</h2>
       <div class="hub-grid">
         <a class="ta-card hub-card" href="design-system/">
-          <img src="entregaveis/central/design.webp" alt="" width="640" height="320" loading="lazy" decoding="async">
-          <h3>Design system oficial</h3>
+          <img class="hub-icon" src="design-system/assets/central-design.svg" alt="" width="48" height="48">
+          <div class="hub-card-copy"><h3>Design system oficial</h3><span class="hub-card-description">Consulte a identidade e os componentes.</span></div>
         </a>
         <a class="ta-card hub-card" href="docs/OPERACAO_EDITORIAL.md">
-          <img src="entregaveis/central/operacao.webp" alt="" width="640" height="320" loading="lazy" decoding="async">
-          <h3>Operação editorial</h3>
+          <img class="hub-icon" src="design-system/assets/central-texto.svg" alt="" width="48" height="48">
+          <div class="hub-card-copy"><h3>Operação editorial</h3><span class="hub-card-description">Veja como organizar e atualizar o acervo.</span></div>
         </a>
         <a class="ta-card hub-card" href="data/PESQUISA_E_PROCEDENCIA.md">
-          <img src="entregaveis/central/pesquisa.webp" alt="" width="640" height="320" loading="lazy" decoding="async">
-          <h3>Pesquisa e procedência</h3>
+          <img class="hub-icon" src="design-system/assets/central-guia.svg" alt="" width="48" height="48">
+          <div class="hub-card-copy"><h3>Pesquisa e procedência</h3><span class="hub-card-description">Consulte as fontes e a pesquisa do projeto.</span></div>
         </a>
       </div>
       <details class="hub-details">

@@ -1,0 +1,33 @@
+/* Central: quick navigation with compact, illustrated destinations. */
+.site-nav { padding-block: .35rem; }
+.brand img { width: 67px; }
+.hub-hero { min-height: 17rem; }
+.hub-hero-content { padding-block: 2.5rem; }
+.hub-hero h1 { font-size: clamp(2.6rem, 5vw, 4rem); }
+.hub-hero h1 em { display: inline; }
+.hub-kicker { margin-bottom: .55rem; color: #d5e77a; font-size: .8rem; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; }
+.hub-intro { max-width: 32rem; margin: .8rem 0 1.2rem; font-size: 1.05rem; line-height: 1.45; }
+.hub-section { padding-block: 2rem; }
+.hub-section > h2 { margin-bottom: 1rem; font-size: clamp(1.7rem, 3vw, 2.2rem); }
+.hub-grid { gap: .75rem; }
+.hub-card { display: flex; align-items: center; gap: .85rem; min-width: 0; padding: 1rem; }
+.hub-card > .hub-icon { flex: 0 0 3rem; width: 3rem; height: 3rem; padding: .45rem; box-sizing: border-box; border-radius: .7rem; background: #e5f2ef; }
+.hub-card-copy { flex: 1; min-width: 0; }
+.hub-card h3, .hub-card:has(.hub-card-meta) h3 { padding: 0; font-size: 1.15rem; }
+.hub-card-description { display: block; margin-top: .3rem; color: #496260; font-size: .9rem; line-height: 1.35; }
+.hub-card-meta { padding: 0; font-size: .75rem; white-space: nowrap; }
+.hub-details { margin-top: .75rem; }
+@media (max-width: 700px) {
+  .site-nav { align-items: center; gap: .5rem; }
+  .brand img { width: 53px; }
+  .site-nav nav { justify-content: flex-end; gap: .1rem .8rem; }
+  .nav-link { min-height: 2rem; font-size: .8rem; }
+  .hub-hero { min-height: 0; }
+  .hub-hero-content { padding-block: 2.5rem; }
+  .hub-hero h1 em { display: block; }
+  .hub-grid { grid-template-columns: 1fr; }
+  .hub-card { display: flex; padding: .85rem; }
+  .hub-card > .hub-icon { width: 3rem; height: 3rem; }
+  .hub-card h3, .hub-card:has(.hub-card-meta) h3 { padding: 0; }
+  .hub-card-meta { padding: 0; }
+}
